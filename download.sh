@@ -75,6 +75,11 @@ fi
 CURRENT_DIR="$(pwd)"
 FULL_PATH="${CURRENT_DIR}/${FILENAME}"
 
+# Tidy up unneeded data
+if [ "$EXTENSION" = ".html" ]; then
+  sed -i -E 's/ nonce="[a-zA-Z0-9/=+-]+"/ nonce="STATIC_NONCE"/g' "$TEMP_FILE"
+fi
+
 # Pretty-print JSON if applicable
 if [ "$EXTENSION" = ".json" ]; then
   # Create another temporary file for the pretty-printed version
