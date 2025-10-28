@@ -30,28 +30,32 @@ fi
 
 echo "Starting to scrape details for each merger (parallel mode with $PARALLEL_JOBS jobs)..."
 
-# 3. Use parallel to process mergers concurrently
-jq --compact-output '.[]' "$INPUT_FILE" | \
-  parallel -j "$PARALLEL_JOBS" --keep-order --line-buffer '
-    merger_json={}
-    url=$(echo "$merger_json" | jq -r ".link")
+# 3. Define the scraping function
+scrape_merger() {
+    local merger_json="$1"
+    local url
+    
+    url=$(echo "$merger_json" | jq -r '.link')
     
     if [ -z "$url" ] || [ "$url" = "null" ]; then
-      echo "$merger_json" | jq ". + {details: {}}"
-      exit 0
+        echo "$merger_json" | jq '. + {details: {}}'
+        return 0
     fi
 
     echo "Scraping details from $url..." >&2
 
-    html_content=$(curl -s -L -A "'"$USER_AGENT"'" "$url") || {
-      echo "Warning: Failed to download URL: $url" >&2
-      echo "$merger_json" | jq ". + {details: {}}"
-      exit 0
+    local html_content
+    html_content=$(curl -s -L -A "$USER_AGENT" "$url") || {
+        echo "Warning: Failed to download URL: $url" >&2
+        echo "$merger_json" | jq '. + {details: {}}'
+        return 0
     }
 
-    pup_output=$(echo "$html_content" | pup "body json{}")
+    local pup_output
+    pup_output=$(echo "$html_content" | pup 'body json{}')
 
-    details_json=$(echo "$pup_output" | jq -s '\''
+    local details_json
+    details_json=$(echo "$pup_output" | jq -s '
         .[0] |
 
         def get_case_details:
@@ -78,15 +82,23 @@ jq --compact-output '.[]' "$INPUT_FILE" | \
           "case_details": (get_case_details // {}),
           "updates": (get_updates // [])
         }
-    '\'' 2>&1)
+    ' 2>&1)
 
     if ! echo "$details_json" | jq empty 2>/dev/null; then
         echo "Warning: Invalid or empty JSON extracted for $url" >&2
-        echo "$merger_json" | jq ". + {details: {}}"
-        exit 0
+        echo "$merger_json" | jq '. + {details: {}}'
+        return 0
     fi
 
-    echo "$merger_json" | jq --argjson details "$details_json" ". + {details: \$details}"
-  ' | jq -s '.' > "$OUTPUT_FILE"
+    echo "$merger_json" | jq --argjson details "$details_json" '. + {details: $details}'
+}
+
+export -f scrape_merger
+export USER_AGENT
+
+# 4. Process mergers in parallel
+jq --compact-output '.[]' "$INPUT_FILE" | \
+  parallel -j "$PARALLEL_JOBS" --keep-order --line-buffer scrape_merger | \
+  jq -s '.' > "$OUTPUT_FILE"
 
 echo "Success! Detailed data has been added to $OUTPUT_FILE"
