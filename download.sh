@@ -53,7 +53,7 @@ RAW_JSON=$(pup -f "$TEMP_FILE" 'div.card.card--has-link' '{
     "link_relative": "a.card__link attr{href}",
     "status": "div.card__status text{}",
     "tag": "div.card__tag text{}",
-    "info_details": ["div.card__info-detail text{}"]
+    "info_details": ["div.card__info-detail text"]
 }')
 
 echo "Processing, cleaning, and sorting data..."
