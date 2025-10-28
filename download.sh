@@ -46,13 +46,12 @@ curl -s -L -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHT
 BASE_URL=$(echo "$URL" | awk -F/ '{print $1"//"$3}')
 
 echo "Parsing HTML and extracting merger cases..."
-# 5. Use pup to parse HTML. We extract all "info details"
-#    into a temporary array that will be processed by jq.
+# 5. Use pup to parse HTML.
 RAW_JSON=$(pup -f "$TEMP_FILE" 'div.card.card--has-link' '{
-    "name": "a.card__link text{}",
+    "name": "a.card__link text",
     "link_relative": "a.card__link attr{href}",
-    "status": "div.card__status text{}",
-    "tag": "div.card__tag text{}",
+    "status": "div.card__status text",
+    "tag": "div.card__tag text",
     "info_details": ["div.card__info-detail text"]
 }')
 
