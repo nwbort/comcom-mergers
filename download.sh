@@ -37,7 +37,7 @@ TEMP_FILE=$(mktemp)
 trap 'rm -f "$TEMP_FILE"' EXIT
 
 echo "Downloading HTML from $URL..."
-curl -s -L -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" "$URL" -o "$TEMP_FILE" || {
+curl -s -L -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/5.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" "$URL" -o "$TEMP_FILE" || {
   echo "Error: Failed to download URL: $URL" >&2
   exit 1
 }
@@ -45,45 +45,50 @@ curl -s -L -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHT
 # 4. Determine the base URL for constructing absolute links
 BASE_URL=$(echo "$URL" | awk -F/ '{print $1"//"$3}')
 
-echo "Parsing HTML and extracting merger cases..."
-# 5. Use pup to parse HTML.
-RAW_JSON=$(pup -f "$TEMP_FILE" 'div.card.card--has-link json{
-    "name": "a.card__link text",
-    "link_relative": "a.card__link attr{href}",
-    "status": "div.card__status text",
-    "tag": "div.card__tag text",
-    "info_details": ["div.card__info-detail text"]
-}')
+echo "Parsing HTML into intermediate JSON..."
+# 5. Use pup to convert each card into a structured JSON object.
+#    This creates a JSON array where each object is a machine-readable
+#    version of a card's HTML structure. This is the intermediate step.
+INTERMEDIATE_JSON=$(pup -f "$TEMP_FILE" 'div.card.card--has-link json{}')
 
-echo "Processing, cleaning, and sorting data..."
-# 6. Use jq to process the raw JSON.
-FINAL_JSON=$(echo "$RAW_JSON" | jq '
-  # Helper function to extract a value from the info_details array by its title.
-  # It finds the line containing the title, removes the title, and trims whitespace.
+echo "Transforming intermediate JSON into final format..."
+# 6. Use jq to parse the intermediate JSON and build the final, clean output.
+FINAL_JSON=$(echo "$INTERMEDIATE_JSON" | jq '
+  # Helper function to find a node by tag/class and get its text.
+  # `..` is a recursive search, `?` prevents errors on missing keys.
+  def find_text($tag; $class):
+    .. | select(.tag? == $tag and (.class? | contains($class))) | .text? // null;
+
+  # Helper function to find a node and get an attribute.
+  def find_attr($tag; $class; $attr):
+    .. | select(.tag? == $tag and (.class? | contains($class))) | ."\($attr)"? // null;
+
+  # Helper function to extract a value from the "info_details" text blob.
   def get_info_value($title):
-    .info_details
-    | map(select(. | contains($title)))
-    | .[0] // null
-    | (if . then sub(".*" + $title; "") | sub("^\\s+|\\s+$"; "") else null end);
+      # Find all info-detail nodes, get their text
+      [.. | select(.tag? == "div" and .class? | contains("card__info-detail")) | .text?]
+      # Find the first line that contains the title
+      | map(select(. | contains($title))) | .[0] // null
+      # If found, remove the title and trim whitespace
+      | (if . then sub(".*" + $title; "") | sub("^\\s+|\\s+$"; "") else null end);
 
+  # Main transformation logic for each card
   map(
-    # Extract outcome and date using the helper function
+    .name = find_text("a"; "card__link") |
+    .link_relative = find_attr("a"; "card__link"; "href") |
+    .status = find_text("div"; "card__status") |
+    .tag = find_text("div"; "card__tag") |
     .outcome = get_info_value("Outcome:") |
     .date = get_info_value("Date Closed:") |
-    del(.info_details) | # Clean up the temporary array
 
-    # Clean up leading/trailing whitespace from other fields
-    .name |= (sub("^\\s+|\\s+$"; "") | sub("\\s+"; " ")) |
-    .status |= (sub("^\\s+|\\s+$"; "")) |
-    .tag |= (sub("^\\s+|\\s+$"; "")) |
-
-    # Create a full, absolute link
+    # Create the full link
     .link = "'"$BASE_URL"'" + .link_relative |
-    del(.link_relative) |
 
-    # Create a temporary, sortable date field (YYYY-MM-DD).
-    # Cases with no date get `null`, which jq sorts first (ideal for open cases).
-    .sort_date = (if .date then (.date | strptime("%d %B %Y") | strftime("%Y-%m-%d")) else null end)
+    # Create a temporary, sortable date field (YYYY-MM-DD)
+    .sort_date = (if .date then (.date | strptime("%d %B %Y") | strftime("%Y-%m-%d")) else null end) |
+
+    # Remove intermediate and redundant fields to create the clean object
+    del(.tag, .text, .children, .class, .link_relative)
   ) |
   # Sort by the standardized date (ascending), then by name (ascending)
   sort_by(.sort_date, .name) |
