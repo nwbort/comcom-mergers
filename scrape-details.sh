@@ -31,7 +31,10 @@ fi
 echo "Starting to scrape details for each merger..."
 
 # 3. Use jq to iterate over each merger, scrape details, and add them.
-jq --compact-output '.[:5][]' "$INPUT_FILE" | while IFS= read -r merger_json; do
+jq --compact-output '.[][]' "$INPUT_FILE" | while IFS= read -r merger_json; do
+    # Note: I changed the jq filter above to '.[]' to handle a potential array of arrays. 
+    # Adjust to '.[]' if your mergers.json is a single flat array.
+    
     url=$(echo "$merger_json" | jq -r '.link')
     
     if [ -z "$url" ] || [ "$url" = "null" ]; then
@@ -48,14 +51,10 @@ jq --compact-output '.[:5][]' "$INPUT_FILE" | while IFS= read -r merger_json; do
         continue
     }
 
-    echo "DEBUG: Downloaded HTML, length: ${#html_content}" >&2
-
-    # Test pup output first
+    # Use pup to convert the HTML body to JSON
     pup_output=$(echo "$html_content" | pup 'body json{}')
-    echo "DEBUG: pup output length: ${#pup_output}" >&2
-    echo "DEBUG: pup output first 500 chars: ${pup_output:0:500}" >&2
 
-    # Save first case for debugging
+    # Save first case for debugging if needed
     if [ "$FIRST_RUN" = true ]; then
         echo "$pup_output" > westpac-pup-output.json
         echo "DEBUG: Saved Westpac pup output to westpac-pup-output.json" >&2
@@ -65,69 +64,46 @@ jq --compact-output '.[:5][]' "$INPUT_FILE" | while IFS= read -r merger_json; do
     # Use pup and jq to extract all required details
     details_json=$(echo "$pup_output" | jq -s '
         .[0] | # Work with the first element of the slurped array
-        # Helper function to find text of a node by its class
-        def find_text($class): .. | select(.tag? and (.class? // "" | contains($class))) | .text?;
 
-        # Helper function to find an attribute of a node by its class
-        def find_attr($class; $attr): .. | select(.tag? and (.class? // "" | contains($class))) | ."\($attr)"?;
-
-        # Function to extract the key-value pairs from the <dl> list
+        # 1. Function to extract the key-value pairs from the new div structure
         def get_case_details:
-            (.. | select(.tag? == "dl") | .children? // []) as $children |
             [
-                # Get the indices of all <dt> elements
-                [foreach range(0; $children | length) as $i (null; if $children[$i].tag == "dt" then $i else empty end)] as $dt_indices |
-                # For each <dt> index, create a key-value object
-                foreach range(0; $dt_indices | length) as $k (null;
-                    {
-                        key: ($children[$dt_indices[$k]].text | rtrimstr(":") | gsub(" "; "_") | ascii_downcase),
-                        value: (
-                            # Get all <dd> elements between this <dt> and the next one
-                            $children[($dt_indices[$k] + 1) : ($dt_indices[$k+1]? // null)] |
-                            map(select(.tag == "dd") | .text) | join("\n")
-                        )
-                    }
-                )
-            ] | from_entries; # Convert the array of {key,value} objects into a single JSON object
+                .. | select(.class? and .class == "case-details__record") | {
+                    # Create a key from the title div text
+                    key: (.children[]? | select(.class? and .class == "case-details__record-title") | .text // "" | rtrimstr(":") | gsub(" "; "_") | ascii_downcase),
+                    # Create a value from the value div text
+                    value: (.children[]? | select(.class? and .class == "case-details__record-value") | .text? // "")
+                } | select(.key != "") # Filter out any empty keys
+            ] | from_entries;
 
-        # Function to extract the list of updates
+        # 2. Function to extract the updates from the embedded JSON data island
         def get_updates:
-            [.. | select(.tag? and (.class? // "" | contains("case-register-update"))) | {
-                date: find_text("case-register-update__date"),
-                title: find_text("case-register-update__title"),
-                document_link_relative: find_attr("a.case-register-update__document"; "href"),
-                document_title: find_text("a.case-register-update__document")
-            }];
+            (
+                # Find the special tag that holds the data
+                .. | select(.tag? == "" and .project?) | .project
+                # Decode the HTML entities to make it a valid JSON string
+                | gsub("&#34;"; "\"") # Decode quotes
+                | gsub("&amp;"; "&")   # Decode ampersands
+                # Parse the now-valid JSON string
+                | fromjson
+            # Select the "timeline" array from the resulting object. Can also get ".documents" or ".media"
+            ) | .timeline;
 
-        # Assemble the final details object
+
+        # 3. Function to get the main description text
+        def get_description:
+            .. | select(.class? and .class == "content-block__content") | .text?;
+
+        # 4. Assemble the final details object
         {
-          "description": (.. | select(.tag? and .class? == "prose") | .text? // ""),
-          "case_details": get_case_details,
-          "updates": get_updates
+          "description": (get_description // ""),
+          "case_details": (get_case_details // {}),
+          "updates": (get_updates // [])
         }
-    ' 2>&1) 
+    ' 2>&1)
 
-    echo "DEBUG: details_json length: ${#details_json}" >&2
-    echo "DEBUG: details_json content: '$details_json'" >&2
-
-    # Check if details_json is empty or whitespace
-    if [ -z "$details_json" ] || [ -z "$(echo "$details_json" | tr -d '[:space:]')" ]; then
-        echo "Warning: Empty details extracted for $url" >&2
-        echo "$merger_json" | jq '. + {details: {}}'
-        continue
-    fi
-
-    # Validate details_json before using it
+    # Check if details_json is empty or invalid
     if ! echo "$details_json" | jq empty 2>/dev/null; then
-        echo "Warning: Invalid JSON extracted for $url" >&2
+        echo "Warning: Invalid or empty JSON extracted for $url" >&2
         echo "DEBUG: Full details_json: $details_json" >&2
-        echo "$merger_json" | jq '. + {details: {}}'
-        continue
-    fi
-
-    # Add the extracted 'details' object to the original merger JSON
-    echo "$merger_json" | jq --argjson details "$details_json" '. + {details: $details}'
-
-done | jq -s '.' > "$OUTPUT_FILE"
-
-echo "Success! Detailed data has been added to $OUTPUT_FILE"
+        echo "$merger_json" | jq '. + {d
