@@ -65,7 +65,7 @@ FINAL_JSON=$(echo "$INTERMEDIATE_JSON" | jq '
       # Find all info-detail nodes, get their text
       [.. | select(.tag? == "div" and ((.class? // "") | contains("card__info-detail"))) | .text?]
       # Find the first line that contains the title
-      | map(select(. | contains($title))) | .[0] // null
+      | map(select(. and contains($title))) | .[0] // null
       # If found, remove the title and trim whitespace
       | (if . then sub(".*" + $title; "") | sub("^\\s+|\\s+$"; "") else null end);
 
