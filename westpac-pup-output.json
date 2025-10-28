@@ -1,0 +1,3164 @@
+[
+ {
+  "children": [
+   {
+    "tag": "noscript",
+    "text": "\u0026lt;iframe src=\u0026#34;https://www.googletagmanager.com/ns.html?id=GTM-5D7NLGB8\u0026#34;\nheight=\u0026#34;0\u0026#34; width=\u0026#34;0\u0026#34; style=\u0026#34;display:none;visibility:hidden\u0026#34;\u0026gt;\u0026lt;/iframe\u0026gt;"
+   },
+   {
+    "children": [
+     {
+      "children": [
+       {
+        "children": [
+         {
+          "class": "skip-to-main__link",
+          "href": "/case-register/case-register-entries/westpac-banking-corporation/#main-content",
+          "tag": "a",
+          "text": "Skip to main content"
+         }
+        ],
+        "class": "skip-to-main",
+        "tag": "div"
+       },
+       {
+        "children": [
+         {
+          "children": [
+           {
+            "children": [
+             {
+              "children": [
+               {
+                "alt": "Commerce Commission",
+                "class": "nav__logo",
+                "src": "/_resources/themes/app/images/logo.webp?m=1761615675",
+                "tag": "img"
+               }
+              ],
+              "class": "nav__logo-link",
+              "href": "/",
+              "tag": "a"
+             }
+            ],
+            "class": "nav__left",
+            "tag": "div"
+           },
+           {
+            "children": [
+             {
+              "action": "/case-register/case-register-entries/westpac-banking-corporation/searchRedirect/",
+              "children": [
+               {
+                "aria-hidden": "true",
+                "class": "material-symbols-outlined nav__search-icon",
+                "tag": "span",
+                "text": "search"
+               },
+               {
+                "aria-label": "Search",
+                "class": "nav__search-input",
+                "name": "q",
+                "placeholder": "Search...",
+                "required": "",
+                "tag": "input",
+                "type": "text"
+               }
+              ],
+              "class": "nav__search",
+              "method": "get",
+              "tag": "form"
+             }
+            ],
+            "class": "nav__right-top",
+            "tag": "div"
+           },
+           {
+            "children": [
+             {
+              "@keydown.esc": "setActiveMainNavItem(0)",
+              "children": [
+               {
+                "children": [
+                 {
+                  ":aria-expanded": "activeMainNavItem === 1",
+                  ":class": "{ \u0026#39;nav__link--active\u0026#39;: activeMainNavItem === 1 }",
+                  "@click": "setActiveMainNavItem(1)",
+                  "children": [
+                   {
+                    "class": "nav__link-text",
+                    "tag": "span",
+                    "text": "Consumers"
+                   },
+                   {
+                    "aria-hidden": "true",
+                    "class": "material-symbols-outlined nav__expand-icon",
+                    "tag": "span",
+                    "text": "expand_more"
+                   }
+                  ],
+                  "class": "nav__link",
+                  "tag": "button"
+                 }
+                ],
+                "class": "nav__list-item",
+                "tag": "li"
+               },
+               {
+                "@focusin": "activateCloseOnFocusOutside",
+                "children": [
+                 {
+                  "children": [
+                   {
+                    "children": [
+                     {
+                      "children": [
+                       {
+                        "class": "nav__link-text",
+                        "tag": "span",
+                        "text": "Consumers"
+                       }
+                      ],
+                      "class": "nav__dropdown-link h4",
+                      "href": "/consumers/",
+                      "tag": "a"
+                     }
+                    ],
+                    "class": "nav__dropdown-title col-4",
+                    "tag": "div"
+                   },
+                   {
+                    "children": [
+                     {
+                      "children": [
+                       {
+                        "class": "nav__child-link",
+                        "href": "/consumers/how-the-commission-helps/",
+                        "tag": "a",
+                        "text": "How the Commission helps"
+                       }
+                      ],
+                      "class": "nav__child-item",
+                      "tag": "li"
+                     },
+                     {
+                      "children": [
+                       {
+                        "class": "nav__child-link",
+                        "href": "/consumers/your-rights-as-a-consumer/",
+                        "tag": "a",
+                        "text": "Your rights as a consumer"
+                       }
+                      ],
+                      "class": "nav__child-item",
+                      "tag": "li"
+                     },
+                     {
+                      "children": [
+                       {
+                        "class": "nav__child-link",
+                        "href": "/consumers/dealing-with-typical-situations/",
+                        "tag": "a",
+                        "text": "Dealing with typical situations"
+                       }
+                      ],
+                      "class": "nav__child-item",
+                      "tag": "li"
+                     },
+                     {
+                      "children": [
+                       {
+                        "class": "nav__child-link",
+                        "href": "/consumers/product-safety-and-consumer-information-standards/",
+                        "tag": "a",
+                        "text": "Product safety and consumer information standards"
+                       }
+                      ],
+                      "class": "nav__child-item",
+                      "tag": "li"
+                     },
+                     {
+                      "children": [
+                       {
+                        "class": "nav__child-link",
+                        "href": "/business/consumer-reports/",
+                        "tag": "a",
+                        "text": "Consumer reports"
+                       }
+                      ],
+                      "class": "nav__child-item",
+                      "tag": "li"
+                     },
+                     {
+                      "children": [
+                       {
+                        "class": "nav__child-link",
+                        "href": "/consumers/resources-for-consumer-organisations/",
+                        "tag": "a",
+                        "text": "Resources for consumer advisory sector"
+                       }
+                      ],
+                      "class": "nav__child-item",
+                      "tag": "li"
+                     },
+                     {
+                      "children": [
+                       {
+                        "class": "nav__child-link",
+                        "href": "/consumers/compare-customer-service-for-mobile-and-broadband-providers/",
+                        "tag": "a",
+                        "text": "Compare providers for the best mobile and broadband customer service"
+                       }
+                      ],
+                      "class": "nav__child-item",
+                      "tag": "li"
+                     },
+                     {
+                      "children": [
+                       {
+                        "class": "nav__child-link",
+                        "href": "/consumers/compare-providers-for-the-best-mobile-and-broadband-bills/",
+                        "tag": "a",
+                        "text": "Compare providers for the best mobile and broadband bills"
+                       }
+                      ],
+                      "class": "nav__child-item",
+                      "tag": "li"
+                     }
+                    ],
+                    "class": "nav__children col-8",
+                    "tag": "ul"
+                   }
+                  ],
+                  "class": "row nav__dropdown-wrapper",
+                  "tag": "div"
+                 }
+                ],
+                "class": "nav__dropdown-menu container",
+                "ref": "dropdown",
+                "tag": "li",
+                "v-cloak": "",
+                "v-if": "activeMainNavItem === 1"
+               },
+               {
+                "children": [
+                 {
+                  ":aria-expanded": "activeMainNavItem === 2",
+                  ":class": "{ \u0026#39;nav__link--active\u0026#39;: activeMainNavItem === 2 }",
+                  "@click": "setActiveMainNavItem(2)",
+                  "children": [
+                   {
+                    "class": "nav__link-text",
+                    "tag": "span",
+                    "text": "Business"
+                   },
+                   {
+                    "aria-hidden": "true",
+                    "class": "material-symbols-outlined nav__expand-icon",
+                    "tag": "span",
+                    "text": "expand_more"
+                   }
+                  ],
+                  "class": "nav__link",
+                  "tag": "button"
+                 }
+                ],
+                "class": "nav__list-item",
+                "tag": "li"
+               },
+               {
+                "@focusin": "activateCloseOnFocusOutside",
+                "children": [
+                 {
+                  "children": [
+                   {
+                    "children": [
+                     {
+                      "children": [
+                       {
+                        "class": "nav__link-text",
+                        "tag": "span",
+                        "text": "Business"
+                       }
+                      ],
+                      "class": "nav__dropdown-link h4",
+                      "href": "/business/",
+                      "tag": "a"
+                     }
+                    ],
+                    "class": "nav__dropdown-title col-4",
+                    "tag": "div"
+                   },
+                   {
+                    "children": [
+                     {
+                      "children": [
+                       {
+                        "class": "nav__child-link",
+                        "href": "/business/the-commissions-role/",
+                        "tag": "a",
+                        "text": "The Commission\u0026#39;s role"
+                       }
+                      ],
+                      "class": "nav__child-item",
+                      "tag": "li"
+                     },
+                     {
+                      "children": [
+                       {
+                        "class": "nav__child-link",
+                        "href": "/business/your-obligations-as-a-business/",
+                        "tag": "a",
+                        "text": "Your obligations as a business"
+                       }
+                      ],
+                      "class": "nav__child-item",
+                      "tag": "li"
+                     },
+                     {
+                      "children": [
+                       {
+                        "class": "nav__child-link",
+                        "href": "/business/your-rights-as-a-business/",
+                        "tag": "a",
+                        "text": "Your rights as a business"
+                       }
+                      ],
+                      "class": "nav__child-item",
+                      "tag": "li"
+                     },
+                     {
+                      "children": [
+                       {
+                        "class": "nav__child-link",
+                        "href": "/business/what-happens-when-you-do-not-comply-with-the-law/",
+                        "tag": "a",
+                        "text": "What happens when you do not comply with the law"
+                       }
+                      ],
+                      "class": "nav__child-item",
+                      "tag": "li"
+                     },
+                     {
+                      "children": [
+                       {
+                        "class": "nav__child-link",
+                        "href": "/business/dealing-with-typical-situations/selling-goods-and-services/pricing-your-products-or-services/",
+                        "tag": "a",
+                        "text": "Pricing your products or services"
+                       }
+                      ],
+                      "class": "nav__child-item",
+                      "tag": "li"
+                     },
+                     {
+                      "children": [
+                       {
+                        "class": "nav__child-link",
+                        "href": "/business/credit-providers/",
+                        "tag": "a",
+                        "text": "Credit providers"
+                       }
+                      ],
+                      "class": "nav__child-item",
+                      "tag": "li"
+                     },
+                     {
+                      "children": [
+                       {
+                        "class": "nav__child-link",
+                        "href": "/business/dealing-with-typical-situations/",
+                        "tag": "a",
+                        "text": "Dealing with typical situations"
+                       }
+                      ],
+                      "class": "nav__child-item",
+                      "tag": "li"
+                     },
+                     {
+                      "children": [
+                       {
+                        "class": "nav__child-link",
+                        "href": "/business/avoiding-anti-competitive-behaviour/",
+                        "tag": "a",
+                        "text": "Avoiding anti-competitive behaviour"
+                       }
+                      ],
+                      "class": "nav__child-item",
+                      "tag": "li"
+                     },
+                     {
+                      "children": [
+                       {
+                        "class": "nav__child-link",
+                        "href": "/business/merging-or-acquiring-a-company/",
+                        "tag": "a",
+                        "text": "Merging or acquiring a company"
+                       }
+                      ],
+                      "class": "nav__child-item",
+                      "tag": "li"
+                     },
+                     {
+                      "children": [
+                       {
+                        "class": "nav__child-link",
+                        "href": "/business/consumer-reports/",
+                        "tag": "a",
+                        "text": "Consumer reports"
+                       }
+                      ],
+                      "class": "nav__child-item",
+                      "tag": "li"
+                     },
+                     {
+                      "children": [
+                       {
+                        "class": "nav__child-link",
+                        "href": "/business/business-consultations/",
+                        "tag": "a",
+                        "text": "Business consultations"
+                       }
+                      ],
+                      "class": "nav__child-item",
+                      "tag": "li"
+                     }
+                    ],
+                    "class": "nav__children col-8",
+                    "tag": "ul"
+                   }
+                  ],
+                  "class": "row nav__dropdown-wrapper",
+                  "tag": "div"
+                 }
+                ],
+                "class": "nav__dropdown-menu container",
+                "ref": "dropdown",
+                "tag": "li",
+                "v-cloak": "",
+                "v-if": "activeMainNavItem === 2"
+               },
+               {
+                "children": [
+                 {
+                  ":aria-expanded": "activeMainNavItem === 3",
+                  ":class": "{ \u0026#39;nav__link--active\u0026#39;: activeMainNavItem === 3 }",
+                  "@click": "setActiveMainNavItem(3)",
+                  "children": [
+                   {
+                    "class": "nav__link-text",
+                    "tag": "span",
+                    "text": "Regulated industries"
+                   },
+                   {
+                    "aria-hidden": "true",
+                    "class": "material-symbols-outlined nav__expand-icon",
+                    "tag": "span",
+                    "text": "expand_more"
+                   }
+                  ],
+                  "class": "nav__link",
+                  "tag": "button"
+                 }
+                ],
+                "class": "nav__list-item",
+                "tag": "li"
+               },
+               {
+                "@focusin": "activateCloseOnFocusOutside",
+                "children": [
+                 {
+                  "children": [
+                   {
+                    "children": [
+                     {
+                      "children": [
+                       {
+                        "class": "nav__link-text",
+                        "tag": "span",
+                        "text": "Regulated industries"
+                       }
+                      ],
+                      "class": "nav__dropdown-link h4",
+                      "href": "/regulated-industries/",
+                      "tag": "a"
+                     }
+                    ],
+                    "class": "nav__dropdown-title col-4",
+                    "tag": "div"
+                   },
+                   {
+                    "children": [
+                     {
+                      "children": [
+                       {
+                        "class": "nav__child-link",
+                        "href": "/regulated-industries/our-role-in-regulated-industries/",
+                        "tag": "a",
+                        "text": "Our role in regulated industries"
+                       }
+                      ],
+                      "class": "nav__child-item",
+                      "tag": "li"
+                     },
+                     {
+                      "children": [
+                       {
+                        "class": "nav__child-link",
+                        "href": "/regulated-industries/grocery/",
+                        "tag": "a",
+                        "text": "Grocery"
+                       }
+                      ],
+                      "class": "nav__child-item",
+                      "tag": "li"
+                     },
+                     {
+                      "children": [
+                       {
+                        "class": "nav__child-link",
+                        "href": "/regulated-industries/projects/",
+                        "tag": "a",
+                        "text": "Regulatory projects"
+                       }
+                      ],
+                      "class": "nav__child-item",
+                      "tag": "li"
+                     },
+                     {
+                      "children": [
+                       {
+                        "class": "nav__child-link",
+                        "href": "/regulated-industries/telecommunications/",
+                        "tag": "a",
+                        "text": "Telecommunications"
+                       }
+                      ],
+                      "class": "nav__child-item",
+                      "tag": "li"
+                     },
+                     {
+                      "children": [
+                       {
+                        "class": "nav__child-link",
+                        "href": "/regulated-industries/electricity-lines/",
+                        "tag": "a",
+                        "text": "Electricity lines"
+                       }
+                      ],
+                      "class": "nav__child-item",
+                      "tag": "li"
+                     },
+                     {
+                      "children": [
+                       {
+                        "class": "nav__child-link",
+                        "href": "/regulated-industries/fibre/",
+                        "tag": "a",
+                        "text": "Fibre"
+                       }
+                      ],
+                      "class": "nav__child-item",
+                      "tag": "li"
+                     },
+                     {
+                      "children": [
+                       {
+                        "class": "nav__child-link",
+                        "href": "/regulated-industries/fuel/",
+                        "tag": "a",
+                        "text": "Fuel"
+                       }
+                      ],
+                      "class": "nav__child-item",
+                      "tag": "li"
+                     },
+                     {
+                      "children": [
+                       {
+                        "class": "nav__child-link",
+                        "href": "/regulated-industries/gas-pipelines/",
+                        "tag": "a",
+                        "text": "Gas pipelines"
+                       }
+                      ],
+                      "class": "nav__child-item",
+                      "tag": "li"
+                     },
+                     {
+                      "children": [
+                       {
+                        "class": "nav__child-link",
+                        "href": "/regulated-industries/airports/",
+                        "tag": "a",
+                        "text": "Airports"
+                       }
+                      ],
+                      "class": "nav__child-item",
+                      "tag": "li"
+                     },
+                     {
+                      "children": [
+                       {
+                        "class": "nav__child-link",
+                        "href": "/regulated-industries/dairy/",
+                        "tag": "a",
+                        "text": "Dairy"
+                       }
+                      ],
+                      "class": "nav__child-item",
+                      "tag": "li"
+                     },
+                     {
+                      "children": [
+                       {
+                        "class": "nav__child-link",
+                        "href": "/regulated-industries/input-methodologies/",
+                        "tag": "a",
+                        "text": "Input methodologies"
+                       }
+                      ],
+                      "class": "nav__child-item",
+                      "tag": "li"
+                     },
+                     {
+                      "children": [
+                       {
+                        "class": "nav__child-link",
+                        "href": "/regulated-industries/part-4/",
+                        "tag": "a",
+                        "text": "Regulatory inquiries"
+                       }
+                      ],
+                      "class": "nav__child-item",
+                      "tag": "li"
+                     },
+                     {
+                      "children": [
+                       {
+                        "class": "nav__child-link",
+                        "href": "/regulated-industries/projects/retail-payment-system/",
+                        "tag": "a",
+                        "text": "Retail Payment System"
+                       }
+                      ],
+                      "class": "nav__child-item",
+                      "tag": "li"
+                     },
+                     {
+                      "children": [
+                       {
+                        "class": "nav__child-link",
+                        "href": "/regulated-industries/water-wai/",
+                        "tag": "a",
+                        "text": "Water – Wai"
+                       }
+                      ],
+                      "class": "nav__child-item",
+                      "tag": "li"
+                     }
+                    ],
+                    "class": "nav__children col-8",
+                    "tag": "ul"
+                   }
+                  ],
+                  "class": "row nav__dropdown-wrapper",
+                  "tag": "div"
+                 }
+                ],
+                "class": "nav__dropdown-menu container",
+                "ref": "dropdown",
+                "tag": "li",
+                "v-cloak": "",
+                "v-if": "activeMainNavItem === 3"
+               },
+               {
+                "children": [
+                 {
+                  ":aria-expanded": "activeMainNavItem === 4",
+                  ":class": "{ \u0026#39;nav__link--active\u0026#39;: activeMainNavItem === 4 }",
+                  "@click": "setActiveMainNavItem(4)",
+                  "children": [
+                   {
+                    "class": "nav__link-text",
+                    "tag": "span",
+                    "text": "Case register"
+                   },
+                   {
+                    "aria-hidden": "true",
+                    "class": "material-symbols-outlined nav__expand-icon",
+                    "tag": "span",
+                    "text": "expand_more"
+                   }
+                  ],
+                  "class": "nav__link",
+                  "tag": "button"
+                 }
+                ],
+                "class": "nav__list-item",
+                "tag": "li"
+               },
+               {
+                "@focusin": "activateCloseOnFocusOutside",
+                "children": [
+                 {
+                  "children": [
+                   {
+                    "children": [
+                     {
+                      "children": [
+                       {
+                        "class": "nav__link-text",
+                        "tag": "span",
+                        "text": "Case register"
+                       }
+                      ],
+                      "class": "nav__dropdown-link h4",
+                      "href": "/case-register/",
+                      "tag": "a"
+                     }
+                    ],
+                    "class": "nav__dropdown-title col-4",
+                    "tag": "div"
+                   },
+                   {
+                    "children": [
+                     {
+                      "children": [
+                       {
+                        "class": "nav__child-link",
+                        "href": "https://www.comcom.govt.nz/case-register/?q=\u0026amp;size=10\u0026amp;filters%5Bstatus%5D=Open",
+                        "tag": "a",
+                        "text": "Open case register entries"
+                       }
+                      ],
+                      "class": "nav__child-item",
+                      "tag": "li"
+                     },
+                     {
+                      "children": [
+                       {
+                        "class": "nav__child-link",
+                        "href": "/case-register/about-our-case-register/",
+                        "tag": "a",
+                        "text": "About our case register"
+                       }
+                      ],
+                      "class": "nav__child-item",
+                      "tag": "li"
+                     }
+                    ],
+                    "class": "nav__children col-8",
+                    "tag": "ul"
+                   }
+                  ],
+                  "class": "row nav__dropdown-wrapper",
+                  "tag": "div"
+                 }
+                ],
+                "class": "nav__dropdown-menu container",
+                "ref": "dropdown",
+                "tag": "li",
+                "v-cloak": "",
+                "v-if": "activeMainNavItem === 4"
+               },
+               {
+                "children": [
+                 {
+                  ":aria-expanded": "activeMainNavItem === 5",
+                  ":class": "{ \u0026#39;nav__link--active\u0026#39;: activeMainNavItem === 5 }",
+                  "@click": "setActiveMainNavItem(5)",
+                  "children": [
+                   {
+                    "class": "nav__link-text",
+                    "tag": "span",
+                    "text": "News and events"
+                   },
+                   {
+                    "aria-hidden": "true",
+                    "class": "material-symbols-outlined nav__expand-icon",
+                    "tag": "span",
+                    "text": "expand_more"
+                   }
+                  ],
+                  "class": "nav__link",
+                  "tag": "button"
+                 }
+                ],
+                "class": "nav__list-item",
+                "tag": "li"
+               },
+               {
+                "@focusin": "activateCloseOnFocusOutside",
+                "children": [
+                 {
+                  "children": [
+                   {
+                    "children": [
+                     {
+                      "children": [
+                       {
+                        "class": "nav__link-text",
+                        "tag": "span",
+                        "text": "News and events"
+                       }
+                      ],
+                      "class": "nav__dropdown-link h4",
+                      "href": "/news-and-media/",
+                      "tag": "a"
+                     }
+                    ],
+                    "class": "nav__dropdown-title col-4",
+                    "tag": "div"
+                   },
+                   {
+                    "children": [
+                     {
+                      "children": [
+                       {
+                        "class": "nav__child-link",
+                        "href": "/news-and-media/news-and-events/",
+                        "tag": "a",
+                        "text": "News and updates"
+                       }
+                      ],
+                      "class": "nav__child-item",
+                      "tag": "li"
+                     },
+                     {
+                      "children": [
+                       {
+                        "class": "nav__child-link",
+                        "href": "/news-and-media/events/",
+                        "tag": "a",
+                        "text": "Events"
+                       }
+                      ],
+                      "class": "nav__child-item",
+                      "tag": "li"
+                     },
+                     {
+                      "children": [
+                       {
+                        "class": "nav__child-link",
+                        "href": "/news-and-media/subscribe-and-follow-us/",
+                        "tag": "a",
+                        "text": "Subscribe and follow us"
+                       }
+                      ],
+                      "class": "nav__child-item",
+                      "tag": "li"
+                     }
+                    ],
+                    "class": "nav__children col-8",
+                    "tag": "ul"
+                   }
+                  ],
+                  "class": "row nav__dropdown-wrapper",
+                  "tag": "div"
+                 }
+                ],
+                "class": "nav__dropdown-menu container",
+                "ref": "dropdown",
+                "tag": "li",
+                "v-cloak": "",
+                "v-if": "activeMainNavItem === 5"
+               },
+               {
+                "children": [
+                 {
+                  ":aria-expanded": "activeMainNavItem === 6",
+                  ":class": "{ \u0026#39;nav__link--active\u0026#39;: activeMainNavItem === 6 }",
+                  "@click": "setActiveMainNavItem(6)",
+                  "children": [
+                   {
+                    "class": "nav__link-text",
+                    "tag": "span",
+                    "text": "About us"
+                   },
+                   {
+                    "aria-hidden": "true",
+                    "class": "material-symbols-outlined nav__expand-icon",
+                    "tag": "span",
+                    "text": "expand_more"
+                   }
+                  ],
+                  "class": "nav__link",
+                  "tag": "button"
+                 }
+                ],
+                "class": "nav__list-item",
+                "tag": "li"
+               },
+               {
+                "@focusin": "activateCloseOnFocusOutside",
+                "children": [
+                 {
+                  "children": [
+                   {
+                    "children": [
+                     {
+                      "children": [
+                       {
+                        "class": "nav__link-text",
+                        "tag": "span",
+                        "text": "About us"
+                       }
+                      ],
+                      "class": "nav__dropdown-link h4",
+                      "href": "/about-us/",
+                      "tag": "a"
+                     }
+                    ],
+                    "class": "nav__dropdown-title col-4",
+                    "tag": "div"
+                   },
+                   {
+                    "children": [
+                     {
+                      "children": [
+                       {
+                        "class": "nav__child-link",
+                        "href": "/about-us/our-role/",
+                        "tag": "a",
+                        "text": "Our role"
+                       }
+                      ],
+                      "class": "nav__child-item",
+                      "tag": "li"
+                     },
+                     {
+                      "children": [
+                       {
+                        "class": "nav__child-link",
+                        "href": "/about-us/our-people/",
+                        "tag": "a",
+                        "text": "Our people"
+                       }
+                      ],
+                      "class": "nav__child-item",
+                      "tag": "li"
+                     },
+                     {
+                      "children": [
+                       {
+                        "class": "nav__child-link",
+                        "href": "/about-us/strategic-planning-and-accountability-reporting/",
+                        "tag": "a",
+                        "text": "Strategic planning and accountability reporting"
+                       }
+                      ],
+                      "class": "nav__child-item",
+                      "tag": "li"
+                     },
+                     {
+                      "children": [
+                       {
+                        "class": "nav__child-link",
+                        "href": "/about-us/our-policies-and-guidelines/",
+                        "tag": "a",
+                        "text": "Our policies and guidelines"
+                       }
+                      ],
+                      "class": "nav__child-item",
+                      "tag": "li"
+                     },
+                     {
+                      "children": [
+                       {
+                        "class": "nav__child-link",
+                        "href": "/about-us/research/",
+                        "tag": "a",
+                        "text": "Research"
+                       }
+                      ],
+                      "class": "nav__child-item",
+                      "tag": "li"
+                     },
+                     {
+                      "children": [
+                       {
+                        "class": "nav__child-link",
+                        "href": "https://careers.comcom.govt.nz/",
+                        "tag": "a",
+                        "text": "Careers"
+                       }
+                      ],
+                      "class": "nav__child-item",
+                      "tag": "li"
+                     },
+                     {
+                      "children": [
+                       {
+                        "class": "nav__child-link",
+                        "href": "/about-us/requesting-official-information/",
+                        "tag": "a",
+                        "text": "Requesting official information"
+                       }
+                      ],
+                      "class": "nav__child-item",
+                      "tag": "li"
+                     },
+                     {
+                      "children": [
+                       {
+                        "class": "nav__child-link",
+                        "href": "/about-us/working-with-other-agencies/",
+                        "tag": "a",
+                        "text": "Working with other agencies"
+                       }
+                      ],
+                      "class": "nav__child-item",
+                      "tag": "li"
+                     },
+                     {
+                      "children": [
+                       {
+                        "class": "nav__child-link",
+                        "href": "/about-us/submissions-made-by-the-commission/",
+                        "tag": "a",
+                        "text": "Submissions made by the Commission"
+                       }
+                      ],
+                      "class": "nav__child-item",
+                      "tag": "li"
+                     },
+                     {
+                      "children": [
+                       {
+                        "class": "nav__child-link",
+                        "href": "/about-us/cartel-prosecutors-panel/",
+                        "tag": "a",
+                        "text": "Cartel Prosecutors Panel"
+                       }
+                      ],
+                      "class": "nav__child-item",
+                      "tag": "li"
+                     }
+                    ],
+                    "class": "nav__children col-8",
+                    "tag": "ul"
+                   }
+                  ],
+                  "class": "row nav__dropdown-wrapper",
+                  "tag": "div"
+                 }
+                ],
+                "class": "nav__dropdown-menu container",
+                "ref": "dropdown",
+                "tag": "li",
+                "v-cloak": "",
+                "v-if": "activeMainNavItem === 6"
+               }
+              ],
+              "class": "nav__links",
+              "tag": "ul"
+             },
+             {
+              "children": [
+               {
+                "@click": "setActiveMainNavItem(0)",
+                "class": "nav__overlay",
+                "tag": "div",
+                "v-cloak": "",
+                "v-if": "activeMainNavItem"
+               }
+              ],
+              "tag": "",
+              "to": "body"
+             },
+             {
+              ":active": "mobileMenuOpen",
+              ":aria-expanded": "mobileMenuOpen",
+              ":aria-label": "`${mobileMenuOpen ? \u0026#39;Close\u0026#39; : \u0026#39;Open\u0026#39;} navigation menu`",
+              "@click": "toggleMobileMenu",
+              "class": "nav__hamburger",
+              "tag": ""
+             },
+             {
+              ":is-child": "false",
+              ":open": "mobileMenuOpen",
+              "@keydown.esc": "toggleMobileMenu",
+              "children": [
+               {
+                "children": [
+                 {
+                  "children": [
+                   {
+                    ":aria-expanded": "activeMainNavItem === 1",
+                    ":ref": "el =\u0026gt; { mobileMenuItems[1] = el }",
+                    ":tabindex": "activeMainNavItem ? -1 : 0",
+                    "@click": "setActiveMainNavItem(1)",
+                    "children": [
+                     {
+                      "class": "nav__link-text",
+                      "tag": "span",
+                      "text": "Consumers"
+                     },
+                     {
+                      "aria-hidden": "true",
+                      "class": "material-symbols-outlined",
+                      "tag": "span",
+                      "text": "chevron_right"
+                     }
+                    ],
+                    "class": "nav__link",
+                    "tag": "button"
+                   },
+                   {
+                    ":is-child": "true",
+                    ":open": "activeMainNavItem === 1",
+                    "children": [
+                     {
+                      "children": [
+                       {
+                        "children": [
+                         {
+                          "@click": "closeMobileMenuSubMenu",
+                          "children": [
+                           {
+                            "aria-hidden": "true",
+                            "class": "material-symbols-outlined",
+                            "tag": "span",
+                            "text": "chevron_left"
+                           }
+                          ],
+                          "class": "nav__back-button",
+                          "tag": "button",
+                          "text": "Back"
+                         }
+                        ],
+                        "class": "nav__list-item",
+                        "tag": "li"
+                       },
+                       {
+                        "children": [
+                         {
+                          "children": [
+                           {
+                            "class": "nav__link-text",
+                            "tag": "span",
+                            "text": "Consumers"
+                           }
+                          ],
+                          "class": "nav__link nav__link--main",
+                          "href": "/consumers/",
+                          "tag": "a"
+                         }
+                        ],
+                        "class": "nav__list-item",
+                        "tag": "li"
+                       },
+                       {
+                        "children": [
+                         {
+                          "class": "nav__link nav__link--child",
+                          "href": "/consumers/how-the-commission-helps/",
+                          "tag": "a",
+                          "text": "How the Commission helps"
+                         }
+                        ],
+                        "class": "nav__list-item",
+                        "tag": "li"
+                       },
+                       {
+                        "children": [
+                         {
+                          "class": "nav__link nav__link--child",
+                          "href": "/consumers/your-rights-as-a-consumer/",
+                          "tag": "a",
+                          "text": "Your rights as a consumer"
+                         }
+                        ],
+                        "class": "nav__list-item",
+                        "tag": "li"
+                       },
+                       {
+                        "children": [
+                         {
+                          "class": "nav__link nav__link--child",
+                          "href": "/consumers/dealing-with-typical-situations/",
+                          "tag": "a",
+                          "text": "Dealing with typical situations"
+                         }
+                        ],
+                        "class": "nav__list-item",
+                        "tag": "li"
+                       },
+                       {
+                        "children": [
+                         {
+                          "class": "nav__link nav__link--child",
+                          "href": "/consumers/product-safety-and-consumer-information-standards/",
+                          "tag": "a",
+                          "text": "Product safety and consumer information standards"
+                         }
+                        ],
+                        "class": "nav__list-item",
+                        "tag": "li"
+                       },
+                       {
+                        "children": [
+                         {
+                          "class": "nav__link nav__link--child",
+                          "href": "/business/consumer-reports/",
+                          "tag": "a",
+                          "text": "Consumer reports"
+                         }
+                        ],
+                        "class": "nav__list-item",
+                        "tag": "li"
+                       },
+                       {
+                        "children": [
+                         {
+                          "class": "nav__link nav__link--child",
+                          "href": "/consumers/resources-for-consumer-organisations/",
+                          "tag": "a",
+                          "text": "Resources for consumer advisory sector"
+                         }
+                        ],
+                        "class": "nav__list-item",
+                        "tag": "li"
+                       },
+                       {
+                        "children": [
+                         {
+                          "class": "nav__link nav__link--child",
+                          "href": "/consumers/compare-customer-service-for-mobile-and-broadband-providers/",
+                          "tag": "a",
+                          "text": "Compare providers for the best mobile and broadband customer service"
+                         }
+                        ],
+                        "class": "nav__list-item",
+                        "tag": "li"
+                       },
+                       {
+                        "children": [
+                         {
+                          "class": "nav__link nav__link--child",
+                          "href": "/consumers/compare-providers-for-the-best-mobile-and-broadband-bills/",
+                          "tag": "a",
+                          "text": "Compare providers for the best mobile and broadband bills"
+                         }
+                        ],
+                        "class": "nav__list-item",
+                        "tag": "li"
+                       }
+                      ],
+                      "class": "nav__mobile-children",
+                      "tag": "ul"
+                     }
+                    ],
+                    "tag": ""
+                   }
+                  ],
+                  "class": "nav__list-item",
+                  "tag": "li"
+                 },
+                 {
+                  "children": [
+                   {
+                    ":aria-expanded": "activeMainNavItem === 2",
+                    ":ref": "el =\u0026gt; { mobileMenuItems[2] = el }",
+                    ":tabindex": "activeMainNavItem ? -1 : 0",
+                    "@click": "setActiveMainNavItem(2)",
+                    "children": [
+                     {
+                      "class": "nav__link-text",
+                      "tag": "span",
+                      "text": "Business"
+                     },
+                     {
+                      "aria-hidden": "true",
+                      "class": "material-symbols-outlined",
+                      "tag": "span",
+                      "text": "chevron_right"
+                     }
+                    ],
+                    "class": "nav__link",
+                    "tag": "button"
+                   },
+                   {
+                    ":is-child": "true",
+                    ":open": "activeMainNavItem === 2",
+                    "children": [
+                     {
+                      "children": [
+                       {
+                        "children": [
+                         {
+                          "@click": "closeMobileMenuSubMenu",
+                          "children": [
+                           {
+                            "aria-hidden": "true",
+                            "class": "material-symbols-outlined",
+                            "tag": "span",
+                            "text": "chevron_left"
+                           }
+                          ],
+                          "class": "nav__back-button",
+                          "tag": "button",
+                          "text": "Back"
+                         }
+                        ],
+                        "class": "nav__list-item",
+                        "tag": "li"
+                       },
+                       {
+                        "children": [
+                         {
+                          "children": [
+                           {
+                            "class": "nav__link-text",
+                            "tag": "span",
+                            "text": "Business"
+                           }
+                          ],
+                          "class": "nav__link nav__link--main",
+                          "href": "/business/",
+                          "tag": "a"
+                         }
+                        ],
+                        "class": "nav__list-item",
+                        "tag": "li"
+                       },
+                       {
+                        "children": [
+                         {
+                          "class": "nav__link nav__link--child",
+                          "href": "/business/the-commissions-role/",
+                          "tag": "a",
+                          "text": "The Commission\u0026#39;s role"
+                         }
+                        ],
+                        "class": "nav__list-item",
+                        "tag": "li"
+                       },
+                       {
+                        "children": [
+                         {
+                          "class": "nav__link nav__link--child",
+                          "href": "/business/your-obligations-as-a-business/",
+                          "tag": "a",
+                          "text": "Your obligations as a business"
+                         }
+                        ],
+                        "class": "nav__list-item",
+                        "tag": "li"
+                       },
+                       {
+                        "children": [
+                         {
+                          "class": "nav__link nav__link--child",
+                          "href": "/business/your-rights-as-a-business/",
+                          "tag": "a",
+                          "text": "Your rights as a business"
+                         }
+                        ],
+                        "class": "nav__list-item",
+                        "tag": "li"
+                       },
+                       {
+                        "children": [
+                         {
+                          "class": "nav__link nav__link--child",
+                          "href": "/business/what-happens-when-you-do-not-comply-with-the-law/",
+                          "tag": "a",
+                          "text": "What happens when you do not comply with the law"
+                         }
+                        ],
+                        "class": "nav__list-item",
+                        "tag": "li"
+                       },
+                       {
+                        "children": [
+                         {
+                          "class": "nav__link nav__link--child",
+                          "href": "/business/dealing-with-typical-situations/selling-goods-and-services/pricing-your-products-or-services/",
+                          "tag": "a",
+                          "text": "Pricing your products or services"
+                         }
+                        ],
+                        "class": "nav__list-item",
+                        "tag": "li"
+                       },
+                       {
+                        "children": [
+                         {
+                          "class": "nav__link nav__link--child",
+                          "href": "/business/credit-providers/",
+                          "tag": "a",
+                          "text": "Credit providers"
+                         }
+                        ],
+                        "class": "nav__list-item",
+                        "tag": "li"
+                       },
+                       {
+                        "children": [
+                         {
+                          "class": "nav__link nav__link--child",
+                          "href": "/business/dealing-with-typical-situations/",
+                          "tag": "a",
+                          "text": "Dealing with typical situations"
+                         }
+                        ],
+                        "class": "nav__list-item",
+                        "tag": "li"
+                       },
+                       {
+                        "children": [
+                         {
+                          "class": "nav__link nav__link--child",
+                          "href": "/business/avoiding-anti-competitive-behaviour/",
+                          "tag": "a",
+                          "text": "Avoiding anti-competitive behaviour"
+                         }
+                        ],
+                        "class": "nav__list-item",
+                        "tag": "li"
+                       },
+                       {
+                        "children": [
+                         {
+                          "class": "nav__link nav__link--child",
+                          "href": "/business/merging-or-acquiring-a-company/",
+                          "tag": "a",
+                          "text": "Merging or acquiring a company"
+                         }
+                        ],
+                        "class": "nav__list-item",
+                        "tag": "li"
+                       },
+                       {
+                        "children": [
+                         {
+                          "class": "nav__link nav__link--child",
+                          "href": "/business/consumer-reports/",
+                          "tag": "a",
+                          "text": "Consumer reports"
+                         }
+                        ],
+                        "class": "nav__list-item",
+                        "tag": "li"
+                       },
+                       {
+                        "children": [
+                         {
+                          "class": "nav__link nav__link--child",
+                          "href": "/business/business-consultations/",
+                          "tag": "a",
+                          "text": "Business consultations"
+                         }
+                        ],
+                        "class": "nav__list-item",
+                        "tag": "li"
+                       }
+                      ],
+                      "class": "nav__mobile-children",
+                      "tag": "ul"
+                     }
+                    ],
+                    "tag": ""
+                   }
+                  ],
+                  "class": "nav__list-item",
+                  "tag": "li"
+                 },
+                 {
+                  "children": [
+                   {
+                    ":aria-expanded": "activeMainNavItem === 3",
+                    ":ref": "el =\u0026gt; { mobileMenuItems[3] = el }",
+                    ":tabindex": "activeMainNavItem ? -1 : 0",
+                    "@click": "setActiveMainNavItem(3)",
+                    "children": [
+                     {
+                      "class": "nav__link-text",
+                      "tag": "span",
+                      "text": "Regulated industries"
+                     },
+                     {
+                      "aria-hidden": "true",
+                      "class": "material-symbols-outlined",
+                      "tag": "span",
+                      "text": "chevron_right"
+                     }
+                    ],
+                    "class": "nav__link",
+                    "tag": "button"
+                   },
+                   {
+                    ":is-child": "true",
+                    ":open": "activeMainNavItem === 3",
+                    "children": [
+                     {
+                      "children": [
+                       {
+                        "children": [
+                         {
+                          "@click": "closeMobileMenuSubMenu",
+                          "children": [
+                           {
+                            "aria-hidden": "true",
+                            "class": "material-symbols-outlined",
+                            "tag": "span",
+                            "text": "chevron_left"
+                           }
+                          ],
+                          "class": "nav__back-button",
+                          "tag": "button",
+                          "text": "Back"
+                         }
+                        ],
+                        "class": "nav__list-item",
+                        "tag": "li"
+                       },
+                       {
+                        "children": [
+                         {
+                          "children": [
+                           {
+                            "class": "nav__link-text",
+                            "tag": "span",
+                            "text": "Regulated industries"
+                           }
+                          ],
+                          "class": "nav__link nav__link--main",
+                          "href": "/regulated-industries/",
+                          "tag": "a"
+                         }
+                        ],
+                        "class": "nav__list-item",
+                        "tag": "li"
+                       },
+                       {
+                        "children": [
+                         {
+                          "class": "nav__link nav__link--child",
+                          "href": "/regulated-industries/our-role-in-regulated-industries/",
+                          "tag": "a",
+                          "text": "Our role in regulated industries"
+                         }
+                        ],
+                        "class": "nav__list-item",
+                        "tag": "li"
+                       },
+                       {
+                        "children": [
+                         {
+                          "class": "nav__link nav__link--child",
+                          "href": "/regulated-industries/grocery/",
+                          "tag": "a",
+                          "text": "Grocery"
+                         }
+                        ],
+                        "class": "nav__list-item",
+                        "tag": "li"
+                       },
+                       {
+                        "children": [
+                         {
+                          "class": "nav__link nav__link--child",
+                          "href": "/regulated-industries/projects/",
+                          "tag": "a",
+                          "text": "Regulatory projects"
+                         }
+                        ],
+                        "class": "nav__list-item",
+                        "tag": "li"
+                       },
+                       {
+                        "children": [
+                         {
+                          "class": "nav__link nav__link--child",
+                          "href": "/regulated-industries/telecommunications/",
+                          "tag": "a",
+                          "text": "Telecommunications"
+                         }
+                        ],
+                        "class": "nav__list-item",
+                        "tag": "li"
+                       },
+                       {
+                        "children": [
+                         {
+                          "class": "nav__link nav__link--child",
+                          "href": "/regulated-industries/electricity-lines/",
+                          "tag": "a",
+                          "text": "Electricity lines"
+                         }
+                        ],
+                        "class": "nav__list-item",
+                        "tag": "li"
+                       },
+                       {
+                        "children": [
+                         {
+                          "class": "nav__link nav__link--child",
+                          "href": "/regulated-industries/fibre/",
+                          "tag": "a",
+                          "text": "Fibre"
+                         }
+                        ],
+                        "class": "nav__list-item",
+                        "tag": "li"
+                       },
+                       {
+                        "children": [
+                         {
+                          "class": "nav__link nav__link--child",
+                          "href": "/regulated-industries/fuel/",
+                          "tag": "a",
+                          "text": "Fuel"
+                         }
+                        ],
+                        "class": "nav__list-item",
+                        "tag": "li"
+                       },
+                       {
+                        "children": [
+                         {
+                          "class": "nav__link nav__link--child",
+                          "href": "/regulated-industries/gas-pipelines/",
+                          "tag": "a",
+                          "text": "Gas pipelines"
+                         }
+                        ],
+                        "class": "nav__list-item",
+                        "tag": "li"
+                       },
+                       {
+                        "children": [
+                         {
+                          "class": "nav__link nav__link--child",
+                          "href": "/regulated-industries/airports/",
+                          "tag": "a",
+                          "text": "Airports"
+                         }
+                        ],
+                        "class": "nav__list-item",
+                        "tag": "li"
+                       },
+                       {
+                        "children": [
+                         {
+                          "class": "nav__link nav__link--child",
+                          "href": "/regulated-industries/dairy/",
+                          "tag": "a",
+                          "text": "Dairy"
+                         }
+                        ],
+                        "class": "nav__list-item",
+                        "tag": "li"
+                       },
+                       {
+                        "children": [
+                         {
+                          "class": "nav__link nav__link--child",
+                          "href": "/regulated-industries/input-methodologies/",
+                          "tag": "a",
+                          "text": "Input methodologies"
+                         }
+                        ],
+                        "class": "nav__list-item",
+                        "tag": "li"
+                       },
+                       {
+                        "children": [
+                         {
+                          "class": "nav__link nav__link--child",
+                          "href": "/regulated-industries/part-4/",
+                          "tag": "a",
+                          "text": "Regulatory inquiries"
+                         }
+                        ],
+                        "class": "nav__list-item",
+                        "tag": "li"
+                       },
+                       {
+                        "children": [
+                         {
+                          "class": "nav__link nav__link--child",
+                          "href": "/regulated-industries/projects/retail-payment-system/",
+                          "tag": "a",
+                          "text": "Retail Payment System"
+                         }
+                        ],
+                        "class": "nav__list-item",
+                        "tag": "li"
+                       },
+                       {
+                        "children": [
+                         {
+                          "class": "nav__link nav__link--child",
+                          "href": "/regulated-industries/water-wai/",
+                          "tag": "a",
+                          "text": "Water – Wai"
+                         }
+                        ],
+                        "class": "nav__list-item",
+                        "tag": "li"
+                       }
+                      ],
+                      "class": "nav__mobile-children",
+                      "tag": "ul"
+                     }
+                    ],
+                    "tag": ""
+                   }
+                  ],
+                  "class": "nav__list-item",
+                  "tag": "li"
+                 },
+                 {
+                  "children": [
+                   {
+                    ":aria-expanded": "activeMainNavItem === 4",
+                    ":ref": "el =\u0026gt; { mobileMenuItems[4] = el }",
+                    ":tabindex": "activeMainNavItem ? -1 : 0",
+                    "@click": "setActiveMainNavItem(4)",
+                    "children": [
+                     {
+                      "class": "nav__link-text",
+                      "tag": "span",
+                      "text": "Case register"
+                     },
+                     {
+                      "aria-hidden": "true",
+                      "class": "material-symbols-outlined",
+                      "tag": "span",
+                      "text": "chevron_right"
+                     }
+                    ],
+                    "class": "nav__link",
+                    "tag": "button"
+                   },
+                   {
+                    ":is-child": "true",
+                    ":open": "activeMainNavItem === 4",
+                    "children": [
+                     {
+                      "children": [
+                       {
+                        "children": [
+                         {
+                          "@click": "closeMobileMenuSubMenu",
+                          "children": [
+                           {
+                            "aria-hidden": "true",
+                            "class": "material-symbols-outlined",
+                            "tag": "span",
+                            "text": "chevron_left"
+                           }
+                          ],
+                          "class": "nav__back-button",
+                          "tag": "button",
+                          "text": "Back"
+                         }
+                        ],
+                        "class": "nav__list-item",
+                        "tag": "li"
+                       },
+                       {
+                        "children": [
+                         {
+                          "children": [
+                           {
+                            "class": "nav__link-text",
+                            "tag": "span",
+                            "text": "Case register"
+                           }
+                          ],
+                          "class": "nav__link nav__link--main",
+                          "href": "/case-register/",
+                          "tag": "a"
+                         }
+                        ],
+                        "class": "nav__list-item",
+                        "tag": "li"
+                       },
+                       {
+                        "class": "nav__list-item",
+                        "tag": "li"
+                       },
+                       {
+                        "children": [
+                         {
+                          "class": "nav__link nav__link--child",
+                          "href": "https://www.comcom.govt.nz/case-register/?q=\u0026amp;size=10\u0026amp;filters%5Bstatus%5D=Open",
+                          "tag": "a",
+                          "text": "Open case register entries"
+                         }
+                        ],
+                        "class": "nav__list-item",
+                        "tag": "li"
+                       },
+                       {
+                        "children": [
+                         {
+                          "class": "nav__link nav__link--child",
+                          "href": "/case-register/about-our-case-register/",
+                          "tag": "a",
+                          "text": "About our case register"
+                         }
+                        ],
+                        "class": "nav__list-item",
+                        "tag": "li"
+                       }
+                      ],
+                      "class": "nav__mobile-children",
+                      "tag": "ul"
+                     }
+                    ],
+                    "tag": ""
+                   }
+                  ],
+                  "class": "nav__list-item",
+                  "tag": "li"
+                 },
+                 {
+                  "children": [
+                   {
+                    ":aria-expanded": "activeMainNavItem === 5",
+                    ":ref": "el =\u0026gt; { mobileMenuItems[5] = el }",
+                    ":tabindex": "activeMainNavItem ? -1 : 0",
+                    "@click": "setActiveMainNavItem(5)",
+                    "children": [
+                     {
+                      "class": "nav__link-text",
+                      "tag": "span",
+                      "text": "News and events"
+                     },
+                     {
+                      "aria-hidden": "true",
+                      "class": "material-symbols-outlined",
+                      "tag": "span",
+                      "text": "chevron_right"
+                     }
+                    ],
+                    "class": "nav__link",
+                    "tag": "button"
+                   },
+                   {
+                    ":is-child": "true",
+                    ":open": "activeMainNavItem === 5",
+                    "children": [
+                     {
+                      "children": [
+                       {
+                        "children": [
+                         {
+                          "@click": "closeMobileMenuSubMenu",
+                          "children": [
+                           {
+                            "aria-hidden": "true",
+                            "class": "material-symbols-outlined",
+                            "tag": "span",
+                            "text": "chevron_left"
+                           }
+                          ],
+                          "class": "nav__back-button",
+                          "tag": "button",
+                          "text": "Back"
+                         }
+                        ],
+                        "class": "nav__list-item",
+                        "tag": "li"
+                       },
+                       {
+                        "children": [
+                         {
+                          "children": [
+                           {
+                            "class": "nav__link-text",
+                            "tag": "span",
+                            "text": "News and events"
+                           }
+                          ],
+                          "class": "nav__link nav__link--main",
+                          "href": "/news-and-media/",
+                          "tag": "a"
+                         }
+                        ],
+                        "class": "nav__list-item",
+                        "tag": "li"
+                       },
+                       {
+                        "children": [
+                         {
+                          "class": "nav__link nav__link--child",
+                          "href": "/news-and-media/news-and-events/",
+                          "tag": "a",
+                          "text": "News and updates"
+                         }
+                        ],
+                        "class": "nav__list-item",
+                        "tag": "li"
+                       },
+                       {
+                        "children": [
+                         {
+                          "class": "nav__link nav__link--child",
+                          "href": "/news-and-media/events/",
+                          "tag": "a",
+                          "text": "Events"
+                         }
+                        ],
+                        "class": "nav__list-item",
+                        "tag": "li"
+                       },
+                       {
+                        "children": [
+                         {
+                          "class": "nav__link nav__link--child",
+                          "href": "/news-and-media/subscribe-and-follow-us/",
+                          "tag": "a",
+                          "text": "Subscribe and follow us"
+                         }
+                        ],
+                        "class": "nav__list-item",
+                        "tag": "li"
+                       }
+                      ],
+                      "class": "nav__mobile-children",
+                      "tag": "ul"
+                     }
+                    ],
+                    "tag": ""
+                   }
+                  ],
+                  "class": "nav__list-item",
+                  "tag": "li"
+                 },
+                 {
+                  "children": [
+                   {
+                    ":aria-expanded": "activeMainNavItem === 6",
+                    ":ref": "el =\u0026gt; { mobileMenuItems[6] = el }",
+                    ":tabindex": "activeMainNavItem ? -1 : 0",
+                    "@click": "setActiveMainNavItem(6)",
+                    "children": [
+                     {
+                      "class": "nav__link-text",
+                      "tag": "span",
+                      "text": "About us"
+                     },
+                     {
+                      "aria-hidden": "true",
+                      "class": "material-symbols-outlined",
+                      "tag": "span",
+                      "text": "chevron_right"
+                     }
+                    ],
+                    "class": "nav__link",
+                    "tag": "button"
+                   },
+                   {
+                    ":is-child": "true",
+                    ":open": "activeMainNavItem === 6",
+                    "children": [
+                     {
+                      "children": [
+                       {
+                        "children": [
+                         {
+                          "@click": "closeMobileMenuSubMenu",
+                          "children": [
+                           {
+                            "aria-hidden": "true",
+                            "class": "material-symbols-outlined",
+                            "tag": "span",
+                            "text": "chevron_left"
+                           }
+                          ],
+                          "class": "nav__back-button",
+                          "tag": "button",
+                          "text": "Back"
+                         }
+                        ],
+                        "class": "nav__list-item",
+                        "tag": "li"
+                       },
+                       {
+                        "children": [
+                         {
+                          "children": [
+                           {
+                            "class": "nav__link-text",
+                            "tag": "span",
+                            "text": "About us"
+                           }
+                          ],
+                          "class": "nav__link nav__link--main",
+                          "href": "/about-us/",
+                          "tag": "a"
+                         }
+                        ],
+                        "class": "nav__list-item",
+                        "tag": "li"
+                       },
+                       {
+                        "children": [
+                         {
+                          "class": "nav__link nav__link--child",
+                          "href": "/about-us/our-role/",
+                          "tag": "a",
+                          "text": "Our role"
+                         }
+                        ],
+                        "class": "nav__list-item",
+                        "tag": "li"
+                       },
+                       {
+                        "children": [
+                         {
+                          "class": "nav__link nav__link--child",
+                          "href": "/about-us/our-people/",
+                          "tag": "a",
+                          "text": "Our people"
+                         }
+                        ],
+                        "class": "nav__list-item",
+                        "tag": "li"
+                       },
+                       {
+                        "children": [
+                         {
+                          "class": "nav__link nav__link--child",
+                          "href": "/about-us/strategic-planning-and-accountability-reporting/",
+                          "tag": "a",
+                          "text": "Strategic planning and accountability reporting"
+                         }
+                        ],
+                        "class": "nav__list-item",
+                        "tag": "li"
+                       },
+                       {
+                        "children": [
+                         {
+                          "class": "nav__link nav__link--child",
+                          "href": "/about-us/our-policies-and-guidelines/",
+                          "tag": "a",
+                          "text": "Our policies and guidelines"
+                         }
+                        ],
+                        "class": "nav__list-item",
+                        "tag": "li"
+                       },
+                       {
+                        "children": [
+                         {
+                          "class": "nav__link nav__link--child",
+                          "href": "/about-us/research/",
+                          "tag": "a",
+                          "text": "Research"
+                         }
+                        ],
+                        "class": "nav__list-item",
+                        "tag": "li"
+                       },
+                       {
+                        "children": [
+                         {
+                          "class": "nav__link nav__link--child",
+                          "href": "https://careers.comcom.govt.nz/",
+                          "tag": "a",
+                          "text": "Careers"
+                         }
+                        ],
+                        "class": "nav__list-item",
+                        "tag": "li"
+                       },
+                       {
+                        "children": [
+                         {
+                          "class": "nav__link nav__link--child",
+                          "href": "/about-us/requesting-official-information/",
+                          "tag": "a",
+                          "text": "Requesting official information"
+                         }
+                        ],
+                        "class": "nav__list-item",
+                        "tag": "li"
+                       },
+                       {
+                        "children": [
+                         {
+                          "class": "nav__link nav__link--child",
+                          "href": "/about-us/working-with-other-agencies/",
+                          "tag": "a",
+                          "text": "Working with other agencies"
+                         }
+                        ],
+                        "class": "nav__list-item",
+                        "tag": "li"
+                       },
+                       {
+                        "children": [
+                         {
+                          "class": "nav__link nav__link--child",
+                          "href": "/about-us/submissions-made-by-the-commission/",
+                          "tag": "a",
+                          "text": "Submissions made by the Commission"
+                         }
+                        ],
+                        "class": "nav__list-item",
+                        "tag": "li"
+                       },
+                       {
+                        "children": [
+                         {
+                          "class": "nav__link nav__link--child",
+                          "href": "/about-us/cartel-prosecutors-panel/",
+                          "tag": "a",
+                          "text": "Cartel Prosecutors Panel"
+                         }
+                        ],
+                        "class": "nav__list-item",
+                        "tag": "li"
+                       }
+                      ],
+                      "class": "nav__mobile-children",
+                      "tag": "ul"
+                     }
+                    ],
+                    "tag": ""
+                   }
+                  ],
+                  "class": "nav__list-item",
+                  "tag": "li"
+                 }
+                ],
+                "class": "nav__mobile-children",
+                "tag": "ul"
+               }
+              ],
+              "tag": "",
+              "v-cloak": ""
+             }
+            ],
+            "class": "nav__right-bottom",
+            "tag": "div"
+           }
+          ],
+          "class": "nav__wrapper nav__grid container",
+          "tag": "div"
+         }
+        ],
+        "class": "nav",
+        "ref": "nav",
+        "tag": "nav"
+       }
+      ],
+      "tag": "header"
+     },
+     {
+      "children": [
+       {
+        "children": [
+         {
+          "children": [
+           {
+            "children": [
+             {
+              "class": "breadcrumbs__link",
+              "href": "/",
+              "tag": "a",
+              "text": "Home"
+             }
+            ],
+            "class": "breadcrumbs__item",
+            "tag": "div"
+           },
+           {
+            "children": [
+             {
+              "aria-hidden": "true",
+              "class": "material-symbols-outlined breadcrumbs__separator",
+              "tag": "span",
+              "text": "chevron_right"
+             },
+             {
+              "class": "breadcrumbs__link",
+              "data-text": "Case register",
+              "href": "/case-register/",
+              "tag": "a",
+              "text": "Case register"
+             }
+            ],
+            "class": "breadcrumbs__item",
+            "tag": "div"
+           },
+           {
+            "children": [
+             {
+              "aria-hidden": "true",
+              "class": "material-symbols-outlined breadcrumbs__separator",
+              "tag": "span",
+              "text": "chevron_right"
+             }
+            ],
+            "class": "breadcrumbs__item breadcrumbs__item--current",
+            "tag": "div",
+            "text": "Westpac Banking Corporation"
+           }
+          ],
+          "class": "breadcrumbs__container container",
+          "tag": "div"
+         }
+        ],
+        "class": "breadcrumbs print-hidden",
+        "tag": "div"
+       },
+       {
+        "children": [
+         {
+          "children": [
+           {
+            "children": [
+             {
+              "children": [
+               {
+                "children": [
+                 {
+                  "children": [
+                   {
+                    "class": "hero__title",
+                    "tag": "h1",
+                    "text": "Westpac Banking Corporation; South Bank Ltd(ex Southland Building \u0026amp; Investment Society)"
+                   }
+                  ],
+                  "class": "hero__content",
+                  "tag": "div"
+                 }
+                ],
+                "class": "hero__intro-section col-12 col-md-6 ",
+                "tag": "div"
+               }
+              ],
+              "class": "row",
+              "tag": "div"
+             }
+            ],
+            "class": "container",
+            "tag": "div"
+           }
+          ],
+          "class": "hero__background\n                \n                \n                ",
+          "tag": "div"
+         }
+        ],
+        "class": "hero",
+        "tag": "section"
+       },
+       {
+        "children": [
+         {
+          "children": [
+           {
+            "children": [
+             {
+              "children": [
+               {
+                "class": "share-links__text",
+                "tag": "div",
+                "text": "Share this:"
+               },
+               {
+                "children": [
+                 {
+                  "children": [
+                   {
+                    "alt": "Share Page in email",
+                    "class": "share-links__social-icon",
+                    "height": "24",
+                    "src": "/_resources/themes/app/images/sharelinks/email.svg?m=1761615675",
+                    "tag": "img",
+                    "width": "24"
+                   }
+                  ],
+                  "href": "mailto:?subject=Westpac%20Banking%20Corporation\u0026amp;body=I%20found%20this%20on%20the%20NZ%20Commerce%20Commission%E2%80%99s%20website%20and%20thought%20you%20might%20find%20it%20interesting%3A%20https%3A%2F%2Fwww.comcom.govt.nz%2Fcase-register%2Fcase-register-entries%2Fwestpac-banking-corporation%2F",
+                  "tag": "a"
+                 },
+                 {
+                  "children": [
+                   {
+                    "alt": "Share on Facebook",
+                    "class": "share-links__social-icon",
+                    "height": "24",
+                    "src": "/_resources/themes/app/images/sharelinks/facebook.svg?m=1761615675",
+                    "tag": "img",
+                    "width": "24"
+                   }
+                  ],
+                  "href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.comcom.govt.nz%2Fcase-register%2Fcase-register-entries%2Fwestpac-banking-corporation%2F",
+                  "rel": "noopener noreferrer",
+                  "tag": "a",
+                  "target": "_blank"
+                 },
+                 {
+                  "children": [
+                   {
+                    "alt": "Share on linkedin",
+                    "class": "share-links__social-icon",
+                    "height": "24",
+                    "src": "/_resources/themes/app/images/sharelinks/linkedin.svg?m=1761615675",
+                    "tag": "img",
+                    "width": "24"
+                   }
+                  ],
+                  "href": "https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fwww.comcom.govt.nz%2Fcase-register%2Fcase-register-entries%2Fwestpac-banking-corporation%2F",
+                  "rel": "noopener noreferrer",
+                  "tag": "a",
+                  "target": "_blank"
+                 }
+                ],
+                "class": "share-links__links",
+                "tag": "div"
+               }
+              ],
+              "class": "share-links__container",
+              "tag": "div"
+             }
+            ],
+            "class": "d-block d-lg-none",
+            "tag": "div"
+           },
+           {
+            "children": [
+             {
+              "children": [
+               {
+                "aria-labelledby": "sidenav-title",
+                "children": [
+                 {
+                  "children": [
+                   {
+                    "class": "sidenav__title",
+                    "id": "sidenav-title",
+                    "tag": "h2",
+                    "text": "In this section"
+                   }
+                  ],
+                  "class": "sidenav__parent sidenav__parent--desktop",
+                  "tag": "div"
+                 },
+                 {
+                  "children": [
+                   {
+                    "aria-controls": "sidenav-list",
+                    "aria-expanded": "false",
+                    "aria-label": "More pages in this section",
+                    "children": [
+                     {
+                      "aria-hidden": "true",
+                      "class": "material-symbols-outlined u-bold",
+                      "tag": "span",
+                      "text": "expand_more"
+                     },
+                     {
+                      "class": "sidenav__title",
+                      "id": "sidenav-title",
+                      "tag": "h2",
+                      "text": "In this section"
+                     }
+                    ],
+                    "class": "sidenav__button sidenav__close",
+                    "id": "sidenav-close-button--mobile",
+                    "tag": "button"
+                   }
+                  ],
+                  "class": "sidenav__parent sidenav__parent--mobile",
+                  "tag": "div"
+                 },
+                 {
+                  "children": [
+                   {
+                    "children": [
+                     {
+                      "aria-label": "Back to Case register entries",
+                      "children": [
+                       {
+                        "aria-hidden": "true",
+                        "class": "material-symbols-outlined",
+                        "tag": "span",
+                        "text": "arrow_back"
+                       },
+                       {
+                        "class": "sidenav-sub__label",
+                        "tag": "span",
+                        "text": "Back"
+                       }
+                      ],
+                      "class": "sidenav-sub__link",
+                      "href": "/case-register/case-register-entries/",
+                      "tag": "a"
+                     }
+                    ],
+                    "class": "sidenav-sub__item sidenav-sub__item--back",
+                    "tag": "li"
+                   },
+                   {
+                    "children": [
+                     {
+                      "children": [
+                       {
+                        "class": "sidenav-sub__label",
+                        "tag": "span",
+                        "text": "Open case register entries"
+                       }
+                      ],
+                      "class": "sidenav-sub__link",
+                      "href": "https://www.comcom.govt.nz/case-register/?q=\u0026amp;size=10\u0026amp;filters%5Bstatus%5D=Open",
+                      "tag": "a"
+                     }
+                    ],
+                    "class": "sidenav-sub__item ",
+                    "data-id": "5834",
+                    "tag": "li"
+                   },
+                   {
+                    "children": [
+                     {
+                      "children": [
+                       {
+                        "class": "sidenav-sub__label",
+                        "tag": "span",
+                        "text": "About our case register"
+                       }
+                      ],
+                      "class": "sidenav-sub__link",
+                      "href": "/case-register/about-our-case-register/",
+                      "tag": "a"
+                     }
+                    ],
+                    "class": "sidenav-sub__item ",
+                    "data-id": "5835",
+                    "tag": "li"
+                   }
+                  ],
+                  "class": "sidenav__list sidenav__container",
+                  "id": "sidenav-list",
+                  "tag": "ul"
+                 }
+                ],
+                "class": "sidenav",
+                "role": "navigation",
+                "tag": "nav"
+               }
+              ],
+              "class": "sidenav-container",
+              "tag": "div"
+             }
+            ],
+            "class": "col-12 col-lg-4",
+            "tag": "div"
+           },
+           {
+            "children": [
+             {
+              "children": [
+               {
+                "children": [
+                 {
+                  "class": "share-links__text",
+                  "tag": "div",
+                  "text": "Share this:"
+                 },
+                 {
+                  "children": [
+                   {
+                    "children": [
+                     {
+                      "alt": "Share Page in email",
+                      "class": "share-links__social-icon",
+                      "height": "24",
+                      "src": "/_resources/themes/app/images/sharelinks/email.svg?m=1761615675",
+                      "tag": "img",
+                      "width": "24"
+                     }
+                    ],
+                    "href": "mailto:?subject=Westpac%20Banking%20Corporation\u0026amp;body=I%20found%20this%20on%20the%20NZ%20Commerce%20Commission%E2%80%99s%20website%20and%20thought%20you%20might%20find%20it%20interesting%3A%20https%3A%2F%2Fwww.comcom.govt.nz%2Fcase-register%2Fcase-register-entries%2Fwestpac-banking-corporation%2F",
+                    "tag": "a"
+                   },
+                   {
+                    "children": [
+                     {
+                      "alt": "Share on Facebook",
+                      "class": "share-links__social-icon",
+                      "height": "24",
+                      "src": "/_resources/themes/app/images/sharelinks/facebook.svg?m=1761615675",
+                      "tag": "img",
+                      "width": "24"
+                     }
+                    ],
+                    "href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.comcom.govt.nz%2Fcase-register%2Fcase-register-entries%2Fwestpac-banking-corporation%2F",
+                    "rel": "noopener noreferrer",
+                    "tag": "a",
+                    "target": "_blank"
+                   },
+                   {
+                    "children": [
+                     {
+                      "alt": "Share on linkedin",
+                      "class": "share-links__social-icon",
+                      "height": "24",
+                      "src": "/_resources/themes/app/images/sharelinks/linkedin.svg?m=1761615675",
+                      "tag": "img",
+                      "width": "24"
+                     }
+                    ],
+                    "href": "https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fwww.comcom.govt.nz%2Fcase-register%2Fcase-register-entries%2Fwestpac-banking-corporation%2F",
+                    "rel": "noopener noreferrer",
+                    "tag": "a",
+                    "target": "_blank"
+                   }
+                  ],
+                  "class": "share-links__links",
+                  "tag": "div"
+                 }
+                ],
+                "class": "share-links__container",
+                "tag": "div"
+               }
+              ],
+              "class": "d-none d-lg-block",
+              "tag": "div"
+             },
+             {
+              "children": [
+               {
+                "children": [
+                 {
+                  "children": [
+                   {
+                    "children": [
+                     {
+                      "children": [
+                       {
+                        "children": [
+                         {
+                          "class": "content-block__content",
+                          "tag": "div",
+                          "text": "100% Shares"
+                         }
+                        ],
+                        "class": "content-block block-container",
+                        "tag": "div"
+                       }
+                      ],
+                      "class": "col-12",
+                      "tag": "div"
+                     }
+                    ],
+                    "class": "row",
+                    "tag": "div"
+                   }
+                  ],
+                  "class": "container",
+                  "tag": "div"
+                 }
+                ],
+                "class": "element element--h2  ",
+                "id": "e9113",
+                "tag": "section"
+               }
+              ],
+              "class": "elemental-area",
+              "tag": "div"
+             },
+             {
+              "class": "h5",
+              "tag": "h2",
+              "text": "Case Details"
+             },
+             {
+              "children": [
+               {
+                "children": [
+                 {
+                  "class": "case-details__record-title",
+                  "tag": "div",
+                  "text": "Parties"
+                 },
+                 {
+                  "class": "case-details__record-value",
+                  "tag": "div",
+                  "text": "Westpac Banking Corporation; South Bank Ltd(ex Southland Building \u0026amp; Investment Society)"
+                 }
+                ],
+                "class": "case-details__record",
+                "tag": "div"
+               },
+               {
+                "children": [
+                 {
+                  "class": "case-details__record-title",
+                  "tag": "div",
+                  "text": "Category"
+                 },
+                 {
+                  "class": "case-details__record-value",
+                  "tag": "div",
+                  "text": "Merger application"
+                 }
+                ],
+                "class": "case-details__record",
+                "tag": "div"
+               },
+               {
+                "children": [
+                 {
+                  "class": "case-details__record-title",
+                  "tag": "div",
+                  "text": "Sub-category"
+                 },
+                 {
+                  "class": "case-details__record-value",
+                  "tag": "div",
+                  "text": "Clearance"
+                 }
+                ],
+                "class": "case-details__record",
+                "tag": "div"
+               },
+               {
+                "children": [
+                 {
+                  "class": "case-details__record-title",
+                  "tag": "div",
+                  "text": "Act/Section"
+                 },
+                 {
+                  "class": "case-details__record-value",
+                  "tag": "div",
+                  "text": "Commerce Act 1986 66"
+                 }
+                ],
+                "class": "case-details__record",
+                "tag": "div"
+               },
+               {
+                "children": [
+                 {
+                  "class": "case-details__record-title",
+                  "tag": "div",
+                  "text": "Industry"
+                 },
+                 {
+                  "class": "case-details__record-value",
+                  "tag": "div",
+                  "text": "Financial and insurance services"
+                 }
+                ],
+                "class": "case-details__record",
+                "tag": "div"
+               },
+               {
+                "children": [
+                 {
+                  "class": "case-details__record-title",
+                  "tag": "div",
+                  "text": "Status"
+                 },
+                 {
+                  "class": "case-details__record-value",
+                  "tag": "div",
+                  "text": "Closed"
+                 }
+                ],
+                "class": "case-details__record",
+                "tag": "div"
+               },
+               {
+                "children": [
+                 {
+                  "class": "case-details__record-title",
+                  "tag": "div",
+                  "text": "Outcome"
+                 },
+                 {
+                  "class": "case-details__record-value",
+                  "tag": "div",
+                  "text": "Merger cleared"
+                 }
+                ],
+                "class": "case-details__record",
+                "tag": "div"
+               },
+               {
+                "children": [
+                 {
+                  "class": "case-details__record-title",
+                  "tag": "div",
+                  "text": "Case Number"
+                 },
+                 {
+                  "class": "case-details__record-value",
+                  "tag": "div",
+                  "text": "Cleared: 24/01/1991"
+                 }
+                ],
+                "class": "case-details__record",
+                "tag": "div"
+               },
+               {
+                "children": [
+                 {
+                  "class": "case-details__record-title",
+                  "tag": "div",
+                  "text": "Date opened"
+                 },
+                 {
+                  "class": "case-details__record-value",
+                  "tag": "div",
+                  "text": "16 January 1991"
+                 }
+                ],
+                "class": "case-details__record",
+                "tag": "div"
+               },
+               {
+                "children": [
+                 {
+                  "class": "case-details__record-title",
+                  "tag": "div",
+                  "text": "Date closed"
+                 },
+                 {
+                  "class": "case-details__record-value",
+                  "tag": "div",
+                  "text": "24 January 1991"
+                 }
+                ],
+                "class": "case-details__record",
+                "tag": "div"
+               },
+               {
+                "children": [
+                 {
+                  "class": "case-details__record-title",
+                  "tag": "div",
+                  "text": "Contact person"
+                 },
+                 {
+                  "class": "case-details__record-value",
+                  "tag": "div"
+                 }
+                ],
+                "class": "case-details__record",
+                "tag": "div"
+               }
+              ],
+              "class": "case-details",
+              "tag": "div"
+             },
+             {
+              "page-type": "case-register",
+              "project": "{\u0026#34;projects_per_page\u0026#34;:5,\u0026#34;timeline\u0026#34;:[{\u0026#34;date\u0026#34;:\u0026#34;1991-01-24\u0026#34;,\u0026#34;title\u0026#34;:\u0026#34;Date closed\u0026#34;,\u0026#34;summary\u0026#34;:\u0026#34;\u0026#34;,\u0026#34;status\u0026#34;:\u0026#34;Open\u0026#34;,\u0026#34;documents\u0026#34;:[]},{\u0026#34;date\u0026#34;:\u0026#34;1991-01-16\u0026#34;,\u0026#34;title\u0026#34;:\u0026#34;Date opened\u0026#34;,\u0026#34;summary\u0026#34;:\u0026#34;\u0026#34;,\u0026#34;status\u0026#34;:\u0026#34;Open\u0026#34;,\u0026#34;documents\u0026#34;:[]}],\u0026#34;documents\u0026#34;:[{\u0026#34;date\u0026#34;:\u0026#34;1991-01-24\u0026#34;,\u0026#34;title\u0026#34;:\u0026#34;Date closed\u0026#34;,\u0026#34;summary\u0026#34;:\u0026#34;\u0026#34;,\u0026#34;documents\u0026#34;:[]},{\u0026#34;date\u0026#34;:\u0026#34;1991-01-16\u0026#34;,\u0026#34;title\u0026#34;:\u0026#34;Date opened\u0026#34;,\u0026#34;summary\u0026#34;:\u0026#34;\u0026#34;,\u0026#34;documents\u0026#34;:[]}],\u0026#34;media\u0026#34;:[]}",
+              "section": "timeline",
+              "tag": ""
+             },
+             {
+              "children": [
+               {
+                "children": [
+                 {
+                  "children": [
+                   {
+                    "tag": "span",
+                    "text": "Print"
+                   },
+                   {
+                    "class": "material-symbols-outlined",
+                    "role": "img",
+                    "tag": "span",
+                    "text": "print"
+                   }
+                  ],
+                  "class": "last-updated-print__print js-print-link",
+                  "href": "/case-register/case-register-entries/westpac-banking-corporation/#",
+                  "tag": "a"
+                 }
+                ],
+                "class": "last-updated-print__print ",
+                "tag": "div"
+               }
+              ],
+              "class": "last-updated-print__container",
+              "tag": "div"
+             }
+            ],
+            "class": "col-12 col-lg-8 mx-auto",
+            "tag": "div"
+           }
+          ],
+          "class": "row",
+          "tag": "div"
+         }
+        ],
+        "class": "container content-container",
+        "tag": "div"
+       }
+      ],
+      "id": "main-content",
+      "tag": "main"
+     },
+     {
+      "children": [
+       {
+        "children": [
+         {
+          "children": [
+           {
+            "children": [
+             {
+              "children": [
+               {
+                "class": "footer__col-header",
+                "tag": "p",
+                "text": "About us"
+               },
+               {
+                "children": [
+                 {
+                  "children": [
+                   {
+                    "class": "footer__link",
+                    "href": "/contact-us/",
+                    "tag": "a",
+                    "text": "Contact us"
+                   }
+                  ],
+                  "class": "footer__list-item ",
+                  "tag": "li"
+                 },
+                 {
+                  "children": [
+                   {
+                    "children": [
+                     {
+                      "aria-label": "External link",
+                      "class": "material-symbols-outlined",
+                      "role": "img",
+                      "tag": "span",
+                      "text": "open_in_new"
+                     }
+                    ],
+                    "class": "footer__link link--external",
+                    "href": "https://careers.comcom.govt.nz/",
+                    "tag": "a",
+                    "text": "Careers"
+                   }
+                  ],
+                  "class": "footer__list-item ",
+                  "tag": "li"
+                 },
+                 {
+                  "children": [
+                   {
+                    "class": "footer__link",
+                    "href": "/about-us/our-people/",
+                    "tag": "a",
+                    "text": "Our people"
+                   }
+                  ],
+                  "class": "footer__list-item ",
+                  "tag": "li"
+                 },
+                 {
+                  "children": [
+                   {
+                    "class": "footer__link",
+                    "href": "/about-us/requesting-official-information/",
+                    "tag": "a",
+                    "text": "Requesting official information"
+                   }
+                  ],
+                  "class": "footer__list-item ",
+                  "tag": "li"
+                 }
+                ],
+                "class": "footer__link-list",
+                "tag": "ul"
+               }
+              ],
+              "class": "col-12 col-md-3 footer__col",
+              "tag": "div"
+             },
+             {
+              "children": [
+               {
+                "class": "footer__col-header",
+                "tag": "p",
+                "text": "Case register"
+               },
+               {
+                "children": [
+                 {
+                  "children": [
+                   {
+                    "class": "footer__link",
+                    "href": "/about-us/our-role/competition-studies/",
+                    "tag": "a",
+                    "text": "Market studies"
+                   }
+                  ],
+                  "class": "footer__list-item ",
+                  "tag": "li"
+                 },
+                 {
+                  "children": [
+                   {
+                    "class": "footer__link",
+                    "href": "/documents/",
+                    "tag": "a",
+                    "text": "Downloads and documents"
+                   }
+                  ],
+                  "class": "footer__list-item ",
+                  "tag": "li"
+                 }
+                ],
+                "class": "footer__link-list",
+                "tag": "ul"
+               }
+              ],
+              "class": "col-12 col-md-3 footer__col",
+              "tag": "div"
+             },
+             {
+              "children": [
+               {
+                "class": "footer__col-header",
+                "tag": "p",
+                "text": "News and media"
+               },
+               {
+                "children": [
+                 {
+                  "children": [
+                   {
+                    "class": "footer__link",
+                    "href": "/news-and-media/news-and-events/",
+                    "tag": "a",
+                    "text": "News and updates"
+                   }
+                  ],
+                  "class": "footer__list-item ",
+                  "tag": "li"
+                 },
+                 {
+                  "children": [
+                   {
+                    "class": "footer__link",
+                    "href": "/news-and-media/events/",
+                    "tag": "a",
+                    "text": "Events"
+                   }
+                  ],
+                  "class": "footer__list-item ",
+                  "tag": "li"
+                 },
+                 {
+                  "children": [
+                   {
+                    "class": "footer__link",
+                    "href": "/news-and-media/subscribe-and-follow-us/",
+                    "tag": "a",
+                    "text": "Subscribe and follow us"
+                   }
+                  ],
+                  "class": "footer__list-item ",
+                  "tag": "li"
+                 }
+                ],
+                "class": "footer__link-list",
+                "tag": "ul"
+               }
+              ],
+              "class": "col-12 col-md-3 footer__col",
+              "tag": "div"
+             },
+             {
+              "children": [
+               {
+                "children": [
+                 {
+                  "class": "footer__col-header",
+                  "tag": "p",
+                  "text": "Follow us"
+                 },
+                 {
+                  "children": [
+                   {
+                    "alt": "Commerce Commission facebook account",
+                    "class": "footer__social-icon",
+                    "height": "24",
+                    "src": "/_resources/themes/app/images/social/facebook.svg?m=1761615675",
+                    "tag": "img",
+                    "width": "24"
+                   }
+                  ],
+                  "class": "footer__social-link",
+                  "href": "https://www.facebook.com/CommerceCommission",
+                  "tag": "a"
+                 },
+                 {
+                  "children": [
+                   {
+                    "alt": "Commerce Commission youtube account",
+                    "class": "footer__social-icon",
+                    "height": "24",
+                    "src": "/_resources/themes/app/images/social/youtube.svg?m=1761615675",
+                    "tag": "img",
+                    "width": "24"
+                   }
+                  ],
+                  "class": "footer__social-link",
+                  "href": "https://www.youtube.com/user/CommerceCommission",
+                  "tag": "a"
+                 },
+                 {
+                  "children": [
+                   {
+                    "alt": "Commerce Commission linked in account",
+                    "class": "footer__social-icon",
+                    "height": "24",
+                    "src": "/_resources/themes/app/images/social/linkedin.svg?m=1761615675",
+                    "tag": "img",
+                    "width": "24"
+                   }
+                  ],
+                  "class": "footer__social-link",
+                  "href": "https://nz.linkedin.com/company/commerce-commission",
+                  "tag": "a"
+                 }
+                ],
+                "class": "footer__social-links",
+                "tag": "div"
+               }
+              ],
+              "class": "col-12 col-md-3 footer__col",
+              "tag": "div"
+             }
+            ],
+            "class": "row",
+            "tag": "div"
+           }
+          ],
+          "class": "container",
+          "tag": "div"
+         }
+        ],
+        "class": "footer__top",
+        "tag": "div"
+       },
+       {
+        "children": [
+         {
+          "children": [
+           {
+            "children": [
+             {
+              "class": "footer__sub-link",
+              "href": "/using-our-website/privacy/",
+              "tag": "a",
+              "text": "Privacy policy"
+             },
+             {
+              "class": "footer__sub-link",
+              "href": "/using-our-website/disclaimer/",
+              "tag": "a",
+              "text": "Disclaimer"
+             },
+             {
+              "class": "footer__sub-link",
+              "href": "/using-our-website/accessibility/",
+              "tag": "a",
+              "text": "Accessibility"
+             }
+            ],
+            "class": "footer__sub-links",
+            "tag": "div"
+           },
+           {
+            "children": [
+             {
+              "tag": "span",
+              "text": "Copyright © 2025 Commerce Commission"
+             },
+             {
+              "children": [
+               {
+                "aria-hidden": "true",
+                "src": "/_resources/themes/app/images/nz-govt.webp?m=1761615675",
+                "tag": "img"
+               }
+              ],
+              "class": "d-none d-xl-block",
+              "href": "https://www.govt.nz/",
+              "tag": "a",
+              "title": "Visit govt.nz"
+             }
+            ],
+            "class": "footer__meta-info",
+            "tag": "div"
+           },
+           {
+            "children": [
+             {
+              "aria-hidden": "true",
+              "src": "/_resources/themes/app/images/nz-govt.webp?m=1761615675",
+              "tag": "img"
+             }
+            ],
+            "class": "mt-1 d-xl-none",
+            "href": "https://www.govt.nz/",
+            "tag": "a",
+            "title": "Visit govt.nz"
+           }
+          ],
+          "class": "footer__bottom-container container",
+          "tag": "div"
+         }
+        ],
+        "class": "footer__bottom",
+        "tag": "div"
+       }
+      ],
+      "class": "footer",
+      "tag": "footer"
+     }
+    ],
+    "class": "app",
+    "id": "app",
+    "tag": "div"
+   },
+   {
+    "src": "/_resources/themes/app/dist/assets/vendor-B8xMk_1l.js",
+    "tag": "script",
+    "type": "module"
+   },
+   {
+    "src": "/_resources/themes/app/dist/assets/main-CrHi8oMB.js",
+    "tag": "script",
+    "type": "module"
+   },
+   {
+    "src": "https://staticcdn.co.nz/embed/embed.js",
+    "tag": "script"
+   },
+   {
+    "nonce": "Eg80uAF8vhsmkvSVEzHg9ueK1Jeo3Rbp",
+    "tag": "script",
+    "text": "(function () {\n        window.onload = function(){\n            var frameName = new ds07o6pcmkorn({\n                openElementId: \"#shielded-logo\",\n                modalID: \"modal\",\n            });\n            frameName.init();\n        }\n    })();"
+   }
+  ],
+  "comment": "Google Tag Manager (noscript) End Google Tag Manager (noscript)",
+  "data-pagetype": "CaseRegisterPage",
+  "tag": "body"
+ }
+]
