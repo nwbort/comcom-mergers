@@ -106,4 +106,13 @@ jq --compact-output '.[][]' "$INPUT_FILE" | while IFS= read -r merger_json; do
     if ! echo "$details_json" | jq empty 2>/dev/null; then
         echo "Warning: Invalid or empty JSON extracted for $url" >&2
         echo "DEBUG: Full details_json: $details_json" >&2
-        echo "$merger_json" | jq '. + {d
+        echo "$merger_json" | jq '. + {details: {}}'
+        continue
+    fi
+
+    # Add the extracted 'details' object to the original merger JSON
+    echo "$merger_json" | jq --argjson details "$details_json" '. + {details: $details}'
+
+done | jq -s '.' > "$OUTPUT_FILE"
+
+echo "Success! Detailed data has been added to $OUTPUT_FILE"
