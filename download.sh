@@ -47,7 +47,9 @@ BASE_URL=$(echo "$URL" | awk -F/ '{print $1"//"$3}')
 
 echo "Parsing HTML and extracting merger cases..."
 
-# --- START DEBUGGING BLOCK ---
+echo "Parsing HTML and extracting merger cases..."
+
+# --- START DEBUGGING BLOCK (V2) ---
 
 echo
 echo "============================================================"
@@ -55,29 +57,26 @@ echo "               STARTING PUP DEBUGGING TESTS"
 echo "============================================================"
 echo
 
-# Test 1: Does the basic selector work and find the elements?
-# This should output the first few lines of HTML for the first card.
+# Test 1: Add '|| true' to the end. This prevents set -e from stopping the script
+# on the expected SIGPIPE error.
 echo "--- [Test 1: Basic Selector] ---"
-pup -f "$TEMP_FILE" 'div.card.card--has-link' | head -n 10
+pup -f "$TEMP_FILE" 'div.card.card--has-link' | head -n 10 || true
 echo "[End Test 1]"
 echo
 
-# Test 2: Can we extract a single, simple text field?
-# This is the most critical test. If this fails, the core syntax is wrong.
+# Test 2: This test will now run. This is where we expect the error.
 echo "--- [Test 2: Single JSON Text Field] ---"
 pup -f "$TEMP_FILE" 'div.card.card--has-link' '{"name": "a.card__link text"}'
 echo "[End Test 2]"
 echo
 
-# Test 3: Can we extract a single attribute?
-# This checks the attr{href} syntax.
+# Test 3: This may or may not run, depending on Test 2.
 echo "--- [Test 3: Single JSON Attribute Field] ---"
 pup -f "$TEMP_FILE" 'div.card.card--has-link' '{"link": "a.card__link attr{href}"}'
 echo "[End Test 3]"
 echo
 
-# Test 4: Can we extract an array of text elements?
-# This checks the ["... text"] syntax which was an earlier problem spot.
+# Test 4: This may or may not run.
 echo "--- [Test 4: Array of Text Fields] ---"
 pup -f "$TEMP_FILE" 'div.card.card--has-link' '{"details": ["div.card__info-detail text"]}'
 echo "[End Test 4]"
@@ -88,6 +87,7 @@ echo "============================================================"
 echo "                 END PUP DEBUGGING TESTS"
 echo "============================================================"
 echo
+
 # --- END DEBUGGING BLOCK ---
 # # 5. Use pup to parse HTML.
 # RAW_JSON=$(pup -f "$TEMP_FILE" 'div.card.card--has-link' '{
