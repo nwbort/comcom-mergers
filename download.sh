@@ -90,8 +90,8 @@ FINAL_JSON=$(echo "$INTERMEDIATE_JSON" | jq '
     # Remove intermediate and redundant fields to create the clean object
     del(.tag, .text, .children, .class, .link_relative)
   ) |
-  # Sort by the standardised date (ascending), then by name (ascending)
-  sort_by(.sort_date, .name) |
+  # Sort: nulls last, then by date (ascending), then by name (ascending)
+  sort_by(.sort_date == null, .sort_date, .name) |
   # Remove the temporary sort key from the final output
   map(del(.sort_date))
 ')
