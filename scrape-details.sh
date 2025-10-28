@@ -31,7 +31,7 @@ fi
 echo "Starting to scrape details for each merger..."
 
 # 3. Use jq to iterate over each merger, scrape details, and add them.
-jq --compact-output '.[][]' "$INPUT_FILE" | while IFS= read -r merger_json; do
+jq --compact-output '.[]' "$INPUT_FILE" | while IFS= read -r merger_json; do
     # Note: I changed the jq filter above to '.[]' to handle a potential array of arrays. 
     # Adjust to '.[]' if your mergers.json is a single flat array.
     
