@@ -46,52 +46,95 @@ curl -s -L -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHT
 BASE_URL=$(echo "$URL" | awk -F/ '{print $1"//"$3}')
 
 echo "Parsing HTML and extracting merger cases..."
-# 5. Use pup to parse HTML.
-RAW_JSON=$(pup -f "$TEMP_FILE" 'div.card.card--has-link' '{
-    "name": "a.card__link text",
-    "link_relative": "a.card__link attr{href}",
-    "status": "div.card__status text",
-    "tag": "div.card__tag text",
-    "info_details": ["div.card__info-detail text"]
-}')
 
-echo "Processing, cleaning, and sorting data..."
-# 6. Use jq to process the raw JSON.
-FINAL_JSON=$(echo "$RAW_JSON" | jq '
-  # Helper function to extract a value from the info_details array by its title.
-  # It finds the line containing the title, removes the title, and trims whitespace.
-  def get_info_value($title):
-    .info_details
-    | map(select(. | contains($title)))
-    | .[0] // null
-    | (if . then sub(".*" + $title; "") | sub("^\\s+|\\s+$"; "") else null end);
+# --- START DEBUGGING BLOCK ---
 
-  map(
-    # Extract outcome and date using the helper function
-    .outcome = get_info_value("Outcome:") |
-    .date = get_info_value("Date Closed:") |
-    del(.info_details) | # Clean up the temporary array
+echo
+echo "============================================================"
+echo "               STARTING PUP DEBUGGING TESTS"
+echo "============================================================"
+echo
 
-    # Clean up leading/trailing whitespace from other fields
-    .name |= (sub("^\\s+|\\s+$"; "") | sub("\\s+"; " ")) |
-    .status |= (sub("^\\s+|\\s+$"; "")) |
-    .tag |= (sub("^\\s+|\\s+$"; "")) |
+# Test 1: Does the basic selector work and find the elements?
+# This should output the first few lines of HTML for the first card.
+echo "--- [Test 1: Basic Selector] ---"
+pup -f "$TEMP_FILE" 'div.card.card--has-link' | head -n 10
+echo "[End Test 1]"
+echo
 
-    # Create a full, absolute link
-    .link = "'"$BASE_URL"'" + .link_relative |
-    del(.link_relative) |
+# Test 2: Can we extract a single, simple text field?
+# This is the most critical test. If this fails, the core syntax is wrong.
+echo "--- [Test 2: Single JSON Text Field] ---"
+pup -f "$TEMP_FILE" 'div.card.card--has-link' '{"name": "a.card__link text"}'
+echo "[End Test 2]"
+echo
 
-    # Create a temporary, sortable date field (YYYY-MM-DD).
-    # Cases with no date get `null`, which jq sorts first (ideal for open cases).
-    .sort_date = (if .date then (.date | strptime("%d %B %Y") | strftime("%Y-%m-%d")) else null end)
-  ) |
-  # Sort by the standardized date (ascending), then by name (ascending)
-  sort_by(.sort_date, .name) |
-  # Remove the temporary sort key from the final output
-  map(del(.sort_date))
-')
+# Test 3: Can we extract a single attribute?
+# This checks the attr{href} syntax.
+echo "--- [Test 3: Single JSON Attribute Field] ---"
+pup -f "$TEMP_FILE" 'div.card.card--has-link' '{"link": "a.card__link attr{href}"}'
+echo "[End Test 3]"
+echo
 
-# 7. Save the final JSON to the output file
-echo "$FINAL_JSON" > "$OUTPUT_FILENAME"
+# Test 4: Can we extract an array of text elements?
+# This checks the ["... text"] syntax which was an earlier problem spot.
+echo "--- [Test 4: Array of Text Fields] ---"
+pup -f "$TEMP_FILE" 'div.card.card--has-link' '{"details": ["div.card__info-detail text"]}'
+echo "[End Test 4]"
+echo
 
-echo "Success! Processed data saved to $OUTPUT_FILENAME"
+
+echo "============================================================"
+echo "                 END PUP DEBUGGING TESTS"
+echo "============================================================"
+echo
+# --- END DEBUGGING BLOCK ---
+# # 5. Use pup to parse HTML.
+# RAW_JSON=$(pup -f "$TEMP_FILE" 'div.card.card--has-link' '{
+#     "name": "a.card__link text",
+#     "link_relative": "a.card__link attr{href}",
+#     "status": "div.card__status text",
+#     "tag": "div.card__tag text",
+#     "info_details": ["div.card__info-detail text"]
+# }')
+
+# echo "Processing, cleaning, and sorting data..."
+# # 6. Use jq to process the raw JSON.
+# FINAL_JSON=$(echo "$RAW_JSON" | jq '
+#   # Helper function to extract a value from the info_details array by its title.
+#   # It finds the line containing the title, removes the title, and trims whitespace.
+#   def get_info_value($title):
+#     .info_details
+#     | map(select(. | contains($title)))
+#     | .[0] // null
+#     | (if . then sub(".*" + $title; "") | sub("^\\s+|\\s+$"; "") else null end);
+
+#   map(
+#     # Extract outcome and date using the helper function
+#     .outcome = get_info_value("Outcome:") |
+#     .date = get_info_value("Date Closed:") |
+#     del(.info_details) | # Clean up the temporary array
+
+#     # Clean up leading/trailing whitespace from other fields
+#     .name |= (sub("^\\s+|\\s+$"; "") | sub("\\s+"; " ")) |
+#     .status |= (sub("^\\s+|\\s+$"; "")) |
+#     .tag |= (sub("^\\s+|\\s+$"; "")) |
+
+#     # Create a full, absolute link
+#     .link = "'"$BASE_URL"'" + .link_relative |
+#     del(.link_relative) |
+
+#     # Create a temporary, sortable date field (YYYY-MM-DD).
+#     # Cases with no date get `null`, which jq sorts first (ideal for open cases).
+#     .sort_date = (if .date then (.date | strptime("%d %B %Y") | strftime("%Y-%m-%d")) else null end)
+#   ) |
+#   # Sort by the standardized date (ascending), then by name (ascending)
+#   sort_by(.sort_date, .name) |
+#   # Remove the temporary sort key from the final output
+#   map(del(.sort_date))
+# ')
+
+# # 7. Save the final JSON to the output file
+# echo "$FINAL_JSON" > "$OUTPUT_FILENAME"
+
+# echo "Success! Processed data saved to $OUTPUT_FILENAME"
