@@ -47,26 +47,23 @@ BASE_URL=$(echo "$URL" | awk -F/ '{print $1"//"$3}')
 
 echo "Parsing HTML into intermediate JSON..."
 # 5. Use pup to convert each card into a structured JSON object.
-#    This creates a JSON array where each object is a machine-readable
-#    version of a card's HTML structure. This is the intermediate step.
 INTERMEDIATE_JSON=$(pup -f "$TEMP_FILE" 'div.card.card--has-link json{}')
 
 echo "Transforming intermediate JSON into final format..."
 # 6. Use jq to parse the intermediate JSON and build the final, clean output.
 FINAL_JSON=$(echo "$INTERMEDIATE_JSON" | jq '
   # Helper function to find a node by tag/class and get its text.
-  # `..` is a recursive search, `?` prevents errors on missing keys.
   def find_text($tag; $class):
-    .. | select(.tag? == $tag and (.class? | contains($class))) | .text? // null;
+    .. | select(.tag? == $tag and ((.class? // "") | contains($class))) | .text? // null;
 
   # Helper function to find a node and get an attribute.
   def find_attr($tag; $class; $attr):
-    .. | select(.tag? == $tag and (.class? | contains($class))) | ."\($attr)"? // null;
+    .. | select(.tag? == $tag and ((.class? // "") | contains($class))) | ."\($attr)"? // null;
 
   # Helper function to extract a value from the "info_details" text blob.
   def get_info_value($title):
       # Find all info-detail nodes, get their text
-      [.. | select(.tag? == "div" and .class? | contains("card__info-detail")) | .text?]
+      [.. | select(.tag? == "div" and ((.class? // "") | contains("card__info-detail"))) | .text?]
       # Find the first line that contains the title
       | map(select(. | contains($title))) | .[0] // null
       # If found, remove the title and trim whitespace
