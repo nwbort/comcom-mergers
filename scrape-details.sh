@@ -50,7 +50,7 @@ jq --compact-output '.[:5][]' "$INPUT_FILE" | while IFS= read -r merger_json; do
     echo "DEBUG: Downloaded HTML, length: ${#html_content}" >&2
 
     # Test pup output first
-    pup_output=$(echo "$html_content" | pup 'div.page-content json{}')
+    pup_output=$(echo "$html_content" | pup 'body json{}')
     echo "DEBUG: pup output length: ${#pup_output}" >&2
     echo "DEBUG: pup output first 500 chars: ${pup_output:0:500}" >&2
 

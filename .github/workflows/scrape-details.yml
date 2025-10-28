@@ -1,6 +1,7 @@
 name: Scrape details
 
 on:
+  push:
   workflow_dispatch:
 
 permissions:
