@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+#
 # scrape-details.sh - Scrapes detailed information for each merger in mergers.json
 # and updates the file in place.
 
@@ -11,7 +12,6 @@ OUTPUT_FILE="mergers-detailed.json"
 USER_AGENT="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 
 # --- Main Script ---
-
 # 1. Check for dependencies
 for cmd in curl pup jq; do
     if ! command -v "$cmd" > /dev/null; then
@@ -49,8 +49,13 @@ jq --compact-output '.[:5][]' "$INPUT_FILE" | while IFS= read -r merger_json; do
 
     echo "DEBUG: Downloaded HTML, length: ${#html_content}" >&2
 
+    # Test pup output first
+    pup_output=$(echo "$html_content" | pup 'div.page-content json{}')
+    echo "DEBUG: pup output length: ${#pup_output}" >&2
+    echo "DEBUG: pup output first 500 chars: ${pup_output:0:500}" >&2
+
     # Use pup and jq to extract all required details
-    details_json=$(echo "$html_content" | pup 'div.page-content json{}' | jq -s '
+    details_json=$(echo "$pup_output" | jq -s '
         .[0] | # Work with the first element of the slurped array
         # Helper function to find text of a node by its class
         def find_text($class): .. | select(.tag? and (.class? // "" | contains($class))) | .text?;
@@ -92,14 +97,17 @@ jq --compact-output '.[:5][]' "$INPUT_FILE" | while IFS= read -r merger_json; do
           "case_details": get_case_details,
           "updates": get_updates
         }
-    ' 2>&1) || {
-        echo "Warning: pup/jq extraction failed for $url" >&2
-        echo "DEBUG: details_json content: $details_json" >&2
+    ' 2>&1) 
+
+    echo "DEBUG: details_json length: ${#details_json}" >&2
+    echo "DEBUG: details_json content: '$details_json'" >&2
+
+    # Check if details_json is empty or whitespace
+    if [ -z "$details_json" ] || [ -z "$(echo "$details_json" | tr -d '[:space:]')" ]; then
+        echo "Warning: Empty details extracted for $url" >&2
         echo "$merger_json" | jq '. + {details: {}}'
         continue
-    }
-
-    echo "DEBUG: Extracted details_json: ${details_json:0:200}..." >&2
+    fi
 
     # Validate details_json before using it
     if ! echo "$details_json" | jq empty 2>/dev/null; then
