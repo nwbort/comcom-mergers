@@ -36,10 +36,19 @@
             color: #2c3e50;
             margin-bottom: 10px;
         }
+
+        #search-box {
+            width: 100%;
+            padding: 12px;
+            font-size: 16px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            margin-top: 20px;
+        }
         
         .stats {
             display: flex;
-            gap: 20px;
+            gap: 15px;
             margin-top: 15px;
             flex-wrap: wrap;
         }
@@ -57,6 +66,11 @@
             margin-bottom: 20px;
             border-radius: 8px;
             box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            transition: box-shadow 0.2s ease-in-out;
+        }
+
+        .merger-card:hover {
+            box-shadow: 0 4px 8px rgba(0,0,0,0.12);
         }
         
         .merger-header {
@@ -80,6 +94,7 @@
             font-size: 13px;
             font-weight: 500;
             white-space: nowrap;
+            text-transform: capitalize;
         }
         
         .badge.cleared {
@@ -166,6 +181,56 @@
         .attachment-link:hover {
             background: #0056b3;
         }
+
+        .timeline-container {
+            margin-top: 20px;
+            padding-top: 15px;
+            border-top: 1px solid #eee;
+        }
+
+        .timeline-container details {
+            font-size: 14px;
+        }
+
+        .timeline-container summary {
+            cursor: pointer;
+            font-weight: 600;
+            color: #0056b3;
+            padding: 5px 0;
+        }
+
+        .timeline-content {
+            margin-top: 10px;
+            padding-left: 15px;
+            border-left: 2px solid #007bff;
+        }
+        
+        .timeline-item {
+            position: relative;
+            padding: 10px 0 10px 20px;
+        }
+
+        .timeline-item::before {
+            content: '';
+            position: absolute;
+            left: -24px;
+            top: 14px;
+            width: 10px;
+            height: 10px;
+            border-radius: 50%;
+            background: white;
+            border: 2px solid #007bff;
+        }
+        
+        .timeline-date {
+            font-weight: 600;
+            display: block;
+            margin-bottom: 3px;
+        }
+
+        .timeline-title {
+            color: #555;
+        }
         
         .loading {
             text-align: center;
@@ -187,6 +252,7 @@
         <header>
             <h1>Commerce Commission NZ Merger Register</h1>
             <div class="stats" id="stats"></div>
+            <input type="text" id="search-box" onkeyup="filterMergers()" placeholder="Search mergers by name, party, or industry...">
         </header>
         
         <div id="mergers-container">
@@ -195,6 +261,20 @@
     </div>
 
     <script>
+        function filterMergers() {
+            const searchTerm = document.getElementById('search-box').value.toLowerCase();
+            const mergerCards = document.querySelectorAll('.merger-card');
+
+            mergerCards.forEach(card => {
+                const cardText = card.textContent.toLowerCase();
+                if (cardText.includes(searchTerm)) {
+                    card.style.display = '';
+                } else {
+                    card.style.display = 'none';
+                }
+            });
+        }
+
         async function loadMergers() {
             const container = document.getElementById('mergers-container');
             const statsContainer = document.getElementById('stats');
@@ -207,10 +287,10 @@
                 
                 // Display stats
                 const totalCount = mergers.length;
-                const clearedCount = mergers.filter(m => m.outcome === 'Merger cleared').length;
-                const authorisedCount = mergers.filter(m => m.outcome === 'Merger authorised').length;
-                const declinedCount = mergers.filter(m => m.outcome === 'Merger declined').length;
-                const withdrawnCount = mergers.filter(m => m.outcome === 'Application withdrawn').length;
+                const clearedCount = mergers.filter(m => m.outcome && m.outcome.toLowerCase().includes('cleared')).length;
+                const authorisedCount = mergers.filter(m => m.outcome && m.outcome.toLowerCase().includes('authorised')).length;
+                const declinedCount = mergers.filter(m => m.outcome && m.outcome.toLowerCase().includes('declined')).length;
+                const withdrawnCount = mergers.filter(m => m.outcome && m.outcome.toLowerCase().includes('withdrawn')).length;
 
                 statsContainer.innerHTML = `
                     <div class="stat">Total mergers: ${totalCount}</div>
@@ -240,15 +320,35 @@
                 
                 // Display mergers
                 container.innerHTML = mergers.map(merger => {
+                    const dateOptions = { day: 'numeric', month: 'long', year: 'numeric' };
                     const dateOpened = merger.details.case_details.date_opened ? 
-                        new Date(merger.details.case_details.date_opened).toLocaleDateString('en-NZ', { day: 'numeric', month: 'long', year: 'numeric' }) : 'N/A';
+                        new Date(merger.details.case_details.date_opened).toLocaleDateString('en-NZ', dateOptions) : 'N/A';
                     const dateClosed = merger.details.case_details.date_closed ? 
-                        new Date(merger.details.case_details.date_closed).toLocaleDateString('en-NZ', { day: 'numeric', month: 'long', year: 'numeric' }) : 'N/A';
+                        new Date(merger.details.case_details.date_closed).toLocaleDateString('en-NZ', dateOptions) : 'N/A';
                     
                     const partiesStr = merger.details.case_details.parties || '';
                     const partiesArr = partiesStr.split(';').map(p => p.trim().replace(/&amp;/g, '&'));
                     const acquirer = partiesArr[0] || 'N/A';
                     const target = partiesArr.slice(1).join(', ') || 'N/A';
+
+                    const timelineHtml = merger.details.updates && merger.details.updates.length > 0
+                        ? `
+                            <div class="timeline-container">
+                                <details>
+                                    <summary>View Timeline</summary>
+                                    <div class="timeline-content">
+                                        ${merger.details.updates
+                                            .sort((a, b) => new Date(b.date) - new Date(a.date))
+                                            .map(update => `
+                                                <div class="timeline-item">
+                                                    <span class="timeline-date">${new Date(update.date).toLocaleDateString('en-NZ', dateOptions)}</span>
+                                                    <span class="timeline-title">${update.title}</span>
+                                                </div>
+                                            `).join('')}
+                                    </div>
+                                </details>
+                            </div>
+                        ` : '';
 
                     return `
                         <div class="merger-card">
@@ -277,16 +377,9 @@
                             </div>
                             
                             <div class="parties">
-                                <div class="info-label">Acquirer(s)</div>
+                                <div class="info-label">Parties</div>
                                 <div class="party-list">
-                                    <div class="party">${acquirer}</div>
-                                </div>
-                            </div>
-                            
-                            <div class="parties">
-                                <div class="info-label">Target(s)</div>
-                                <div class="party-list">
-                                    <div class="party">${target}</div>
+                                    ${partiesArr.map(p => `<div class="party">${p}</div>`).join('')}
                                 </div>
                             </div>
                             
@@ -295,6 +388,8 @@
                                     <p>${merger.details.description}</p>
                                 </div>
                             ` : ''}
+                            
+                            ${timelineHtml}
                             
                             ${merger.link ? `
                                 <div class="attachments">
