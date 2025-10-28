@@ -10,6 +10,7 @@ set -o pipefail
 INPUT_FILE="mergers.json"
 OUTPUT_FILE="mergers-detailed.json"
 USER_AGENT="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+FIRST_RUN=true
 
 # --- Main Script ---
 # 1. Check for dependencies
@@ -53,6 +54,13 @@ jq --compact-output '.[:5][]' "$INPUT_FILE" | while IFS= read -r merger_json; do
     pup_output=$(echo "$html_content" | pup 'body json{}')
     echo "DEBUG: pup output length: ${#pup_output}" >&2
     echo "DEBUG: pup output first 500 chars: ${pup_output:0:500}" >&2
+
+    # Save first case for debugging
+    if [ "$FIRST_RUN" = true ]; then
+        echo "$pup_output" > westpac-pup-output.json
+        echo "DEBUG: Saved Westpac pup output to westpac-pup-output.json" >&2
+        FIRST_RUN=false
+    fi
 
     # Use pup and jq to extract all required details
     details_json=$(echo "$pup_output" | jq -s '

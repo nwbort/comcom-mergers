@@ -32,6 +32,15 @@ jobs:
         run: |
           ./scrape-details.sh
 
+      - name: Upload debug artifacts
+        uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: debug-output
+          path: |
+            westpac-pup-output.json
+            mergers-detailed.json
+
       - name: Commit and push changes
         run: |-
           git config user.name "Automated"
