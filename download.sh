@@ -60,14 +60,17 @@ FINAL_JSON=$(echo "$INTERMEDIATE_JSON" | jq '
   def find_attr($tag; $class; $attr):
     .. | select(.tag? == $tag and ((.class? // "") | contains($class))) | ."\($attr)"? // null;
 
-  # Helper function to extract a value from the "info_details" text blob.
+  # Helper function to extract a value from card__info-detail
   def get_info_value($title):
-      # Find all info-detail nodes, get their text
-      [.. | select(.tag? == "div" and ((.class? // "") | contains("card__info-detail"))) | .text?]
-      # Find the first line that contains the title
-      | map(select(. and contains($title))) | .[0] // null
-      # If found, remove the title and trim whitespace
-      | (if . then sub(".*" + $title; "") | sub("^\\s+|\\s+$"; "") else null end);
+      # Find all card__info-detail divs
+      [.. | select(.tag? == "div" and ((.class? // "") | contains("card__info-detail")))]
+      # Find the one whose card__info-title child contains our title
+      | map(select(.children? // [] | any(.tag? == "span" and ((.class? // "") | contains("card__info-title")) and (.text? // "" | contains($title)))))
+      | .[0]?
+      # Get the text from the second span (the value span)
+      | (.children? // [] | map(select(.tag? == "span" and ((.class? // "") | contains("card__info-title") | not))) | .[0]? | .text? // null)
+      # Trim whitespace
+      | if . then sub("^\\s+|\\s+$"; "") else null end;
 
   # Main transformation logic for each card
   map(
@@ -87,7 +90,7 @@ FINAL_JSON=$(echo "$INTERMEDIATE_JSON" | jq '
     # Remove intermediate and redundant fields to create the clean object
     del(.tag, .text, .children, .class, .link_relative)
   ) |
-  # Sort by the standardized date (ascending), then by name (ascending)
+  # Sort by the standardised date (ascending), then by name (ascending)
   sort_by(.sort_date, .name) |
   # Remove the temporary sort key from the final output
   map(del(.sort_date))
