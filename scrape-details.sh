@@ -97,8 +97,15 @@ while IFS= read -r merger_json; do
     }
   ')
 
-  # Add the extracted 'details' object to the original merger JSON
-  echo "$merger_json" | jq --argjson details "$details_json" '. + {details: $details}'
+# Add the extracted 'details' object to the original merger JSON
+# Check if details_json is valid JSON first
+if echo "$details_json" | jq empty 2>/dev/null; then
+    echo "$merger_json" | jq --argjson details "$details_json" '. + {details: $details}'
+else
+    echo "Warning: Failed to extract valid details JSON for $url" >&2
+    # Return merger with empty details object
+    echo "$merger_json" | jq '. + {details: {}}'
+fi
 
 # The output of the while loop is collected by the final jq and formatted as a JSON array
 done | jq -s '.' > "$OUTPUT_FILE"
