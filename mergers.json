@@ -1,19 +1,5 @@
 [
   {
-    "name": "Kegstar New Zealand Limited and Konvoy New Zealand Limited",
-    "status": "Open",
-    "outcome": null,
-    "date": null,
-    "link": "https://www.comcom.govt.nz/case-register/case-register-entries/kegstar-new-zealand-limited-and-konvoy-new-zealand-limited/"
-  },
-  {
-    "name": "Mohawk Industries, Inc. Godfrey Hirst New Zealand Limited and Bremworth Limited",
-    "status": "Open",
-    "outcome": null,
-    "date": null,
-    "link": "https://www.comcom.govt.nz/case-register/case-register-entries/mohawk-industries-inc-godfrey-hirst-new-zealand-limited-and-bremworth-limited/"
-  },
-  {
     "name": "Westpac Banking Corporation",
     "status": "Closed",
     "outcome": "Merger cleared",
@@ -4926,5 +4912,19 @@
     "outcome": "Application withdrawn",
     "date": "17 October 2025",
     "link": "https://www.comcom.govt.nz/case-register/case-register-entries/viridian-nz-bidco-limited-and-metro-performance-glass-limited/"
+  },
+  {
+    "name": "Kegstar New Zealand Limited and Konvoy New Zealand Limited",
+    "status": "Open",
+    "outcome": null,
+    "date": null,
+    "link": "https://www.comcom.govt.nz/case-register/case-register-entries/kegstar-new-zealand-limited-and-konvoy-new-zealand-limited/"
+  },
+  {
+    "name": "Mohawk Industries, Inc. Godfrey Hirst New Zealand Limited and Bremworth Limited",
+    "status": "Open",
+    "outcome": null,
+    "date": null,
+    "link": "https://www.comcom.govt.nz/case-register/case-register-entries/mohawk-industries-inc-godfrey-hirst-new-zealand-limited-and-bremworth-limited/"
   }
 ]
