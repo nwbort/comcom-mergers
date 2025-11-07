@@ -59,6 +59,20 @@
             border-radius: 4px;
             font-size: 14px;
         }
+
+        .stat-clickable {
+            cursor: pointer;
+            transition: background-color 0.2s ease-in-out;
+        }
+
+        .stat-clickable:hover {
+            background-color: #e9ecef;
+        }
+
+        .stat.active {
+            background: #007bff;
+            color: white;
+        }
         
         .merger-card {
             background: white;
@@ -115,6 +129,11 @@
         .badge.withdrawn {
             background: #fff3cd;
             color: #856404;
+        }
+
+        .badge.in-progress {
+            background: #cce5ff;
+            color: #004085;
         }
 
         .info-grid {
@@ -291,13 +310,17 @@
     </div>
 
     <script>
+        let currentStatusFilter = 'total';
+
         function filterMergers() {
             const searchTerm = document.getElementById('search-box').value.toLowerCase();
             const mergerCards = document.querySelectorAll('.merger-card');
 
             mergerCards.forEach(card => {
                 const cardText = card.textContent.toLowerCase();
-                if (cardText.includes(searchTerm)) {
+                const statusMatch = currentStatusFilter === 'total' || card.dataset.status === currentStatusFilter;
+
+                if (cardText.includes(searchTerm) && statusMatch) {
                     card.style.display = '';
                 } else {
                     card.style.display = 'none';
@@ -322,17 +345,29 @@
                 const authorisedCount = mergers.filter(m => m.outcome && m.outcome.toLowerCase().includes('authorised')).length;
                 const declinedCount = mergers.filter(m => m.outcome && m.outcome.toLowerCase().includes('declined')).length;
                 const withdrawnCount = mergers.filter(m => m.outcome && m.outcome.toLowerCase().includes('withdrawn')).length;
+                const inProgressCount = totalCount - clearedCount - authorisedCount - declinedCount - withdrawnCount;
 
                 statsContainer.innerHTML = `
-                    <div class="stat">Total mergers: ${totalCount}</div>
-                    <div class="stat">Cleared: ${clearedCount}</div>
-                    <div class="stat">Authorised: ${authorisedCount}</div>
-                    <div class="stat">Declined: ${declinedCount}</div>
-                    <div class="stat">Withdrawn: ${withdrawnCount}</div>
+                    <div class="stat stat-clickable" data-filter="total">Total mergers: ${totalCount}</div>
+                    <div class="stat stat-clickable" data-filter="in-progress">In Progress: ${inProgressCount}</div>
+                    <div class="stat stat-clickable" data-filter="cleared">Cleared: ${clearedCount}</div>
+                    <div class="stat stat-clickable" data-filter="authorised">Authorised: ${authorisedCount}</div>
+                    <div class="stat stat-clickable" data-filter="declined">Declined: ${declinedCount}</div>
+                    <div class="stat stat-clickable" data-filter="withdrawn">Withdrawn: ${withdrawnCount}</div>
                 `;
 
+                function getOutcomeStatus(outcome) {
+                    if (!outcome) return 'in-progress';
+                    const lowerOutcome = outcome.toLowerCase();
+                    if (lowerOutcome.includes('cleared')) return 'cleared';
+                    if (lowerOutcome.includes('authorised')) return 'authorised';
+                    if (lowerOutcome.includes('declined')) return 'declined';
+                    if (lowerOutcome.includes('withdrawn')) return 'withdrawn';
+                    return 'in-progress';
+                }
+
                 function getBadge(outcome) {
-                    if (!outcome) return '<span class="badge">Outcome N/A</span>';
+                    if (!outcome) return '<span class="badge in-progress">In progress</span>';
                     const lowerOutcome = outcome.toLowerCase();
                     if (lowerOutcome.includes('cleared')) {
                         return `<span class="badge cleared">${outcome}</span>`;
@@ -355,7 +390,7 @@
                     const dateOpened = merger.details.case_details.date_opened ? 
                         new Date(merger.details.case_details.date_opened).toLocaleDateString('en-NZ', dateOptions) : 'N/A';
                     const dateClosed = merger.details.case_details.date_closed ? 
-                        new Date(merger.details.case_details.date_closed).toLocaleDateString('en-NZ', dateOptions) : 'N/A';
+                        new Date(merger.details.case_details.date_closed).toLocaleDateString('en-NZ', dateOptions) : 'In progress';
                     
                     const partiesStr = merger.details.case_details.parties || '';
                     const partiesArr = partiesStr.split(';').map(p => p.trim().replace(/&amp;/g, '&'));
@@ -398,7 +433,7 @@
                         ` : '';
 
                     return `
-                        <div class="merger-card" data-name="${merger.name.toLowerCase()}" data-parties="${partiesArr.join(' ').toLowerCase()}" data-industry="${(merger.details.case_details.industry || '').toLowerCase()}">
+                        <div class="merger-card" data-status="${getOutcomeStatus(merger.outcome)}" data-name="${merger.name.toLowerCase()}" data-parties="${partiesArr.join(' ').toLowerCase()}" data-industry="${(merger.details.case_details.industry || '').toLowerCase()}">
                             <div class="merger-header">
                                 <h2 class="merger-title">${merger.name}</h2>
                                 <div>${getBadge(merger.outcome)}</div>
@@ -432,7 +467,10 @@
                             
                             ${merger.details.description ? `
                                 <div class="description">
-                                    <p>${merger.details.description}</p>
+                                    <details>
+                                        <summary>View Description</summary>
+                                        <p>${merger.details.description}</p>
+                                    </details>
                                 </div>
                             ` : ''}
                             
@@ -447,6 +485,17 @@
                     `;
                 }).join('');
                 
+                document.querySelectorAll('.stat-clickable').forEach(stat => {
+                    stat.addEventListener('click', () => {
+                        document.querySelectorAll('.stat-clickable').forEach(s => s.classList.remove('active'));
+                        stat.classList.add('active');
+                        currentStatusFilter = stat.dataset.filter;
+                        filterMergers();
+                    });
+                });
+                // Set "total" as active by default
+                document.querySelector('[data-filter="total"]').classList.add('active');
+
             } catch (error) {
                 container.innerHTML = `
                     <div class="error">
