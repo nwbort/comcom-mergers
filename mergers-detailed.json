@@ -29637,19 +29637,7 @@
     "link": "https://www.comcom.govt.nz/case-register/case-register-entries/new-zealand-investment-holdings-limited/",
     "details": {
       "description": "Shares/Assets",
-      "case_details": {
-        "parties": "New Zealand Investment Holdings Limited; RX Plastics Limited",
-        "category": "Merger application",
-        "sub-category": "Clearance",
-        "act/section": "Commerce Act 1986 66",
-        "industry": "Manufacturing",
-        "status": "Closed",
-        "outcome": "Merger cleared",
-        "case_number": "Cleared: 03/04/2008 Decision No: 639",
-        "date_opened": "11 February 2008",
-        "date_closed": "03 April 2008",
-        "contact_person": ""
-      },
+      "case_details": {},
       "updates": [
         {
           "date": "2013-07-26",
