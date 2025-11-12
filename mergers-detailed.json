@@ -23727,86 +23727,9 @@
     "date": "6 May 2005",
     "link": "https://www.comcom.govt.nz/case-register/case-register-entries/provet-nz-pty-limited/",
     "details": {
-      "description": "Assets",
-      "case_details": {
-        "parties": "Provet NZ Pty Limited; National Veterinary Supplies Limited",
-        "category": "Merger application",
-        "sub-category": "Clearance",
-        "act/section": "Commerce Act 1986 66",
-        "industry": "Health care and social assistance",
-        "status": "Closed",
-        "outcome": "Merger cleared",
-        "case_number": "Cleared: 06/05/2005 Decision: 549",
-        "date_opened": "29 March 2005",
-        "date_closed": "06 May 2005",
-        "contact_person": ""
-      },
-      "updates": [
-        {
-          "date": "2005-05-06",
-          "title": "Date closed",
-          "summary": null,
-          "status": "Completed",
-          "documents": []
-        },
-        {
-          "date": "2005-05-05",
-          "title": "Decision 549 - Application for Acquisition Clearance - Provet NZ Pty and National Veterinary Supplies - 5 May 2005",
-          "summary": null,
-          "status": "Completed",
-          "documents": [
-            {
-              "File.ID": 23353,
-              "File.Title": "Public-Provet---Veterinary-Supplies-Decision-549_1.pdf",
-              "File.Name": "Public-Provet-Veterinary-Supplies-Decision-549_1.pdf",
-              "File.URL": "/assets/pdf_file/0037/73999/Public-Provet-Veterinary-Supplies-Decision-549_1.pdf",
-              "File.FileType": "PDF",
-              "File.FileSize": "199 KB",
-              "File.PublishDate": "26 Jul 2013",
-              "SelectedCategory.ID": 493,
-              "SelectedCategory.Name": "Mergers and acquisitions",
-              "SelectedSubCategory.ID": 0,
-              "SelectedSubCategory.Name": null,
-              "SelectedContentType.ID": 459,
-              "SelectedContentType.Name": "Commission determination",
-              "SelectedSubContentType.ID": 470,
-              "SelectedSubContentType.Name": "Determination"
-            }
-          ]
-        },
-        {
-          "date": "2005-03-29",
-          "title": "Provet NZ Pty and National Veterinary Supplies - Notice Seeking Clearance - 29 March 2005",
-          "summary": null,
-          "status": "Completed",
-          "documents": [
-            {
-              "File.ID": 23351,
-              "File.Title": "Application-Provet---PUBLIC.pdf",
-              "File.Name": "Application-Provet-PUBLIC.pdf",
-              "File.URL": "/assets/pdf_file/0035/73997/Application-Provet-PUBLIC.pdf",
-              "File.FileType": "PDF",
-              "File.FileSize": "223 KB",
-              "File.PublishDate": "26 Jul 2013",
-              "SelectedCategory.ID": 493,
-              "SelectedCategory.Name": "Mergers and acquisitions",
-              "SelectedSubCategory.ID": 0,
-              "SelectedSubCategory.Name": null,
-              "SelectedContentType.ID": 468,
-              "SelectedContentType.Name": "Merger documents",
-              "SelectedSubContentType.ID": 469,
-              "SelectedSubContentType.Name": "Application"
-            }
-          ]
-        },
-        {
-          "date": "2005-03-29",
-          "title": "Date opened",
-          "summary": null,
-          "status": "Completed",
-          "documents": []
-        }
-      ]
+      "description": "",
+      "case_details": {},
+      "updates": []
     }
   },
   {
