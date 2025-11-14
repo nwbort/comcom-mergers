@@ -70935,14 +70935,66 @@
           "date": "2025-11-11",
           "title": "Submissions on Statement of Preliminary Issues",
           "summary": null,
-          "status": null,
-          "documents": []
+          "status": "Completed",
+          "documents": [
+            {
+              "File.ID": 29159,
+              "File.Title": "Anonymous A – Submission on Godfrey Hirst and Bremworth Statement of Preliminary Issues – 9 November 2025",
+              "File.Name": "Anonymous-A-Submission-on-Godfrey-Hirst-and-Bremworth-Statement-of-Preliminary-Issues-9-November-2025.pdf",
+              "File.URL": "/assets/Documents/timeline/Anonymous-A-Submission-on-Godfrey-Hirst-and-Bremworth-Statement-of-Preliminary-Issues-9-November-2025.pdf",
+              "File.FileType": "PDF",
+              "File.FileSize": "606 KB",
+              "File.PublishDate": "13 Nov 2025",
+              "SelectedCategory.ID": 493,
+              "SelectedCategory.Name": "Mergers and acquisitions",
+              "SelectedSubCategory.ID": 0,
+              "SelectedSubCategory.Name": null,
+              "SelectedContentType.ID": 455,
+              "SelectedContentType.Name": "Other",
+              "SelectedSubContentType.ID": 0,
+              "SelectedSubContentType.Name": null
+            },
+            {
+              "File.ID": 29158,
+              "File.Title": "Anonymous B – Submission on Godfrey Hirst and Bremworth Statement of Preliminary Issues – 12 November 2025",
+              "File.Name": "Anonymous-B-Submission-on-Godfrey-Hirst-and-Bremworth-Statement-of-Preliminary-Issues-12-November-2025.pdf",
+              "File.URL": "/assets/Documents/timeline/Anonymous-B-Submission-on-Godfrey-Hirst-and-Bremworth-Statement-of-Preliminary-Issues-12-November-2025.pdf",
+              "File.FileType": "PDF",
+              "File.FileSize": "213 KB",
+              "File.PublishDate": "13 Nov 2025",
+              "SelectedCategory.ID": 493,
+              "SelectedCategory.Name": "Mergers and acquisitions",
+              "SelectedSubCategory.ID": 0,
+              "SelectedSubCategory.Name": null,
+              "SelectedContentType.ID": 455,
+              "SelectedContentType.Name": "Other",
+              "SelectedSubContentType.ID": 0,
+              "SelectedSubContentType.Name": null
+            },
+            {
+              "File.ID": 29160,
+              "File.Title": "Cowes Bay Group – Submission on Godfrey Hirst and Bremworth Statement of Preliminary Issues – 12 November 2025",
+              "File.Name": "Cowes-Bay-Group-Submission-on-Godfrey-Hirst-and-Bremworth-Statement-of-Preliminary-Issues-12-November-2025.pdf",
+              "File.URL": "/assets/Documents/timeline/Cowes-Bay-Group-Submission-on-Godfrey-Hirst-and-Bremworth-Statement-of-Preliminary-Issues-12-November-2025.pdf",
+              "File.FileType": "PDF",
+              "File.FileSize": "315 KB",
+              "File.PublishDate": "13 Nov 2025",
+              "SelectedCategory.ID": 493,
+              "SelectedCategory.Name": "Mergers and acquisitions",
+              "SelectedSubCategory.ID": 0,
+              "SelectedSubCategory.Name": null,
+              "SelectedContentType.ID": 455,
+              "SelectedContentType.Name": "Other",
+              "SelectedSubContentType.ID": 0,
+              "SelectedSubContentType.Name": null
+            }
+          ]
         },
         {
           "date": "2025-10-28",
           "title": "Statement of Preliminary Issues published",
           "summary": null,
-          "status": null,
+          "status": "Completed",
           "documents": [
             {
               "File.ID": 29037,
