@@ -71095,7 +71095,7 @@
     }
   },
   {
-    "name": "Rafting JV Co and Rotorua Rafting, Kaitiaki Adventures and Kaituna Cascades",
+    "name": "Rotorua Rafting Holdings Limited (Rafting JV Co)/ Rotorua Rafting, Kaitiaki Adventures and Kaituna Cascades",
     "status": "Open",
     "outcome": null,
     "date": null,
@@ -71122,6 +71122,48 @@
           "summary": null,
           "status": null,
           "documents": []
+        },
+        {
+          "date": "2025-11-27",
+          "title": "Submissions on Statement of Preliminary Issues",
+          "summary": null,
+          "status": null,
+          "documents": [
+            {
+              "File.ID": 29175,
+              "File.Title": "Contiki NZ – Submission in response to Statement of Preliminary Issues – 10 November 2025",
+              "File.Name": "Contiki-NZ-Submission-in-response-to-Statement-of-Preliminary-Issues-10-November-2025.pdf",
+              "File.URL": "/assets/Documents/timeline/Contiki-NZ-Submission-in-response-to-Statement-of-Preliminary-Issues-10-November-2025.pdf",
+              "File.FileType": "PDF",
+              "File.FileSize": "204 KB",
+              "File.PublishDate": "19 Nov 2025",
+              "SelectedCategory.ID": 493,
+              "SelectedCategory.Name": "Mergers and acquisitions",
+              "SelectedSubCategory.ID": 0,
+              "SelectedSubCategory.Name": null,
+              "SelectedContentType.ID": 455,
+              "SelectedContentType.Name": "Other",
+              "SelectedSubContentType.ID": 0,
+              "SelectedSubContentType.Name": null
+            },
+            {
+              "File.ID": 29176,
+              "File.Title": "Rotorua NZ – Submission in response to Statement of Preliminary Issues – 11 November 2025",
+              "File.Name": "Rotorua-NZ-Submission-in-response-to-Statement-of-Preliminary-Issues-11-November-2025.pdf",
+              "File.URL": "/assets/Documents/timeline/Rotorua-NZ-Submission-in-response-to-Statement-of-Preliminary-Issues-11-November-2025.pdf",
+              "File.FileType": "PDF",
+              "File.FileSize": "426 KB",
+              "File.PublishDate": "19 Nov 2025",
+              "SelectedCategory.ID": 493,
+              "SelectedCategory.Name": "Mergers and acquisitions",
+              "SelectedSubCategory.ID": 0,
+              "SelectedSubCategory.Name": null,
+              "SelectedContentType.ID": 455,
+              "SelectedContentType.Name": "Other",
+              "SelectedSubContentType.ID": 0,
+              "SelectedSubContentType.Name": null
+            }
+          ]
         },
         {
           "date": "2025-11-13",
