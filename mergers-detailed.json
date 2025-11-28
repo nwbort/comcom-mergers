@@ -18845,8 +18845,35 @@
     "link": "https://www.comcom.govt.nz/case-register/case-register-entries/marstel-terminals-pty-limited/",
     "details": {
       "description": "Shares",
-      "case_details": {},
-      "updates": []
+      "case_details": {
+        "parties": "Marstel Terminals Pty Limited; Bulk Storage Terminals Limited",
+        "category": "Merger application",
+        "sub-category": "Clearance",
+        "act/section": "Commerce Act 1986 66",
+        "industry": "Other",
+        "status": "Closed",
+        "outcome": "Application withdrawn",
+        "case_number": "Withdrawn: 08/08/2002",
+        "date_opened": "22 May 2002",
+        "date_closed": "08 August 2002",
+        "contact_person": ""
+      },
+      "updates": [
+        {
+          "date": "2002-08-08",
+          "title": "Date closed",
+          "summary": "",
+          "status": "Open",
+          "documents": []
+        },
+        {
+          "date": "2002-05-22",
+          "title": "Date opened",
+          "summary": "",
+          "status": "Open",
+          "documents": []
+        }
+      ]
     }
   },
   {
