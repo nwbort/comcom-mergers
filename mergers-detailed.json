@@ -29993,19 +29993,7 @@
     "link": "https://www.comcom.govt.nz/case-register/case-register-entries/redeal-limited/",
     "details": {
       "description": "Assets/business",
-      "case_details": {
-        "parties": "Redeal Limited; Egley Electrical Co Limited &amp; Egley Electrical Petone Limited",
-        "category": "Merger application",
-        "sub-category": "Clearance",
-        "act/section": "Commerce Act 1986 66",
-        "industry": "Electricity, gas, water, and waste services",
-        "status": "Closed",
-        "outcome": "Merger cleared",
-        "case_number": "Cleared: 12/06/2008 Decision No: 645",
-        "date_opened": "16 May 2008",
-        "date_closed": "12 June 2008",
-        "contact_person": ""
-      },
+      "case_details": {},
       "updates": [
         {
           "date": "2008-06-12",
