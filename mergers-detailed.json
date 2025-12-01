@@ -71004,6 +71004,57 @@
               "SelectedContentType.Name": "Other",
               "SelectedSubContentType.ID": 0,
               "SelectedSubContentType.Name": null
+            },
+            {
+              "File.ID": 29261,
+              "File.Title": "Anonymous D – Submission on Godfrey Hirst and Bremworth Statement of Preliminary Issues – 25 November 2025",
+              "File.Name": "Anonymous-D-Submission-on-Godfrey-Hirst-and-Bremworth-Statement-of-Preliminary-Issues-25-November-2025.pdf",
+              "File.URL": "/assets/Documents/timeline/Anonymous-D-Submission-on-Godfrey-Hirst-and-Bremworth-Statement-of-Preliminary-Issues-25-November-2025.pdf",
+              "File.FileType": "PDF",
+              "File.FileSize": "128 KB",
+              "File.PublishDate": "01 Dec 2025",
+              "SelectedCategory.ID": 493,
+              "SelectedCategory.Name": "Mergers and acquisitions",
+              "SelectedSubCategory.ID": 0,
+              "SelectedSubCategory.Name": null,
+              "SelectedContentType.ID": 468,
+              "SelectedContentType.Name": "Merger documents",
+              "SelectedSubContentType.ID": 471,
+              "SelectedSubContentType.Name": "Submission"
+            },
+            {
+              "File.ID": 29262,
+              "File.Title": "Link Economics – Submission on Godfrey Hirst and Bremworth Statement of Preliminary Issues – 27 November 2025",
+              "File.Name": "Link-Economics-Submission-on-Godfrey-Hirst-and-Bremworth-Statement-of-Preliminary-Issues-27-November-2025.pdf",
+              "File.URL": "/assets/Documents/timeline/Link-Economics-Submission-on-Godfrey-Hirst-and-Bremworth-Statement-of-Preliminary-Issues-27-November-2025.pdf",
+              "File.FileType": "PDF",
+              "File.FileSize": "599 KB",
+              "File.PublishDate": "01 Dec 2025",
+              "SelectedCategory.ID": 493,
+              "SelectedCategory.Name": "Mergers and acquisitions",
+              "SelectedSubCategory.ID": 0,
+              "SelectedSubCategory.Name": null,
+              "SelectedContentType.ID": 468,
+              "SelectedContentType.Name": "Merger documents",
+              "SelectedSubContentType.ID": 471,
+              "SelectedSubContentType.Name": "Submission"
+            },
+            {
+              "File.ID": 29263,
+              "File.Title": "Matthews Law – Submission on Godfrey Hirst and Bremworth Statement of Preliminary Issues – 27 November 2025",
+              "File.Name": "Matthews-Law-Submission-on-Godfrey-Hirst-and-Bremworth-Statement-of-Preliminary-Issues-27-November-2025.pdf",
+              "File.URL": "/assets/Documents/timeline/Matthews-Law-Submission-on-Godfrey-Hirst-and-Bremworth-Statement-of-Preliminary-Issues-27-November-2025.pdf",
+              "File.FileType": "PDF",
+              "File.FileSize": "741 KB",
+              "File.PublishDate": "01 Dec 2025",
+              "SelectedCategory.ID": 493,
+              "SelectedCategory.Name": "Mergers and acquisitions",
+              "SelectedSubCategory.ID": 0,
+              "SelectedSubCategory.Name": null,
+              "SelectedContentType.ID": 468,
+              "SelectedContentType.Name": "Merger documents",
+              "SelectedSubContentType.ID": 471,
+              "SelectedSubContentType.Name": "Submission"
             }
           ]
         },
@@ -71144,7 +71195,7 @@
           "date": "2025-11-27",
           "title": "Submissions on Statement of Preliminary Issues",
           "summary": null,
-          "status": null,
+          "status": "Completed",
           "documents": [
             {
               "File.ID": 29175,
@@ -71179,6 +71230,23 @@
               "SelectedContentType.Name": "Other",
               "SelectedSubContentType.ID": 0,
               "SelectedSubContentType.Name": null
+            },
+            {
+              "File.ID": 29265,
+              "File.Title": "Tourism Industry Aotearoa – Submission in response to the Statement of Preliminary Issues – 26 November 2025",
+              "File.Name": "Tourism-Industry-Aotearoa-Submission-in-response-to-the-Statement-of-Preliminary-Issues-26-November-2025.pdf",
+              "File.URL": "/assets/Documents/timeline/Tourism-Industry-Aotearoa-Submission-in-response-to-the-Statement-of-Preliminary-Issues-26-November-2025.pdf",
+              "File.FileType": "PDF",
+              "File.FileSize": "793 KB",
+              "File.PublishDate": "01 Dec 2025",
+              "SelectedCategory.ID": 493,
+              "SelectedCategory.Name": "Mergers and acquisitions",
+              "SelectedSubCategory.ID": 0,
+              "SelectedSubCategory.Name": null,
+              "SelectedContentType.ID": 468,
+              "SelectedContentType.Name": "Merger documents",
+              "SelectedSubContentType.ID": 471,
+              "SelectedSubContentType.Name": "Submission"
             }
           ]
         },
