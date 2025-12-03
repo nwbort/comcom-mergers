@@ -70703,11 +70703,50 @@
       },
       "updates": [
         {
+          "date": "2026-01-23",
+          "title": "Cross-submissions on SoUI",
+          "summary": null,
+          "status": null,
+          "documents": []
+        },
+        {
+          "date": "2025-12-19",
+          "title": "Submissions on SoUI",
+          "summary": null,
+          "status": null,
+          "documents": []
+        },
+        {
           "date": "2025-12-04",
           "title": "Decision date ",
           "summary": null,
           "status": null,
           "documents": []
+        },
+        {
+          "date": "2025-12-03",
+          "title": "SoUI published",
+          "summary": null,
+          "status": null,
+          "documents": [
+            {
+              "File.ID": 29273,
+              "File.Title": "Kegstar and Konvoy – Statement of Unresolved Issues – 3 December 2025",
+              "File.Name": "Kegstar-and-Konvoy-Statement-of-Unresolved-Issues-3-December-2025.pdf",
+              "File.URL": "/assets/Documents/timeline/Kegstar-and-Konvoy-Statement-of-Unresolved-Issues-3-December-2025.pdf",
+              "File.FileType": "PDF",
+              "File.FileSize": "390 KB",
+              "File.PublishDate": "03 Dec 2025",
+              "SelectedCategory.ID": 493,
+              "SelectedCategory.Name": "Mergers and acquisitions",
+              "SelectedSubCategory.ID": 0,
+              "SelectedSubCategory.Name": null,
+              "SelectedContentType.ID": 468,
+              "SelectedContentType.Name": "Merger documents",
+              "SelectedSubContentType.ID": 474,
+              "SelectedSubContentType.Name": "Letter of unresolved issues"
+            }
+          ]
         },
         {
           "date": "2025-10-30",
