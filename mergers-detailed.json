@@ -70703,6 +70703,13 @@
       },
       "updates": [
         {
+          "date": "2026-03-11",
+          "title": "Decision date",
+          "summary": null,
+          "status": null,
+          "documents": []
+        },
+        {
           "date": "2026-01-23",
           "title": "Cross-submissions on SoUI",
           "summary": null,
@@ -70718,9 +70725,9 @@
         },
         {
           "date": "2025-12-04",
-          "title": "Decision date ",
+          "title": "Decision date (extension to 11 March 2026)",
           "summary": null,
-          "status": null,
+          "status": "Completed",
           "documents": []
         },
         {
