@@ -96,6 +96,16 @@ FINAL_JSON=$(echo "$INTERMEDIATE_JSON" | jq '
   map(del(.sort_date))
 ')
 
+# Patch mergers with missing outcomes
+FINAL_JSON=$(echo "$FINAL_JSON" | jq '
+  map(
+    if .name == "H J Heinz Company" then .outcome = "Cleared"
+    elif .name == "Ravensdown Corporation Ltd" then .outcome = "Declined"
+    else .
+    end
+  )
+')
+
 # 7. Save the final JSON to the output file
 echo "$FINAL_JSON" > "$OUTPUT_FILENAME"
 
