@@ -3420,7 +3420,7 @@
   {
     "name": "H J Heinz Company",
     "status": "Closed",
-    "outcome": null,
+    "outcome": "Cleared",
     "date": "30 September 1992",
     "link": "https://www.comcom.govt.nz/case-register/case-register-entries/h-j-heinz-company/",
     "details": {
@@ -7671,7 +7671,7 @@
   {
     "name": "Ravensdown Corporation Ltd",
     "status": "Closed",
-    "outcome": null,
+    "outcome": "Declined",
     "date": "21 June 1996",
     "link": "https://www.comcom.govt.nz/case-register/case-register-entries/ravensdown-corporation-ltd/",
     "details": {
@@ -70710,14 +70710,14 @@
           "documents": []
         },
         {
-          "date": "2026-01-23",
+          "date": "2026-02-13",
           "title": "Cross-submissions on SoUI",
           "summary": null,
           "status": null,
           "documents": []
         },
         {
-          "date": "2025-12-19",
+          "date": "2026-01-30",
           "title": "Submissions on SoUI",
           "summary": null,
           "status": null,
