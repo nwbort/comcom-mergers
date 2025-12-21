@@ -25254,9 +25254,86 @@
     "date": "20 December 2005",
     "link": "https://www.comcom.govt.nz/case-register/case-register-entries/energy-market-services-limited/",
     "details": {
-      "description": "",
-      "case_details": {},
-      "updates": []
+      "description": "Shares",
+      "case_details": {
+        "parties": "Energy Market Services Limited; The Marketplace Company Limited",
+        "category": "Merger application",
+        "sub-category": "Clearance",
+        "act/section": "Commerce Act 1986 66",
+        "industry": "Electricity, gas, water, and waste services",
+        "status": "Closed",
+        "outcome": "Merger declined",
+        "case_number": "Decision No. 569",
+        "date_opened": "26 September 2005",
+        "date_closed": "20 December 2005",
+        "contact_person": ""
+      },
+      "updates": [
+        {
+          "date": "2013-07-26",
+          "title": "Energy Market Services and The Marketplace Company - Notice Seeking Clearance - 23 September 2005",
+          "summary": "",
+          "status": "Open",
+          "documents": [
+            {
+              "File.ID": 23403,
+              "File.Title": "EMS-Clearance-Application---Public-Version2.pdf",
+              "File.Name": "EMS-Clearance-Application-Public-Version2.pdf",
+              "File.URL": "/assets/pdf_file/0033/74949/EMS-Clearance-Application-Public-Version2.pdf",
+              "File.FileType": "PDF",
+              "File.FileSize": "232 KB",
+              "File.PublishDate": "26 Jul 2013",
+              "SelectedCategory.ID": 493,
+              "SelectedCategory.Name": "Mergers and acquisitions",
+              "SelectedSubCategory.ID": 0,
+              "SelectedSubCategory.Name": null,
+              "SelectedContentType.ID": 468,
+              "SelectedContentType.Name": "Merger documents",
+              "SelectedSubContentType.ID": 469,
+              "SelectedSubContentType.Name": "Application"
+            }
+          ]
+        },
+        {
+          "date": "2013-07-26",
+          "title": "Decision 569 - Application for Acquisition Clearance - Energy Market Services and The Marketplace Company - 20 December 2005",
+          "summary": "",
+          "status": "Open",
+          "documents": [
+            {
+              "File.ID": 23405,
+              "File.Title": "PUBLIC-EMS-M-Co---Decision-569_1.pdf",
+              "File.Name": "PUBLIC-EMS-M-Co-Decision-569_1.pdf",
+              "File.URL": "/assets/pdf_file/0026/74951/PUBLIC-EMS-M-Co-Decision-569_1.pdf",
+              "File.FileType": "PDF",
+              "File.FileSize": "320 KB",
+              "File.PublishDate": "26 Jul 2013",
+              "SelectedCategory.ID": 493,
+              "SelectedCategory.Name": "Mergers and acquisitions",
+              "SelectedSubCategory.ID": 0,
+              "SelectedSubCategory.Name": null,
+              "SelectedContentType.ID": 459,
+              "SelectedContentType.Name": "Commission determination",
+              "SelectedSubContentType.ID": 469,
+              "SelectedSubContentType.Name": "Application"
+            }
+          ]
+        },
+        {
+          "date": "2005-12-20",
+          "title": "Date closed",
+          "summary": "",
+          "status": "Open",
+          "documents": []
+        },
+        {
+          "date": "2005-09-26",
+          "title": "Date opened",
+          "summary": "",
+          "status": "Open",
+          "documents": []
+        }
+      ]
     }
   },
   {
