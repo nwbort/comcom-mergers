@@ -70971,10 +70971,56 @@
       },
       "updates": [
         {
-          "date": "2025-12-22",
+          "date": "2026-03-13",
           "title": "Decision date",
           "summary": null,
           "status": null,
+          "documents": []
+        },
+        {
+          "date": "2026-02-10",
+          "title": "Cross-submissions on Statement of Issues",
+          "summary": null,
+          "status": null,
+          "documents": []
+        },
+        {
+          "date": "2026-02-02",
+          "title": "Submissions on Statement of Issues",
+          "summary": null,
+          "status": null,
+          "documents": []
+        },
+        {
+          "date": "2025-12-23",
+          "title": "Statement of Issues published",
+          "summary": null,
+          "status": null,
+          "documents": [
+            {
+              "File.ID": 29395,
+              "File.Title": "Godfrey Hirst and Bremworth – Statement of Issues – 23 December 2025",
+              "File.Name": "Godfrey-Hirst-and-Bremworth-Statement-of-Issues-23-December-2025.pdf",
+              "File.URL": "/assets/Documents/timeline/Godfrey-Hirst-and-Bremworth-Statement-of-Issues-23-December-2025.pdf",
+              "File.FileType": "PDF",
+              "File.FileSize": "601 KB",
+              "File.PublishDate": "23 Dec 2025",
+              "SelectedCategory.ID": 493,
+              "SelectedCategory.Name": "Mergers and acquisitions",
+              "SelectedSubCategory.ID": 0,
+              "SelectedSubCategory.Name": null,
+              "SelectedContentType.ID": 468,
+              "SelectedContentType.Name": "Merger documents",
+              "SelectedSubContentType.ID": 472,
+              "SelectedSubContentType.Name": "Statement of preliminary issues"
+            }
+          ]
+        },
+        {
+          "date": "2025-12-22",
+          "title": "Decision date (extension to 13 March 2026)",
+          "summary": null,
+          "status": "Completed",
           "documents": []
         },
         {
@@ -71144,6 +71190,23 @@
               "File.FileType": "PDF",
               "File.FileSize": "100 KB",
               "File.PublishDate": "17 Dec 2025",
+              "SelectedCategory.ID": 493,
+              "SelectedCategory.Name": "Mergers and acquisitions",
+              "SelectedSubCategory.ID": 0,
+              "SelectedSubCategory.Name": null,
+              "SelectedContentType.ID": 468,
+              "SelectedContentType.Name": "Merger documents",
+              "SelectedSubContentType.ID": 471,
+              "SelectedSubContentType.Name": "Submission"
+            },
+            {
+              "File.ID": 29396,
+              "File.Title": "Cowes Bay Group – Response to Godfrey Hirst comments – 18 December 2025",
+              "File.Name": "Cowes-Bay-Group-Response-to-Godfrey-Hirst-comments-18-December-2025.pdf",
+              "File.URL": "/assets/Documents/timeline/Cowes-Bay-Group-Response-to-Godfrey-Hirst-comments-18-December-2025.pdf",
+              "File.FileType": "PDF",
+              "File.FileSize": "141 KB",
+              "File.PublishDate": "23 Dec 2025",
               "SelectedCategory.ID": 493,
               "SelectedCategory.Name": "Mergers and acquisitions",
               "SelectedSubCategory.ID": 0,
