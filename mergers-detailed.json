@@ -26540,7 +26540,19 @@
     "link": "https://www.comcom.govt.nz/case-register/case-register-entries/toll-owens-limited/",
     "details": {
       "description": "Assets",
-      "case_details": {},
+      "case_details": {
+        "parties": "Toll Owens Limited; John Ray Limited",
+        "category": "Merger application",
+        "sub-category": "Clearance",
+        "act/section": "Commerce Act 1986 66",
+        "industry": "Transport, postal, and warehousing",
+        "status": "Closed",
+        "outcome": "Merger cleared",
+        "case_number": "Cleared: 11/10/2006 Decision No: 590",
+        "date_opened": "06 September 2006",
+        "date_closed": "11 October 2006",
+        "contact_person": ""
+      },
       "updates": [
         {
           "date": "2006-10-11",
