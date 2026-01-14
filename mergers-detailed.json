@@ -28077,86 +28077,9 @@
     "date": "12 September 2007",
     "link": "https://www.comcom.govt.nz/case-register/case-register-entries/new-zealand-post-limited-and-salmat-international-pty-limited/",
     "details": {
-      "description": "Shares/Assets",
-      "case_details": {
-        "parties": "New Zealand Post Limited &amp; Salmat International Pty Limited; Letterbox Channel Limited &amp; Deltarg Distribution Systems Limited",
-        "category": "Merger application",
-        "sub-category": "Clearance",
-        "act/section": "Commerce Act 1986 66",
-        "industry": "Transport, postal, and warehousing",
-        "status": "Closed",
-        "outcome": "Merger cleared",
-        "case_number": "Cleared: 12/09/2007  Decision No: 617",
-        "date_opened": "06 August 2007",
-        "date_closed": "12 September 2007",
-        "contact_person": ""
-      },
-      "updates": [
-        {
-          "date": "2013-07-26",
-          "title": "NZ Post and Salmat International Pty - Notice Seeking Clearance - 6 August 2007",
-          "summary": "",
-          "status": "Open",
-          "documents": [
-            {
-              "File.ID": 23541,
-              "File.Title": "PUBLIC---NZ-Post--Salmat---LBC--Deltarg---application_1.pdf",
-              "File.Name": "PUBLIC-NZ-Post-Salmat-LBC-Deltarg-application_1.pdf",
-              "File.URL": "/assets/pdf_file/0026/75374/PUBLIC-NZ-Post-Salmat-LBC-Deltarg-application_1.pdf",
-              "File.FileType": "PDF",
-              "File.FileSize": "766 KB",
-              "File.PublishDate": "26 Jul 2013",
-              "SelectedCategory.ID": 493,
-              "SelectedCategory.Name": "Mergers and acquisitions",
-              "SelectedSubCategory.ID": 0,
-              "SelectedSubCategory.Name": null,
-              "SelectedContentType.ID": 468,
-              "SelectedContentType.Name": "Merger documents",
-              "SelectedSubContentType.ID": 469,
-              "SelectedSubContentType.Name": "Application"
-            }
-          ]
-        },
-        {
-          "date": "2013-07-26",
-          "title": "Decision 617 - Application for Acquisition Clearance - NZ Post and Salmat International Pty - 12 September 2007",
-          "summary": "",
-          "status": "Open",
-          "documents": [
-            {
-              "File.ID": 23543,
-              "File.Title": "PUBLIC-NZ-Post-Salmat---Decision-617---Written-Reasons_1.pdf",
-              "File.Name": "PUBLIC-NZ-Post-Salmat-Decision-617-Written-Reasons_1.pdf",
-              "File.URL": "/assets/pdf_file/0028/75376/PUBLIC-NZ-Post-Salmat-Decision-617-Written-Reasons_1.pdf",
-              "File.FileType": "PDF",
-              "File.FileSize": "135 KB",
-              "File.PublishDate": "26 Jul 2013",
-              "SelectedCategory.ID": 493,
-              "SelectedCategory.Name": "Mergers and acquisitions",
-              "SelectedSubCategory.ID": 0,
-              "SelectedSubCategory.Name": null,
-              "SelectedContentType.ID": 459,
-              "SelectedContentType.Name": "Commission determination",
-              "SelectedSubContentType.ID": 470,
-              "SelectedSubContentType.Name": "Determination"
-            }
-          ]
-        },
-        {
-          "date": "2007-09-12",
-          "title": "Date closed",
-          "summary": "",
-          "status": "Open",
-          "documents": []
-        },
-        {
-          "date": "2007-08-06",
-          "title": "Date opened",
-          "summary": "",
-          "status": "Open",
-          "documents": []
-        }
-      ]
+      "description": "",
+      "case_details": {},
+      "updates": []
     }
   },
   {
