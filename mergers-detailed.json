@@ -4320,7 +4320,38 @@
     "outcome": "Merger cleared",
     "date": "11 June 1993",
     "link": "https://www.comcom.govt.nz/case-register/case-register-entries/telecom-australia-nz-ltd/",
-    "details": {}
+    "details": {
+      "description": "Assets 100%",
+      "case_details": {
+        "parties": "Telecom Australia (NZ) Ltd; Tacs B Radio Spectrum",
+        "category": "Merger application",
+        "sub-category": "Clearance",
+        "act/section": "Commerce Act 1986 66",
+        "industry": "Telecommunications",
+        "status": "Closed",
+        "outcome": "Merger cleared",
+        "case_number": "Cleared: 11/06/1993",
+        "date_opened": "01 June 1993",
+        "date_closed": "11 June 1993",
+        "contact_person": ""
+      },
+      "updates": [
+        {
+          "date": "1993-06-11",
+          "title": "Date closed",
+          "summary": "",
+          "status": "Open",
+          "documents": []
+        },
+        {
+          "date": "1993-06-01",
+          "title": "Date opened",
+          "summary": "",
+          "status": "Open",
+          "documents": []
+        }
+      ]
+    }
   },
   {
     "name": "Palmers Garden Centres Ltd",
