@@ -70681,6 +70681,95 @@
     }
   },
   {
+    "name": "Astra Energy Group Limited, GNZ Holdco Limited and NPD Group Investments Limited",
+    "status": "Open",
+    "outcome": null,
+    "date": null,
+    "link": "https://www.comcom.govt.nz/case-register/case-register-entries/astra-energy-group-limited-gnz-holdco-limited-and-npd-group-investments-limited/",
+    "details": {
+      "description": "",
+      "case_details": {
+        "parties": "Astra Energy Group Limited, GNZ Holdco Limited and NPD Group Investments Limited",
+        "category": "Merger application",
+        "sub-category": "Clearance",
+        "act/section": "Commerce Act 1986 66",
+        "industry": "Fuel",
+        "status": "Open",
+        "outcome": "",
+        "case_number": "PRJ0048762",
+        "date_opened": "16 January 2026",
+        "date_closed": "",
+        "contact_person": "Mergers team, registrar@comcom.govt.nz"
+      },
+      "updates": [
+        {
+          "date": "2026-03-16",
+          "title": "Decision date",
+          "summary": null,
+          "status": null,
+          "documents": []
+        },
+        {
+          "date": "2026-02-03",
+          "title": "Submissions on Statement of Preliminary Issues",
+          "summary": null,
+          "status": null,
+          "documents": []
+        },
+        {
+          "date": "2026-01-20",
+          "title": "Statement of Preliminary Issues published",
+          "summary": null,
+          "status": null,
+          "documents": [
+            {
+              "File.ID": 29424,
+              "File.Title": "NPD and Gull – Statement of Preliminary Issues – 20 January 2026",
+              "File.Name": "NPD-and-Gull-Statement-of-Preliminary-Issues-20-January-2026-v2.pdf",
+              "File.URL": "/assets/Documents/timeline/NPD-and-Gull-Statement-of-Preliminary-Issues-20-January-2026-v2.pdf",
+              "File.FileType": "PDF",
+              "File.FileSize": "273 KB",
+              "File.PublishDate": "20 Jan 2026",
+              "SelectedCategory.ID": 493,
+              "SelectedCategory.Name": "Mergers and acquisitions",
+              "SelectedSubCategory.ID": 0,
+              "SelectedSubCategory.Name": null,
+              "SelectedContentType.ID": 468,
+              "SelectedContentType.Name": "Merger documents",
+              "SelectedSubContentType.ID": 472,
+              "SelectedSubContentType.Name": "Statement of preliminary issues"
+            }
+          ]
+        },
+        {
+          "date": "2026-01-16",
+          "title": "Date opened",
+          "summary": null,
+          "status": "Completed",
+          "documents": [
+            {
+              "File.ID": 29422,
+              "File.Title": "NPD and Gull – Clearance application – 16 January 2026",
+              "File.Name": "NPD-and-Gull-Clearance-application-16-January-2026.pdf",
+              "File.URL": "/assets/Documents/timeline/NPD-and-Gull-Clearance-application-16-January-2026.pdf",
+              "File.FileType": "PDF",
+              "File.FileSize": "496 KB",
+              "File.PublishDate": "20 Jan 2026",
+              "SelectedCategory.ID": 493,
+              "SelectedCategory.Name": "Mergers and acquisitions",
+              "SelectedSubCategory.ID": 0,
+              "SelectedSubCategory.Name": null,
+              "SelectedContentType.ID": 468,
+              "SelectedContentType.Name": "Merger documents",
+              "SelectedSubContentType.ID": 469,
+              "SelectedSubContentType.Name": "Application"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
     "name": "Kegstar New Zealand Limited and Konvoy New Zealand Limited",
     "status": "Open",
     "outcome": null,
