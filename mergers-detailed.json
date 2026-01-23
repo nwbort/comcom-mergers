@@ -37054,8 +37054,85 @@
     "link": "https://www.comcom.govt.nz/case-register/case-register-entries/baxter-international-inc/",
     "details": {
       "description": "Shares",
-      "case_details": {},
-      "updates": []
+      "case_details": {
+        "parties": "Baxter International Inc; Gambro AB",
+        "category": "Merger application",
+        "sub-category": "Clearance",
+        "act/section": "Commerce Act 1986 66",
+        "industry": "Health care and social assistance",
+        "status": "Closed",
+        "outcome": "Merger cleared",
+        "case_number": "[2013] NZCC 13",
+        "date_opened": "15 March 2013",
+        "date_closed": "30 July 2013",
+        "contact_person": ""
+      },
+      "updates": [
+        {
+          "date": "2014-02-12",
+          "title": "[2013] NZCC 13 Baxter International Inc and Gambro AB Clearance Decision 30 July 2013 (incl ammendment) (Public version)",
+          "summary": "",
+          "status": "Open",
+          "documents": [
+            {
+              "File.ID": 23893,
+              "File.Title": "[2013] NZCC 13 Baxter International Inc and Gambro AB clearance decision (public version) – 30 July 2013",
+              "File.Name": "1669988-2013-NZCC-13-Baxter-International-Inc-and-Gambro-AB-Clearance-Decision-30-July-2013-incl-ammendment-Public-version.PDF",
+              "File.URL": "/assets/pdf_file/0023/76271/1669988-2013-NZCC-13-Baxter-International-Inc-and-Gambro-AB-Clearance-Decision-30-July-2013-incl-ammendment-Public-version.PDF",
+              "File.FileType": "PDF",
+              "File.FileSize": "522 KB",
+              "File.PublishDate": "12 Feb 2014",
+              "SelectedCategory.ID": 493,
+              "SelectedCategory.Name": "Mergers and acquisitions",
+              "SelectedSubCategory.ID": 0,
+              "SelectedSubCategory.Name": null,
+              "SelectedContentType.ID": 459,
+              "SelectedContentType.Name": "Commission determination",
+              "SelectedSubContentType.ID": 470,
+              "SelectedSubContentType.Name": "Determination"
+            }
+          ]
+        },
+        {
+          "date": "2013-07-30",
+          "title": "Date closed",
+          "summary": "",
+          "status": "Open",
+          "documents": []
+        },
+        {
+          "date": "2013-07-26",
+          "title": "Baxter International Inc and Gambro AB clearance application 18 March 2013 (public)",
+          "summary": "",
+          "status": "Open",
+          "documents": [
+            {
+              "File.ID": 23891,
+              "File.Title": "Baxter-International-Inc-and-Gambro-AB-clearance-application-18-March-2013-public.PDF",
+              "File.Name": "Baxter-International-Inc-and-Gambro-AB-clearance-application-18-March-2013-public.PDF",
+              "File.URL": "/assets/pdf_file/0030/76269/Baxter-International-Inc-and-Gambro-AB-clearance-application-18-March-2013-public.PDF",
+              "File.FileType": "PDF",
+              "File.FileSize": "1.5 MB",
+              "File.PublishDate": "26 Jul 2013",
+              "SelectedCategory.ID": 493,
+              "SelectedCategory.Name": "Mergers and acquisitions",
+              "SelectedSubCategory.ID": 0,
+              "SelectedSubCategory.Name": null,
+              "SelectedContentType.ID": 468,
+              "SelectedContentType.Name": "Merger documents",
+              "SelectedSubContentType.ID": 469,
+              "SelectedSubContentType.Name": "Application"
+            }
+          ]
+        },
+        {
+          "date": "2013-03-15",
+          "title": "Date opened",
+          "summary": "",
+          "status": "Open",
+          "documents": []
+        }
+      ]
     }
   },
   {
