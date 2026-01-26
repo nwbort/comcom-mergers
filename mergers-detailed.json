@@ -19549,19 +19549,7 @@
     "link": "https://www.comcom.govt.nz/case-register/case-register-entries/vodafone-mobile-nz-limited/",
     "details": {
       "description": "890-899.8 MHz Radio Spectrum",
-      "case_details": {
-        "parties": "Vodafone Mobile NZ Limited; Her Majesty the Queen in right of the Government of New Zealand",
-        "category": "Merger application",
-        "sub-category": "Clearance",
-        "act/section": "Commerce Act 1986 66",
-        "industry": "Telecommunications",
-        "status": "Closed",
-        "outcome": "Merger cleared",
-        "case_number": "Cleared: 01/11/2002 Decision No: 479",
-        "date_opened": "27 September 2002",
-        "date_closed": "01 November 2002",
-        "contact_person": ""
-      },
+      "case_details": {},
       "updates": [
         {
           "date": "2002-11-01",
@@ -70810,7 +70798,25 @@
           "title": "Submissions on SoUI",
           "summary": null,
           "status": null,
-          "documents": []
+          "documents": [
+            {
+              "File.ID": 29427,
+              "File.Title": "Anonymous C – Submission on Kegstar and Konvoy Statement of Unresolved Issues – 19 January 2026",
+              "File.Name": "Anonymous-C-Submission-on-Kegstar-and-Konvoy-Statement-of-Unresolved-Issues-19-January-2026.pdf",
+              "File.URL": "/assets/Documents/timeline/Anonymous-C-Submission-on-Kegstar-and-Konvoy-Statement-of-Unresolved-Issues-19-January-2026.pdf",
+              "File.FileType": "PDF",
+              "File.FileSize": "470 KB",
+              "File.PublishDate": "26 Jan 2026",
+              "SelectedCategory.ID": 493,
+              "SelectedCategory.Name": "Mergers and acquisitions",
+              "SelectedSubCategory.ID": 0,
+              "SelectedSubCategory.Name": null,
+              "SelectedContentType.ID": 468,
+              "SelectedContentType.Name": "Merger documents",
+              "SelectedSubContentType.ID": 471,
+              "SelectedSubContentType.Name": "Submission"
+            }
+          ]
         },
         {
           "date": "2025-12-04",
