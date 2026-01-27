@@ -19549,7 +19549,19 @@
     "link": "https://www.comcom.govt.nz/case-register/case-register-entries/vodafone-mobile-nz-limited/",
     "details": {
       "description": "890-899.8 MHz Radio Spectrum",
-      "case_details": {},
+      "case_details": {
+        "parties": "Vodafone Mobile NZ Limited; Her Majesty the Queen in right of the Government of New Zealand",
+        "category": "Merger application",
+        "sub-category": "Clearance",
+        "act/section": "Commerce Act 1986 66",
+        "industry": "Telecommunications",
+        "status": "Closed",
+        "outcome": "Merger cleared",
+        "case_number": "Cleared: 01/11/2002 Decision No: 479",
+        "date_opened": "27 September 2002",
+        "date_closed": "01 November 2002",
+        "contact_person": ""
+      },
       "updates": [
         {
           "date": "2002-11-01",
