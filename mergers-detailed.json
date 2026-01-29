@@ -6506,9 +6506,36 @@
     "date": "17 August 1995",
     "link": "https://www.comcom.govt.nz/case-register/case-register-entries/hawkes-bay-power-ltd-and-hawkes-bay-power-distribution/",
     "details": {
-      "description": "",
-      "case_details": {},
-      "updates": []
+      "description": "100% Shares",
+      "case_details": {
+        "parties": "Hawkes Bay Power Ltd and Hawkes Bay Power Distribution; Taupo Electricity Ltd and Taupo Generation Ltd",
+        "category": "Merger application",
+        "sub-category": "Clearance",
+        "act/section": "Commerce Act 1986 s 66",
+        "industry": "Electricity, gas, water, and waste services",
+        "status": "Closed",
+        "outcome": "Merger cleared",
+        "case_number": "",
+        "date_opened": "07 August 1995",
+        "date_closed": "17 August 1995",
+        "contact_person": ""
+      },
+      "updates": [
+        {
+          "date": "1995-08-17",
+          "title": "Date closed",
+          "summary": "",
+          "status": "Open",
+          "documents": []
+        },
+        {
+          "date": "1995-08-07",
+          "title": "Date opened",
+          "summary": "",
+          "status": "Open",
+          "documents": []
+        }
+      ]
     }
   },
   {
@@ -73034,7 +73061,26 @@
           "title": "Submissions on Statement of Issues",
           "summary": null,
           "status": null,
-          "documents": []
+          "documents": [
+            {
+              "File.ID": 29428,
+              "File.Title": "Anonymous D – Submission on Godfrey Hirst and Bremworth Statement of Issues – 26 January 2026",
+              "File.Name": "Anonymous-D-Submission-on-Godfrey-Hirst-and-Bremworth-Statement-of-Issues-26-January-2026.pdf",
+              "File.URL": "/assets/Documents/timeline/Anonymous-D-Submission-on-Godfrey-Hirst-and-Bremworth-Statement-of-Issues-26-January-2026.pdf",
+              "File.FileType": "PDF",
+              "File.FileSize": "218 KB",
+              "File.PublishDate": "29 Jan 2026",
+              "SelectedCategory.ID": 493,
+              "SelectedCategory.Name": "Mergers and acquisitions",
+              "SelectedSubCategory.ID": 0,
+              "SelectedSubCategory.Name": null,
+              "SelectedContentType.ID": 468,
+              "SelectedContentType.Name": "Merger documents",
+              "SelectedSubContentType.ID": 471,
+              "SelectedSubContentType.Name": "Submission",
+              "Sort": 0
+            }
+          ]
         },
         {
           "date": "2025-12-23",
@@ -73407,8 +73453,15 @@
       },
       "updates": [
         {
+          "date": "2026-04-14",
+          "title": "Decision due by",
+          "summary": null,
+          "status": null,
+          "documents": []
+        },
+        {
           "date": "2026-01-29",
-          "title": "Decision date",
+          "title": "Decision due by (extension to 14 April 2026)",
           "summary": null,
           "status": null,
           "documents": []
