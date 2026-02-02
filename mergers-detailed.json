@@ -14921,7 +14921,7 @@
         "parties": "Smithkline Beecham plc; Glaxo Wellcome plc",
         "category": "Merger application",
         "sub-category": "Clearance",
-        "act/section": "Commerce Act 1986 66",
+        "act/section": "Commerce Act 1986 s 66",
         "industry": "Health care and social assistance",
         "status": "Closed",
         "outcome": "Merger cleared",
@@ -14952,7 +14952,8 @@
               "SelectedContentType.ID": 459,
               "SelectedContentType.Name": "Commission determination",
               "SelectedSubContentType.ID": 470,
-              "SelectedSubContentType.Name": "Determination"
+              "SelectedSubContentType.Name": "Determination",
+              "Sort": 0
             }
           ]
         },
