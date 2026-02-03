@@ -72761,6 +72761,13 @@
           "documents": []
         },
         {
+          "date": "2026-02-02",
+          "title": "Administrative clock stopped (per Mergers and Acquisitions Guidelines at [6.32]) pending receipt of information from the merger parties ",
+          "summary": null,
+          "status": "Completed",
+          "documents": []
+        },
+        {
           "date": "2026-01-30",
           "title": "Submissions on SoUI",
           "summary": null,
@@ -73060,7 +73067,7 @@
           "date": "2026-02-02",
           "title": "Submissions on Statement of Issues",
           "summary": null,
-          "status": null,
+          "status": "Completed",
           "documents": [
             {
               "File.ID": 29428,
@@ -73070,6 +73077,24 @@
               "File.FileType": "PDF",
               "File.FileSize": "218 KB",
               "File.PublishDate": "29 Jan 2026",
+              "SelectedCategory.ID": 493,
+              "SelectedCategory.Name": "Mergers and acquisitions",
+              "SelectedSubCategory.ID": 0,
+              "SelectedSubCategory.Name": null,
+              "SelectedContentType.ID": 468,
+              "SelectedContentType.Name": "Merger documents",
+              "SelectedSubContentType.ID": 471,
+              "SelectedSubContentType.Name": "Submission",
+              "Sort": 0
+            },
+            {
+              "File.ID": 29483,
+              "File.Title": "Anonymous E – Submission on Godfrey Hirst and Bremworth Statement of Issues – 30 January 2026",
+              "File.Name": "Anonymous-E-Submission-on-Godfrey-Hirst-and-Bremworth-Statement-of-Issues-30-January-2026.pdf",
+              "File.URL": "/assets/Documents/timeline/Anonymous-E-Submission-on-Godfrey-Hirst-and-Bremworth-Statement-of-Issues-30-January-2026.pdf",
+              "File.FileType": "PDF",
+              "File.FileSize": "89 KB",
+              "File.PublishDate": "03 Feb 2026",
               "SelectedCategory.ID": 493,
               "SelectedCategory.Name": "Mergers and acquisitions",
               "SelectedSubCategory.ID": 0,
