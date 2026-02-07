@@ -24169,9 +24169,88 @@
     "date": "28 June 2005",
     "link": "https://www.comcom.govt.nz/case-register/case-register-entries/red-bus-limited2/",
     "details": {
-      "description": "",
-      "case_details": {},
-      "updates": []
+      "description": "Assets",
+      "case_details": {
+        "parties": "Red Bus Limited; Leopard Coachlines Limited",
+        "category": "Merger application",
+        "sub-category": "Clearance",
+        "act/section": "Commerce Act 1986 s 66",
+        "industry": "Transport, postal, and warehousing",
+        "status": "Closed",
+        "outcome": "Merger cleared",
+        "case_number": "Cleared: 28/06/2005 Decision No: 551",
+        "date_opened": "12 April 2005",
+        "date_closed": "28 June 2005",
+        "contact_person": ""
+      },
+      "updates": [
+        {
+          "date": "2005-06-28",
+          "title": "Decision 551 - Application for Acquisition Clearance - Red Bus and Leopard Coachlines - 28 June 2005",
+          "summary": null,
+          "status": "Completed",
+          "documents": [
+            {
+              "File.ID": 23357,
+              "File.Title": "Red-Bus-decision_1.pdf",
+              "File.Name": "Red-Bus-decision_1.pdf",
+              "File.URL": "/assets/pdf_file/0013/74011/Red-Bus-decision_1.pdf",
+              "File.FileType": "PDF",
+              "File.FileSize": "243 KB",
+              "File.PublishDate": "26 Jul 2013",
+              "SelectedCategory.ID": 493,
+              "SelectedCategory.Name": "Mergers and acquisitions",
+              "SelectedSubCategory.ID": 0,
+              "SelectedSubCategory.Name": null,
+              "SelectedContentType.ID": 459,
+              "SelectedContentType.Name": "Commission determination",
+              "SelectedSubContentType.ID": 470,
+              "SelectedSubContentType.Name": "Determination",
+              "Sort": 0
+            }
+          ]
+        },
+        {
+          "date": "2005-06-28",
+          "title": "Date closed",
+          "summary": null,
+          "status": "Completed",
+          "documents": []
+        },
+        {
+          "date": "2005-04-12",
+          "title": "Date opened",
+          "summary": null,
+          "status": "Completed",
+          "documents": []
+        },
+        {
+          "date": "2005-04-07",
+          "title": "Red Bus and Leopard Coachlines - Notice Seeking Clearance - 7 April 2005",
+          "summary": null,
+          "status": "Completed",
+          "documents": [
+            {
+              "File.ID": 23355,
+              "File.Title": "Application---Red-Bus_Leopard-Coachlines---PUBLIC.pdf",
+              "File.Name": "Application-Red-Bus_Leopard-Coachlines-PUBLIC.pdf",
+              "File.URL": "/assets/pdf_file/0020/74009/Application-Red-Bus_Leopard-Coachlines-PUBLIC.pdf",
+              "File.FileType": "PDF",
+              "File.FileSize": "1.6 MB",
+              "File.PublishDate": "26 Jul 2013",
+              "SelectedCategory.ID": 493,
+              "SelectedCategory.Name": "Mergers and acquisitions",
+              "SelectedSubCategory.ID": 0,
+              "SelectedSubCategory.Name": null,
+              "SelectedContentType.ID": 468,
+              "SelectedContentType.Name": "Merger documents",
+              "SelectedSubContentType.ID": 469,
+              "SelectedSubContentType.Name": "Application",
+              "Sort": 0
+            }
+          ]
+        }
+      ]
     }
   },
   {
