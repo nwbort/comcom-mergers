@@ -73184,10 +73184,17 @@
           "documents": []
         },
         {
-          "date": "2026-02-10",
+          "date": "2026-02-19",
           "title": "Cross-submissions on Statement of Issues",
           "summary": null,
           "status": null,
+          "documents": []
+        },
+        {
+          "date": "2026-02-10",
+          "title": "Cross-submissions on Statement of Issues (extended to 19 February 2026)",
+          "summary": null,
+          "status": "Completed",
           "documents": []
         },
         {
@@ -73258,6 +73265,24 @@
               "File.FileType": "PDF",
               "File.FileSize": "677 KB",
               "File.PublishDate": "11 Feb 2026",
+              "SelectedCategory.ID": 493,
+              "SelectedCategory.Name": "Mergers and acquisitions",
+              "SelectedSubCategory.ID": 0,
+              "SelectedSubCategory.Name": null,
+              "SelectedContentType.ID": 468,
+              "SelectedContentType.Name": "Merger documents",
+              "SelectedSubContentType.ID": 471,
+              "SelectedSubContentType.Name": "Submission",
+              "Sort": 0
+            },
+            {
+              "File.ID": 29536,
+              "File.Title": "Bremworth – Submission on Godfrey Hirst and Bremworth Statement of Issues – 11 February 2026",
+              "File.Name": "Bremworth-Submission-on-Godfrey-Hirst-and-Bremworth-Statement-of-Issues-11-February-2026.pdf",
+              "File.URL": "/assets/Documents/timeline/Bremworth-Submission-on-Godfrey-Hirst-and-Bremworth-Statement-of-Issues-11-February-2026.pdf",
+              "File.FileType": "PDF",
+              "File.FileSize": "2.8 MB",
+              "File.PublishDate": "12 Feb 2026",
               "SelectedCategory.ID": 493,
               "SelectedCategory.Name": "Mergers and acquisitions",
               "SelectedSubCategory.ID": 0,
