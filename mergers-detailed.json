@@ -72884,7 +72884,51 @@
           "date": "2026-02-13",
           "title": "Cross-submissions on SoUI",
           "summary": null,
-          "status": null,
+          "status": "Completed",
+          "documents": [
+            {
+              "File.ID": 29559,
+              "File.Title": "Kegstar – Submission on Kegstar and Konvoy Statement of Unresolved Issues – 11 February 2026",
+              "File.Name": "Kegstar-Submission-on-Kegstar-and-Konvoy-Statement-of-Unresolved-Issues-11-February-2026.pdf",
+              "File.URL": "/assets/Documents/timeline/Kegstar-Submission-on-Kegstar-and-Konvoy-Statement-of-Unresolved-Issues-11-February-2026.pdf",
+              "File.FileType": "PDF",
+              "File.FileSize": "108 KB",
+              "File.PublishDate": "19 Feb 2026",
+              "SelectedCategory.ID": 493,
+              "SelectedCategory.Name": "Mergers and acquisitions",
+              "SelectedSubCategory.ID": 0,
+              "SelectedSubCategory.Name": null,
+              "SelectedContentType.ID": 468,
+              "SelectedContentType.Name": "Merger documents",
+              "SelectedSubContentType.ID": 471,
+              "SelectedSubContentType.Name": "Submission",
+              "Sort": 0
+            },
+            {
+              "File.ID": 29560,
+              "File.Title": "NERA – Submission on Kegstar and Konvoy Statement of Unresolved Issues – 11 February 2026",
+              "File.Name": "NERA-Submission-on-Kegstar-and-Konvoy-Statement-of-Unresolved-Issues-11-February-2026.pdf",
+              "File.URL": "/assets/Documents/timeline/NERA-Submission-on-Kegstar-and-Konvoy-Statement-of-Unresolved-Issues-11-February-2026.pdf",
+              "File.FileType": "PDF",
+              "File.FileSize": "368 KB",
+              "File.PublishDate": "19 Feb 2026",
+              "SelectedCategory.ID": 493,
+              "SelectedCategory.Name": "Mergers and acquisitions",
+              "SelectedSubCategory.ID": 0,
+              "SelectedSubCategory.Name": null,
+              "SelectedContentType.ID": 468,
+              "SelectedContentType.Name": "Merger documents",
+              "SelectedSubContentType.ID": 471,
+              "SelectedSubContentType.Name": "Submission",
+              "Sort": 0
+            }
+          ]
+        },
+        {
+          "date": "2026-02-12",
+          "title": "Administrative clock restarted (per Mergers and Acquisitions Guidelines at [6.32])",
+          "summary": null,
+          "status": "Completed",
           "documents": []
         },
         {
@@ -73188,7 +73232,26 @@
           "title": "Cross-submissions on Statement of Issues",
           "summary": null,
           "status": null,
-          "documents": []
+          "documents": [
+            {
+              "File.ID": 29558,
+              "File.Title": "Cowes Bay Group – Cross submission on Godfrey Hirst and Bremworth Statement of Issues – 19 February 2026",
+              "File.Name": "Cowes-Bay-Group-Cross-submission-on-Godfrey-Hirst-and-Bremworth-Statement-of-Issues-19-February-2026-v2.pdf",
+              "File.URL": "/assets/Documents/timeline/Cowes-Bay-Group-Cross-submission-on-Godfrey-Hirst-and-Bremworth-Statement-of-Issues-19-February-2026.pdf",
+              "File.FileType": "PDF",
+              "File.FileSize": "287 KB",
+              "File.PublishDate": "19 Feb 2026",
+              "SelectedCategory.ID": 493,
+              "SelectedCategory.Name": "Mergers and acquisitions",
+              "SelectedSubCategory.ID": 0,
+              "SelectedSubCategory.Name": null,
+              "SelectedContentType.ID": 468,
+              "SelectedContentType.Name": "Merger documents",
+              "SelectedSubContentType.ID": 471,
+              "SelectedSubContentType.Name": "Submission",
+              "Sort": 0
+            }
+          ]
         },
         {
           "date": "2026-02-10",
