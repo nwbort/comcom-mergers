@@ -72942,7 +72942,7 @@
           "date": "2026-01-30",
           "title": "Submissions on SoUI",
           "summary": null,
-          "status": null,
+          "status": "Completed",
           "documents": [
             {
               "File.ID": 29427,
@@ -72952,6 +72952,24 @@
               "File.FileType": "PDF",
               "File.FileSize": "470 KB",
               "File.PublishDate": "26 Jan 2026",
+              "SelectedCategory.ID": 493,
+              "SelectedCategory.Name": "Mergers and acquisitions",
+              "SelectedSubCategory.ID": 0,
+              "SelectedSubCategory.Name": null,
+              "SelectedContentType.ID": 468,
+              "SelectedContentType.Name": "Merger documents",
+              "SelectedSubContentType.ID": 471,
+              "SelectedSubContentType.Name": "Submission",
+              "Sort": 0
+            },
+            {
+              "File.ID": 29596,
+              "File.Title": "Konvoy – Submission on Kegstar and Konvoy Statement of Unresolved Issues – 19 February 2026",
+              "File.Name": "Konvoy-Submission-on-Kegstar-and-Konvoy-Statement-of-Unresolved-Issues-19-February-2026.pdf",
+              "File.URL": "/assets/Documents/timeline/Konvoy-Submission-on-Kegstar-and-Konvoy-Statement-of-Unresolved-Issues-19-February-2026.pdf",
+              "File.FileType": "PDF",
+              "File.FileSize": "224 KB",
+              "File.PublishDate": "24 Feb 2026",
               "SelectedCategory.ID": 493,
               "SelectedCategory.Name": "Mergers and acquisitions",
               "SelectedSubCategory.ID": 0,
@@ -73782,8 +73800,27 @@
           "date": "2026-02-20",
           "title": "Submissions on Statement of Issues due",
           "summary": null,
-          "status": null,
-          "documents": []
+          "status": "Completed",
+          "documents": [
+            {
+              "File.ID": 29595,
+              "File.Title": "Backpacker Youth Adventure Tourism Association of New Zealand – Submission in response to Statement of Issues – 20 February 2026",
+              "File.Name": "Backpacker-Youth-Adventure-Tourism-Association-of-New-Zealand-Submission-in-response-to-Statement-of-Issues-20-February-2026.pdf",
+              "File.URL": "/assets/Documents/timeline/Backpacker-Youth-Adventure-Tourism-Association-of-New-Zealand-Submission-in-response-to-Statement-of-Issues-20-February-2026.pdf",
+              "File.FileType": "PDF",
+              "File.FileSize": "386 KB",
+              "File.PublishDate": "24 Feb 2026",
+              "SelectedCategory.ID": 493,
+              "SelectedCategory.Name": "Mergers and acquisitions",
+              "SelectedSubCategory.ID": 0,
+              "SelectedSubCategory.Name": null,
+              "SelectedContentType.ID": 468,
+              "SelectedContentType.Name": "Merger documents",
+              "SelectedSubContentType.ID": 471,
+              "SelectedSubContentType.Name": "Submission",
+              "Sort": 0
+            }
+          ]
         },
         {
           "date": "2026-02-05",
