@@ -72656,10 +72656,57 @@
       },
       "updates": [
         {
-          "date": "2026-03-16",
+          "date": "2026-05-28",
           "title": "Decision date",
           "summary": null,
           "status": null,
+          "documents": []
+        },
+        {
+          "date": "2026-04-15",
+          "title": "Cross-submissions on Statement of Issues due",
+          "summary": null,
+          "status": null,
+          "documents": []
+        },
+        {
+          "date": "2026-04-02",
+          "title": "Submissions on Statement of Issues due",
+          "summary": null,
+          "status": null,
+          "documents": []
+        },
+        {
+          "date": "2026-03-17",
+          "title": "Statement of Issues published",
+          "summary": null,
+          "status": null,
+          "documents": [
+            {
+              "File.ID": 29713,
+              "File.Title": "NPD and Gull – Statement of Issues – 17 March 2026",
+              "File.Name": "NPD-and-Gull-Statement-of-Issues-17-March-2026.pdf",
+              "File.URL": "/assets/Documents/timeline/NPD-and-Gull-Statement-of-Issues-17-March-2026.pdf",
+              "File.FileType": "PDF",
+              "File.FileSize": "484 KB",
+              "File.PublishDate": "17 Mar 2026",
+              "SelectedCategory.ID": 493,
+              "SelectedCategory.Name": "Mergers and acquisitions",
+              "SelectedSubCategory.ID": 0,
+              "SelectedSubCategory.Name": null,
+              "SelectedContentType.ID": 468,
+              "SelectedContentType.Name": "Merger documents",
+              "SelectedSubContentType.ID": 475,
+              "SelectedSubContentType.Name": "Other",
+              "Sort": 0
+            }
+          ]
+        },
+        {
+          "date": "2026-03-16",
+          "title": "Decision date (extension to 28 May 2026)",
+          "summary": null,
+          "status": "Completed",
           "documents": []
         },
         {
@@ -72784,6 +72831,24 @@
               "File.FileType": "PDF",
               "File.FileSize": "117 KB",
               "File.PublishDate": "05 Feb 2026",
+              "SelectedCategory.ID": 493,
+              "SelectedCategory.Name": "Mergers and acquisitions",
+              "SelectedSubCategory.ID": 0,
+              "SelectedSubCategory.Name": null,
+              "SelectedContentType.ID": 468,
+              "SelectedContentType.Name": "Merger documents",
+              "SelectedSubContentType.ID": 471,
+              "SelectedSubContentType.Name": "Submission",
+              "Sort": 0
+            },
+            {
+              "File.ID": 29712,
+              "File.Title": "Astra Energy – Response to Z Energy SoPI submission – 17 February 2026",
+              "File.Name": "Astra-Energy-Response-to-Z-Energy-SoPI-submission-17-February-2026.pdf",
+              "File.URL": "/assets/Documents/timeline/Astra-Energy-Response-to-Z-Energy-SoPI-submission-17-February-2026.pdf",
+              "File.FileType": "PDF",
+              "File.FileSize": "63 KB",
+              "File.PublishDate": "17 Mar 2026",
               "SelectedCategory.ID": 493,
               "SelectedCategory.Name": "Mergers and acquisitions",
               "SelectedSubCategory.ID": 0,
