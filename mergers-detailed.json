@@ -73318,17 +73318,24 @@
       },
       "updates": [
         {
-          "date": "2026-04-02",
+          "date": "2026-05-29",
           "title": "Decision date",
           "summary": null,
           "status": null,
           "documents": []
         },
         {
+          "date": "2026-04-02",
+          "title": "Decision date (extension to 29 May 2026)",
+          "summary": null,
+          "status": "Completed",
+          "documents": []
+        },
+        {
           "date": "2026-03-13",
           "title": "Decision date (extension to 2 April 2026)",
           "summary": null,
-          "status": null,
+          "status": "Completed",
           "documents": []
         },
         {
