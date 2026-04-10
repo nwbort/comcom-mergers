@@ -30032,9 +30032,88 @@
     "date": "3 April 2008",
     "link": "https://www.comcom.govt.nz/case-register/case-register-entries/new-zealand-investment-holdings-limited/",
     "details": {
-      "description": "",
-      "case_details": {},
-      "updates": []
+      "description": "Shares/Assets",
+      "case_details": {
+        "parties": "New Zealand Investment Holdings Limited; RX Plastics Limited",
+        "category": "Merger application",
+        "sub-category": "Clearance",
+        "act/section": "Commerce Act 1986 s 66",
+        "industry": "Manufacturing",
+        "status": "Closed",
+        "outcome": "Merger cleared",
+        "case_number": "Cleared: 03/04/2008 Decision No: 639",
+        "date_opened": "11 February 2008",
+        "date_closed": "03 April 2008",
+        "contact_person": ""
+      },
+      "updates": [
+        {
+          "date": "2013-07-26",
+          "title": "Decision 639 - Application for Acquisition Clearance - NZ Investment Holdings and RX Plastics - 3 April 2008",
+          "summary": "",
+          "status": "Open",
+          "documents": [
+            {
+              "File.ID": 23607,
+              "File.Title": "PUBLIC---Decision-639-NZIH-RX-Plastics---Final_1.pdf",
+              "File.Name": "PUBLIC-Decision-639-NZIH-RX-Plastics-Final_1.pdf",
+              "File.URL": "/assets/pdf_file/0023/75560/PUBLIC-Decision-639-NZIH-RX-Plastics-Final_1.pdf",
+              "File.FileType": "PDF",
+              "File.FileSize": "153 KB",
+              "File.PublishDate": "26 Jul 2013",
+              "SelectedCategory.ID": 493,
+              "SelectedCategory.Name": "Mergers and acquisitions",
+              "SelectedSubCategory.ID": 0,
+              "SelectedSubCategory.Name": null,
+              "SelectedContentType.ID": 459,
+              "SelectedContentType.Name": "Commission determination",
+              "SelectedSubContentType.ID": 470,
+              "SelectedSubContentType.Name": "Determination",
+              "Sort": 0
+            }
+          ]
+        },
+        {
+          "date": "2013-07-26",
+          "title": "NZ Investment Holdings and RX Plastics - Notice Seeking Clearance - 7 February 2008",
+          "summary": "",
+          "status": "Open",
+          "documents": [
+            {
+              "File.ID": 23609,
+              "File.Title": "Public-version-NZIH-clearance-application.pdf",
+              "File.Name": "Public-version-NZIH-clearance-application.pdf",
+              "File.URL": "/assets/pdf_file/0025/75562/Public-version-NZIH-clearance-application.pdf",
+              "File.FileType": "PDF",
+              "File.FileSize": "519 KB",
+              "File.PublishDate": "26 Jul 2013",
+              "SelectedCategory.ID": 493,
+              "SelectedCategory.Name": "Mergers and acquisitions",
+              "SelectedSubCategory.ID": 0,
+              "SelectedSubCategory.Name": null,
+              "SelectedContentType.ID": 468,
+              "SelectedContentType.Name": "Merger documents",
+              "SelectedSubContentType.ID": 469,
+              "SelectedSubContentType.Name": "Application",
+              "Sort": 0
+            }
+          ]
+        },
+        {
+          "date": "2008-04-03",
+          "title": "Date closed",
+          "summary": "",
+          "status": "Open",
+          "documents": []
+        },
+        {
+          "date": "2008-02-11",
+          "title": "Date opened",
+          "summary": "",
+          "status": "Open",
+          "documents": []
+        }
+      ]
     }
   },
   {
