@@ -73362,6 +73362,46 @@
           "documents": []
         },
         {
+          "date": "2026-05-07",
+          "title": "Cross-submissions on Statement of Unresolved Issues",
+          "summary": null,
+          "status": null,
+          "documents": []
+        },
+        {
+          "date": "2026-04-29",
+          "title": "Submissions on Statement of Unresolved Issues",
+          "summary": null,
+          "status": null,
+          "documents": []
+        },
+        {
+          "date": "2026-04-14",
+          "title": "Statement of Unresolved Issues published",
+          "summary": null,
+          "status": null,
+          "documents": [
+            {
+              "File.ID": 29806,
+              "File.Title": "Godfrey Hirst and Bremworth – Statement of Unresolved Issues – 14 April 2026",
+              "File.Name": "Godfrey-Hirst-and-Bremworth-Statement-of-Unresolved-Issues-14-April-2026.pdf",
+              "File.URL": "/assets/Documents/timeline/Godfrey-Hirst-and-Bremworth-Statement-of-Unresolved-Issues-14-April-2026.pdf",
+              "File.FileType": "PDF",
+              "File.FileSize": "1.4 MB",
+              "File.PublishDate": "14 Apr 2026",
+              "SelectedCategory.ID": 493,
+              "SelectedCategory.Name": "Mergers and acquisitions",
+              "SelectedSubCategory.ID": 0,
+              "SelectedSubCategory.Name": null,
+              "SelectedContentType.ID": 468,
+              "SelectedContentType.Name": "Merger documents",
+              "SelectedSubContentType.ID": 474,
+              "SelectedSubContentType.Name": "Letter of unresolved issues",
+              "Sort": 0
+            }
+          ]
+        },
+        {
           "date": "2026-04-02",
           "title": "Decision date (extension to 29 May 2026)",
           "summary": null,
@@ -73913,10 +73953,17 @@
       },
       "updates": [
         {
-          "date": "2026-04-14",
+          "date": "2026-06-18",
           "title": "Decision due by",
           "summary": null,
           "status": null,
+          "documents": []
+        },
+        {
+          "date": "2026-04-14",
+          "title": "Decision due by (extension to 18 June 2026)",
+          "summary": null,
+          "status": "Completed",
           "documents": []
         },
         {
