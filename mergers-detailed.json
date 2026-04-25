@@ -14917,19 +14917,7 @@
     "link": "https://www.comcom.govt.nz/case-register/case-register-entries/smithkline-beecham-plc/",
     "details": {
       "description": "Shares (100%)",
-      "case_details": {
-        "parties": "Smithkline Beecham plc; Glaxo Wellcome plc",
-        "category": "Merger application",
-        "sub-category": "Clearance",
-        "act/section": "Commerce Act 1986 s 66",
-        "industry": "Health care and social assistance",
-        "status": "Closed",
-        "outcome": "Merger cleared",
-        "case_number": "Cleared: 01/09/2000 Decision No: 398",
-        "date_opened": "07 July 2000",
-        "date_closed": "01 September 2000",
-        "contact_person": ""
-      },
+      "case_details": {},
       "updates": [
         {
           "date": "2000-09-01",
