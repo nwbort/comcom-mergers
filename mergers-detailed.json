@@ -73391,7 +73391,7 @@
           "date": "2026-04-29",
           "title": "Submissions on Statement of Unresolved Issues",
           "summary": null,
-          "status": null,
+          "status": "Completed",
           "documents": [
             {
               "File.ID": 29853,
@@ -73419,6 +73419,60 @@
               "File.FileType": "PDF",
               "File.FileSize": "163 KB",
               "File.PublishDate": "23 Apr 2026",
+              "SelectedCategory.ID": 493,
+              "SelectedCategory.Name": "Mergers and acquisitions",
+              "SelectedSubCategory.ID": 0,
+              "SelectedSubCategory.Name": null,
+              "SelectedContentType.ID": 468,
+              "SelectedContentType.Name": "Merger documents",
+              "SelectedSubContentType.ID": 471,
+              "SelectedSubContentType.Name": "Submission",
+              "Sort": 0
+            },
+            {
+              "File.ID": 29869,
+              "File.Title": "Anonymous D – Submission on Godfrey Hirst and Bremworth Statement of Unresolved Issues – 29 April 2026",
+              "File.Name": "Anonymous-D-Submission-on-Godfrey-Hirst-and-Bremworth-Statement-of-Unresolved-Issues-29-April-2026.pdf",
+              "File.URL": "/assets/Documents/timeline/Anonymous-D-Submission-on-Godfrey-Hirst-and-Bremworth-Statement-of-Unresolved-Issues-29-April-2026.pdf",
+              "File.FileType": "PDF",
+              "File.FileSize": "478 KB",
+              "File.PublishDate": "30 Apr 2026",
+              "SelectedCategory.ID": 493,
+              "SelectedCategory.Name": "Mergers and acquisitions",
+              "SelectedSubCategory.ID": 0,
+              "SelectedSubCategory.Name": null,
+              "SelectedContentType.ID": 468,
+              "SelectedContentType.Name": "Merger documents",
+              "SelectedSubContentType.ID": 471,
+              "SelectedSubContentType.Name": "Submission",
+              "Sort": 0
+            },
+            {
+              "File.ID": 29868,
+              "File.Title": "Anonymous E – Submission on Godfrey Hirst and Bremworth Statement of Unresolved Issues – 29 April 2026",
+              "File.Name": "Anonymous-E-Submission-on-Godfrey-Hirst-and-Bremworth-Statement-of-Unresolved-Issues-29-April-2026.pdf",
+              "File.URL": "/assets/Documents/timeline/Anonymous-E-Submission-on-Godfrey-Hirst-and-Bremworth-Statement-of-Unresolved-Issues-29-April-2026.pdf",
+              "File.FileType": "PDF",
+              "File.FileSize": "118 KB",
+              "File.PublishDate": "30 Apr 2026",
+              "SelectedCategory.ID": 493,
+              "SelectedCategory.Name": "Mergers and acquisitions",
+              "SelectedSubCategory.ID": 0,
+              "SelectedSubCategory.Name": null,
+              "SelectedContentType.ID": 468,
+              "SelectedContentType.Name": "Merger documents",
+              "SelectedSubContentType.ID": 471,
+              "SelectedSubContentType.Name": "Submission",
+              "Sort": 0
+            },
+            {
+              "File.ID": 29870,
+              "File.Title": "Anonymous G – Submission on Godfrey Hirst and Bremworth Statement of Unresolved Issues – 29 April 2026",
+              "File.Name": "Anonymous-G-Submission-on-Godfrey-Hirst-and-Bremworth-Statement-of-Unresolved-Issues-29-April-2026.pdf",
+              "File.URL": "/assets/Documents/timeline/Anonymous-G-Submission-on-Godfrey-Hirst-and-Bremworth-Statement-of-Unresolved-Issues-29-April-2026.pdf",
+              "File.FileType": "PDF",
+              "File.FileSize": "470 KB",
+              "File.PublishDate": "30 Apr 2026",
               "SelectedCategory.ID": 493,
               "SelectedCategory.Name": "Mergers and acquisitions",
               "SelectedSubCategory.ID": 0,
@@ -74016,6 +74070,46 @@
           "documents": []
         },
         {
+          "date": "2026-05-25",
+          "title": "Cross-submissions on Statement of Unresolved Issues",
+          "summary": null,
+          "status": null,
+          "documents": []
+        },
+        {
+          "date": "2026-05-14",
+          "title": "Submissions on Statement of Unresolved Issues",
+          "summary": null,
+          "status": null,
+          "documents": []
+        },
+        {
+          "date": "2026-04-30",
+          "title": "Statement of Unresolved Issues published",
+          "summary": null,
+          "status": null,
+          "documents": [
+            {
+              "File.ID": 29871,
+              "File.Title": "Rafting JV Co – Statement of Unresolved Issues – 30 April 2026",
+              "File.Name": "Rafting-JV-Co-Statement-of-Unresolved-Issues-30-April-2026.pdf",
+              "File.URL": "/assets/Documents/timeline/Rafting-JV-Co-Statement-of-Unresolved-Issues-30-April-2026.pdf",
+              "File.FileType": "PDF",
+              "File.FileSize": "640 KB",
+              "File.PublishDate": "30 Apr 2026",
+              "SelectedCategory.ID": 493,
+              "SelectedCategory.Name": "Mergers and acquisitions",
+              "SelectedSubCategory.ID": 0,
+              "SelectedSubCategory.Name": null,
+              "SelectedContentType.ID": 468,
+              "SelectedContentType.Name": "Merger documents",
+              "SelectedSubContentType.ID": 474,
+              "SelectedSubContentType.Name": "Letter of unresolved issues",
+              "Sort": 0
+            }
+          ]
+        },
+        {
           "date": "2026-04-14",
           "title": "Decision due by (extension to 18 June 2026)",
           "summary": null,
@@ -74081,7 +74175,7 @@
           "documents": [
             {
               "File.ID": 29503,
-              "File.Title": "Rafting JV Co Rotorua Rafting Operators – Statement of Issues – 05 February 2026",
+              "File.Title": "Rafting JV Co Rotorua Rafting Operators – Statement of Issues – 5 February 2026",
               "File.Name": "Rafting-JV-Co-Rotorua-Rafting-Operators-Statement-of-Issues-05-February-2026.pdf",
               "File.URL": "/assets/Documents/timeline/Rafting-JV-Co-Rotorua-Rafting-Operators-Statement-of-Issues-05-February-2026.pdf",
               "File.FileType": "PDF",
