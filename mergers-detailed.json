@@ -19784,9 +19784,62 @@
     "date": "7 November 2002",
     "link": "https://www.comcom.govt.nz/case-register/case-register-entries/cendant-corporation-avis-new-zealand/",
     "details": {
-      "description": "",
-      "case_details": {},
-      "updates": []
+      "description": "Shares/Assets",
+      "case_details": {
+        "parties": "Cendant Corporation (Avis New Zealand); Budget Group Inc (Budget New Zealand)",
+        "category": "Merger application",
+        "sub-category": "Clearance",
+        "act/section": "Commerce Act 1986 s 66",
+        "industry": "Transport, postal, and warehousing",
+        "status": "Closed",
+        "outcome": "Merger cleared",
+        "case_number": "Decision No. 482",
+        "date_opened": "05 September 2002",
+        "date_closed": "07 November 2002",
+        "contact_person": ""
+      },
+      "updates": [
+        {
+          "date": "2002-11-07",
+          "title": "Date closed",
+          "summary": null,
+          "status": "Completed",
+          "documents": []
+        },
+        {
+          "date": "2002-11-06",
+          "title": "Decision 482 - Application for Acquisition Clearance - Cendant Corporation and Budget Group Inc - 6 November 2002",
+          "summary": null,
+          "status": "Completed",
+          "documents": [
+            {
+              "File.ID": 23153,
+              "File.Title": "482.pdf",
+              "File.Name": "482.pdf",
+              "File.URL": "/assets/pdf_file/0023/73319/482.pdf",
+              "File.FileType": "PDF",
+              "File.FileSize": "862 KB",
+              "File.PublishDate": "26 Jul 2013",
+              "SelectedCategory.ID": 493,
+              "SelectedCategory.Name": "Mergers and acquisitions",
+              "SelectedSubCategory.ID": 0,
+              "SelectedSubCategory.Name": null,
+              "SelectedContentType.ID": 459,
+              "SelectedContentType.Name": "Commission determination",
+              "SelectedSubContentType.ID": 470,
+              "SelectedSubContentType.Name": "Determination",
+              "Sort": 0
+            }
+          ]
+        },
+        {
+          "date": "2002-09-05",
+          "title": "Date opened",
+          "summary": null,
+          "status": "Completed",
+          "documents": []
+        }
+      ]
     }
   },
   {
