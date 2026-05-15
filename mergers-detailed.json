@@ -73483,7 +73483,7 @@
         "industry": "Manufacturing",
         "status": "Open",
         "outcome": "",
-        "case_number": "48670",
+        "case_number": "PRJ0048670",
         "date_opened": "24 October 2025",
         "date_closed": "",
         "contact_person": "Mergers team, registrar@comcom.govt.nz."
@@ -73497,10 +73497,54 @@
           "documents": []
         },
         {
-          "date": "2026-05-07",
+          "date": "2026-05-22",
           "title": "Cross-submissions on Statement of Unresolved Issues",
           "summary": null,
           "status": null,
+          "documents": [
+            {
+              "File.ID": 29942,
+              "File.Title": "Chapman Tripp (on behalf of Godfrey Hirst) – Submission on Godfrey Hirst and Bremworth Statement of Unresolved Issues – 13 May 2026",
+              "File.Name": "Chapman-Tripp-on-behalf-of-Godfrey-Hirst-Submission-on-Godfrey-Hirst-and-Bremworth-Statement-of-Unresolved-Issues-13-May-2026.pdf",
+              "File.URL": "/assets/Documents/timeline/Chapman-Tripp-on-behalf-of-Godfrey-Hirst-Submission-on-Godfrey-Hirst-and-Bremworth-Statement-of-Unresolved-Issues-13-May-2026.pdf",
+              "File.FileType": "PDF",
+              "File.FileSize": "16 MB",
+              "File.PublishDate": "15 May 2026",
+              "SelectedCategory.ID": 493,
+              "SelectedCategory.Name": "Mergers and acquisitions",
+              "SelectedSubCategory.ID": 0,
+              "SelectedSubCategory.Name": null,
+              "SelectedContentType.ID": 468,
+              "SelectedContentType.Name": "Merger documents",
+              "SelectedSubContentType.ID": 471,
+              "SelectedSubContentType.Name": "Submission",
+              "Sort": 0
+            },
+            {
+              "File.ID": 29941,
+              "File.Title": "James Every Palmer KC and James Mellsop (NERA) – Opinion provided with submission from Chapman Tripp on the Statement of Unresolved Issues – 14 May 2026",
+              "File.Name": "James-Every-Palmer-KC-and-James-Mellsop-NERA-Opinion-provided-with-submission-from-Chapman-Tripp-on-the-Statement-of-Unresolved-Issues-14-May-2026.pdf",
+              "File.URL": "/assets/Documents/timeline/James-Every-Palmer-KC-and-James-Mellsop-NERA-Opinion-provided-with-submission-from-Chapman-Tripp-on-the-Statement-of-Unresolved-Issues-14-May-2026.pdf",
+              "File.FileType": "PDF",
+              "File.FileSize": "177 KB",
+              "File.PublishDate": "15 May 2026",
+              "SelectedCategory.ID": 493,
+              "SelectedCategory.Name": "Mergers and acquisitions",
+              "SelectedSubCategory.ID": 0,
+              "SelectedSubCategory.Name": null,
+              "SelectedContentType.ID": 468,
+              "SelectedContentType.Name": "Merger documents",
+              "SelectedSubContentType.ID": 471,
+              "SelectedSubContentType.Name": "Submission",
+              "Sort": 0
+            }
+          ]
+        },
+        {
+          "date": "2026-05-07",
+          "title": "Cross-submissions on Statement of Unresolved Issues (extended to 22 May 2026)",
+          "summary": null,
+          "status": "Completed",
           "documents": []
         },
         {
