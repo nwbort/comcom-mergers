@@ -74259,7 +74259,26 @@
           "title": "Submissions on Statement of Unresolved Issues",
           "summary": null,
           "status": null,
-          "documents": []
+          "documents": [
+            {
+              "File.ID": 29947,
+              "File.Title": "New Zealand Māori Tourism – Submission in response to Statement of Unresolved Issues – 14 May 2026",
+              "File.Name": "New-Zealand-Maori-Tourism-Submission-in-response-to-Statement-of-Unresolved-Issues-14-May-2026.pdf",
+              "File.URL": "/assets/Documents/timeline/New-Zealand-Maori-Tourism-Submission-in-response-to-Statement-of-Unresolved-Issues-14-May-2026.pdf",
+              "File.FileType": "PDF",
+              "File.FileSize": "322 KB",
+              "File.PublishDate": "18 May 2026",
+              "SelectedCategory.ID": 493,
+              "SelectedCategory.Name": "Mergers and acquisitions",
+              "SelectedSubCategory.ID": 0,
+              "SelectedSubCategory.Name": null,
+              "SelectedContentType.ID": 468,
+              "SelectedContentType.Name": "Merger documents",
+              "SelectedSubContentType.ID": 471,
+              "SelectedSubContentType.Name": "Submission",
+              "Sort": 0
+            }
+          ]
         },
         {
           "date": "2026-04-30",
