@@ -73490,8 +73490,15 @@
       },
       "updates": [
         {
-          "date": "2026-05-29",
+          "date": "2026-06-30",
           "title": "Decision date",
+          "summary": null,
+          "status": null,
+          "documents": []
+        },
+        {
+          "date": "2026-05-29",
+          "title": "Decision date (extension to 30 June 2026)",
           "summary": null,
           "status": null,
           "documents": []
