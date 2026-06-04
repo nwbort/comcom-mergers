@@ -1,6 +1,6 @@
 [
   {
-    "name": "Westpac Banking Corporation",
+    "name": "Westpac Banking Corporation; South Bank Ltd(ex Southland Building &amp; Investment Society)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "24 January 1991",
@@ -39,7 +39,7 @@
     }
   },
   {
-    "name": "(JV) Brierley Investments Ltd/Sea Holdings",
+    "name": "(JV) Brierley Investments Ltd/Sea Holdings; Property Owing Company",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "5 February 1991",
@@ -78,7 +78,7 @@
     }
   },
   {
-    "name": "Greater Wellington FM Ltd",
+    "name": "Greater Wellington FM Ltd; The Crown",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "8 February 1991",
@@ -117,7 +117,7 @@
     }
   },
   {
-    "name": "NZ Post Ltd",
+    "name": "NZ Post Ltd; Speedlink Business(NZ Railways Corporation)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "8 February 1991",
@@ -156,7 +156,7 @@
     }
   },
   {
-    "name": "Radio NZ Ltd",
+    "name": "Radio NZ Ltd; The Crown",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "13 February 1991",
@@ -195,7 +195,7 @@
     }
   },
   {
-    "name": "Ex Static Society Inc",
+    "name": "Ex Static Society Inc; The Crown",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "21 February 1991",
@@ -234,7 +234,7 @@
     }
   },
   {
-    "name": "Fifeshire FM Broadcasters Ltd",
+    "name": "Fifeshire FM Broadcasters Ltd; The Crown",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "21 February 1991",
@@ -273,7 +273,7 @@
     }
   },
   {
-    "name": "Sanford Ltd",
+    "name": "Sanford Ltd; Skeggs Seafoods Ltd(Wilson Neil Ltd)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "7 March 1991",
@@ -312,7 +312,7 @@
     }
   },
   {
-    "name": "Interchange &amp; Settlement Ltd (ANZ; BNZ; ASB; Trustbank; Westpac; National Bank)",
+    "name": "Interchange &amp; Settlement Ltd (ANZ; BNZ; ASB; Trustbank; Westpac; National Bank); Data Bank Systems Ltd (ANZ; BNZ; National Bank; Westpac)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "14 March 1991",
@@ -351,7 +351,7 @@
     }
   },
   {
-    "name": "Wilson &amp; Horton Ltd",
+    "name": "Wilson &amp; Horton Ltd; Pillow Publishing &amp; Printing Ltd",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "21 March 1991",
@@ -390,7 +390,7 @@
     }
   },
   {
-    "name": "Ambreed NZ Ltd (NZ Dairy Board)",
+    "name": "Ambreed NZ Ltd (NZ Dairy Board); Wrightson Breeding Services (Fletcher Challenge Ltd)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "5 April 1991",
@@ -429,7 +429,7 @@
     }
   },
   {
-    "name": "Carter Holt Harvey Timber Ltd (Carter Holt Harvey Ltd)",
+    "name": "Carter Holt Harvey Timber Ltd (Carter Holt Harvey Ltd); Fletcher Wood Panels Ltd (Fletcher Challenge Ltd)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "16 April 1991",
@@ -468,7 +468,7 @@
     }
   },
   {
-    "name": "The Crown",
+    "name": "The Crown; BNZ Capital Issue Ltd(Bank Of NZ)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "30 April 1991",
@@ -507,7 +507,7 @@
     }
   },
   {
-    "name": "Dynochem NZ Ltd (Dyno Industries AB)",
+    "name": "Dynochem NZ Ltd (Dyno Industries AB); A C Hatrick (NZ) Ltd (Hercules Inc)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "1 May 1991",
@@ -546,7 +546,7 @@
     }
   },
   {
-    "name": "Village Roadshow Ltd(Village Roadshow Corporation Ltd)",
+    "name": "Village Roadshow Ltd(Village Roadshow Corporation Ltd); Pacer Kerridge Corporation",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "3 May 1991",
@@ -585,7 +585,7 @@
     }
   },
   {
-    "name": "Pyne Gould Guiness(Pyne Gould Corporation)",
+    "name": "Pyne Gould Guiness(Pyne Gould Corporation); Elders Pastoral Ltd(Fosters Brewing Group Ltd)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "8 May 1991",
@@ -624,7 +624,7 @@
     }
   },
   {
-    "name": "Reid Farmers Ltd",
+    "name": "Reid Farmers Ltd; Elders Pastoral Ltd(Fosters Brewing Group Ltd)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "8 May 1991",
@@ -663,7 +663,7 @@
     }
   },
   {
-    "name": "Southland Farmers Co-Operative Association Ltd",
+    "name": "Southland Farmers Co-Operative Association Ltd; Elders Pastoral Ltd(Fosters Brewing Group Ltd)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "8 May 1991",
@@ -702,7 +702,7 @@
     }
   },
   {
-    "name": "HKP Partners Of NZ (Bell; Ameritech; Heybrook; Versoix)",
+    "name": "HKP Partners Of NZ (Bell; Ameritech; Heybrook; Versoix); Sky Network Television Ltd",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "17 May 1991",
@@ -741,7 +741,7 @@
     }
   },
   {
-    "name": "Natural Gas Corporation(Petroleum Corporation Of NZ Ltd)",
+    "name": "Natural Gas Corporation(Petroleum Corporation Of NZ Ltd); Welgas Holdings Ltd(Brierley Investments Ltd)",
     "status": "Closed",
     "outcome": "Merger declined",
     "date": "22 May 1991",
@@ -780,7 +780,7 @@
     }
   },
   {
-    "name": "Stevens Pharmaceuticals (NZ) Ltd(Stevens KMS Corporation)",
+    "name": "Stevens Pharmaceuticals (NZ) Ltd(Stevens KMS Corporation); Reid Pharmaceuticals Ltd",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "22 May 1991",
@@ -819,7 +819,7 @@
     }
   },
   {
-    "name": "Telecom Corporation Of NZ Ltd(Ameritech Corporation/Bell Atlantic Corporation)",
+    "name": "Telecom Corporation Of NZ Ltd(Ameritech Corporation/Bell Atlantic Corporation); Comtel Communications Ltd(Telecom Corporation Of NZ Ltd)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "29 May 1991",
@@ -858,7 +858,7 @@
     }
   },
   {
-    "name": "Waste Management NZ Ltd(Waste Management Inc)",
+    "name": "Waste Management NZ Ltd(Waste Management Inc); Taspac Waste Ltd",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "19 June 1991",
@@ -897,7 +897,7 @@
     }
   },
   {
-    "name": "Gestetner Holding BV",
+    "name": "Gestetner Holding BV; U-Bix Business Machines Ltd",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "25 June 1991",
@@ -936,7 +936,7 @@
     }
   },
   {
-    "name": "Liberty Holdings Ltd",
+    "name": "Liberty Holdings Ltd; Fourth Estate Holdings Ltd(John Fairfax Group Pty Ltd)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "25 June 1991",
@@ -975,7 +975,7 @@
     }
   },
   {
-    "name": "Repco Merchants Ltd(Pacific Dunlop Ltd)",
+    "name": "Repco Merchants Ltd(Pacific Dunlop Ltd); John Edmond Ltd(Donaghy&#39;s Ltd)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "25 June 1991",
@@ -1014,7 +1014,7 @@
     }
   },
   {
-    "name": "Salmond Smith Biolab Ltd",
+    "name": "Salmond Smith Biolab Ltd; Ocean Ranch Ltd",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "27 June 1991",
@@ -1053,7 +1053,7 @@
     }
   },
   {
-    "name": "North Auckland Electric Power Board",
+    "name": "North Auckland Electric Power Board; Whangarei District Council",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "28 June 1991",
@@ -1092,7 +1092,7 @@
     }
   },
   {
-    "name": "Hermes Precisa (NZ) Ltd (Hermes Precisa Australia Ltd)",
+    "name": "Hermes Precisa (NZ) Ltd (Hermes Precisa Australia Ltd); Vogel Computing Services (Works Computing Services Ltd)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "2 July 1991",
@@ -1131,7 +1131,7 @@
     }
   },
   {
-    "name": "Kidd Garrett Holdings Ltd (Brierley Investments Ltd)",
+    "name": "Kidd Garrett Holdings Ltd (Brierley Investments Ltd); Paykel Engineering Ltd (Renouf Corporation Ltd)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "2 July 1991",
@@ -1170,7 +1170,7 @@
     }
   },
   {
-    "name": "Sky Network Television Ltd(HKP Partners Of NZ Ltd)",
+    "name": "Sky Network Television Ltd(HKP Partners Of NZ Ltd); Sophomore Holdings Ltd",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "17 July 1991",
@@ -1209,7 +1209,7 @@
     }
   },
   {
-    "name": "Christchurch Press Co Ltd (The) (Independent Newspaper Services Ltd)",
+    "name": "Christchurch Press Co Ltd (The) (Independent Newspaper Services Ltd); Christchurch Midweek Mail (The) (Christchurch Press Co Ltd (The))",
     "status": "Closed",
     "outcome": "Application withdrawn",
     "date": "19 July 1991",
@@ -1248,7 +1248,7 @@
     }
   },
   {
-    "name": "Monier Brickmakers Ltd (CSR Ltd/Redland International Ltd)",
+    "name": "Monier Brickmakers Ltd (CSR Ltd/Redland International Ltd); Lifestyle Roofing Ltd",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "19 July 1991",
@@ -1287,7 +1287,7 @@
     }
   },
   {
-    "name": "Bellsouth NZ Ltd (Bellsouth Enterprises Inc)",
+    "name": "Bellsouth NZ Ltd (Bellsouth Enterprises Inc); The Crown",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "23 July 1991",
@@ -1326,7 +1326,7 @@
     }
   },
   {
-    "name": "Telecom Corporation Of NZ Ltd",
+    "name": "Telecom Corporation Of NZ Ltd; Netway Communications Ltd(Telecom Corporation Of NZ Ltd/Freightways Services)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "25 July 1991",
@@ -1365,7 +1365,7 @@
     }
   },
   {
-    "name": "Allied Foods Co Ltd (George Weston Foods Ltd)",
+    "name": "Allied Foods Co Ltd (George Weston Foods Ltd); Norths Bakery (Auckland) Ltd",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "29 July 1991",
@@ -1404,7 +1404,7 @@
     }
   },
   {
-    "name": "Allied Foods Co Ltd (George Weston Foods Ltd)",
+    "name": "Allied Foods Co Ltd (George Weston Foods Ltd); Norths Bakery Ltd &amp; Others",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "29 July 1991",
@@ -1443,7 +1443,7 @@
     }
   },
   {
-    "name": "Independent Newspapers Ltd",
+    "name": "Independent Newspapers Ltd; Kapiti Mail Ltd (Lucas Media Ltd)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "29 July 1991",
@@ -1482,7 +1482,7 @@
     }
   },
   {
-    "name": "Richard Cavalier Ltd (Richard Cavalier Holdings Ltd)",
+    "name": "Richard Cavalier Ltd (Richard Cavalier Holdings Ltd); EBOS Group Ltd",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "31 July 1991",
@@ -1521,7 +1521,7 @@
     }
   },
   {
-    "name": "South Island Dairy Farmers Ltd",
+    "name": "South Island Dairy Farmers Ltd; North Otago Co-Operative Milk Supply Company Ltd(Tasman Agriculture Ltd)",
     "status": "Closed",
     "outcome": "Merger declined",
     "date": "2 August 1991",
@@ -1560,7 +1560,7 @@
     }
   },
   {
-    "name": "McBreen Jenkins Construction Ltd",
+    "name": "McBreen Jenkins Construction Ltd; Far North District Council",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "5 August 1991",
@@ -1599,7 +1599,7 @@
     }
   },
   {
-    "name": "Works Civil Construction Ltd(Works &amp; Development Services Corporation (NZ) Ltd)",
+    "name": "Works Civil Construction Ltd(Works &amp; Development Services Corporation (NZ) Ltd); Far North District Council",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "5 August 1991",
@@ -1638,7 +1638,7 @@
     }
   },
   {
-    "name": "Tasman Forestry Ltd (Fletcher Challenge Ltd)",
+    "name": "Tasman Forestry Ltd (Fletcher Challenge Ltd); The Crown/The Forestry Corporation Of NZ Ltd",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "8 August 1991",
@@ -1677,7 +1677,7 @@
     }
   },
   {
-    "name": "Pyne Gould Corporation",
+    "name": "Pyne Gould Corporation; Amuri Corporation",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "16 August 1991",
@@ -1716,7 +1716,7 @@
     }
   },
   {
-    "name": "Rank Group Ltd",
+    "name": "Rank Group Ltd; Whitcoulls Group Ltd/Officecorp Holdings Ltd(Brierley Investments Ltd)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "22 August 1991",
@@ -1755,7 +1755,7 @@
     }
   },
   {
-    "name": "Pyne Gould Corporation",
+    "name": "Pyne Gould Corporation; Apple Fields Ltd",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "28 August 1991",
@@ -1794,7 +1794,7 @@
     }
   },
   {
-    "name": "Pyne Gould Corporation",
+    "name": "Pyne Gould Corporation; Reid Farmers Ltd",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "28 August 1991",
@@ -1833,7 +1833,7 @@
     }
   },
   {
-    "name": "Newco (Lion Nathan Ltd/Hiram Walker - Allied Vintners Ltd/International Distillers &amp; Vintners Ltd)",
+    "name": "Newco (Lion Nathan Ltd/Hiram Walker - Allied Vintners Ltd/International Distillers &amp; Vintners Ltd); NZ Wines &amp; Spirits Ltd/JV Exports Ltd/Bondpak NZ Ltd/Seagar Evans &amp; Co (NZ) Ltd(Lion Nathan Ltd)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "4 September 1991",
@@ -1872,7 +1872,7 @@
     }
   },
   {
-    "name": "Lanes Industries Ltd(Brierley Investments Ltd)",
+    "name": "Lanes Industries Ltd(Brierley Investments Ltd); Botannix Garden Centres Ltd In Statutory Management(Ararimu Holdings Ltd) In Statutory Management",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "11 September 1991",
@@ -1911,7 +1911,7 @@
     }
   },
   {
-    "name": "Repco Merchants Ltd(Pacific Dunlop Ltd)",
+    "name": "Repco Merchants Ltd(Pacific Dunlop Ltd); JRA (NZ) Ltd(JRA Holdings Ltd)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "27 September 1991",
@@ -1950,7 +1950,7 @@
     }
   },
   {
-    "name": "South Island Dairy Farmers Ltd",
+    "name": "South Island Dairy Farmers Ltd; The North Otago Co-Operative Milk Supply Company Ltd(Tasman Agriculture Ltd)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "30 September 1991",
@@ -1989,7 +1989,7 @@
     }
   },
   {
-    "name": "Aklaw Number Thirty Nine Ltd (Sydney Futures Exchange Ltd)",
+    "name": "Aklaw Number Thirty Nine Ltd (Sydney Futures Exchange Ltd); NZ Futures &amp; Options Exchange Ltd",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "15 October 1991",
@@ -2028,7 +2028,7 @@
     }
   },
   {
-    "name": "Mayview Holdings Ltd",
+    "name": "Mayview Holdings Ltd; Tourist Hotel Corporation Of NZ Ltd(Southern Pacific Hotel Corporation)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "17 October 1991",
@@ -2067,7 +2067,7 @@
     }
   },
   {
-    "name": "Hawkes Bay Electric Power Board",
+    "name": "Hawkes Bay Electric Power Board; Napier City Council",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "22 October 1991",
@@ -2106,7 +2106,7 @@
     }
   },
   {
-    "name": "Waste Management NZ Ltd(Waste Management Inc)",
+    "name": "Waste Management NZ Ltd(Waste Management Inc); Hirepool Auckland Ltd(Owens Group Ltd)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "23 October 1991",
@@ -2145,7 +2145,7 @@
     }
   },
   {
-    "name": "Magnum Corporation Ltd",
+    "name": "Magnum Corporation Ltd; Flanagans Wholesaler Liquor (Cambridge)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "29 October 1991",
@@ -2184,7 +2184,7 @@
     }
   },
   {
-    "name": "Industrial Equity Ltd",
+    "name": "Industrial Equity Ltd; Botannix Garden Centre Ltd",
     "status": "Closed",
     "outcome": "Application withdrawn",
     "date": "4 November 1991",
@@ -2223,7 +2223,7 @@
     }
   },
   {
-    "name": "Bop Fertiliser Ltd (Bay Of Plenty Of Co-Operative Fertiliser Company Ltd (60%) Fernz Corporation Ltd (40%)",
+    "name": "Bop Fertiliser Ltd (Bay Of Plenty Of Co-Operative Fertiliser Company Ltd (60%) Fernz Corporation Ltd (40%); Kapuni Plant Leasing Ltd(Fletcher Challenge Ltd)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "14 November 1991",
@@ -2262,7 +2262,7 @@
     }
   },
   {
-    "name": "Synet Communications (1990) Ltd(NZ Post Ltd)",
+    "name": "Synet Communications (1990) Ltd(NZ Post Ltd); The Telegram Company (Netway Communications Ltd)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "28 November 1991",
@@ -2301,7 +2301,7 @@
     }
   },
   {
-    "name": "Porritts &amp; Spencer Ltd(Scapa Group PLC)",
+    "name": "Porritts &amp; Spencer Ltd(Scapa Group PLC); URE Pacific Traders Ltd",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "12 December 1991",
@@ -2340,7 +2340,7 @@
     }
   },
   {
-    "name": "Phoenix Meat Company Ltd",
+    "name": "Phoenix Meat Company Ltd; Alliance Group Ltd",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "18 December 1991",
@@ -2379,7 +2379,7 @@
     }
   },
   {
-    "name": "NZ Rural Press Ltd(Rural Press Ltd)",
+    "name": "NZ Rural Press Ltd(Rural Press Ltd); Insight Publications Ltd",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "14 January 1992",
@@ -2418,7 +2418,7 @@
     }
   },
   {
-    "name": "Phoenix Meat Company Ltd",
+    "name": "Phoenix Meat Company Ltd; Atas Beef Packers Ltd",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "4 February 1992",
@@ -2457,7 +2457,7 @@
     }
   },
   {
-    "name": "Waste Management NZ Ltd(Waste Management Inc)",
+    "name": "Waste Management NZ Ltd(Waste Management Inc); Trashways Bin Services Ltd",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "4 February 1992",
@@ -2496,7 +2496,7 @@
     }
   },
   {
-    "name": "Turners &amp; Growers Ltd",
+    "name": "Turners &amp; Growers Ltd; Mg Marketing Ltd(Market Gardeners Ltd)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "5 February 1992",
@@ -2535,7 +2535,7 @@
     }
   },
   {
-    "name": "Regal Salmon Ltd",
+    "name": "Regal Salmon Ltd; The NZ Salmon Company Ltd",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "13 February 1992",
@@ -2574,7 +2574,7 @@
     }
   },
   {
-    "name": "Kiwi Co-Operative Dairies Ltd",
+    "name": "Kiwi Co-Operative Dairies Ltd; Moa-Nui Co-Operative Dairies Ltd",
     "status": "Closed",
     "outcome": "Merger declined",
     "date": "14 February 1992",
@@ -2613,7 +2613,7 @@
     }
   },
   {
-    "name": "Tirano Corporation Ltd(Corporate Investments Ltd)",
+    "name": "Tirano Corporation Ltd(Corporate Investments Ltd); Gullivers Travel International Ltd/Api Travel Group Ltd",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "27 February 1992",
@@ -2652,7 +2652,7 @@
     }
   },
   {
-    "name": "The Christchurch Press Company Ltd (Independent Newspapers Ltd)",
+    "name": "The Christchurch Press Company Ltd (Independent Newspapers Ltd); Christchurch Midweek Mail Ltd",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "17 March 1992",
@@ -2691,7 +2691,7 @@
     }
   },
   {
-    "name": "Foodstuffs (Wellington) Co-Operative Society Ltd",
+    "name": "Foodstuffs (Wellington) Co-Operative Society Ltd; Countdown Foodmarkets Ltd (Magnum Corp)",
     "status": "Closed",
     "outcome": "Merger declined",
     "date": "25 March 1992",
@@ -2730,7 +2730,7 @@
     }
   },
   {
-    "name": "Dick Smith Electronics (NZ) Ltd (The Adelaide Steamship Company Ltd)",
+    "name": "Dick Smith Electronics (NZ) Ltd (The Adelaide Steamship Company Ltd); David Reid (NZ) Ltd (D J Reid (NZ) Ltd)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "26 March 1992",
@@ -2769,7 +2769,7 @@
     }
   },
   {
-    "name": "Rayonier NZ Ltd(ITT Corporation)",
+    "name": "Rayonier NZ Ltd(ITT Corporation); NZ Timberlands Ltd(The Crown)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "27 March 1992",
@@ -2808,7 +2808,7 @@
     }
   },
   {
-    "name": "Steel &amp; Tube Holdings Ltd",
+    "name": "Steel &amp; Tube Holdings Ltd; Stewart Steel Ltd",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "27 March 1992",
@@ -2847,7 +2847,7 @@
     }
   },
   {
-    "name": "Advantage Holdings Ltd (Ernslaw One Ltd)",
+    "name": "Advantage Holdings Ltd (Ernslaw One Ltd); The Crown",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "1 April 1992",
@@ -2886,7 +2886,7 @@
     }
   },
   {
-    "name": "Ernslaw One Ltd (Rimbunan Hijau Group)",
+    "name": "Ernslaw One Ltd (Rimbunan Hijau Group); NZ Timberlands Ltd (The Crown)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "1 April 1992",
@@ -2925,7 +2925,7 @@
     }
   },
   {
-    "name": "Foodstuffs (South Island) Ltd",
+    "name": "Foodstuffs (South Island) Ltd; Countdown Foodmarkets Ltd (Magnum Corp)",
     "status": "Closed",
     "outcome": "Merger declined",
     "date": "3 April 1992",
@@ -2964,7 +2964,7 @@
     }
   },
   {
-    "name": "Tasman Steel Holdings Ltd(The Broken Hill Proprietary Company Ltd)",
+    "name": "Tasman Steel Holdings Ltd(The Broken Hill Proprietary Company Ltd); NZ Steel Holdings Ltd",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "8 April 1992",
@@ -3003,7 +3003,7 @@
     }
   },
   {
-    "name": "Kiwi Co-operative Dairies Limited",
+    "name": "Kiwi Co-operative Dairies Limited; Moa-Nui Co-operative Dairies Limited",
     "status": "Closed",
     "outcome": "Merger authorised",
     "date": "9 April 1992",
@@ -3068,7 +3068,7 @@
     }
   },
   {
-    "name": "Wenita Forestry Ltd(Wenita Ltd)",
+    "name": "Wenita Forestry Ltd(Wenita Ltd); The Crown",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "14 April 1992",
@@ -3107,7 +3107,7 @@
     }
   },
   {
-    "name": "Foodstuffs (Wellington) Co-Operative Society Ltd",
+    "name": "Foodstuffs (Wellington) Co-Operative Society Ltd; Countdown Foodmarkets Ltd (Magnum Corporation Ltd)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "15 April 1992",
@@ -3146,7 +3146,7 @@
     }
   },
   {
-    "name": "Foodstuffs (Wellington) Co-Operative Society Ltd",
+    "name": "Foodstuffs (Wellington) Co-Operative Society Ltd; Countdown Foodmarkets Ltd (Magnum Corporation Ltd)",
     "status": "Closed",
     "outcome": "Merger declined",
     "date": "15 April 1992",
@@ -3185,7 +3185,7 @@
     }
   },
   {
-    "name": "Foodstuffs (Wellington) Co-Operative Society Ltd",
+    "name": "Foodstuffs (Wellington) Co-Operative Society Ltd; Countdown Foodmarkets Ltd (Magnum Corporation Ltd)",
     "status": "Closed",
     "outcome": "Merger declined",
     "date": "15 April 1992",
@@ -3224,7 +3224,7 @@
     }
   },
   {
-    "name": "Sonoco NZ Ltd(Sonoco Products Company Ltd Of Hartsville; USA)",
+    "name": "Sonoco NZ Ltd(Sonoco Products Company Ltd Of Hartsville; USA); Dominion Containers Ltd(Roger W Scherer Ltd)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "21 April 1992",
@@ -3263,7 +3263,7 @@
     }
   },
   {
-    "name": "Gulf Ferries Ltd",
+    "name": "Gulf Ferries Ltd; Seaflight Cruises (1990) Ltd (Pacifica Shipping (1985) Ltd)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "19 June 1992",
@@ -3302,7 +3302,7 @@
     }
   },
   {
-    "name": "GFW Agri-Products Ltd (Goodman Fielder Wattie Ltd)",
+    "name": "GFW Agri-Products Ltd (Goodman Fielder Wattie Ltd); Table Talk Chicken Ltd (GFW Agri-Products Ltd/Poultrymens Co-Op Ltd)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "23 July 1992",
@@ -3341,7 +3341,7 @@
     }
   },
   {
-    "name": "Wellington City Transport Ltd",
+    "name": "Wellington City Transport Ltd; Cityline Hutt Valley (NZ Railways Corporation)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "6 August 1992",
@@ -3380,7 +3380,7 @@
     }
   },
   {
-    "name": "National Australia Group (NZ) Ltd(National Australia Bank Ltd)",
+    "name": "National Australia Group (NZ) Ltd(National Australia Bank Ltd); Bank Of NZ Ltd",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "12 August 1992",
@@ -3419,9 +3419,9 @@
     }
   },
   {
-    "name": "H J Heinz Company",
+    "name": "H J Heinz Company; Wattie Industries Limited (Goodman Fielder Wattie Limited)",
     "status": "Closed",
-    "outcome": "Cleared",
+    "outcome": null,
     "date": "30 September 1992",
     "link": "https://www.comcom.govt.nz/case-register/case-register-entries/h-j-heinz-company/",
     "details": {
@@ -3458,7 +3458,7 @@
     }
   },
   {
-    "name": "Wilson &amp; Horton Ltd",
+    "name": "Wilson &amp; Horton Ltd; Bowater Print &amp; Packaging Ltd Bankprint Division(Bowater Group)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "1 October 1992",
@@ -3497,7 +3497,7 @@
     }
   },
   {
-    "name": "Pacific Dunlop Holdings (NZ) Ltd(Pacific Dunlop Ltd)",
+    "name": "Pacific Dunlop Holdings (NZ) Ltd(Pacific Dunlop Ltd); Wattie Foods Ltd(Goodman Fielder Wattie Ltd)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "2 October 1992",
@@ -3536,7 +3536,7 @@
     }
   },
   {
-    "name": "Turnberry Properties Ltd(Alliance Group Ltd/Phoenix Meat Company Ltd",
+    "name": "Turnberry Properties Ltd(Alliance Group Ltd/Phoenix Meat Company Ltd; Atas Beef Packers",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "6 October 1992",
@@ -3575,7 +3575,7 @@
     }
   },
   {
-    "name": "Aklaw Number Thirty Nine Ltd (Sydney Futures Exchange Ltd)",
+    "name": "Aklaw Number Thirty Nine Ltd (Sydney Futures Exchange Ltd); NZ Futures &amp; Options Exchange",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "22 October 1992",
@@ -3614,7 +3614,7 @@
     }
   },
   {
-    "name": "Natural Gas Corporation Of New Zealand Limited",
+    "name": "Natural Gas Corporation Of New Zealand Limited; Wanganui Gas Limited (to be formed) (Wanganui District Council)",
     "status": "Closed",
     "outcome": "Merger authorised",
     "date": "29 October 1992",
@@ -3653,7 +3653,7 @@
     }
   },
   {
-    "name": "Sombar Enterprises Ltd",
+    "name": "Sombar Enterprises Ltd; FTC Holdings Ltd",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "3 November 1992",
@@ -3731,7 +3731,7 @@
     }
   },
   {
-    "name": "The National Bank Of NZ Ltd",
+    "name": "The National Bank Of NZ Ltd; Rural Bank Ltd(Fletcher Challenge Ltd)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "9 December 1992",
@@ -3770,7 +3770,7 @@
     }
   },
   {
-    "name": "Wilson &amp; Horton Ltd",
+    "name": "Wilson &amp; Horton Ltd; The Bay Of Plenty Times Ltd",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "10 December 1992",
@@ -3809,7 +3809,7 @@
     }
   },
   {
-    "name": "Butler (1992) Ltd (Sulkem Company Ltd)",
+    "name": "Butler (1992) Ltd (Sulkem Company Ltd); Gibsons And Paterson (NZ) Ltd (Ceramco Corporation Ltd)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "16 December 1992",
@@ -3848,7 +3848,7 @@
     }
   },
   {
-    "name": "Keystone Pacific Pty Ltd (NSW) (Keystone International Inc)",
+    "name": "Keystone Pacific Pty Ltd (NSW) (Keystone International Inc); Nortrac Engineering Ltd",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "16 December 1992",
@@ -3887,7 +3887,7 @@
     }
   },
   {
-    "name": "Kodak NZ Ltd(Eastman Kodak Company New York)",
+    "name": "Kodak NZ Ltd(Eastman Kodak Company New York); Chromatek Color Laboratories Ltd",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "16 December 1992",
@@ -3926,7 +3926,7 @@
     }
   },
   {
-    "name": "Huttons Kiwi Ltd (Brierley Investments)",
+    "name": "Huttons Kiwi Ltd (Brierley Investments); AFFCO Meats Ltd (Tenderkist Business)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "10 February 1993",
@@ -3965,7 +3965,7 @@
     }
   },
   {
-    "name": "Quality Bakers NZ Ltd (Goodman Fielder Ltd)",
+    "name": "Quality Bakers NZ Ltd (Goodman Fielder Ltd); Tokoroa Bakery Ltd (Freshbake Wairarapa Ltd)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "11 February 1993",
@@ -4004,7 +4004,7 @@
     }
   },
   {
-    "name": "Wellington Combined Taxis",
+    "name": "Wellington Combined Taxis; Black; White &amp; Grey Cabs Ltd And Wellington Taxi Society Ltd",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "26 February 1993",
@@ -4043,7 +4043,7 @@
     }
   },
   {
-    "name": "Tasman Milk Products Ltd",
+    "name": "Tasman Milk Products Ltd; Nelson Co-Operative Milk Producers Association Ltd",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "25 March 1993",
@@ -4082,7 +4082,7 @@
     }
   },
   {
-    "name": "Stevens KMS Corporation Ltd",
+    "name": "Stevens KMS Corporation Ltd; Community Pharmacy Ltd",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "31 March 1993",
@@ -4121,7 +4121,7 @@
     }
   },
   {
-    "name": "Harlow Butler (NZ) Ltd (James Barlow Holding Ltd)",
+    "name": "Harlow Butler (NZ) Ltd (James Barlow Holding Ltd); Fixed Interest Securities (NZ) Ltd",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "7 April 1993",
@@ -4160,7 +4160,7 @@
     }
   },
   {
-    "name": "South Canterbury Electric Power Board",
+    "name": "South Canterbury Electric Power Board; Timaru District Council Med",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "13 May 1993",
@@ -4199,7 +4199,7 @@
     }
   },
   {
-    "name": "Tourism Flightseeing(The Mount Cook Group Ltd/Fiordland Travel Ltd)",
+    "name": "Tourism Flightseeing(The Mount Cook Group Ltd/Fiordland Travel Ltd); The Mount Cook Group Ltd/Fiordland Travel Ltd",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "19 May 1993",
@@ -4238,7 +4238,7 @@
     }
   },
   {
-    "name": "Freightways Corporation Ltd",
+    "name": "Freightways Corporation Ltd; NZ Rail",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "28 May 1993",
@@ -4277,7 +4277,7 @@
     }
   },
   {
-    "name": "TNL Group Ltd",
+    "name": "TNL Group Ltd; Irvines Freightlines Ltd",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "3 June 1993",
@@ -4316,7 +4316,7 @@
     }
   },
   {
-    "name": "Telecom Australia (NZ) Ltd",
+    "name": "Telecom Australia (NZ) Ltd; Tacs B Radio Spectrum",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "11 June 1993",
@@ -4355,7 +4355,7 @@
     }
   },
   {
-    "name": "Palmers Garden Centres Ltd",
+    "name": "Palmers Garden Centres Ltd; Sunhill Garden Centre (Pakuranga) Ltd",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "16 June 1993",
@@ -4394,7 +4394,7 @@
     }
   },
   {
-    "name": "Fujitsu NZ Ltd",
+    "name": "Fujitsu NZ Ltd; Southmark Computers Ltd",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "23 June 1993",
@@ -4433,7 +4433,7 @@
     }
   },
   {
-    "name": "Sea Containers Ltd",
+    "name": "Sea Containers Ltd; NZ Rail Ltd(The Crown)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "24 June 1993",
@@ -4472,7 +4472,7 @@
     }
   },
   {
-    "name": "Anschutz Corporation",
+    "name": "Anschutz Corporation; NZ Rail Ltd (The Crown)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "30 June 1993",
@@ -4511,7 +4511,7 @@
     }
   },
   {
-    "name": "Brierley Investments Ltd",
+    "name": "Brierley Investments Ltd; NZ Rail Ltd (The Crown)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "30 June 1993",
@@ -4550,7 +4550,7 @@
     }
   },
   {
-    "name": "Mainfreight Transport Ltd",
+    "name": "Mainfreight Transport Ltd; NZ Rail Ltd(The Crown)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "30 June 1993",
@@ -4589,7 +4589,7 @@
     }
   },
   {
-    "name": "Port Of Tauranga &amp; Others",
+    "name": "Port Of Tauranga &amp; Others; NZ Rail Ltd(The Crown)",
     "status": "Closed",
     "outcome": "Application withdrawn",
     "date": "30 June 1993",
@@ -4628,7 +4628,7 @@
     }
   },
   {
-    "name": "Cryptic Investments Ltd",
+    "name": "Cryptic Investments Ltd; NZ Rail Ltd (The Crown)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "1 July 1993",
@@ -4667,7 +4667,7 @@
     }
   },
   {
-    "name": "Fay Richwhite &amp; Co Ltd",
+    "name": "Fay Richwhite &amp; Co Ltd; NZ Rail Ltd (The Crown)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "1 July 1993",
@@ -4706,7 +4706,7 @@
     }
   },
   {
-    "name": "Foodland (NZ) Holdings Ltd (Foodland Associated Ltd Western Australia)",
+    "name": "Foodland (NZ) Holdings Ltd (Foodland Associated Ltd Western Australia); Progressive Enterprises Ltd",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "1 July 1993",
@@ -4745,7 +4745,7 @@
     }
   },
   {
-    "name": "Port Of Tauranga &amp; Others",
+    "name": "Port Of Tauranga &amp; Others; NZ Rail Ltd(The Crown)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "1 July 1993",
@@ -4784,7 +4784,7 @@
     }
   },
   {
-    "name": "Port Of Wellington/Port Of Auckland",
+    "name": "Port Of Wellington/Port Of Auckland; NZ Rail Ltd(The Crown)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "1 July 1993",
@@ -4823,7 +4823,7 @@
     }
   },
   {
-    "name": "Progressive Enterprises Ltd (Foodland Associated Ltd - Western Australia)",
+    "name": "Progressive Enterprises Ltd (Foodland Associated Ltd - Western Australia); FAL (NZ) Ltd",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "1 July 1993",
@@ -4862,7 +4862,7 @@
     }
   },
   {
-    "name": "The Morgan Stanley Leveraged Equity Fund",
+    "name": "The Morgan Stanley Leveraged Equity Fund; NZ Rail Ltd(The Crown)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "1 July 1993",
@@ -4901,7 +4901,7 @@
     }
   },
   {
-    "name": "NZ Rural Press Ltd(Rural Press Ltd)",
+    "name": "NZ Rural Press Ltd(Rural Press Ltd); Trade Publications Ltd",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "21 July 1993",
@@ -4940,7 +4940,7 @@
     }
   },
   {
-    "name": "CSR; Mackay Co-Op; Ed &amp; F Man Joint Venture",
+    "name": "CSR; Mackay Co-Op; Ed &amp; F Man Joint Venture; NZ Sugar Company Ltd",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "23 August 1993",
@@ -4979,7 +4979,7 @@
     }
   },
   {
-    "name": "Southern Cross Medical Care Society",
+    "name": "Southern Cross Medical Care Society; First Medical Corporation Ltd",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "26 August 1993",
@@ -5018,7 +5018,7 @@
     }
   },
   {
-    "name": "Independent Newspapers Ltd",
+    "name": "Independent Newspapers Ltd; Nelson Evening Mail Ltd; The (Lucas Media Ltd)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "6 September 1993",
@@ -5057,7 +5057,7 @@
     }
   },
   {
-    "name": "Amcor Ltd",
+    "name": "Amcor Ltd; North Broken Hill NZ Ltd (Trading As The Paper House) (North Broken Hill Peko Ltd)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "4 October 1993",
@@ -5096,7 +5096,7 @@
     }
   },
   {
-    "name": "Hoyts NZ Cinemas; An Unincorporated Joint Venture Between (A) Hoyts Cinemas (NZ) Ltd And (B) Endeavour Multiplex Ltd ((A) Fink Family Trust (B) Plowman Family Trust)",
+    "name": "Hoyts NZ Cinemas; An Unincorporated Joint Venture Between (A) Hoyts Cinemas (NZ) Ltd And (B) Endeavour Multiplex Ltd ((A) Fink Family Trust (B) Plowman Family Trust); Dunedin Multiplex Ltd (Octagon Multiplex Ltd)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "14 October 1993",
@@ -5135,7 +5135,7 @@
     }
   },
   {
-    "name": "Whitcoulls Group Ltd",
+    "name": "Whitcoulls Group Ltd; Croxley Collins Olympic(Spicers Paper (NZ) Ltd)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "15 October 1993",
@@ -5174,7 +5174,7 @@
     }
   },
   {
-    "name": "United Electricity Ltd (Dunedin Electricity And Electricity Invercargill Ltd)",
+    "name": "United Electricity Ltd (Dunedin Electricity And Electricity Invercargill Ltd); (A) Dunedin Electricity Ltd And (B) Electricity Invercargill Ltd ((A) Dunedin City Council (B) Invercargill City Council)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "29 October 1993",
@@ -5213,7 +5213,7 @@
     }
   },
   {
-    "name": "Mainstream Foods Ltd",
+    "name": "Mainstream Foods Ltd; Food Supplies Ltd",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "9 November 1993",
@@ -5252,7 +5252,7 @@
     }
   },
   {
-    "name": "Natural Gas Corporation Of New Zealand Limited (Fletcher Challenge Limited)",
+    "name": "Natural Gas Corporation Of New Zealand Limited (Fletcher Challenge Limited); Enerco New Zealand Limited",
     "status": "Closed",
     "outcome": "Merger declined",
     "date": "22 November 1993",
@@ -5291,7 +5291,7 @@
     }
   },
   {
-    "name": "Baycorp Holdings Ltd",
+    "name": "Baycorp Holdings Ltd; Creditcorp Holdings Ltd",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "2 December 1993",
@@ -5330,7 +5330,7 @@
     }
   },
   {
-    "name": "Enerco NZ Limited",
+    "name": "Enerco NZ Limited; Progas Systems Limited (Palmerston North City Council)",
     "status": "Closed",
     "outcome": "Merger authorised",
     "date": "22 December 1993",
@@ -5369,46 +5369,7 @@
     }
   },
   {
-    "name": "United Electricity Ltd",
-    "status": "Closed",
-    "outcome": "Merger cleared",
-    "date": "18 January 1994",
-    "link": "https://www.comcom.govt.nz/case-register/case-register-entries/united-electricity-ltd2/",
-    "details": {
-      "description": "Assets",
-      "case_details": {
-        "parties": "United Electricity Ltd; The Power Company Ltd",
-        "category": "Merger application",
-        "sub-category": "Clearance",
-        "act/section": "Commerce Act 1986 s 66",
-        "industry": "Electricity, gas, water, and waste services",
-        "status": "Closed",
-        "outcome": "Merger cleared",
-        "case_number": "Cleared: 18/01/1994",
-        "date_opened": "17 December 1993",
-        "date_closed": "18 January 1994",
-        "contact_person": ""
-      },
-      "updates": [
-        {
-          "date": "1994-01-18",
-          "title": "Date closed",
-          "summary": "",
-          "status": "Open",
-          "documents": []
-        },
-        {
-          "date": "1993-12-17",
-          "title": "Date opened",
-          "summary": "",
-          "status": "Open",
-          "documents": []
-        }
-      ]
-    }
-  },
-  {
-    "name": "United Electricity Ltd",
+    "name": "United Electricity Ltd; Alpine Energy Ltd",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "18 January 1994",
@@ -5447,7 +5408,46 @@
     }
   },
   {
-    "name": "Mainfreight Transport Ltd",
+    "name": "United Electricity Ltd; The Power Company Ltd",
+    "status": "Closed",
+    "outcome": "Merger cleared",
+    "date": "18 January 1994",
+    "link": "https://www.comcom.govt.nz/case-register/case-register-entries/united-electricity-ltd2/",
+    "details": {
+      "description": "Assets",
+      "case_details": {
+        "parties": "United Electricity Ltd; The Power Company Ltd",
+        "category": "Merger application",
+        "sub-category": "Clearance",
+        "act/section": "Commerce Act 1986 s 66",
+        "industry": "Electricity, gas, water, and waste services",
+        "status": "Closed",
+        "outcome": "Merger cleared",
+        "case_number": "Cleared: 18/01/1994",
+        "date_opened": "17 December 1993",
+        "date_closed": "18 January 1994",
+        "contact_person": ""
+      },
+      "updates": [
+        {
+          "date": "1994-01-18",
+          "title": "Date closed",
+          "summary": "",
+          "status": "Open",
+          "documents": []
+        },
+        {
+          "date": "1993-12-17",
+          "title": "Date opened",
+          "summary": "",
+          "status": "Open",
+          "documents": []
+        }
+      ]
+    }
+  },
+  {
+    "name": "Mainfreight Transport Ltd; Daily Freightways Ltd ANC Chemcourier Services Ltd",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "3 March 1994",
@@ -5486,7 +5486,7 @@
     }
   },
   {
-    "name": "The Power Company Ltd And Electricity Invercargill Ltd",
+    "name": "The Power Company Ltd And Electricity Invercargill Ltd; Powernet Ltd",
     "status": "Closed",
     "outcome": "Application withdrawn",
     "date": "21 March 1994",
@@ -5525,7 +5525,7 @@
     }
   },
   {
-    "name": "Sepco Holdings Ltd",
+    "name": "Sepco Holdings Ltd; Mt Hutt Ski And Alpine Tourist Co Ltd(Victoria USA Inc)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "21 April 1994",
@@ -5564,7 +5564,7 @@
     }
   },
   {
-    "name": "Primary Producers Co-Operative Society Ltd",
+    "name": "Primary Producers Co-Operative Society Ltd; Fortex Group Ltd",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "9 June 1994",
@@ -5603,7 +5603,7 @@
     }
   },
   {
-    "name": "Alliance Group Ltd",
+    "name": "Alliance Group Ltd; Fortex Group Ltd",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "23 June 1994",
@@ -5642,7 +5642,7 @@
     }
   },
   {
-    "name": "Fullers Group Ltd",
+    "name": "Fullers Group Ltd; Subritzky Shipping Line Ltd And Waiheke Freight Distributors Ltd",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "21 July 1994",
@@ -5681,7 +5681,7 @@
     }
   },
   {
-    "name": "Gardner Smith NZ Ltd (Gardner Smith Pty Ltd; Sydney)",
+    "name": "Gardner Smith NZ Ltd (Gardner Smith Pty Ltd; Sydney); NZ Portside Storage Ltd",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "28 July 1994",
@@ -5720,7 +5720,7 @@
     }
   },
   {
-    "name": "Rotorua Electricity Ltd",
+    "name": "Rotorua Electricity Ltd; Bay Of Plenty Electricity Ltd",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "15 August 1994",
@@ -5759,7 +5759,7 @@
     }
   },
   {
-    "name": "Trustpower Ltd(Tauranga Power Trust)",
+    "name": "Trustpower Ltd(Tauranga Power Trust); Rotorua Electricity Ltd",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "8 September 1994",
@@ -5798,7 +5798,7 @@
     }
   },
   {
-    "name": "EnergyDirect Corporation Ltd",
+    "name": "EnergyDirect Corporation Ltd; Capital Power Ltd (Capital Holdings Ltd)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "30 September 1994",
@@ -5837,7 +5837,7 @@
     }
   },
   {
-    "name": "Enerco NZ Limited",
+    "name": "Enerco NZ Limited; Capital Power Limited",
     "status": "Closed",
     "outcome": "Application withdrawn",
     "date": "31 October 1994",
@@ -5876,7 +5876,7 @@
     }
   },
   {
-    "name": "Newco Ltd (Power NZ Ltd/EnergyDirect Corporation Ltd/Wel Energy Group Ltd)",
+    "name": "Newco Ltd (Power NZ Ltd/EnergyDirect Corporation Ltd/Wel Energy Group Ltd); Capital Power Ltd (Wellington City Council)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "4 November 1994",
@@ -5915,7 +5915,7 @@
     }
   },
   {
-    "name": "Power NZ Ltd",
+    "name": "Power NZ Ltd; EnergyDirect Corporation Ltd",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "25 November 1994",
@@ -5954,7 +5954,7 @@
     }
   },
   {
-    "name": "Mercury Energy Ltd",
+    "name": "Mercury Energy Ltd; Power NZ Ltd",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "12 December 1994",
@@ -5993,7 +5993,7 @@
     }
   },
   {
-    "name": "F W McDowall",
+    "name": "F W McDowall; The Mount Cook Group Ltd and Mount Cook Freightlines Ltd (Road Freights Businesses)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "1 February 1995",
@@ -6032,7 +6032,7 @@
     }
   },
   {
-    "name": "Armourguard Security Ltd (Freightways Ltd)",
+    "name": "Armourguard Security Ltd (Freightways Ltd); Securitas Ltd (Tempo International Ltd)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "23 February 1995",
@@ -6071,7 +6071,7 @@
     }
   },
   {
-    "name": "J Wattie Foods Ltd (H J Heinz Co (USA))",
+    "name": "J Wattie Foods Ltd (H J Heinz Co (USA)); Kraft General Foods NZ Ltd (Philip Morris Companies Inc (USA))",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "10 March 1995",
@@ -6110,7 +6110,7 @@
     }
   },
   {
-    "name": "Able Cooke (NZ) Ltd (National Consolidated)",
+    "name": "Able Cooke (NZ) Ltd (National Consolidated); Wiremakers Ltd (Fletcher Challenge Ltd)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "16 March 1995",
@@ -6149,7 +6149,7 @@
     }
   },
   {
-    "name": "Television NZ Ltd(The Crown)",
+    "name": "Television NZ Ltd(The Crown); UHF Licences Ltd(The Crown)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "22 March 1995",
@@ -6188,7 +6188,7 @@
     }
   },
   {
-    "name": "GEC Alsthom NZ Ltd(GEC Alsthom NV; Amsterdam)",
+    "name": "GEC Alsthom NZ Ltd(GEC Alsthom NV; Amsterdam); Powermark NZ Ltd(Electricity Corporation of NZ Ltd)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "30 March 1995",
@@ -6227,7 +6227,7 @@
     }
   },
   {
-    "name": "Pilkington (NZ) Ltd(Pilkington plc (U K))",
+    "name": "Pilkington (NZ) Ltd(Pilkington plc (U K)); (a)  Smith &amp; Smith Glass Ltd (b)  Sauvarins Ltd (c)  Norm Fowke Glass(Carter Holt Harvey)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "27 April 1995",
@@ -6266,7 +6266,7 @@
     }
   },
   {
-    "name": "CentralPower Ltd",
+    "name": "CentralPower Ltd; Wairarapa Electricity Ltd",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "26 May 1995",
@@ -6305,7 +6305,7 @@
     }
   },
   {
-    "name": "Mergeco (Taranaki Energy Ltd/Powerco Ltd)",
+    "name": "Mergeco (Taranaki Energy Ltd/Powerco Ltd); Taranaki Energy Ltd and Powerco Ltd (Taranaki Energy Ltd/New Plymouth District Council)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "26 May 1995",
@@ -6344,7 +6344,7 @@
     }
   },
   {
-    "name": "Wilson and Horton Ltd",
+    "name": "Wilson and Horton Ltd; Northern Publishing Co Ltd",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "26 May 1995",
@@ -6383,7 +6383,7 @@
     }
   },
   {
-    "name": "Norton NZ (Operations) Ltd(Norton Foreign Affiliates Holdings (USA) Ltd)",
+    "name": "Norton NZ (Operations) Ltd(Norton Foreign Affiliates Holdings (USA) Ltd); Norton (NZ) Ltd/Artec Holdings Ltd",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "28 June 1995",
@@ -6422,7 +6422,7 @@
     }
   },
   {
-    "name": "Bowater Print and Packaging Ltd (Bowater Group of Companies)",
+    "name": "Bowater Print and Packaging Ltd (Bowater Group of Companies); ANZPAC Services (New Zealand) Ltd(Rothmans Holdings (New Zealand) Ltd))",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "21 July 1995",
@@ -6500,7 +6500,7 @@
     }
   },
   {
-    "name": "Hawkes Bay Power Ltd and Hawkes Bay Power Distribution",
+    "name": "Hawkes Bay Power Ltd and Hawkes Bay Power Distribution; Taupo Electricity Ltd and Taupo Generation Ltd",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "17 August 1995",
@@ -6539,7 +6539,7 @@
     }
   },
   {
-    "name": "Bay of Plenty Electricity Ltd",
+    "name": "Bay of Plenty Electricity Ltd; Taupo Electricity Ltd and Taupo Generation Ltd (Taupo District Council)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "18 August 1995",
@@ -6578,7 +6578,7 @@
     }
   },
   {
-    "name": "Quantrix Consultants Ltd(Invacare Corporation (USA))",
+    "name": "Quantrix Consultants Ltd(Invacare Corporation (USA)); Group Pharmaceutical Ltd(Mr K R Noble)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "18 August 1995",
@@ -6617,7 +6617,7 @@
     }
   },
   {
-    "name": "Alcan New Zealand Ltd",
+    "name": "Alcan New Zealand Ltd; Comalco Carter Holt Harvey Aluminium",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "24 August 1995",
@@ -6656,7 +6656,7 @@
     }
   },
   {
-    "name": "TrustPower Ltd",
+    "name": "TrustPower Ltd; Taupo Electricity Ltd and Taupo Generation Ltd",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "28 August 1995",
@@ -6695,7 +6695,7 @@
     }
   },
   {
-    "name": "Power New Zealand Ltd",
+    "name": "Power New Zealand Ltd; Taupo Electricity Ltd",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "6 September 1995",
@@ -6734,7 +6734,7 @@
     }
   },
   {
-    "name": "Treaty of Waitangi Fisheries Commission",
+    "name": "Treaty of Waitangi Fisheries Commission; Salmond Smith Biolab Ltd",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "7 September 1995",
@@ -6773,7 +6773,7 @@
     }
   },
   {
-    "name": "Telecom Corporation of New Zealand Ltd",
+    "name": "Telecom Corporation of New Zealand Ltd; Sky Network Television Ltd(HKP Partnership of New Zealand)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "26 September 1995",
@@ -6812,7 +6812,7 @@
     }
   },
   {
-    "name": "Karamea Holdings Ltd (Tiong Group (Malaysia))",
+    "name": "Karamea Holdings Ltd (Tiong Group (Malaysia)); Salmond Smith Biolab Ltd",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "10 October 1995",
@@ -6851,7 +6851,7 @@
     }
   },
   {
-    "name": "Aspak Foods Ltd",
+    "name": "Aspak Foods Ltd; Abels Division (Unilever NZ Ltd)(Unilever Group)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "12 October 1995",
@@ -6890,7 +6890,7 @@
     }
   },
   {
-    "name": "United Environment Group Ltd(Nuplex Industries Ltd)",
+    "name": "United Environment Group Ltd(Nuplex Industries Ltd); Waste Management NZ Ltd",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "2 November 1995",
@@ -6929,7 +6929,7 @@
     }
   },
   {
-    "name": "Horizon Pacific Television Ltd(Television NZ Ltd)",
+    "name": "Horizon Pacific Television Ltd(Television NZ Ltd); CTV Holdings Ltd",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "9 November 1995",
@@ -6968,7 +6968,7 @@
     }
   },
   {
-    "name": "Wormald NZ Ltd(Tyco Group)",
+    "name": "Wormald NZ Ltd(Tyco Group); Carbonic Industries Ltd[Fire Equipment Division](Asco Kohlensaure AG (Switzerland))",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "17 November 1995",
@@ -7007,7 +7007,7 @@
     }
   },
   {
-    "name": "Port of Wellington Ltd(Wellington Regional Council)",
+    "name": "Port of Wellington Ltd(Wellington Regional Council); Container Terminals Ltd",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "4 December 1995",
@@ -7046,7 +7046,7 @@
     }
   },
   {
-    "name": "Carter Holt Harvey Ltd (International Paper Company)",
+    "name": "Carter Holt Harvey Ltd (International Paper Company); Forestry Corporation of NZ Ltd (The Crown)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "12 December 1995",
@@ -7085,7 +7085,7 @@
     }
   },
   {
-    "name": "Australian Consolidated Press NZ Ltd (Publishing and Broadcasting Ltd)",
+    "name": "Australian Consolidated Press NZ Ltd (Publishing and Broadcasting Ltd); Wilson and Horton Ltd [Magazine Division]",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "21 December 1995",
@@ -7124,7 +7124,7 @@
     }
   },
   {
-    "name": "Newco",
+    "name": "Newco; EnergyDirect Corporation Ltd and Capital Power Ltd or Capital Energy Ltd(Capital Power Ltd - Wellington City Council)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "8 February 1996",
@@ -7163,7 +7163,7 @@
     }
   },
   {
-    "name": "New Zealand Radio Network Ltd (Australian Radio Network Pty Ltd and Wilson and Horton Ltd)",
+    "name": "New Zealand Radio Network Ltd (Australian Radio Network Pty Ltd and Wilson and Horton Ltd); The Radio Company Ltd (The Crown)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "23 February 1996",
@@ -7202,7 +7202,7 @@
     }
   },
   {
-    "name": "Bay of Plenty Fertiliser Ltd",
+    "name": "Bay of Plenty Fertiliser Ltd; Southfert Ltd",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "27 February 1996",
@@ -7241,7 +7241,7 @@
     }
   },
   {
-    "name": "GWR Group plc",
+    "name": "GWR Group plc; The Radio Company Ltd (The Crown)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "21 March 1996",
@@ -7280,7 +7280,7 @@
     }
   },
   {
-    "name": "Marlborough Electric Ltd and Tasman Energy Ltd",
+    "name": "Marlborough Electric Ltd and Tasman Energy Ltd; Marlborough Electric Ltd and Tasman Energy Ltd",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "28 March 1996",
@@ -7319,7 +7319,7 @@
     }
   },
   {
-    "name": "Kiwi Co-operative Dairies Ltd",
+    "name": "Kiwi Co-operative Dairies Ltd; Hawkes Bay Milk Producers Co-operative Ltd",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "29 March 1996",
@@ -7358,7 +7358,7 @@
     }
   },
   {
-    "name": "Air New Zealand Limited",
+    "name": "Air New Zealand Limited; Ansett Holdings Limited",
     "status": "Closed",
     "outcome": "Merger declined",
     "date": "3 April 1996",
@@ -7397,7 +7397,7 @@
     }
   },
   {
-    "name": "Wrightsons Ltd",
+    "name": "Wrightsons Ltd; Hodder and Tolley Ltd",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "30 April 1996",
@@ -7436,7 +7436,7 @@
     }
   },
   {
-    "name": "Westpac Holdings NZ Ltd(Westpac Banking Corporation)",
+    "name": "Westpac Holdings NZ Ltd(Westpac Banking Corporation); Trust Bank New Zealand Ltd",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "8 May 1996",
@@ -7475,7 +7475,7 @@
     }
   },
   {
-    "name": "Queenstown Rafts Ltd",
+    "name": "Queenstown Rafts Ltd; Kawarau Raft Expeditions Ltd; Makin&#39; waves The Rafting Company Ltd; Adventure Discovery Ltd",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "29 May 1996",
@@ -7514,7 +7514,7 @@
     }
   },
   {
-    "name": "Rockgas Ltd(Boral Gas Industries Ltd and Caltex Gas NZ Ltd)",
+    "name": "Rockgas Ltd(Boral Gas Industries Ltd and Caltex Gas NZ Ltd); BP Oil NZ Ltd(LPG Distribution)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "29 May 1996",
@@ -7553,7 +7553,7 @@
     }
   },
   {
-    "name": "Air New Zealand Ltd",
+    "name": "Air New Zealand Ltd; Ansett Holdings Ltd and Bodas Pty Ltd",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "4 June 1996",
@@ -7592,7 +7592,7 @@
     }
   },
   {
-    "name": "The News Corporation Ltd",
+    "name": "The News Corporation Ltd; Ansett New Zealand Ltd(Ansett Holdings Ltd)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "4 June 1996",
@@ -7631,7 +7631,7 @@
     }
   },
   {
-    "name": "Newco [a company to be formed] (Marlborough Electric Ltd and Tasman Energy Ltd)",
+    "name": "Newco [a company to be formed] (Marlborough Electric Ltd and Tasman Energy Ltd); Nelson Electricity Ltd",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "17 June 1996",
@@ -7670,9 +7670,9 @@
     }
   },
   {
-    "name": "Ravensdown Corporation Ltd",
+    "name": "Ravensdown Corporation Ltd; SouthFert Ltd",
     "status": "Closed",
-    "outcome": "Declined",
+    "outcome": null,
     "date": "21 June 1996",
     "link": "https://www.comcom.govt.nz/case-register/case-register-entries/ravensdown-corporation-ltd/",
     "details": {
@@ -7709,7 +7709,7 @@
     }
   },
   {
-    "name": "Frucor Holdings Ltd and Frucor Beverages Ltd (NZ Apple and Pear Marketing Board)",
+    "name": "Frucor Holdings Ltd and Frucor Beverages Ltd (NZ Apple and Pear Marketing Board); Dew Drop Juices Ltd (Berrivale Orchards Ltd (Australia))",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "26 June 1996",
@@ -7748,7 +7748,7 @@
     }
   },
   {
-    "name": "Tranzrich Travel Ltd (Tranzit Group Ltd (50%) and Ritchies Transport Holdings Ltd (50%)",
+    "name": "Tranzrich Travel Ltd (Tranzit Group Ltd (50%) and Ritchies Transport Holdings Ltd (50%); Bayline Group Ltd",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "26 June 1996",
@@ -7787,7 +7787,7 @@
     }
   },
   {
-    "name": "Rockgas Ltd(Boral Gas Industries Ltd (50%)Caltex Gas Industries Ltd (50%))",
+    "name": "Rockgas Ltd(Boral Gas Industries Ltd (50%)Caltex Gas Industries Ltd (50%)); Liquigas Ltd",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "11 July 1996",
@@ -7826,7 +7826,7 @@
     }
   },
   {
-    "name": "Gordon and Gotch NZ Ltd",
+    "name": "Gordon and Gotch NZ Ltd; Network Distributors Ltd",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "2 August 1996",
@@ -7865,7 +7865,7 @@
     }
   },
   {
-    "name": "Gardner Smith (NZ) Ltd (Gardner Smith Pty Ltd (Australia))",
+    "name": "Gardner Smith (NZ) Ltd (Gardner Smith Pty Ltd (Australia)); Bulk Storage Terminals Ltd (Burns Philp and Co Ltd)",
     "status": "Closed",
     "outcome": "Merger declined",
     "date": "7 August 1996",
@@ -7904,7 +7904,7 @@
     }
   },
   {
-    "name": "Kiwi Co-operative Dairies Ltd",
+    "name": "Kiwi Co-operative Dairies Ltd; Tui Milk Products Ltd",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "15 August 1996",
@@ -7943,7 +7943,7 @@
     }
   },
   {
-    "name": "Bay of Plenty Fertiliser Co-operative Ltd",
+    "name": "Bay of Plenty Fertiliser Co-operative Ltd; Southfert Co-operative Ltd",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "28 August 1996",
@@ -7982,7 +7982,7 @@
     }
   },
   {
-    "name": "Powerco Ltd",
+    "name": "Powerco Ltd; Egmont Electricity Ltd",
     "status": "Closed",
     "outcome": "Application withdrawn",
     "date": "1 September 1996",
@@ -8021,7 +8021,7 @@
     }
   },
   {
-    "name": "The New Zealand Co-operative Dairy Company Ltd",
+    "name": "The New Zealand Co-operative Dairy Company Ltd; East Tamaki Dairy Company Ltd",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "3 September 1996",
@@ -8060,7 +8060,7 @@
     }
   },
   {
-    "name": "Tip Top Ice Cream Company Ltd (Heinz-Wattie Ltd)",
+    "name": "Tip Top Ice Cream Company Ltd (Heinz-Wattie Ltd); New American Ice Cream Ltd (NZ Co-operative Dairy Company Ltd)",
     "status": "Closed",
     "outcome": "Merger declined",
     "date": "24 September 1996",
@@ -8099,7 +8099,7 @@
     }
   },
   {
-    "name": "The New Zealand Co-operative Dairy Company Ltd",
+    "name": "The New Zealand Co-operative Dairy Company Ltd; Bay Milk Products Ltd",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "27 September 1996",
@@ -8138,7 +8138,7 @@
     }
   },
   {
-    "name": "Gardner Smith (NZ) Ltd (Gardner Smith Pty Ltd (Australia))",
+    "name": "Gardner Smith (NZ) Ltd (Gardner Smith Pty Ltd (Australia)); Bulk Storage Terminals Ltd (Burns Philp &amp; Co Ltd; Australia)",
     "status": "Closed",
     "outcome": "Merger declined",
     "date": "4 October 1996",
@@ -8177,7 +8177,7 @@
     }
   },
   {
-    "name": "The Radio Network of NZ Ltd",
+    "name": "The Radio Network of NZ Ltd; Fifeshire FM Broadcasters Ltd",
     "status": "Closed",
     "outcome": "Merger declined",
     "date": "4 October 1996",
@@ -8216,7 +8216,7 @@
     }
   },
   {
-    "name": "Mainland Products Ltd",
+    "name": "Mainland Products Ltd; Kiwi Co-operative Dairies Ltd",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "15 October 1996",
@@ -8255,7 +8255,7 @@
     }
   },
   {
-    "name": "Blue Star Group Ltd (US Office Products)",
+    "name": "Blue Star Group Ltd (US Office Products); General Packaging Ltd (The Denis Crampsie Family Trust)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "16 October 1996",
@@ -8294,7 +8294,7 @@
     }
   },
   {
-    "name": "Bridgestone Corporation (Japan)",
+    "name": "Bridgestone Corporation (Japan); Bridgestone Tyres (NZ) Ltd",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "16 October 1996",
@@ -8333,7 +8333,7 @@
     }
   },
   {
-    "name": "Tip Top Ice Cream Company Ltd (Heinz-Wattie Ltd)",
+    "name": "Tip Top Ice Cream Company Ltd (Heinz-Wattie Ltd); New American Ice Cream Ltd (NZ Co-operative Dairy Company Ltd)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "31 October 1996",
@@ -8372,7 +8372,7 @@
     }
   },
   {
-    "name": "Cheetham Salt Ltd (Ridley Corporation Ltd (Australia))",
+    "name": "Cheetham Salt Ltd (Ridley Corporation Ltd (Australia)); Dominion Salt LtdDominion Salt (NI) LtdCerebos Skellerup Ltd",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "9 November 1996",
@@ -8411,7 +8411,7 @@
     }
   },
   {
-    "name": "The Radio Network of NZ Ltd",
+    "name": "The Radio Network of NZ Ltd; The Prospect Companies (GWR plc)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "13 November 1996",
@@ -8450,7 +8450,7 @@
     }
   },
   {
-    "name": "CentralPower Ltd",
+    "name": "CentralPower Ltd; Electro Power Ltd",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "14 November 1996",
@@ -8489,7 +8489,7 @@
     }
   },
   {
-    "name": "NZ Bakels Ltd (Emu AG (Switzerland))",
+    "name": "NZ Bakels Ltd (Emu AG (Switzerland)); Abels (1995) Ltd(Aspak Foods Ltd)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "21 November 1996",
@@ -8528,7 +8528,7 @@
     }
   },
   {
-    "name": "Alliance Textiles NZ Ltd(PA Spencer Family Trust)",
+    "name": "Alliance Textiles NZ Ltd(PA Spencer Family Trust); BTR Operations NZ Ltd(BTR Nylex plc (UK))",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "14 January 1997",
@@ -8593,7 +8593,7 @@
     }
   },
   {
-    "name": "Wilson Parking NZ (1992) Ltd(Wilson Parking Holdings Ltd (Singapore))",
+    "name": "Wilson Parking NZ (1992) Ltd (Wilson Parking Holdings Ltd (Singapore); Mainzeal Property and Construction Ltd (Mainzeal Parking Division)",
     "status": "Closed",
     "outcome": "Application withdrawn",
     "date": "21 January 1997",
@@ -8632,7 +8632,7 @@
     }
   },
   {
-    "name": "New Juice Ltd",
+    "name": "New Juice Ltd; Rio Beverages Ltd and Cerebos Greggs Ltd(David Thexton Family Trust - Rio; Cerebos Pacific Ltd - Cerebos Greggs)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "30 January 1997",
@@ -8697,7 +8697,7 @@
     }
   },
   {
-    "name": "Wilson Parking NZ (1992) Ltd(Kwok Family)",
+    "name": "Wilson Parking NZ (1992) Ltd(Kwok Family); Wellington City Council (Car Parking Services)",
     "status": "Closed",
     "outcome": "Merger declined",
     "date": "18 March 1997",
@@ -8762,7 +8762,7 @@
     }
   },
   {
-    "name": "Newmans International Ltd",
+    "name": "Newmans International Ltd; Taura Natural Foods Ltd",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "27 March 1997",
@@ -8827,7 +8827,7 @@
     }
   },
   {
-    "name": "The Radio Network of NZ Ltd",
+    "name": "The Radio Network of NZ Ltd; C93FM (Christchurch) Ltd",
     "status": "Closed",
     "outcome": "Merger declined",
     "date": "27 March 1997",
@@ -8892,7 +8892,7 @@
     }
   },
   {
-    "name": "Tranzrich Travel Ltd",
+    "name": "Tranzrich Travel Ltd; Guthreys Intercity Coach Services Ltd",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "11 April 1997",
@@ -8957,7 +8957,7 @@
     }
   },
   {
-    "name": "Goodman Fielder Ltd",
+    "name": "Goodman Fielder Ltd; Defiance Mills Ltd",
     "status": "Closed",
     "outcome": "Merger declined",
     "date": "14 April 1997",
@@ -9022,7 +9022,7 @@
     }
   },
   {
-    "name": "Wilson Parking NZ (1992) Ltd",
+    "name": "Wilson Parking NZ (1992) Ltd; Wellington City Council(Car Parking Services)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "16 April 1997",
@@ -9087,7 +9087,7 @@
     }
   },
   {
-    "name": "Caroma Industries (NZ) Ltd (GWA International Ltd (Australia))",
+    "name": "Caroma Industries (NZ) Ltd (GWA International Ltd (Australia)); James Hardie Buildings Products Ltd (Bathroom products operation) (James Hardie Industries Ltd (Australia))",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "30 April 1997",
@@ -9152,7 +9152,7 @@
     }
   },
   {
-    "name": "Coats Spencer Crafts Ltd (Coats Patons Pty Ltd and Coats Patons (NZ) Ltd/Alliance Textiles (NZ) Ltd (50/50))",
+    "name": "Coats Spencer Crafts Ltd (Coats Patons Pty Ltd and Coats Patons (NZ) Ltd/Alliance Textiles (NZ) Ltd (50/50)); Alliance Textiles (NZ) Ltd/Coats Patons (NZ) Ltd(Family Trust of PA Spencer (Alliance/Coats Viyella plc))",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "8 May 1997",
@@ -9217,7 +9217,7 @@
     }
   },
   {
-    "name": "Gate Gourmet International AG (SwissAir)",
+    "name": "Gate Gourmet International AG (SwissAir); Air New Zealand - Flight Catering Division",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "9 May 1997",
@@ -9282,7 +9282,7 @@
     }
   },
   {
-    "name": "The Radio Network Ltd",
+    "name": "The Radio Network Ltd; C93FM (Christchurch) Ltd",
     "status": "Closed",
     "outcome": "Merger declined",
     "date": "26 May 1997",
@@ -9347,7 +9347,7 @@
     }
   },
   {
-    "name": "The Procter and Gamble Company",
+    "name": "The Procter and Gamble Company; Tambrands Inc",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "28 May 1997",
@@ -9412,7 +9412,7 @@
     }
   },
   {
-    "name": "New Zealand Post (New Zealand Government)",
+    "name": "New Zealand Post (New Zealand Government); Freightways Ltd: Express Parcel Services Businesses",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "16 June 1997",
@@ -9477,7 +9477,7 @@
     }
   },
   {
-    "name": "Goodman Fielder Ltd",
+    "name": "Goodman Fielder Ltd; Defiance Mills Ltd",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "17 June 1997",
@@ -9542,7 +9542,7 @@
     }
   },
   {
-    "name": "General Electric Company",
+    "name": "General Electric Company; Chep Handling Systems Ltd",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "18 June 1997",
@@ -9607,7 +9607,7 @@
     }
   },
   {
-    "name": "Holdco (Mercury Energy Ltd and Utilicorp)",
+    "name": "Holdco (Mercury Energy Ltd and Utilicorp); Power New Zealand Ltd",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "27 June 1997",
@@ -9672,7 +9672,7 @@
     }
   },
   {
-    "name": "South Island Dairy Farmers Ltd",
+    "name": "South Island Dairy Farmers Ltd; Grey District Co-operative Milk Producers Association Ltd and its Wholly owned subsidiary Scenicland Milk and Cream Ltd",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "3 July 1997",
@@ -9737,7 +9737,7 @@
     }
   },
   {
-    "name": "Powerco Limited (Pukeariki Holdings Limited)",
+    "name": "Powerco Limited (Pukeariki Holdings Limited); Egmont Electricity Limited (South Taranaki District Council)",
     "status": "Closed",
     "outcome": "Merger authorised",
     "date": "21 July 1997",
@@ -9795,7 +9795,7 @@
     }
   },
   {
-    "name": "Bulmer Trading (NZ) Co Ltd",
+    "name": "Bulmer Trading (NZ) Co Ltd; Harvest Wine Company Ltd",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "22 July 1997",
@@ -9860,7 +9860,7 @@
     }
   },
   {
-    "name": "Telarc New Zealand Ltd",
+    "name": "Telarc New Zealand Ltd; Standards New Zealand (Management System Certification Division)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "31 July 1997",
@@ -9925,7 +9925,7 @@
     }
   },
   {
-    "name": "Thorn Rental Trading Inc",
+    "name": "Thorn Rental Trading Inc; Group Rental NZ Ltd",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "25 August 1997",
@@ -9990,7 +9990,7 @@
     }
   },
   {
-    "name": "South Island Dairy Farmers Ltd",
+    "name": "South Island Dairy Farmers Ltd; Westport United Dairies Ltd",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "7 September 1997",
@@ -10055,7 +10055,7 @@
     }
   },
   {
-    "name": "Guiness PLC",
+    "name": "Guiness PLC; Grand Metropolitan PLC",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "8 September 1997",
@@ -10120,7 +10120,7 @@
     }
   },
   {
-    "name": "Gerrard Signode",
+    "name": "Gerrard Signode; Carter Holt Harvey Strapping Systems",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "16 September 1997",
@@ -10185,7 +10185,7 @@
     }
   },
   {
-    "name": "Food Solutions Ltd",
+    "name": "Food Solutions Ltd; Huttons NZ Ltd/Best Corporation Ltd",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "29 September 1997",
@@ -10250,7 +10250,7 @@
     }
   },
   {
-    "name": "Mentec Ltd",
+    "name": "Mentec Ltd; Annett &amp; Darling Ltd",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "2 October 1997",
@@ -10315,7 +10315,7 @@
     }
   },
   {
-    "name": "Rockgas Ltd",
+    "name": "Rockgas Ltd; Gas Again Supply Corp Ltd",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "2 October 1997",
@@ -10380,7 +10380,7 @@
     }
   },
   {
-    "name": "Sealed Air (USA) Ltd",
+    "name": "Sealed Air (USA) Ltd; W R Grace NZ Ltd",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "27 November 1997",
@@ -10445,7 +10445,7 @@
     }
   },
   {
-    "name": "Cremation Society of Canterbury",
+    "name": "Cremation Society of Canterbury; Harewood Crematorium Ltd",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "3 December 1997",
@@ -10510,7 +10510,7 @@
     }
   },
   {
-    "name": "PRI Flight Catering Ltd(Pacific Rim Investments Ltd)",
+    "name": "PRI Flight Catering Ltd(Pacific Rim Investments Ltd); Air New Zealand Ltd(Flight Catering Business)",
     "status": "Closed",
     "outcome": "Merger declined",
     "date": "3 December 1997",
@@ -10575,7 +10575,7 @@
     }
   },
   {
-    "name": "Tip Top Ice Cream Co",
+    "name": "Tip Top Ice Cream Co; New American Ice Cream",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "19 December 1997",
@@ -10640,7 +10640,7 @@
     }
   },
   {
-    "name": "Nuplex Industries Ltd",
+    "name": "Nuplex Industries Ltd; Australian Chemical Holdings Ltd",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "23 December 1997",
@@ -10705,7 +10705,7 @@
     }
   },
   {
-    "name": "Dutch Merge Co NV",
+    "name": "Dutch Merge Co NV; Wolters Kluwer, Reed Elsevier",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "29 January 1998",
@@ -10770,7 +10770,7 @@
     }
   },
   {
-    "name": "Richmond Ltd",
+    "name": "Richmond Ltd; Lowe Walker NZ Ltd",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "11 February 1998",
@@ -10835,7 +10835,7 @@
     }
   },
   {
-    "name": "NZ Bus Ltd",
+    "name": "NZ Bus Ltd; Transportation Auckland Corp Ltd (Yellow Bus Company)",
     "status": "Closed",
     "outcome": "Merger declined",
     "date": "24 February 1998",
@@ -10900,7 +10900,7 @@
     }
   },
   {
-    "name": "Mercury Energy Ltd",
+    "name": "Mercury Energy Ltd; Power New Zealand Ltd",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "26 February 1998",
@@ -10965,7 +10965,7 @@
     }
   },
   {
-    "name": "Carglass (NZ) Ltd",
+    "name": "Carglass (NZ) Ltd; Smith and Smith Glass (Pilkington PLC)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "12 March 1998",
@@ -11030,7 +11030,7 @@
     }
   },
   {
-    "name": "Yates New Zealand Ltd (Arthur Yates &amp; Co Ltd)",
+    "name": "Yates New Zealand Ltd (Arthur Yates &amp; Co Ltd); Watkins New Zealand Ltd and Smith Horticultural Distributors Ltd (Maine Investments Ltd)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "19 March 1998",
@@ -11095,7 +11095,7 @@
     }
   },
   {
-    "name": "Look Outdoor and Adshel Street Furniture Ltd",
+    "name": "Look Outdoor and Adshel Street Furniture Ltd; 3M Media (Minesota Mining and Manufacturing Company - USA)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "20 March 1998",
@@ -11160,7 +11160,7 @@
     }
   },
   {
-    "name": "Works Civil Construction Limited",
+    "name": "Works Civil Construction Limited; Bitumix Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "7 April 1998",
@@ -11225,7 +11225,7 @@
     }
   },
   {
-    "name": "Rockgas Ltd (Boral International PTY Ltd and Caltex Petroleum Corporation)",
+    "name": "Rockgas Ltd (Boral International PTY Ltd and Caltex Petroleum Corporation); Energy Supply Ltd (Transalta New Zealand Ltd)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "24 April 1998",
@@ -11290,7 +11290,7 @@
     }
   },
   {
-    "name": "Mainland Products Ltd (Kiwi Co-operative Dairies Ltd)",
+    "name": "Mainland Products Ltd (Kiwi Co-operative Dairies Ltd); South Island Dairy Farmers Co-operative Ltd",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "15 May 1998",
@@ -11355,7 +11355,7 @@
     }
   },
   {
-    "name": "New Zealand Bus Limited (Stage Coach Holdings plc UK)",
+    "name": "New Zealand Bus Limited (Stage Coach Holdings plc UK); Transportation Auckland Corporation (Auckland Regional Services Trust)",
     "status": "Closed",
     "outcome": "Merger authorised",
     "date": "15 May 1998",
@@ -11420,7 +11420,7 @@
     }
   },
   {
-    "name": "Telecom Corporation New Zealand Ltd",
+    "name": "Telecom Corporation New Zealand Ltd; Cellnet Mobile Services Ltd (Fisher &amp; Paykel Industries Ltd)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "15 May 1998",
@@ -11485,7 +11485,7 @@
     }
   },
   {
-    "name": "Heinz-Wattie Limited (H.J. Heinz Company (USA))",
+    "name": "Heinz-Wattie Limited (H.J. Heinz Company (USA)); Eta Foods (Salad Dressing Business) (Griffins Foods Limited)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "7 July 1998",
@@ -11550,7 +11550,7 @@
     }
   },
   {
-    "name": "Agri-Feeds Ltd (Wrightsons Ltd)",
+    "name": "Agri-Feeds Ltd (Wrightsons Ltd); Independent Molasses Ltd",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "10 July 1998",
@@ -11654,7 +11654,7 @@
     }
   },
   {
-    "name": "Independent Newspapers Limited",
+    "name": "Independent Newspapers Limited; The Marlborough Express Newspaper Company Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "2 October 1998",
@@ -11719,7 +11719,7 @@
     }
   },
   {
-    "name": "Natural Gas Corporation of New Zealand",
+    "name": "Natural Gas Corporation of New Zealand; Powerco Limited (Pukeariki Holdings Limited)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "11 November 1998",
@@ -11784,7 +11784,7 @@
     }
   },
   {
-    "name": "Western Bay Health Limited",
+    "name": "Western Bay Health Limited; Eastbay Health Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "19 November 1998",
@@ -11849,7 +11849,7 @@
     }
   },
   {
-    "name": "Contact Energy Limited",
+    "name": "Contact Energy Limited; Enerco New Zealand Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "10 December 1998",
@@ -11914,7 +11914,7 @@
     }
   },
   {
-    "name": "Mainland Products Limited (Kiwi Co-operative Dairies)",
+    "name": "Mainland Products Limited (Kiwi Co-operative Dairies); Food Solutions Group Limited (Brierley Investments Limited)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "21 December 1998",
@@ -11979,7 +11979,7 @@
     }
   },
   {
-    "name": "Massey University (The Crown)",
+    "name": "Massey University (The Crown); Auckland College of Education (The Crown)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "24 December 1998",
@@ -12044,7 +12044,7 @@
     }
   },
   {
-    "name": "Sky City Limited (Brierley Investments Limited)",
+    "name": "Sky City Limited (Brierley Investments Limited); Riverside Casino Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "28 January 1999",
@@ -12109,7 +12109,7 @@
     }
   },
   {
-    "name": "The Australian Gas Light Company",
+    "name": "The Australian Gas Light Company; Contact Energy limited (The Crown)",
     "status": "Closed",
     "outcome": "Application withdrawn",
     "date": "11 February 1999",
@@ -12148,7 +12148,7 @@
     }
   },
   {
-    "name": "Alliant International New Zealand Limited (Interstate Energy Corporation (USA))",
+    "name": "Alliant International New Zealand Limited (Interstate Energy Corporation (USA)); Contact Energy Limited (The Crown)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "12 February 1999",
@@ -12213,7 +12213,7 @@
     }
   },
   {
-    "name": "TransAlta New Zealand Limited (TransAlta Corporation of Canada)",
+    "name": "TransAlta New Zealand Limited (TransAlta Corporation of Canada); Contact Energy Limited (The Crown)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "12 February 1999",
@@ -12278,7 +12278,7 @@
     }
   },
   {
-    "name": "RII Weyerhaeuser World Timberfund LP",
+    "name": "RII Weyerhaeuser World Timberfund LP; Carter Holt Harvey Limited (Nelson forestry assets)",
     "status": "Closed",
     "outcome": "Merger declined",
     "date": "19 February 1999",
@@ -12343,7 +12343,7 @@
     }
   },
   {
-    "name": "Kiwi Co-operative Dairies Limited",
+    "name": "Kiwi Co-operative Dairies Limited; South Island Dairy Co-operative Limited",
     "status": "Closed",
     "outcome": "Merger declined",
     "date": "26 February 1999",
@@ -12408,7 +12408,7 @@
     }
   },
   {
-    "name": "P&amp;O Nedlloyd Limited (P&amp;O Nedlloyd Containers Lines Limited)",
+    "name": "P&amp;O Nedlloyd Limited (P&amp;O Nedlloyd Containers Lines Limited); Tasman Express Line Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "26 February 1999",
@@ -12473,7 +12473,7 @@
     }
   },
   {
-    "name": "Kroma Colour Prints Limited",
+    "name": "Kroma Colour Prints Limited; Zanda Laboratories Limited (Kodak New Zealand Limited)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "10 March 1999",
@@ -12538,7 +12538,7 @@
     }
   },
   {
-    "name": "United Networks Limited (UtiliCorp NZ Incorporated)",
+    "name": "United Networks Limited (UtiliCorp NZ Incorporated); TransAlta New Zealand Limited (TransAlta Corporation of Canada)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "11 March 1999",
@@ -12603,7 +12603,7 @@
     }
   },
   {
-    "name": "Fulford Radiology Services Limited",
+    "name": "Fulford Radiology Services Limited; Taranaki Healthcare Limited and Fulford Radiology Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "19 March 1999",
@@ -12668,7 +12668,7 @@
     }
   },
   {
-    "name": "Sigma Company Limited",
+    "name": "Sigma Company Limited; Amcal Chemists Marketing Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "6 April 1999",
@@ -12733,7 +12733,7 @@
     }
   },
   {
-    "name": "Kiwi Co-operative Dairies Limited",
+    "name": "Kiwi Co-operative Dairies Limited; South Island Dairy Co-operative Limited",
     "status": "Closed",
     "outcome": "Application withdrawn",
     "date": "30 April 1999",
@@ -12772,7 +12772,7 @@
     }
   },
   {
-    "name": "Waste Management (NZ) Limited (Waste Management Inc (USA))",
+    "name": "Waste Management (NZ) Limited (Waste Management Inc (USA)); Waste Care Limited (Suez Lyonnaise des Waux (France))",
     "status": "Closed",
     "outcome": "Merger declined",
     "date": "14 May 1999",
@@ -12837,7 +12837,7 @@
     }
   },
   {
-    "name": "Waste Management (NZ) Limited (Waste Management Inc (USA))",
+    "name": "Waste Management (NZ) Limited (Waste Management Inc (USA)); Waste Care Limited (Sita SA (France))",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "9 June 1999",
@@ -12902,7 +12902,7 @@
     }
   },
   {
-    "name": "The Australian Gas Light Company",
+    "name": "The Australian Gas Light Company; Natural Gas Corporation Holdings Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "10 June 1999",
@@ -12967,7 +12967,7 @@
     }
   },
   {
-    "name": "Ruapehu Alpine Lifts Limited",
+    "name": "Ruapehu Alpine Lifts Limited; Turoa Ski Resort Limited (Cairngorm Securities Pty Limited)",
     "status": "Closed",
     "outcome": "Merger declined",
     "date": "14 June 1999",
@@ -13032,7 +13032,7 @@
     }
   },
   {
-    "name": "Turners and Growers Limited",
+    "name": "Turners and Growers Limited; United Flower Auction Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "15 July 1999",
@@ -13097,7 +13097,7 @@
     }
   },
   {
-    "name": "Motor Trade Association (Incorporated)",
+    "name": "Motor Trade Association (Incorporated); Vehicle Testing New Zealand Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "6 August 1999",
@@ -13162,7 +13162,7 @@
     }
   },
   {
-    "name": "Tourism Holdings Limited",
+    "name": "Tourism Holdings Limited; Britz NZ Rentals Ltd and Backpacker Campervans Ltd",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "13 August 1999",
@@ -13227,7 +13227,7 @@
     }
   },
   {
-    "name": "Kalanda Enterprises Pty",
+    "name": "Kalanda Enterprises Pty; Swan Metal Skirtings Pty Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "27 August 1999",
@@ -13292,7 +13292,7 @@
     }
   },
   {
-    "name": "On Road New Zealand",
+    "name": "On Road New Zealand; Vehicle Testing New Zealand Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "30 August 1999",
@@ -13357,7 +13357,7 @@
     }
   },
   {
-    "name": "Richmond Limited",
+    "name": "Richmond Limited; Waitotara Meat Company Ltd (Waitotara Farmers Holding Company Limited)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "6 September 1999",
@@ -13422,7 +13422,7 @@
     }
   },
   {
-    "name": "Spotless Services (NZ) Limited",
+    "name": "Spotless Services (NZ) Limited; P &amp; O Catering and Services (NZ) Limited (P &amp; O Australia Limited)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "9 September 1999",
@@ -13487,7 +13487,7 @@
     }
   },
   {
-    "name": "NewCo (a company to be formed)",
+    "name": "NewCo (a company to be formed); New Zealand Dairy Board, Kaikoura Co-op, Kiwi Co-op, Marlborough Cheese Co-op, New Zealand Co-op Dairy, Northland Co-op, South Island Dairy Co-op, Tasman Milk Products, Tatua Co-op and Westland Co-op",
     "status": "Closed",
     "outcome": "Application withdrawn",
     "date": "29 October 1999",
@@ -13545,7 +13545,7 @@
     }
   },
   {
-    "name": "Fletcher Challenge Steel Products Limited",
+    "name": "Fletcher Challenge Steel Products Limited; Steel and Tube Holdings Limited",
     "status": "Closed",
     "outcome": "Merger declined",
     "date": "4 November 1999",
@@ -13610,7 +13610,7 @@
     }
   },
   {
-    "name": "TeamTalk Limited",
+    "name": "TeamTalk Limited; Telecom New Zealand Limited (Mobile Communications)",
     "status": "Closed",
     "outcome": "Merger declined",
     "date": "3 December 1999",
@@ -13675,7 +13675,7 @@
     }
   },
   {
-    "name": "Fletcher Challenge Steel Products Limited",
+    "name": "Fletcher Challenge Steel Products Limited; Steel and Tube Holdings Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "10 December 1999",
@@ -13740,7 +13740,7 @@
     }
   },
   {
-    "name": "Air Products and Chemicals Inc (USA)  L&#39;Air Liquide SA (France)",
+    "name": "Air Products and Chemicals Inc (USA)  L&#39;Air Liquide SA (France); BOC Group Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "23 December 1999",
@@ -13805,7 +13805,7 @@
     }
   },
   {
-    "name": "UnitedNetworks Limited (UtiliCorp United Inc (USA)",
+    "name": "UnitedNetworks Limited (UtiliCorp United Inc (USA); Orion New Zealand (gas assets) (Christchurch City Council)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "23 December 1999",
@@ -13870,7 +13870,7 @@
     }
   },
   {
-    "name": "Medical Waste Group Limited",
+    "name": "Medical Waste Group Limited; San-I-pak(NZ)Limited",
     "status": "Closed",
     "outcome": "Merger declined",
     "date": "19 January 2000",
@@ -13935,7 +13935,7 @@
     }
   },
   {
-    "name": "Pacific Dunlop Holdings(NZ) Limited",
+    "name": "Pacific Dunlop Holdings(NZ) Limited; LWR Hosiery and Underwear Limited R&amp;WH Symington Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "23 February 2000",
@@ -14000,7 +14000,7 @@
     }
   },
   {
-    "name": "Medical Waste Group Limited (Nuplex Industries Limited)",
+    "name": "Medical Waste Group Limited (Nuplex Industries Limited); San-I-Pak (NZ) Limited",
     "status": "Closed",
     "outcome": "Merger declined",
     "date": "16 March 2000",
@@ -14065,7 +14065,7 @@
     }
   },
   {
-    "name": "Natural Gas Corporation Holdings Limited (The Australian Gas Light Company)",
+    "name": "Natural Gas Corporation Holdings Limited (The Australian Gas Light Company); TransAlta New Zealand Limited (TransAlta Energy Corporation of Canada)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "17 March 2000",
@@ -14130,7 +14130,7 @@
     }
   },
   {
-    "name": "EFG Services Limited",
+    "name": "EFG Services Limited; Carter and Associates (1995) Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "3 April 2000",
@@ -14195,7 +14195,7 @@
     }
   },
   {
-    "name": "New Zealand Seafood Investments Limited",
+    "name": "New Zealand Seafood Investments Limited; Sealord Group",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "3 April 2000",
@@ -14260,7 +14260,7 @@
     }
   },
   {
-    "name": "Polarcup (NZ)Limited (Huhtamaki Van Leer Oyi(Finland))",
+    "name": "Polarcup (NZ)Limited (Huhtamaki Van Leer Oyi(Finland)); Carter Holt Harvey Limited (Plastic Packaging Business) (International Papaer Company (USA))",
     "status": "Closed",
     "outcome": "Merger declined",
     "date": "20 April 2000",
@@ -14325,7 +14325,7 @@
     }
   },
   {
-    "name": "CGU plc and Norwich Union plc (UK parents of New Zealand Insurance and State Insurance)",
+    "name": "CGU plc and Norwich Union plc (UK parents of New Zealand Insurance and State Insurance); (Merger under Scheme of Arrangement)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "9 May 2000",
@@ -14390,7 +14390,7 @@
     }
   },
   {
-    "name": "Commonwealth Bank of Australia (New Zealand Interests)",
+    "name": "Commonwealth Bank of Australia (New Zealand Interests); Colonial Limited (Australia) (New Zealand Interests)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "10 May 2000",
@@ -14455,7 +14455,7 @@
     }
   },
   {
-    "name": "Team Talk Limited",
+    "name": "Team Talk Limited; Telecom New Zealand Limited (Fleetlink Business)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "15 May 2000",
@@ -14520,7 +14520,7 @@
     }
   },
   {
-    "name": "BP Amoco plc",
+    "name": "BP Amoco plc; Burmah Castrol plc",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "26 May 2000",
@@ -14585,7 +14585,7 @@
     }
   },
   {
-    "name": "Mainland Products Limited (Kiwi Co-operative Dairies Limited)",
+    "name": "Mainland Products Limited (Kiwi Co-operative Dairies Limited); Nelson Milk Company Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "7 June 2000",
@@ -14650,7 +14650,7 @@
     }
   },
   {
-    "name": "Independent News Auckland Limited",
+    "name": "Independent News Auckland Limited; &#34;New Zealand Fisherman&#34; (Review Publishing Company Limited)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "16 June 2000",
@@ -14715,7 +14715,7 @@
     }
   },
   {
-    "name": "Solid Energy New Zealand Limited (The Crown)",
+    "name": "Solid Energy New Zealand Limited (The Crown); Francis Mining Limited (Mr B S Francis)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "4 August 2000",
@@ -14780,7 +14780,7 @@
     }
   },
   {
-    "name": "Reindeer Investments Pty Ltd",
+    "name": "Reindeer Investments Pty Ltd; Harding Licensing Systems Ltd",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "17 August 2000",
@@ -14845,7 +14845,7 @@
     }
   },
   {
-    "name": "Southern Cross Medical Care Society",
+    "name": "Southern Cross Medical Care Society; Aetna Health (NZ) Limited (Aetna Incorporated (USA))",
     "status": "Closed",
     "outcome": "Merger declined",
     "date": "25 August 2000",
@@ -14910,7 +14910,7 @@
     }
   },
   {
-    "name": "Smithkline Beecham plc",
+    "name": "Smithkline Beecham plc; Glaxo Wellcome plc",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "1 September 2000",
@@ -14975,7 +14975,7 @@
     }
   },
   {
-    "name": "Montana Group (NZ) Limited",
+    "name": "Montana Group (NZ) Limited; Corbans Wines Limitd (DB Group Limited)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "6 September 2000",
@@ -15040,7 +15040,7 @@
     }
   },
   {
-    "name": "Cremation Society Of Canterbury Limited",
+    "name": "Cremation Society Of Canterbury Limited; Harewood Memorial and Crematorium Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "7 September 2000",
@@ -15105,7 +15105,7 @@
     }
   },
   {
-    "name": "Etex Holding BV (SA Etex Group NV)",
+    "name": "Etex Holding BV (SA Etex Group NV); Keyplas Limited (Milnes Holdings Limited)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "11 September 2000",
@@ -15170,7 +15170,7 @@
     }
   },
   {
-    "name": "Southern Cross Medical Care Society",
+    "name": "Southern Cross Medical Care Society; Aetna Health (NZ) Inc (Aetna Inc)",
     "status": "Closed",
     "outcome": "Merger declined",
     "date": "13 September 2000",
@@ -15274,7 +15274,7 @@
     }
   },
   {
-    "name": "Shell Exploration Company BV (Royal Dutch Petroleum Company/Shell Transport and Trading Company PLC)",
+    "name": "Shell Exploration Company BV (Royal Dutch Petroleum Company/Shell Transport and Trading Company PLC); Fletcher Challenge Energy Limited (Fletcher Challenge Limited)",
     "status": "Closed",
     "outcome": "Merger declined",
     "date": "13 October 2000",
@@ -15339,7 +15339,7 @@
     }
   },
   {
-    "name": "Southern Cross Medical Care Society",
+    "name": "Southern Cross Medical Care Society; Aetna Health (NZ) Limited (Aetna Inc)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "13 October 2000",
@@ -15404,7 +15404,7 @@
     }
   },
   {
-    "name": "Portacom New Zealand Limited (WACO International Limited)",
+    "name": "Portacom New Zealand Limited (WACO International Limited); Portable Buildings Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "2 November 2000",
@@ -15469,7 +15469,7 @@
     }
   },
   {
-    "name": "Ruapehu Alpine Lifts Limited",
+    "name": "Ruapehu Alpine Lifts Limited; Turoa Ski Resort Limited",
     "status": "Closed",
     "outcome": "Merger authorised",
     "date": "14 November 2000",
@@ -15553,7 +15553,7 @@
     }
   },
   {
-    "name": "Shell Overseas Holdings Limited",
+    "name": "Shell Overseas Holdings Limited; Fletcher Challenge Energy Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "17 November 2000",
@@ -15618,7 +15618,7 @@
     }
   },
   {
-    "name": "Lion Nathan Limited",
+    "name": "Lion Nathan Limited; Montana Group (NZ) Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "8 December 2000",
@@ -15683,7 +15683,7 @@
     }
   },
   {
-    "name": "Vodafone Mobile New Zealand Limited (Vodafone Group Plc)",
+    "name": "Vodafone Mobile New Zealand Limited (Vodafone Group Plc); 2GHz Spectrum",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "8 December 2000",
@@ -15748,7 +15748,7 @@
     }
   },
   {
-    "name": "James Hardie NZ Limited (James Hardie Industries Limited (AUS) is ultimate parent)",
+    "name": "James Hardie NZ Limited (James Hardie Industries Limited (AUS) is ultimate parent); Long International Limited (Arrow International Group Limited is the ultimate parent)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "15 December 2000",
@@ -15813,7 +15813,7 @@
     }
   },
   {
-    "name": "Paperlinx Limited",
+    "name": "Paperlinx Limited; Spicers Paper Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "20 December 2000",
@@ -15878,7 +15878,7 @@
     }
   },
   {
-    "name": "Milburn New Zealand Limited (&#34;Holderbank&#34; Financiere Glaris Limited of Switzerland)",
+    "name": "Milburn New Zealand Limited (&#34;Holderbank&#34; Financiere Glaris Limited of Switzerland); Isaac Concrete Limited (Isaac Construction Company Limited)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "26 January 2001",
@@ -15943,7 +15943,7 @@
     }
   },
   {
-    "name": "BOC Gases New Zealand Limited (BOC Group plc)",
+    "name": "BOC Gases New Zealand Limited (BOC Group plc); ASCO Carbon Dioxide Limited (ASCO Kohlensaeure AG)",
     "status": "Closed",
     "outcome": "Merger declined",
     "date": "2 February 2001",
@@ -16008,7 +16008,7 @@
     }
   },
   {
-    "name": "Zuelling Pharma Limited (Interpacific Holding Limited)",
+    "name": "Zuelling Pharma Limited (Interpacific Holding Limited); Sigma NZ Limited (Sigma Company Limited)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "2 February 2001",
@@ -16073,7 +16073,7 @@
     }
   },
   {
-    "name": "Pacific Dunlop Holdings (NZ) Limited",
+    "name": "Pacific Dunlop Holdings (NZ) Limited; Sara Lee Apparel (NZ) Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "13 February 2001",
@@ -16138,7 +16138,7 @@
     }
   },
   {
-    "name": "P&amp;O Cold Logistics (NZ) Limited/Eskimo Logistics Group Limited (Peninsula &amp; Oriental Steam Navigation Company)",
+    "name": "P&amp;O Cold Logistics (NZ) Limited/Eskimo Logistics Group Limited (Peninsula &amp; Oriental Steam Navigation Company); Eskimo Logistics Group Limited/ELG Properties Limited Greenstone Fund Limited)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "15 February 2001",
@@ -16203,7 +16203,7 @@
     }
   },
   {
-    "name": "Armourguard Security Limited (Tyco Group SARL)",
+    "name": "Armourguard Security Limited (Tyco Group SARL); Inacro Limited (Group 4 Falck A/S)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "22 February 2001",
@@ -16268,7 +16268,7 @@
     }
   },
   {
-    "name": "Telecom NZ Limited",
+    "name": "Telecom NZ Limited; 2 GHZ Spectrum",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "15 March 2001",
@@ -16333,7 +16333,7 @@
     }
   },
   {
-    "name": "Fletcher Steel Limited",
+    "name": "Fletcher Steel Limited; Steel &amp; Tube Holdings Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "21 March 2001",
@@ -16398,7 +16398,7 @@
     }
   },
   {
-    "name": "Carter Holt Harvey Limited (International Paper)",
+    "name": "Carter Holt Harvey Limited (International Paper); Norske Skogindustrier ASA",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "22 March 2001",
@@ -16463,7 +16463,7 @@
     }
   },
   {
-    "name": "Television and Media Services Limited",
+    "name": "Television and Media Services Limited; Media Entertainment Group Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "6 April 2001",
@@ -16528,7 +16528,7 @@
     }
   },
   {
-    "name": "Steel &amp; Tube Holdings Limited",
+    "name": "Steel &amp; Tube Holdings Limited; Fletcher Steel Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "27 April 2001",
@@ -16593,7 +16593,7 @@
     }
   },
   {
-    "name": "McCain Foods (NZ) Limited",
+    "name": "McCain Foods (NZ) Limited; Heinz Watties Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "11 May 2001",
@@ -16697,7 +16697,7 @@
     }
   },
   {
-    "name": "Mainland Products Limited",
+    "name": "Mainland Products Limited; Southern Fresh Milk Company Limited",
     "status": "Closed",
     "outcome": "Merger declined",
     "date": "18 May 2001",
@@ -16762,7 +16762,7 @@
     }
   },
   {
-    "name": "Fletcher Building Products Limited",
+    "name": "Fletcher Building Products Limited; Carter Holt Harvey Doors (Carter Holt Harvey Limited)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "31 May 2001",
@@ -16827,7 +16827,7 @@
     }
   },
   {
-    "name": "Nelson Pine Industries Limited",
+    "name": "Nelson Pine Industries Limited; Rayonier MDF New Zealand",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "31 May 2001",
@@ -16892,7 +16892,7 @@
     }
   },
   {
-    "name": "NewCo",
+    "name": "NewCo; Merino New Zealand Limited/Wrightson Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "7 June 2001",
@@ -16957,7 +16957,7 @@
     }
   },
   {
-    "name": "Natural Gas Corporation Holdings Limited",
+    "name": "Natural Gas Corporation Holdings Limited; AGL NZ Energy Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "8 June 2001",
@@ -17022,7 +17022,7 @@
     }
   },
   {
-    "name": "Caltex New Zealand Limited",
+    "name": "Caltex New Zealand Limited; Challenge Petroleum Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "28 June 2001",
@@ -17087,7 +17087,7 @@
     }
   },
   {
-    "name": "Computershare Registry Services Limited",
+    "name": "Computershare Registry Services Limited; BT Portfolio Services (NZ) Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "28 June 2001",
@@ -17152,7 +17152,7 @@
     }
   },
   {
-    "name": "Howard Smith Limited",
+    "name": "Howard Smith Limited; OPSM Protector Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "28 June 2001",
@@ -17217,7 +17217,7 @@
     }
   },
   {
-    "name": "Solid Energy New Zealand Limited",
+    "name": "Solid Energy New Zealand Limited; Todd Coal Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "28 June 2001",
@@ -17282,7 +17282,7 @@
     }
   },
   {
-    "name": "Carter Holt Harvey Limited",
+    "name": "Carter Holt Harvey Limited; Central North Island Forest Partnership",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "5 July 2001",
@@ -17347,7 +17347,7 @@
     }
   },
   {
-    "name": "Progressive Enterprises Limited",
+    "name": "Progressive Enterprises Limited; Woolworths (NZ) Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "13 July 2001",
@@ -17412,7 +17412,7 @@
     }
   },
   {
-    "name": "Lowe Corporation Limited",
+    "name": "Lowe Corporation Limited; Colyer Mair Limited (Richina Pacific Limited)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "27 July 2001",
@@ -17477,7 +17477,7 @@
     }
   },
   {
-    "name": "Canterbury Meat Packers Limited",
+    "name": "Canterbury Meat Packers Limited; Phoenix Meat Company Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "31 August 2001",
@@ -17542,7 +17542,7 @@
     }
   },
   {
-    "name": "United Environmental Limited",
+    "name": "United Environmental Limited; Solvent Services Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "5 October 2001",
@@ -17607,7 +17607,7 @@
     }
   },
   {
-    "name": "Shell Overseas Holdings",
+    "name": "Shell Overseas Holdings; TAWN Deep",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "26 October 2001",
@@ -17672,7 +17672,7 @@
     }
   },
   {
-    "name": "Dunedin Electricity Limited",
+    "name": "Dunedin Electricity Limited; Otago Power Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "6 December 2001",
@@ -17737,7 +17737,7 @@
     }
   },
   {
-    "name": "MICO Wakefield Limited",
+    "name": "MICO Wakefield Limited; MasterTrade Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "6 December 2001",
@@ -17802,7 +17802,7 @@
     }
   },
   {
-    "name": "Wilson &amp; Horton Limited",
+    "name": "Wilson &amp; Horton Limited; Powerplant Productions Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "6 December 2001",
@@ -17867,7 +17867,7 @@
     }
   },
   {
-    "name": "Telstra Corporation Limited",
+    "name": "Telstra Corporation Limited; Clear Communications Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "7 December 2001",
@@ -17932,7 +17932,7 @@
     }
   },
   {
-    "name": "Progressive Enterprises Limited",
+    "name": "Progressive Enterprises Limited; Woolworth (New Zealand) Limited",
     "status": "Closed",
     "outcome": "Merger declined",
     "date": "13 December 2001",
@@ -17997,7 +17997,7 @@
     }
   },
   {
-    "name": "The Ascot Hospital and Clinics Limited",
+    "name": "The Ascot Hospital and Clinics Limited; Mercy Hospital Auckland Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "14 December 2001",
@@ -18062,7 +18062,7 @@
     }
   },
   {
-    "name": "New Zealand Bus Limited",
+    "name": "New Zealand Bus Limited; Wellington Regional Rail Limited",
     "status": "Closed",
     "outcome": "Merger declined",
     "date": "19 December 2001",
@@ -18127,7 +18127,7 @@
     }
   },
   {
-    "name": "Paloma Industries Limited",
+    "name": "Paloma Industries Limited; Southcorp Water Heaters NZ Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "18 January 2002",
@@ -18192,7 +18192,7 @@
     }
   },
   {
-    "name": "SC Johnson Commercial Markets Inc",
+    "name": "SC Johnson Commercial Markets Inc; Conopco Inc",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "18 January 2002",
@@ -18257,7 +18257,7 @@
     }
   },
   {
-    "name": "Port Of Tauranga Limited",
+    "name": "Port Of Tauranga Limited; Owens Services BOP Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "8 February 2002",
@@ -18322,7 +18322,7 @@
     }
   },
   {
-    "name": "Mainland Products Limited",
+    "name": "Mainland Products Limited; Southern Fresh Milk Company Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "14 February 2002",
@@ -18387,7 +18387,7 @@
     }
   },
   {
-    "name": "Hewlett Packard Company",
+    "name": "Hewlett Packard Company; Compaq Computer Corporation",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "28 February 2002",
@@ -18452,7 +18452,7 @@
     }
   },
   {
-    "name": "Shell New Zealand Limited",
+    "name": "Shell New Zealand Limited; The Gas Company Limited (TGC)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "1 March 2002",
@@ -18517,7 +18517,7 @@
     }
   },
   {
-    "name": "National Food Limited",
+    "name": "National Food Limited; New Zealand Dairy Foods Limited",
     "status": "Closed",
     "outcome": "Merger declined",
     "date": "22 March 2002",
@@ -18608,7 +18608,7 @@
     }
   },
   {
-    "name": "New Zealand Bus Limited",
+    "name": "New Zealand Bus Limited; Wellington Regional Rail Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "10 April 2002",
@@ -18673,7 +18673,7 @@
     }
   },
   {
-    "name": "GE Capital Finance Australasia Pty Limited",
+    "name": "GE Capital Finance Australasia Pty Limited; Australian Guarantee Corporation (NZ) Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "24 April 2002",
@@ -18738,7 +18738,7 @@
     }
   },
   {
-    "name": "Anchor Investments Limited",
+    "name": "Anchor Investments Limited; Grated Cheese Co Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "29 April 2002",
@@ -18803,7 +18803,7 @@
     }
   },
   {
-    "name": "Reyrolle Pacific Holdings Limited",
+    "name": "Reyrolle Pacific Holdings Limited; VA Tech Reyrolle Pacific Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "2 July 2002",
@@ -18868,7 +18868,7 @@
     }
   },
   {
-    "name": "Firth Industries (Division of Fletcher Concrete and Infrastructure Ltd)",
+    "name": "Firth Industries (Division of Fletcher Concrete and Infrastructure Ltd); Gill Construction Co Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "26 July 2002",
@@ -18933,7 +18933,7 @@
     }
   },
   {
-    "name": "Red Bus Limited",
+    "name": "Red Bus Limited; Leopard Coachlines Limtied",
     "status": "Closed",
     "outcome": "Merger declined",
     "date": "30 July 2002",
@@ -18998,7 +18998,7 @@
     }
   },
   {
-    "name": "Marstel Terminals Pty Limited",
+    "name": "Marstel Terminals Pty Limited; Bulk Storage Terminals Limited",
     "status": "Closed",
     "outcome": "Application withdrawn",
     "date": "8 August 2002",
@@ -19037,7 +19037,7 @@
     }
   },
   {
-    "name": "Consolidated Extrusions",
+    "name": "Consolidated Extrusions; MCK Group Ltd and MCK Pacific Pty Ltd",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "14 August 2002",
@@ -19102,7 +19102,7 @@
     }
   },
   {
-    "name": "Fletcher Challenge Forests",
+    "name": "Fletcher Challenge Forests; Central North Island Forest Partnership",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "14 August 2002",
@@ -19167,7 +19167,7 @@
     }
   },
   {
-    "name": "Natural Gas Corporation Holdings Limited",
+    "name": "Natural Gas Corporation Holdings Limited; UnitedNetworks Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "23 August 2002",
@@ -19232,7 +19232,7 @@
     }
   },
   {
-    "name": "Vector Limited",
+    "name": "Vector Limited; UnitedNetworks Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "23 August 2002",
@@ -19297,7 +19297,7 @@
     }
   },
   {
-    "name": "Gardner Smith Limited",
+    "name": "Gardner Smith Limited; Bulk Storage Terminals Limited",
     "status": "Closed",
     "outcome": "Application withdrawn",
     "date": "28 August 2002",
@@ -19336,7 +19336,7 @@
     }
   },
   {
-    "name": "Genesis Power Limited",
+    "name": "Genesis Power Limited; Natural Gas Corporation",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "26 September 2002",
@@ -19375,7 +19375,7 @@
     }
   },
   {
-    "name": "Genesis Power Limited",
+    "name": "Genesis Power Limited; Energy On Line Ltd",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "9 October 2002",
@@ -19466,7 +19466,7 @@
     }
   },
   {
-    "name": "Custom Fleet (NZ) Limited",
+    "name": "Custom Fleet (NZ) Limited; Hertz Fleetlease Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "31 October 2002",
@@ -19531,7 +19531,7 @@
     }
   },
   {
-    "name": "Coca-Cola Amatil (NZ) Limited",
+    "name": "Coca-Cola Amatil (NZ) Limited; Rio Beverages Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "1 November 2002",
@@ -19622,7 +19622,7 @@
     }
   },
   {
-    "name": "The Coca-Cola Company (TCCC)",
+    "name": "The Coca-Cola Company (TCCC); Rio Beverages Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "1 November 2002",
@@ -19713,7 +19713,7 @@
     }
   },
   {
-    "name": "Vodafone Mobile NZ Limited",
+    "name": "Vodafone Mobile NZ Limited; Her Majesty the Queen in right of the Government of New Zealand",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "1 November 2002",
@@ -19778,7 +19778,7 @@
     }
   },
   {
-    "name": "Cendant Corporation (Avis New Zealand)",
+    "name": "Cendant Corporation (Avis New Zealand); Budget Group Inc (Budget New Zealand)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "7 November 2002",
@@ -19843,7 +19843,7 @@
     }
   },
   {
-    "name": "Val Morgan &amp; Co (Aust) Pty Limited",
+    "name": "Val Morgan &amp; Co (Aust) Pty Limited; Media Entertainment Group Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "18 December 2002",
@@ -19934,7 +19934,7 @@
     }
   },
   {
-    "name": "Gribbles Group Limited",
+    "name": "Gribbles Group Limited; Alpha Scientific Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "3 February 2003",
@@ -20025,7 +20025,7 @@
     }
   },
   {
-    "name": "Contact Energy Limited",
+    "name": "Contact Energy Limited; Natural Gas Corporation Holdings Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "4 February 2003",
@@ -20116,7 +20116,7 @@
     }
   },
   {
-    "name": "Genesis Power Limited",
+    "name": "Genesis Power Limited; Natural Gas Corporation",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "4 February 2003",
@@ -20181,7 +20181,7 @@
     }
   },
   {
-    "name": "Wakefield Hospital Limited",
+    "name": "Wakefield Hospital Limited; Bowen Hospital Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "19 February 2003",
@@ -20272,7 +20272,7 @@
     }
   },
   {
-    "name": "Burns Philp &amp; Company Limited",
+    "name": "Burns Philp &amp; Company Limited; Goodman Fielder Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "21 February 2003",
@@ -20363,7 +20363,7 @@
     }
   },
   {
-    "name": "Southern Capital Limited",
+    "name": "Southern Capital Limited; Hirepool Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "6 March 2003",
@@ -20454,7 +20454,7 @@
     }
   },
   {
-    "name": "Brambles New Zealand Limited",
+    "name": "Brambles New Zealand Limited; GE Capital Returnable Packaging Systems Limited",
     "status": "Closed",
     "outcome": "Merger declined",
     "date": "21 March 2003",
@@ -20545,7 +20545,7 @@
     }
   },
   {
-    "name": "Pfizer Laboratories Limited",
+    "name": "Pfizer Laboratories Limited; Pharmacia Limited Company",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "3 April 2003",
@@ -20636,7 +20636,7 @@
     }
   },
   {
-    "name": "Portacom New Zealand Limited",
+    "name": "Portacom New Zealand Limited; Transportables",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "30 May 2003",
@@ -20727,7 +20727,7 @@
     }
   },
   {
-    "name": "Procter &amp; Gamble Distributing New Zealand",
+    "name": "Procter &amp; Gamble Distributing New Zealand; Wella New Zealand Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "10 June 2003",
@@ -20818,7 +20818,7 @@
     }
   },
   {
-    "name": "Wesfarmers Industrial &amp; Safety NZ Limited",
+    "name": "Wesfarmers Industrial &amp; Safety NZ Limited; Paykel Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "26 June 2003",
@@ -20909,7 +20909,7 @@
     }
   },
   {
-    "name": "Bungy New Zealand Limited",
+    "name": "Bungy New Zealand Limited; Pipeline Bungy",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "24 July 2003",
@@ -21039,7 +21039,7 @@
     }
   },
   {
-    "name": "MiTek New Zealand Limited",
+    "name": "MiTek New Zealand Limited; Pryda New Zealand and Reid New Zealand",
     "status": "Closed",
     "outcome": "Application withdrawn",
     "date": "12 September 2003",
@@ -21078,7 +21078,7 @@
     }
   },
   {
-    "name": "Westpac Banking Corporation",
+    "name": "Westpac Banking Corporation; National Bank of New Zealand Limited",
     "status": "Closed",
     "outcome": "Application withdrawn",
     "date": "12 September 2003",
@@ -21143,7 +21143,7 @@
     }
   },
   {
-    "name": "Todd Pohokura Limited",
+    "name": "Todd Pohokura Limited; OMV New Zealand Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "22 September 2003",
@@ -21220,7 +21220,7 @@
     }
   },
   {
-    "name": "ANZ Banking Group (New Zealand) Ltd",
+    "name": "ANZ Banking Group (New Zealand) Ltd; The National Bank of New Zealand Ltd",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "25 September 2003",
@@ -21311,7 +21311,7 @@
     }
   },
   {
-    "name": "South Pacific Seeds Pty Limited",
+    "name": "South Pacific Seeds Pty Limited; Yates Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "25 September 2003",
@@ -21369,7 +21369,7 @@
     }
   },
   {
-    "name": "Qantas Airways Limited",
+    "name": "Qantas Airways Limited; Air New Zealand Limited",
     "status": "Closed",
     "outcome": "Merger declined",
     "date": "30 September 2003",
@@ -21434,7 +21434,7 @@
     }
   },
   {
-    "name": "Schneider Electric Australia Holdings Pty Limited",
+    "name": "Schneider Electric Australia Holdings Pty Limited; Clipsal",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "7 October 2003",
@@ -21518,7 +21518,7 @@
     }
   },
   {
-    "name": "ITW New Zealand Limited",
+    "name": "ITW New Zealand Limited; Pryda and Reid New Zealand Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "9 October 2003",
@@ -21602,7 +21602,7 @@
     }
   },
   {
-    "name": "MiTek New Zealand Limited",
+    "name": "MiTek New Zealand Limited; Pryda New Zealand and Reid New Zealand Limited",
     "status": "Closed",
     "outcome": "Merger declined",
     "date": "13 November 2003",
@@ -21693,7 +21693,7 @@
     }
   },
   {
-    "name": "Holcim New Zealand Limited",
+    "name": "Holcim New Zealand Limited; Atlas Resources Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "20 November 2003",
@@ -21784,7 +21784,7 @@
     }
   },
   {
-    "name": "New Zealand Motel Federation Incorporated (Best Western)",
+    "name": "New Zealand Motel Federation Incorporated (Best Western); Pacifica Lodges &amp; Inns Society Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "4 December 2003",
@@ -21849,7 +21849,7 @@
     }
   },
   {
-    "name": "MediMedia (NZ) Limited",
+    "name": "MediMedia (NZ) Limited; Adis International Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "18 December 2003",
@@ -21940,7 +21940,7 @@
     }
   },
   {
-    "name": "Pacific Radiology Ltd",
+    "name": "Pacific Radiology Ltd; Wakefield Radiology Ltd",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "26 February 2004",
@@ -22031,7 +22031,7 @@
     }
   },
   {
-    "name": "Niro A/S",
+    "name": "Niro A/S; Colby Systems Ltd",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "30 March 2004",
@@ -22122,7 +22122,7 @@
     }
   },
   {
-    "name": "Atlas Group Limited",
+    "name": "Atlas Group Limited; Southward Engineering Ltd",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "4 May 2004",
@@ -22213,7 +22213,7 @@
     }
   },
   {
-    "name": "CB Norwood Distributors Limited",
+    "name": "CB Norwood Distributors Limited; CNH Australia Pty Limited (Case IH)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "18 May 2004",
@@ -22304,7 +22304,7 @@
     }
   },
   {
-    "name": "Sky City Entertainment Group Ltd",
+    "name": "Sky City Entertainment Group Ltd; Aspinall New Zealand Ltd",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "18 May 2004",
@@ -22395,7 +22395,7 @@
     }
   },
   {
-    "name": "IAG New Zealand Limited",
+    "name": "IAG New Zealand Limited; Mike Henry Travel Insurance Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "24 June 2004",
@@ -22486,7 +22486,7 @@
     }
   },
   {
-    "name": "Visy Industrial Plastics Ltd",
+    "name": "Visy Industrial Plastics Ltd; ACI Operations Ltd",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "26 June 2004",
@@ -22577,7 +22577,7 @@
     }
   },
   {
-    "name": "VisyPET (NZ) Limited",
+    "name": "VisyPET (NZ) Limited; Visy Industrial Plastics (NZ) Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "30 June 2004",
@@ -22668,7 +22668,7 @@
     }
   },
   {
-    "name": "Colgate-Palmolive Company",
+    "name": "Colgate-Palmolive Company; Campbell Brothers Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "21 July 2004",
@@ -22759,7 +22759,7 @@
     }
   },
   {
-    "name": "Bondor New Zealand Limited",
+    "name": "Bondor New Zealand Limited; Long International Limited",
     "status": "Closed",
     "outcome": "Merger declined",
     "date": "22 July 2004",
@@ -22824,7 +22824,7 @@
     }
   },
   {
-    "name": "Gallagher Holdings Limited",
+    "name": "Gallagher Holdings Limited; Tru-Test Corporation Limited",
     "status": "Closed",
     "outcome": "Merger declined",
     "date": "26 August 2004",
@@ -22915,7 +22915,7 @@
     }
   },
   {
-    "name": "ABF Overseas Limited",
+    "name": "ABF Overseas Limited; Burns Philp &amp; Company Limited Group",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "27 August 2004",
@@ -23006,7 +23006,7 @@
     }
   },
   {
-    "name": "Port of Tauranga Ltd/Toll Holdings Ltd (&#34;NewCo&#34;)",
+    "name": "Port of Tauranga Ltd/Toll Holdings Ltd (&#34;NewCo&#34;); Owens Cargo Company Ltd/Toll Logistics Ltd and Leonard and Dingley Ltd",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "24 September 2004",
@@ -23097,7 +23097,7 @@
     }
   },
   {
-    "name": "iSOFT NZ Limited",
+    "name": "iSOFT NZ Limited; Hewlett-Packard New Zealand",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "29 September 2004",
@@ -23188,7 +23188,7 @@
     }
   },
   {
-    "name": "Southern Cross Oxford Hospital Ltd",
+    "name": "Southern Cross Oxford Hospital Ltd; Oxford Clinic (Christchurch)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "11 November 2004",
@@ -23279,7 +23279,7 @@
     }
   },
   {
-    "name": "B &amp; D Doors (NZ) Limited",
+    "name": "B &amp; D Doors (NZ) Limited; Dominator International Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "12 November 2004",
@@ -23344,7 +23344,7 @@
     }
   },
   {
-    "name": "Vehicle Testing New Zealand Ltd",
+    "name": "Vehicle Testing New Zealand Ltd; On Road New Zealand Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "17 November 2004",
@@ -23435,7 +23435,7 @@
     }
   },
   {
-    "name": "Fonterra Co-Operative Group Limited",
+    "name": "Fonterra Co-Operative Group Limited; National Foods Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "10 December 2004",
@@ -23526,7 +23526,7 @@
     }
   },
   {
-    "name": "Vector Limited",
+    "name": "Vector Limited; NGC Holdings Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "10 December 2004",
@@ -23617,7 +23617,7 @@
     }
   },
   {
-    "name": "Carter Holt Harvey Limited",
+    "name": "Carter Holt Harvey Limited; Tenon Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "21 December 2004",
@@ -23708,7 +23708,7 @@
     }
   },
   {
-    "name": "Sanford Limited",
+    "name": "Sanford Limited; Simunovich Fisheries Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "26 January 2005",
@@ -23799,7 +23799,7 @@
     }
   },
   {
-    "name": "The Southern Cross Health Trust",
+    "name": "The Southern Cross Health Trust; Auckland Surgical Centre Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "17 February 2005",
@@ -23890,7 +23890,7 @@
     }
   },
   {
-    "name": "Gallagher Holdings Limited",
+    "name": "Gallagher Holdings Limited; Tru-Test Corporation Limited",
     "status": "Closed",
     "outcome": "Merger declined",
     "date": "23 February 2005",
@@ -23981,7 +23981,7 @@
     }
   },
   {
-    "name": "Provet NZ Pty Limited",
+    "name": "Provet NZ Pty Limited; National Veterinary Supplies Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "6 May 2005",
@@ -24072,7 +24072,7 @@
     }
   },
   {
-    "name": "PPCS Limited",
+    "name": "PPCS Limited; Venison Rotorua Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "13 May 2005",
@@ -24163,7 +24163,7 @@
     }
   },
   {
-    "name": "Red Bus Limited",
+    "name": "Red Bus Limited; Leopard Coachlines Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "28 June 2005",
@@ -24254,7 +24254,7 @@
     }
   },
   {
-    "name": "Fortune Brands Inc",
+    "name": "Fortune Brands Inc; Pernod Ricard S.A.",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "8 July 2005",
@@ -24345,7 +24345,7 @@
     }
   },
   {
-    "name": "Pernod Ricard",
+    "name": "Pernod Ricard; Allied Domecq",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "13 July 2005",
@@ -24475,7 +24475,7 @@
     }
   },
   {
-    "name": "CanWest RadioWorks Limited",
+    "name": "CanWest RadioWorks Limited; Radio FM Spectrum Licences",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "31 August 2005",
@@ -24566,7 +24566,7 @@
     }
   },
   {
-    "name": "Pyne Gould Guinness Limited",
+    "name": "Pyne Gould Guinness Limited; Wrightson Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "31 August 2005",
@@ -24657,7 +24657,7 @@
     }
   },
   {
-    "name": "Fletcher Concrete &amp; Infrastructure Limited",
+    "name": "Fletcher Concrete &amp; Infrastructure Limited; W Stevenson &amp; Sons Limited",
     "status": "Closed",
     "outcome": "Merger declined",
     "date": "15 September 2005",
@@ -24748,7 +24748,7 @@
     }
   },
   {
-    "name": "Hawke&#39;s Bay Newco/Canterbury Newco/O&amp;S Newco (Otago &amp; Southland)",
+    "name": "Hawke&#39;s Bay Newco/Canterbury Newco/O&amp;S Newco (Otago &amp; Southland); New Zealand Diagnostic Group Limited / Sonic Healthcare Limited",
     "status": "Closed",
     "outcome": "Merger declined",
     "date": "29 September 2005",
@@ -24839,7 +24839,7 @@
     }
   },
   {
-    "name": "Bluebird Foods Limited",
+    "name": "Bluebird Foods Limited; Hansells (NZ) Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "5 October 2005",
@@ -24930,7 +24930,7 @@
     }
   },
   {
-    "name": "Fairfax New Zealand Limited",
+    "name": "Fairfax New Zealand Limited; Times Media Group Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "14 October 2005",
@@ -25021,7 +25021,7 @@
     }
   },
   {
-    "name": "Fonterra Co-operative Group Limited",
+    "name": "Fonterra Co-operative Group Limited; Rank Group Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "9 November 2005",
@@ -25112,7 +25112,7 @@
     }
   },
   {
-    "name": "Telecom New Zealand Limited",
+    "name": "Telecom New Zealand Limited; Counties Power Limited",
     "status": "Closed",
     "outcome": "Application withdrawn",
     "date": "23 November 2005",
@@ -25177,7 +25177,7 @@
     }
   },
   {
-    "name": "Essilor New Zealand Limited",
+    "name": "Essilor New Zealand Limited; Optical Laboratories NZ Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "24 November 2005",
@@ -25268,7 +25268,7 @@
     }
   },
   {
-    "name": "Essilor New Zealand Limited",
+    "name": "Essilor New Zealand Limited; Prolab (Wellington) Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "24 November 2005",
@@ -25359,7 +25359,7 @@
     }
   },
   {
-    "name": "Gallagher Holdings Limited",
+    "name": "Gallagher Holdings Limited; Greyson Gates Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "30 November 2005",
@@ -25450,7 +25450,7 @@
     }
   },
   {
-    "name": "Reckitt Benckiser plc",
+    "name": "Reckitt Benckiser plc; Boots Group PLC",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "30 November 2005",
@@ -25541,7 +25541,7 @@
     }
   },
   {
-    "name": "Energy Market Services Limited",
+    "name": "Energy Market Services Limited; The Marketplace Company Limited",
     "status": "Closed",
     "outcome": "Merger declined",
     "date": "20 December 2005",
@@ -25632,7 +25632,7 @@
     }
   },
   {
-    "name": "GE Finance and Insurance",
+    "name": "GE Finance and Insurance; Pacific Retail Services Ltd/Pacific Finanical Ltd/Montreal Financial Services Ltd &amp; Simply Insurance NZ Ltd",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "18 January 2006",
@@ -25723,7 +25723,7 @@
     }
   },
   {
-    "name": "Wellington Labco (new company to be formed)",
+    "name": "Wellington Labco (new company to be formed); Wellington Pathology Limited / Valley Diagnostic Laboratories Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "31 January 2006",
@@ -25814,7 +25814,7 @@
     }
   },
   {
-    "name": "Sky Network Television Limited",
+    "name": "Sky Network Television Limited; Prime Television New Zealand Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "8 February 2006",
@@ -25905,7 +25905,7 @@
     }
   },
   {
-    "name": "Fonterra Co-operative Group Limited",
+    "name": "Fonterra Co-operative Group Limited; Kapiti Fine Foods Limited &amp; United Milk Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "23 February 2006",
@@ -25996,7 +25996,7 @@
     }
   },
   {
-    "name": "New Zealand Bus Limited",
+    "name": "New Zealand Bus Limited; Mana Coach Services Limited",
     "status": "Closed",
     "outcome": "Application withdrawn",
     "date": "15 March 2006",
@@ -26061,7 +26061,7 @@
     }
   },
   {
-    "name": "Portacom New Zealand Limited",
+    "name": "Portacom New Zealand Limited; Rhino Portable Buildings Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "5 April 2006",
@@ -26152,7 +26152,7 @@
     }
   },
   {
-    "name": "Visy Plastics (NZ) Limited",
+    "name": "Visy Plastics (NZ) Limited; Vertex Group Holdings Limited &amp; Alto Plastics Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "28 June 2006",
@@ -26243,7 +26243,7 @@
     }
   },
   {
-    "name": "GE Fleet New Zealand",
+    "name": "GE Fleet New Zealand; Custom Fleet (NZ) Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "5 July 2006",
@@ -26334,7 +26334,7 @@
     }
   },
   {
-    "name": "ORIX New Zealand Limited",
+    "name": "ORIX New Zealand Limited; Truck Leasing Limited (Esanda FleetPartners)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "21 July 2006",
@@ -26425,7 +26425,7 @@
     }
   },
   {
-    "name": "Lion Nathan Limited",
+    "name": "Lion Nathan Limited; Independent Liquor (NZ) Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "24 August 2006",
@@ -26516,7 +26516,7 @@
     }
   },
   {
-    "name": "Godfrey Hirst NZ Limited",
+    "name": "Godfrey Hirst NZ Limited; Feltex Carpets Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "31 August 2006",
@@ -26607,7 +26607,7 @@
     }
   },
   {
-    "name": "Verticon Group Limited",
+    "name": "Verticon Group Limited; Boyd Crane Hire Limited",
     "status": "Closed",
     "outcome": "Application withdrawn",
     "date": "4 September 2006",
@@ -26672,7 +26672,7 @@
     }
   },
   {
-    "name": "Hancock Natural Resource Group Inc",
+    "name": "Hancock Natural Resource Group Inc; Carter Holt Harvey Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "27 September 2006",
@@ -26763,7 +26763,7 @@
     }
   },
   {
-    "name": "CRBF Limited",
+    "name": "CRBF Limited; Carter Holt Harvey Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "5 October 2006",
@@ -26854,7 +26854,7 @@
     }
   },
   {
-    "name": "Toll Owens Limited",
+    "name": "Toll Owens Limited; John Ray Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "11 October 2006",
@@ -26945,7 +26945,7 @@
     }
   },
   {
-    "name": "Solid Energy New Zealand Limited",
+    "name": "Solid Energy New Zealand Limited; Newvale Coal Co Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "10 November 2006",
@@ -27036,7 +27036,7 @@
     }
   },
   {
-    "name": "Johnson &amp; Johnson",
+    "name": "Johnson &amp; Johnson; Pfizer Consumer Healthcare",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "8 December 2006",
@@ -27127,7 +27127,7 @@
     }
   },
   {
-    "name": "Fulton Hogan Limited",
+    "name": "Fulton Hogan Limited; GJ Beynon Contracting Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "19 December 2006",
@@ -27218,7 +27218,7 @@
     }
   },
   {
-    "name": "Owens Corning",
+    "name": "Owens Corning; Compagnie de Saint-Gobain",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "20 December 2006",
@@ -27309,7 +27309,7 @@
     }
   },
   {
-    "name": "BOC Limited",
+    "name": "BOC Limited; Shell New Zealand Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "21 February 2007",
@@ -27400,7 +27400,7 @@
     }
   },
   {
-    "name": "Elite Truck Rentals Limited",
+    "name": "Elite Truck Rentals Limited; ORIX Truck Rental (division of ORIX New Zealand Limited)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "2 March 2007",
@@ -27491,7 +27491,7 @@
     }
   },
   {
-    "name": "Goodman Fielder Limited",
+    "name": "Goodman Fielder Limited; River Mill Bakeries Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "15 March 2007",
@@ -27582,7 +27582,7 @@
     }
   },
   {
-    "name": "Carter Holt Harvey Limited",
+    "name": "Carter Holt Harvey Limited; Lakesawn Lumber Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "9 May 2007",
@@ -27673,7 +27673,7 @@
     }
   },
   {
-    "name": "Transpacific Industries Group (NZ) Limited",
+    "name": "Transpacific Industries Group (NZ) Limited; Enviro Waste Services Limited",
     "status": "Closed",
     "outcome": "Merger declined",
     "date": "30 May 2007",
@@ -27764,7 +27764,7 @@
     }
   },
   {
-    "name": "Foodstuffs (Auckland) Ltd, Foodstuffs (Wellington) Co-operative Society Ltd and Foodstuffs (South Island) Ltd",
+    "name": "Foodstuffs (Auckland) Ltd, Foodstuffs (Wellington) Co-operative Society Ltd and Foodstuffs (South Island) Ltd; The Warehouse Group Limited",
     "status": "Closed",
     "outcome": "Merger declined",
     "date": "8 June 2007",
@@ -27907,7 +27907,7 @@
     }
   },
   {
-    "name": "Woolworths Limited",
+    "name": "Woolworths Limited; The Warehouse Group Limited",
     "status": "Closed",
     "outcome": "Merger declined",
     "date": "8 June 2007",
@@ -28024,7 +28024,7 @@
     }
   },
   {
-    "name": "PMI Mortgage Insurance Australia (Holdings) Pty Limited",
+    "name": "PMI Mortgage Insurance Australia (Holdings) Pty Limited; CGU Lenders Mortgage Insurance Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "30 July 2007",
@@ -28089,7 +28089,7 @@
     }
   },
   {
-    "name": "Transpacific Technical Services (NZ) Limited",
+    "name": "Transpacific Technical Services (NZ) Limited; Medi-Chem Waste Services Limited",
     "status": "Closed",
     "outcome": "Application withdrawn",
     "date": "13 August 2007",
@@ -28154,7 +28154,7 @@
     }
   },
   {
-    "name": "Transpacific Technical Services (NZ) Limited",
+    "name": "Transpacific Technical Services (NZ) Limited; Medi-Chem Waste Services Limited (chemical smalls business)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "15 August 2007",
@@ -28245,7 +28245,7 @@
     }
   },
   {
-    "name": "ST Cigar Group Holding B.V.",
+    "name": "ST Cigar Group Holding B.V.; B.V.Schimmelpenninck Sigarenfabrieken &amp; Tabacofina - Vander Elst NV",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "17 August 2007",
@@ -28336,7 +28336,7 @@
     }
   },
   {
-    "name": "Transpacific Technical Services (NZ) Limited",
+    "name": "Transpacific Technical Services (NZ) Limited; Medi-Chem Waste Services Limited (sovlents business)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "30 August 2007",
@@ -28427,7 +28427,7 @@
     }
   },
   {
-    "name": "New Zealand Post Limited &amp; Salmat International Pty Limited",
+    "name": "New Zealand Post Limited &amp; Salmat International Pty Limited; Letterbox Channel Limited &amp; Deltarg Distribution Systems Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "12 September 2007",
@@ -28518,7 +28518,7 @@
     }
   },
   {
-    "name": "Southern Cross Health Trust",
+    "name": "Southern Cross Health Trust; QE Hospital Limited (QE Health)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "28 September 2007",
@@ -28609,7 +28609,7 @@
     }
   },
   {
-    "name": "Schering-Plough Corporation",
+    "name": "Schering-Plough Corporation; Organon BioSciences N.V. (Akzo Nobel N.V.)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "4 October 2007",
@@ -28700,7 +28700,7 @@
     }
   },
   {
-    "name": "Transpacific Industries Group (NZ) Limited",
+    "name": "Transpacific Industries Group (NZ) Limited; Enviro Waste Services Ltd (Timaru &amp; Oamaru)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "31 October 2007",
@@ -28777,7 +28777,161 @@
     }
   },
   {
-    "name": "Transpacific Industries Group (NZ) Ltd",
+    "name": "Transpacific Industries Group (NZ) Ltd ; Enviro Waste Services Ltd (Christchurch)",
+    "status": "Closed",
+    "outcome": "Merger cleared",
+    "date": "31 October 2007",
+    "link": "https://www.comcom.govt.nz/case-register/case-register-entries/transpacific-industries-group-nz-ltd3/",
+    "details": {
+      "description": "Assets/Business",
+      "case_details": {
+        "parties": "Transpacific Industries Group (NZ) Ltd ; Enviro Waste Services Ltd (Christchurch)",
+        "category": "Merger application",
+        "sub-category": "Clearance",
+        "act/section": "Commerce Act 1986 s 66",
+        "industry": "Electricity, gas, water, and waste services",
+        "status": "Closed",
+        "outcome": "Merger cleared",
+        "case_number": "Cleared: 31/10/2007 Decision No: 625",
+        "date_opened": "22 August 2007",
+        "date_closed": "31 October 2007",
+        "contact_person": ""
+      },
+      "updates": [
+        {
+          "date": "2007-10-31",
+          "title": "Date closed",
+          "summary": "",
+          "status": "Open",
+          "documents": [
+            {
+              "File.ID": 23569,
+              "File.Title": "[2007] Decision 622, 623, 624, 625 – Transpacific Industries Group (NZ) Limited and Ironbridge Capital Pty Limited – 31 October 2007",
+              "File.Name": "2007-Decision-622-623-624-625-Transpacific-Industries-Group-NZ-Limited-Ironbridge-Capital-Pty-Limited-31-October-2007.PDF",
+              "File.URL": "/assets/pdf_file/0027/228582/2007-Decision-622-623-624-625-Transpacific-Industries-Group-NZ-Limited-Ironbridge-Capital-Pty-Limited-31-October-2007.PDF",
+              "File.FileType": "PDF",
+              "File.FileSize": "176 KB",
+              "File.PublishDate": "08 Apr 2024",
+              "SelectedCategory.ID": 0,
+              "SelectedCategory.Name": null,
+              "SelectedSubCategory.ID": 0,
+              "SelectedSubCategory.Name": null,
+              "SelectedContentType.ID": 0,
+              "SelectedContentType.Name": null,
+              "SelectedSubContentType.ID": 0,
+              "SelectedSubContentType.Name": null,
+              "Sort": 0
+            }
+          ]
+        },
+        {
+          "date": "2007-08-22",
+          "title": "Date opened",
+          "summary": "",
+          "status": "Open",
+          "documents": [
+            {
+              "File.ID": 23555,
+              "File.Title": "comcom-tpiapplicationacquirechristchurchesl.pdf",
+              "File.Name": "comcom-tpiapplicationacquirechristchurchesl.pdf",
+              "File.URL": "/assets/pdf_file/0018/75411/comcom-tpiapplicationacquirechristchurchesl.pdf",
+              "File.FileType": "PDF",
+              "File.FileSize": "189 KB",
+              "File.PublishDate": "26 Jul 2013",
+              "SelectedCategory.ID": 493,
+              "SelectedCategory.Name": "Mergers and acquisitions",
+              "SelectedSubCategory.ID": 0,
+              "SelectedSubCategory.Name": null,
+              "SelectedContentType.ID": 468,
+              "SelectedContentType.Name": "Merger documents",
+              "SelectedSubContentType.ID": 469,
+              "SelectedSubContentType.Name": "Application",
+              "Sort": 0
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "name": "Transpacific Industries Group (NZ) Ltd ; Enviro Waste Services Ltd (Dunedin)",
+    "status": "Closed",
+    "outcome": "Merger cleared",
+    "date": "31 October 2007",
+    "link": "https://www.comcom.govt.nz/case-register/case-register-entries/transpacific-industries-group-nz-ltd2/",
+    "details": {
+      "description": "Assets/Business",
+      "case_details": {
+        "parties": "Transpacific Industries Group (NZ) Ltd ; Enviro Waste Services Ltd (Dunedin)",
+        "category": "Merger application",
+        "sub-category": "Clearance",
+        "act/section": "Commerce Act 1986 s 66",
+        "industry": "Electricity, gas, water, and waste services",
+        "status": "Closed",
+        "outcome": "Merger cleared",
+        "case_number": "Cleared: 31/10/2007 Decision No: 624",
+        "date_opened": "22 August 2007",
+        "date_closed": "31 October 2007",
+        "contact_person": ""
+      },
+      "updates": [
+        {
+          "date": "2007-10-31",
+          "title": "Date closed",
+          "summary": "",
+          "status": "Open",
+          "documents": [
+            {
+              "File.ID": 23569,
+              "File.Title": "[2007] Decision 622, 623, 624, 625 – Transpacific Industries Group (NZ) Limited and Ironbridge Capital Pty Limited – 31 October 2007",
+              "File.Name": "2007-Decision-622-623-624-625-Transpacific-Industries-Group-NZ-Limited-Ironbridge-Capital-Pty-Limited-31-October-2007.PDF",
+              "File.URL": "/assets/pdf_file/0027/228582/2007-Decision-622-623-624-625-Transpacific-Industries-Group-NZ-Limited-Ironbridge-Capital-Pty-Limited-31-October-2007.PDF",
+              "File.FileType": "PDF",
+              "File.FileSize": "176 KB",
+              "File.PublishDate": "08 Apr 2024",
+              "SelectedCategory.ID": 0,
+              "SelectedCategory.Name": null,
+              "SelectedSubCategory.ID": 0,
+              "SelectedSubCategory.Name": null,
+              "SelectedContentType.ID": 0,
+              "SelectedContentType.Name": null,
+              "SelectedSubContentType.ID": 0,
+              "SelectedSubContentType.Name": null,
+              "Sort": 0
+            }
+          ]
+        },
+        {
+          "date": "2007-08-22",
+          "title": "Date opened",
+          "summary": "",
+          "status": "Open",
+          "documents": [
+            {
+              "File.ID": 23557,
+              "File.Title": "comcom-tpiapplicationacquiredunedinesl.pdf",
+              "File.Name": "comcom-tpiapplicationacquiredunedinesl.pdf",
+              "File.URL": "/assets/pdf_file/0019/75412/comcom-tpiapplicationacquiredunedinesl.pdf",
+              "File.FileType": "PDF",
+              "File.FileSize": "169 KB",
+              "File.PublishDate": "26 Jul 2013",
+              "SelectedCategory.ID": 493,
+              "SelectedCategory.Name": "Mergers and acquisitions",
+              "SelectedSubCategory.ID": 0,
+              "SelectedSubCategory.Name": null,
+              "SelectedContentType.ID": 468,
+              "SelectedContentType.Name": "Merger documents",
+              "SelectedSubContentType.ID": 469,
+              "SelectedSubContentType.Name": "Application",
+              "Sort": 0
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "name": "Transpacific Industries Group (NZ) Ltd; Enviro Waste Services Ltd (Blenheim &amp; Nelson)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "31 October 2007",
@@ -28995,161 +29149,7 @@
     }
   },
   {
-    "name": "Transpacific Industries Group (NZ) Ltd",
-    "status": "Closed",
-    "outcome": "Merger cleared",
-    "date": "31 October 2007",
-    "link": "https://www.comcom.govt.nz/case-register/case-register-entries/transpacific-industries-group-nz-ltd3/",
-    "details": {
-      "description": "Assets/Business",
-      "case_details": {
-        "parties": "Transpacific Industries Group (NZ) Ltd ; Enviro Waste Services Ltd (Christchurch)",
-        "category": "Merger application",
-        "sub-category": "Clearance",
-        "act/section": "Commerce Act 1986 s 66",
-        "industry": "Electricity, gas, water, and waste services",
-        "status": "Closed",
-        "outcome": "Merger cleared",
-        "case_number": "Cleared: 31/10/2007 Decision No: 625",
-        "date_opened": "22 August 2007",
-        "date_closed": "31 October 2007",
-        "contact_person": ""
-      },
-      "updates": [
-        {
-          "date": "2007-10-31",
-          "title": "Date closed",
-          "summary": "",
-          "status": "Open",
-          "documents": [
-            {
-              "File.ID": 23569,
-              "File.Title": "[2007] Decision 622, 623, 624, 625 – Transpacific Industries Group (NZ) Limited and Ironbridge Capital Pty Limited – 31 October 2007",
-              "File.Name": "2007-Decision-622-623-624-625-Transpacific-Industries-Group-NZ-Limited-Ironbridge-Capital-Pty-Limited-31-October-2007.PDF",
-              "File.URL": "/assets/pdf_file/0027/228582/2007-Decision-622-623-624-625-Transpacific-Industries-Group-NZ-Limited-Ironbridge-Capital-Pty-Limited-31-October-2007.PDF",
-              "File.FileType": "PDF",
-              "File.FileSize": "176 KB",
-              "File.PublishDate": "08 Apr 2024",
-              "SelectedCategory.ID": 0,
-              "SelectedCategory.Name": null,
-              "SelectedSubCategory.ID": 0,
-              "SelectedSubCategory.Name": null,
-              "SelectedContentType.ID": 0,
-              "SelectedContentType.Name": null,
-              "SelectedSubContentType.ID": 0,
-              "SelectedSubContentType.Name": null,
-              "Sort": 0
-            }
-          ]
-        },
-        {
-          "date": "2007-08-22",
-          "title": "Date opened",
-          "summary": "",
-          "status": "Open",
-          "documents": [
-            {
-              "File.ID": 23555,
-              "File.Title": "comcom-tpiapplicationacquirechristchurchesl.pdf",
-              "File.Name": "comcom-tpiapplicationacquirechristchurchesl.pdf",
-              "File.URL": "/assets/pdf_file/0018/75411/comcom-tpiapplicationacquirechristchurchesl.pdf",
-              "File.FileType": "PDF",
-              "File.FileSize": "189 KB",
-              "File.PublishDate": "26 Jul 2013",
-              "SelectedCategory.ID": 493,
-              "SelectedCategory.Name": "Mergers and acquisitions",
-              "SelectedSubCategory.ID": 0,
-              "SelectedSubCategory.Name": null,
-              "SelectedContentType.ID": 468,
-              "SelectedContentType.Name": "Merger documents",
-              "SelectedSubContentType.ID": 469,
-              "SelectedSubContentType.Name": "Application",
-              "Sort": 0
-            }
-          ]
-        }
-      ]
-    }
-  },
-  {
-    "name": "Transpacific Industries Group (NZ) Ltd",
-    "status": "Closed",
-    "outcome": "Merger cleared",
-    "date": "31 October 2007",
-    "link": "https://www.comcom.govt.nz/case-register/case-register-entries/transpacific-industries-group-nz-ltd2/",
-    "details": {
-      "description": "Assets/Business",
-      "case_details": {
-        "parties": "Transpacific Industries Group (NZ) Ltd ; Enviro Waste Services Ltd (Dunedin)",
-        "category": "Merger application",
-        "sub-category": "Clearance",
-        "act/section": "Commerce Act 1986 s 66",
-        "industry": "Electricity, gas, water, and waste services",
-        "status": "Closed",
-        "outcome": "Merger cleared",
-        "case_number": "Cleared: 31/10/2007 Decision No: 624",
-        "date_opened": "22 August 2007",
-        "date_closed": "31 October 2007",
-        "contact_person": ""
-      },
-      "updates": [
-        {
-          "date": "2007-10-31",
-          "title": "Date closed",
-          "summary": "",
-          "status": "Open",
-          "documents": [
-            {
-              "File.ID": 23569,
-              "File.Title": "[2007] Decision 622, 623, 624, 625 – Transpacific Industries Group (NZ) Limited and Ironbridge Capital Pty Limited – 31 October 2007",
-              "File.Name": "2007-Decision-622-623-624-625-Transpacific-Industries-Group-NZ-Limited-Ironbridge-Capital-Pty-Limited-31-October-2007.PDF",
-              "File.URL": "/assets/pdf_file/0027/228582/2007-Decision-622-623-624-625-Transpacific-Industries-Group-NZ-Limited-Ironbridge-Capital-Pty-Limited-31-October-2007.PDF",
-              "File.FileType": "PDF",
-              "File.FileSize": "176 KB",
-              "File.PublishDate": "08 Apr 2024",
-              "SelectedCategory.ID": 0,
-              "SelectedCategory.Name": null,
-              "SelectedSubCategory.ID": 0,
-              "SelectedSubCategory.Name": null,
-              "SelectedContentType.ID": 0,
-              "SelectedContentType.Name": null,
-              "SelectedSubContentType.ID": 0,
-              "SelectedSubContentType.Name": null,
-              "Sort": 0
-            }
-          ]
-        },
-        {
-          "date": "2007-08-22",
-          "title": "Date opened",
-          "summary": "",
-          "status": "Open",
-          "documents": [
-            {
-              "File.ID": 23557,
-              "File.Title": "comcom-tpiapplicationacquiredunedinesl.pdf",
-              "File.Name": "comcom-tpiapplicationacquiredunedinesl.pdf",
-              "File.URL": "/assets/pdf_file/0019/75412/comcom-tpiapplicationacquiredunedinesl.pdf",
-              "File.FileType": "PDF",
-              "File.FileSize": "169 KB",
-              "File.PublishDate": "26 Jul 2013",
-              "SelectedCategory.ID": 493,
-              "SelectedCategory.Name": "Mergers and acquisitions",
-              "SelectedSubCategory.ID": 0,
-              "SelectedSubCategory.Name": null,
-              "SelectedContentType.ID": 468,
-              "SelectedContentType.Name": "Merger documents",
-              "SelectedSubContentType.ID": 469,
-              "SelectedSubContentType.Name": "Application",
-              "Sort": 0
-            }
-          ]
-        }
-      ]
-    }
-  },
-  {
-    "name": "Cavalier Corporation Limited",
+    "name": "Cavalier Corporation Limited; Norman Ellison Holdings Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "14 November 2007",
@@ -29240,7 +29240,7 @@
     }
   },
   {
-    "name": "A&amp;R Whitcoulls Group Holdings Pty Limited",
+    "name": "A&amp;R Whitcoulls Group Holdings Pty Limited; Borders New Zealand Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "20 November 2007",
@@ -29331,7 +29331,7 @@
     }
   },
   {
-    "name": "Pacific Radiology Limited",
+    "name": "Pacific Radiology Limited; Wellington Radiology Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "20 December 2007",
@@ -29422,7 +29422,7 @@
     }
   },
   {
-    "name": "Cadmus Technology Limited",
+    "name": "Cadmus Technology Limited; Provenco Group Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "5 February 2008",
@@ -29513,7 +29513,7 @@
     }
   },
   {
-    "name": "Air Liquide New Zealand Limited",
+    "name": "Air Liquide New Zealand Limited; ASCOGAS Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "13 February 2008",
@@ -29604,7 +29604,7 @@
     }
   },
   {
-    "name": "Vodafone Mobile NZ Limited",
+    "name": "Vodafone Mobile NZ Limited; The Crown",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "14 February 2008",
@@ -29695,7 +29695,7 @@
     }
   },
   {
-    "name": "Telecom Leasing Limited",
+    "name": "Telecom Leasing Limited; The Crown",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "7 March 2008",
@@ -29786,7 +29786,7 @@
     }
   },
   {
-    "name": "Crane Group Limited",
+    "name": "Crane Group Limited; RX Plastics Limited",
     "status": "Closed",
     "outcome": "Application withdrawn",
     "date": "11 March 2008",
@@ -29844,7 +29844,7 @@
     }
   },
   {
-    "name": "Sumitomo Forestry Co Limited",
+    "name": "Sumitomo Forestry Co Limited; Carter Holt Harvey Rangiora (Building Supplies Division)",
     "status": "Closed",
     "outcome": "Merger declined",
     "date": "20 March 2008",
@@ -29935,7 +29935,7 @@
     }
   },
   {
-    "name": "DFS Group Limited",
+    "name": "DFS Group Limited; The Nuance Group",
     "status": "Closed",
     "outcome": "Merger declined",
     "date": "28 March 2008",
@@ -30026,7 +30026,7 @@
     }
   },
   {
-    "name": "New Zealand Investment Holdings Limited",
+    "name": "New Zealand Investment Holdings Limited; RX Plastics Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "3 April 2008",
@@ -30117,7 +30117,7 @@
     }
   },
   {
-    "name": "Telecom New Zealand Limited",
+    "name": "Telecom New Zealand Limited; The Crown",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "11 April 2008",
@@ -30208,7 +30208,7 @@
     }
   },
   {
-    "name": "Vita New Zealand Limited",
+    "name": "Vita New Zealand Limited; Pacific Brands Holdings (NZ) Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "24 April 2008",
@@ -30299,7 +30299,7 @@
     }
   },
   {
-    "name": "Flint Group Holdings",
+    "name": "Flint Group Holdings; Siegwerk New Zealand Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "14 May 2008",
@@ -30390,7 +30390,7 @@
     }
   },
   {
-    "name": "Redeal Limited",
+    "name": "Redeal Limited; Egley Electrical Co Limited &amp; Egley Electrical Petone Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "12 June 2008",
@@ -30481,7 +30481,7 @@
     }
   },
   {
-    "name": "CSR Building Products (NZ) Limited",
+    "name": "CSR Building Products (NZ) Limited; Ross Roofing",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "27 August 2008",
@@ -30572,7 +30572,7 @@
     }
   },
   {
-    "name": "Southern Cross Health Trust",
+    "name": "Southern Cross Health Trust ; Aorangi Hospital Limited",
     "status": "Closed",
     "outcome": "Merger declined",
     "date": "4 September 2008",
@@ -30663,7 +30663,7 @@
     }
   },
   {
-    "name": "Shell New Zealand Limited",
+    "name": "Shell New Zealand Limited; Mobil Oil New Zealand Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "10 October 2008",
@@ -30754,7 +30754,7 @@
     }
   },
   {
-    "name": "Tegel Foods Limited",
+    "name": "Tegel Foods Limited ; Brinks Group of companies",
     "status": "Closed",
     "outcome": "Merger declined",
     "date": "22 October 2008",
@@ -30845,7 +30845,7 @@
     }
   },
   {
-    "name": "Salmon Smolt New Zealand",
+    "name": "Salmon Smolt New Zealand ; National Institute of Water and Atmospheric Research Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "30 October 2008",
@@ -30936,7 +30936,7 @@
     }
   },
   {
-    "name": "ISS Holdings NZ Limited",
+    "name": "ISS Holdings NZ Limited; Chubb New Zealand Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "6 November 2008",
@@ -31027,7 +31027,7 @@
     }
   },
   {
-    "name": "Coca-Cola Amatil NZ Limited",
+    "name": "Coca-Cola Amatil NZ Limited; Baker Halls Business",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "28 January 2009",
@@ -31118,7 +31118,7 @@
     }
   },
   {
-    "name": "Fletcher Building Limited",
+    "name": "Fletcher Building Limited; Stevenson Group Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "13 February 2009",
@@ -31209,7 +31209,7 @@
     }
   },
   {
-    "name": "Media Monitors Pty Limited",
+    "name": "Media Monitors Pty Limited ; Chong Bureau Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "19 February 2009",
@@ -31300,7 +31300,7 @@
     }
   },
   {
-    "name": "David Ferrier and/or New Zealand Woolscourers Ltd / Cavalier Wool Holdings Ltd",
+    "name": "David Ferrier and/or New Zealand Woolscourers Ltd / Cavalier Wool Holdings Ltd; Godfrey Hirst",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "6 March 2009",
@@ -31391,7 +31391,7 @@
     }
   },
   {
-    "name": "Fullers Group Limited",
+    "name": "Fullers Group Limited; Kiwi Kat Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "30 June 2009",
@@ -31482,7 +31482,7 @@
     }
   },
   {
-    "name": "Pfizer Inc",
+    "name": "Pfizer Inc; Wyeth Corp",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "20 August 2009",
@@ -31573,7 +31573,7 @@
     }
   },
   {
-    "name": "Schering-Plough Corporation",
+    "name": "Schering-Plough Corporation; Merck &amp; Co., Inc.",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "20 August 2009",
@@ -31664,7 +31664,7 @@
     }
   },
   {
-    "name": "Frucor Beverages Limited",
+    "name": "Frucor Beverages Limited; Simply Squeezed Holdings Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "25 August 2009",
@@ -31755,7 +31755,7 @@
     }
   },
   {
-    "name": "Hoyts Corporation Holdings (NZ) Limited",
+    "name": "Hoyts Corporation Holdings (NZ) Limited; Berkeley Cinema Group",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "21 April 2010",
@@ -31846,7 +31846,7 @@
     }
   },
   {
-    "name": "Novartis AG",
+    "name": "Novartis AG; Alcon, Inc.",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "6 May 2010",
@@ -31937,7 +31937,7 @@
     }
   },
   {
-    "name": "AMP Limited",
+    "name": "AMP Limited; AXA Asia Pacific Holdings Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "18 June 2010",
@@ -32028,7 +32028,7 @@
     }
   },
   {
-    "name": "Preformed Line Products Company",
+    "name": "Preformed Line Products Company; Electropar Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "24 June 2010",
@@ -32119,7 +32119,7 @@
     }
   },
   {
-    "name": "Tomarata Sand Limited",
+    "name": "Tomarata Sand Limited; Coastal Resources Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "25 June 2010",
@@ -32262,7 +32262,7 @@
     }
   },
   {
-    "name": "Scandinavian Tobacco Group",
+    "name": "Scandinavian Tobacco Group; Swedish Match",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "22 September 2010",
@@ -32431,7 +32431,7 @@
     }
   },
   {
-    "name": "Sanford Limited",
+    "name": "Sanford Limited; Pacifica Seafoods Group of companies",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "11 November 2010",
@@ -32548,7 +32548,7 @@
     }
   },
   {
-    "name": "TEC Projects Limited",
+    "name": "TEC Projects Limited; Tecpak Industries Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "18 November 2010",
@@ -32782,7 +32782,7 @@
     }
   },
   {
-    "name": "PMP Print Limited",
+    "name": "PMP Print Limited; APN Print NZ Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "16 December 2010",
@@ -32899,7 +32899,7 @@
     }
   },
   {
-    "name": "Christchurch International Airport Limited",
+    "name": "Christchurch International Airport Limited; Craddocks Car Storage",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "27 January 2011",
@@ -33016,7 +33016,7 @@
     }
   },
   {
-    "name": "Sonoco New Zealand Limited",
+    "name": "Sonoco New Zealand Limited; T.T.L Pacific Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "3 February 2011",
@@ -33133,7 +33133,7 @@
     }
   },
   {
-    "name": "Fletcher Building (Australia) Pty Limited",
+    "name": "Fletcher Building (Australia) Pty Limited; Crane Group Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "24 February 2011",
@@ -33250,7 +33250,7 @@
     }
   },
   {
-    "name": "Waters &amp; Farr",
+    "name": "Waters &amp; Farr; Fletcher Concrete &amp; Infrastructure Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "3 March 2011",
@@ -33341,7 +33341,7 @@
     }
   },
   {
-    "name": "New Zealand Comfort Group Limited",
+    "name": "New Zealand Comfort Group Limited; Dunlop Living Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "24 June 2011",
@@ -33593,7 +33593,7 @@
     }
   },
   {
-    "name": "GEA Process Engineering A/S",
+    "name": "GEA Process Engineering A/S; Nu-Con Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "24 August 2011",
@@ -33684,7 +33684,7 @@
     }
   },
   {
-    "name": "Matariki Forests",
+    "name": "Matariki Forests; Selwyn Plantation Board Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "28 September 2011",
@@ -33801,7 +33801,7 @@
     }
   },
   {
-    "name": "iSite Limited",
+    "name": "iSite Limited; O.T.W. Advertising Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "29 September 2011",
@@ -33918,7 +33918,7 @@
     }
   },
   {
-    "name": "Cavalier Wool Holdings Limited",
+    "name": "Cavalier Wool Holdings Limited; New Zealand Wool Services International Limited",
     "status": "Closed",
     "outcome": "Merger authorised",
     "date": "23 November 2011",
@@ -35647,7 +35647,7 @@
     }
   },
   {
-    "name": "Seagate Technology PLC",
+    "name": "Seagate Technology PLC; Samsung Electronics Co. Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "15 December 2011",
@@ -35764,7 +35764,7 @@
     }
   },
   {
-    "name": "IAG New Zealand Holdings Limited",
+    "name": "IAG New Zealand Holdings Limited; AMI Insurance (operations) Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "29 February 2012",
@@ -35881,7 +35881,7 @@
     }
   },
   {
-    "name": "Canterbury SCL Limited",
+    "name": "Canterbury SCL Limited; MedLab South Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "22 March 2012",
@@ -35998,7 +35998,7 @@
     }
   },
   {
-    "name": "Visy Industries Australia Pty Limited and VPRS Limited",
+    "name": "Visy Industries Australia Pty Limited and VPRS Limited; HP Industries Holding Limited and HP Industries (New Zealand) Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "30 March 2012",
@@ -36115,7 +36115,7 @@
     }
   },
   {
-    "name": "Pact Group Pty Limited",
+    "name": "Pact Group Pty Limited; Pacific BBA Plastics (NZ) Limited and Viscount Plastics (NZ)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "10 May 2012",
@@ -36232,7 +36232,7 @@
     }
   },
   {
-    "name": "epay New Zealand Limited",
+    "name": "epay New Zealand Limited; Ezi-Pay Limited, EFTDATA Holdings Limited and Compass Communications Limited",
     "status": "Closed",
     "outcome": "Merger declined",
     "date": "15 June 2012",
@@ -36349,7 +36349,7 @@
     }
   },
   {
-    "name": "Universal Music Holdings Limited",
+    "name": "Universal Music Holdings Limited; EMI Group Global Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "22 June 2012",
@@ -36466,7 +36466,7 @@
     }
   },
   {
-    "name": "Fonterra Co-operative Group Limited",
+    "name": "Fonterra Co-operative Group Limited; New Zealand Dairies Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "6 September 2012",
@@ -36739,7 +36739,7 @@
     }
   },
   {
-    "name": "CSR Building Products (NZ) Limited",
+    "name": "CSR Building Products (NZ) Limited ; Brickworks Building Products (NZ) Pty Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "10 October 2012",
@@ -36856,7 +36856,7 @@
     }
   },
   {
-    "name": "Vodafone New Zealand Limited",
+    "name": "Vodafone New Zealand Limited; Telstra Corporation Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "29 October 2012",
@@ -36999,7 +36999,7 @@
     }
   },
   {
-    "name": "Bligh Finance Limited",
+    "name": "Bligh Finance Limited ; Hire Equipment Group Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "21 February 2013",
@@ -37233,7 +37233,7 @@
     }
   },
   {
-    "name": "Hamilton Radiology Limited",
+    "name": "Hamilton Radiology Limited; Medimaging Limited",
     "status": "Closed",
     "outcome": "Merger declined",
     "date": "28 March 2013",
@@ -37298,7 +37298,7 @@
     }
   },
   {
-    "name": "Vector Limited",
+    "name": "Vector Limited; Contact Energy Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "26 April 2013",
@@ -37493,7 +37493,7 @@
     }
   },
   {
-    "name": "Perry Metal Protection Limited",
+    "name": "Perry Metal Protection Limited; CSP Coating Systems (a Division of Fletcher Steel Limited)",
     "status": "Closed",
     "outcome": "Application withdrawn",
     "date": "24 May 2013",
@@ -37584,7 +37584,7 @@
     }
   },
   {
-    "name": "SKYCITY Entertainment Group Limited",
+    "name": "SKYCITY Entertainment Group Limited; Otago Casinos Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "16 July 2013",
@@ -37675,7 +37675,7 @@
     }
   },
   {
-    "name": "Baxter International Inc",
+    "name": "Baxter International Inc; Gambro AB",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "30 July 2013",
@@ -37766,7 +37766,7 @@
     }
   },
   {
-    "name": "King Pharmacy Group Limited",
+    "name": "King Pharmacy Group Limited; Community Pharmacy Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "3 September 2013",
@@ -37857,7 +37857,7 @@
     }
   },
   {
-    "name": "Menzies Aviation (New Zealand) Limited",
+    "name": "Menzies Aviation (New Zealand) Limited; SkyStar Airport Services NZ Pty Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "15 October 2013",
@@ -37974,7 +37974,7 @@
     }
   },
   {
-    "name": "Property IQ New Zealand Limited",
+    "name": "Property IQ New Zealand Limited; Terralink International Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "29 November 2013",
@@ -38091,7 +38091,7 @@
     }
   },
   {
-    "name": "Thermo Fisher Scientific Inc.",
+    "name": "Thermo Fisher Scientific Inc.; Life Technologies Corporation",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "19 December 2013",
@@ -38182,7 +38182,7 @@
     }
   },
   {
-    "name": "Bauer Media Group (NZ) LP",
+    "name": "Bauer Media Group (NZ) LP; APN Specialist Publications NZ Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "23 January 2014",
@@ -38299,7 +38299,7 @@
     }
   },
   {
-    "name": "Vodafone New Zealand Limited",
+    "name": "Vodafone New Zealand Limited; The Crown",
     "status": "Closed",
     "outcome": "Application withdrawn",
     "date": "27 January 2014",
@@ -38656,7 +38656,7 @@
     }
   },
   {
-    "name": "BlueScope Steel (NZ) Ltd",
+    "name": "BlueScope Steel (NZ) Ltd ; Fletcher Steel Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "15 April 2014",
@@ -38766,7 +38766,7 @@
     }
   },
   {
-    "name": "IAG (NZ) Holding Limited",
+    "name": "IAG (NZ) Holding Limited; Lumley General Insurance (N.Z.) Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "6 May 2014",
@@ -39091,7 +39091,7 @@
     }
   },
   {
-    "name": "Telecom New Zealand Limited",
+    "name": "Telecom New Zealand Limited; The Crown",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "30 May 2014",
@@ -39364,7 +39364,7 @@
     }
   },
   {
-    "name": "Bledisloe New Zealand Limited",
+    "name": "Bledisloe New Zealand Limited; Cremation Society of Canterbury Limited and Harewood Memorial Gardens &amp; Crematorium Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "24 July 2014",
@@ -39455,7 +39455,7 @@
     }
   },
   {
-    "name": "Oji Oceania Management (NZ) Limited",
+    "name": "Oji Oceania Management (NZ) Limited; Carter Holt Harvey Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "29 July 2014",
@@ -39591,7 +39591,7 @@
     }
   },
   {
-    "name": "Atlas Copco South Pacific Holding Pty Limited",
+    "name": "Atlas Copco South Pacific Holding Pty Limited; Ash Air Businesses (from Lancaster Group Limited)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "30 July 2014",
@@ -39825,7 +39825,7 @@
     }
   },
   {
-    "name": "Expedia Inc",
+    "name": "Expedia Inc; Wotif.com Holdings Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "4 November 2014",
@@ -39968,7 +39968,7 @@
     }
   },
   {
-    "name": "Tuakau Proteins Limited",
+    "name": "Tuakau Proteins Limited; Graeme Lowe Protein Limited and Taranaki By Products Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "25 November 2014",
@@ -40078,7 +40078,7 @@
     }
   },
   {
-    "name": "Vector Limited",
+    "name": "Vector Limited; Arc Innovations Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "25 November 2014",
@@ -40188,7 +40188,7 @@
     }
   },
   {
-    "name": "GlaxoSmithKline Plc",
+    "name": "GlaxoSmithKline Plc; Novartis AG",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "27 November 2014",
@@ -40298,7 +40298,7 @@
     }
   },
   {
-    "name": "Connor Healthcare Limited",
+    "name": "Connor Healthcare Limited; Acurity Health Group Limited",
     "status": "Closed",
     "outcome": "Merger declined",
     "date": "11 December 2014",
@@ -40415,7 +40415,7 @@
     }
   },
   {
-    "name": "Mylan Inc",
+    "name": "Mylan Inc; Abbott Laboratories Inc",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "11 December 2014",
@@ -40499,7 +40499,7 @@
     }
   },
   {
-    "name": "Connor Healthcare Limited",
+    "name": "Connor Healthcare Limited; Acurity Health Group Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "19 December 2014",
@@ -40616,7 +40616,7 @@
     }
   },
   {
-    "name": "Mayborn Group Limited",
+    "name": "Mayborn Group Limited; Jackel Pty Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "29 January 2015",
@@ -40726,7 +40726,7 @@
     }
   },
   {
-    "name": "Reckitt Benckiser Group Plc",
+    "name": "Reckitt Benckiser Group Plc; Johnson &amp; Johnson",
     "status": "Closed",
     "outcome": "Merger declined",
     "date": "24 April 2015",
@@ -40836,7 +40836,7 @@
     }
   },
   {
-    "name": "Staples, Inc",
+    "name": "Staples, Inc; Office Depot, Inc",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "5 June 2015",
@@ -40946,7 +40946,7 @@
     }
   },
   {
-    "name": "Pfizer Inc",
+    "name": "Pfizer Inc; Hospira Inc",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "16 July 2015",
@@ -41063,7 +41063,7 @@
     }
   },
   {
-    "name": "Evolution Healthcare (NZ) Pty Ltd",
+    "name": "Evolution Healthcare (NZ) Pty Ltd; Medusa Limited &amp; Royston Health Trust Board",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "21 September 2015",
@@ -41180,7 +41180,7 @@
     }
   },
   {
-    "name": "FedEx Corporation",
+    "name": "FedEx Corporation; TNT Express N.V.",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "1 October 2015",
@@ -41297,7 +41297,7 @@
     }
   },
   {
-    "name": "B100 Limited",
+    "name": "B100 Limited; Realcold Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "6 October 2015",
@@ -41414,7 +41414,7 @@
     }
   },
   {
-    "name": "Wilson Parking New Zealand Limited",
+    "name": "Wilson Parking New Zealand Limited; Tournament Parking Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "11 November 2015",
@@ -41635,7 +41635,7 @@
     }
   },
   {
-    "name": "Vocus Communications Limited",
+    "name": "Vocus Communications Limited; M2 Group Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "3 December 2015",
@@ -41745,7 +41745,7 @@
     }
   },
   {
-    "name": "Rheem New Zealand Limited",
+    "name": "Rheem New Zealand Limited; Peter Cocks (2010) Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "3 February 2016",
@@ -41862,7 +41862,7 @@
     }
   },
   {
-    "name": "Coty Inc.",
+    "name": "Coty Inc.; The Procter and Gamble Company",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "22 February 2016",
@@ -41953,7 +41953,7 @@
     }
   },
   {
-    "name": "Tennex Capital Limited",
+    "name": "Tennex Capital Limited; San-i-pak Limited",
     "status": "Closed",
     "outcome": "Merger declined",
     "date": "29 February 2016",
@@ -42070,7 +42070,7 @@
     }
   },
   {
-    "name": "Spark New Zealand Trading Limited",
+    "name": "Spark New Zealand Trading Limited; Craig Wireless Spectrum Operations Limited and Woosh Wireless Holdings Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "23 March 2016",
@@ -42187,7 +42187,7 @@
     }
   },
   {
-    "name": "H.B. Fuller Company Australia Pty Limited",
+    "name": "H.B. Fuller Company Australia Pty Limited; Advanced Adhesives (New Zealand) Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "20 April 2016",
@@ -42304,7 +42304,7 @@
     }
   },
   {
-    "name": "Z Energy Limited",
+    "name": "Z Energy Limited; Chevron New Zealand",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "29 April 2016",
@@ -42671,7 +42671,7 @@
     }
   },
   {
-    "name": "Fletcher Building Holdings New Zealand Limited",
+    "name": "Fletcher Building Holdings New Zealand Limited; Higgins Group Holdings Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "7 July 2016",
@@ -42814,7 +42814,7 @@
     }
   },
   {
-    "name": "Boehringer Ingelheim International GmbH",
+    "name": "Boehringer Ingelheim International GmbH; Merial, the animal health business of Sanofi SA",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "13 September 2016",
@@ -42905,7 +42905,7 @@
     }
   },
   {
-    "name": "Wallace Group Limited Partnership",
+    "name": "Wallace Group Limited Partnership; Wallace Corporation Limited, Farm Brands Limited and Keep It Clean Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "19 October 2016",
@@ -43022,7 +43022,7 @@
     }
   },
   {
-    "name": "Cavalier Wool Holdings Limited",
+    "name": "Cavalier Wool Holdings Limited; New Zealand Wool Services International Limited",
     "status": "Closed",
     "outcome": "Merger authorised; \n                                \n                                Judgment",
     "date": "30 November 2016",
@@ -45537,7 +45537,7 @@
     }
   },
   {
-    "name": "Sky Network Television Limited",
+    "name": "Sky Network Television Limited ; Vodafone Europe B.V.",
     "status": "Closed",
     "outcome": "Merger declined",
     "date": "22 February 2017",
@@ -46896,7 +46896,7 @@
     }
   },
   {
-    "name": "Vodafone Europe B.V.",
+    "name": "Vodafone Europe B.V.; Sky Network Television Limited",
     "status": "Closed",
     "outcome": "Merger declined",
     "date": "22 February 2017",
@@ -48255,7 +48255,7 @@
     }
   },
   {
-    "name": "Aon New Zealand",
+    "name": "Aon New Zealand; Fire Protection Inspection Services Limited",
     "status": "Closed",
     "outcome": "Merger declined",
     "date": "2 March 2017",
@@ -48372,7 +48372,7 @@
     }
   },
   {
-    "name": "Spark New Zealand Trading Limited",
+    "name": "Spark New Zealand Trading Limited; TeamTalk Limited",
     "status": "Closed",
     "outcome": "Application withdrawn",
     "date": "13 April 2017",
@@ -48456,7 +48456,7 @@
     }
   },
   {
-    "name": "NZME Limited",
+    "name": "NZME Limited; Fairfax New Zealand Limited",
     "status": "Closed",
     "outcome": "Merger declined",
     "date": "2 May 2017",
@@ -51065,7 +51065,7 @@
     }
   },
   {
-    "name": "Vero Insurance New Zealand Limited",
+    "name": "Vero Insurance New Zealand Limited; Tower Limited",
     "status": "Closed",
     "outcome": "Merger declined",
     "date": "25 July 2017",
@@ -51356,7 +51356,7 @@
     }
   },
   {
-    "name": "Healthcare of New Zealand Holdings Limited",
+    "name": "Healthcare of New Zealand Holdings Limited; Geneva Healthcare Limited and its related companies, Geneva Clean Limited, My Skill Limited, Geneva Health Technology Limited and Geneva Care Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "1 September 2017",
@@ -51580,7 +51580,7 @@
     }
   },
   {
-    "name": "Tronox Limited",
+    "name": "Tronox Limited; National Titanium Dioxide Company Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "6 September 2017",
@@ -51683,7 +51683,7 @@
     }
   },
   {
-    "name": "H.J. Heinz Company (New Zealand) Limited",
+    "name": "H.J. Heinz Company (New Zealand) Limited; Cerebos Gregg&#39;s Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "8 March 2018",
@@ -51793,7 +51793,7 @@
     }
   },
   {
-    "name": "Trade Me Limited",
+    "name": "Trade Me Limited; Limelight Software Limited",
     "status": "Closed",
     "outcome": "Merger declined",
     "date": "8 March 2018",
@@ -52043,7 +52043,7 @@
     }
   },
   {
-    "name": "Rhone Capital LLC",
+    "name": "Rhone Capital LLC; Fluidra S.A",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "21 March 2018",
@@ -52160,7 +52160,7 @@
     }
   },
   {
-    "name": "Daiken New Zealand Limited",
+    "name": "Daiken New Zealand Limited; Dongwha New Zealand Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "28 March 2018",
@@ -52381,7 +52381,7 @@
     }
   },
   {
-    "name": "MYOB Group Limited",
+    "name": "MYOB Group Limited; Reckon Limited",
     "status": "Closed",
     "outcome": "Application withdrawn",
     "date": "31 May 2018",
@@ -53371,7 +53371,7 @@
     }
   },
   {
-    "name": "Thales S.A; Gemalto N.V.",
+    "name": "Thales S.A.; Gemalto N.V.",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "13 December 2018",
@@ -54261,7 +54261,7 @@
     }
   },
   {
-    "name": "USG Corporation; Gebr. Knauf KG",
+    "name": "Gebr. Knauf KG; USG Corporation",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "18 April 2019",
@@ -54390,7 +54390,7 @@
     }
   },
   {
-    "name": "GlaxoSmithKline plc, Pfizer Inc",
+    "name": "GlaxoSmithKline plc; Pfizer Inc",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "30 April 2019",
@@ -54519,7 +54519,7 @@
     }
   },
   {
-    "name": "Mainland Print Limited and Inkwise Limited",
+    "name": "Mainland Print Limited; Inkwise Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "26 June 2019",
@@ -55386,7 +55386,7 @@
     }
   },
   {
-    "name": "Juice Technologies Pty Limited and APT Business Solutions Limited",
+    "name": "Juice Technologies Pty Limited; APT Business Solutions Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "4 March 2020",
@@ -56778,7 +56778,7 @@
     }
   },
   {
-    "name": "Pact Group Holdings Ltd; Flight Plastics Ltd",
+    "name": "Pact Group Holdings Ltd / Flight Plastics Ltd",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "16 December 2020",
@@ -57514,7 +57514,7 @@
     }
   },
   {
-    "name": "IKO Industries Ltd and Ross Roof Group Limited",
+    "name": "IKO Industries Ltd ; Ross Roof Group Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "29 June 2021",
@@ -58759,7 +58759,7 @@
     }
   },
   {
-    "name": "Can Plan Nelson Limited / Nelmac Limited",
+    "name": "Can Plan Nelson Limited ; Nelmac Limited",
     "status": "Closed",
     "outcome": "Application withdrawn",
     "date": "31 August 2021",
@@ -59444,7 +59444,7 @@
     }
   },
   {
-    "name": "Allied Foods (N.Z.) Limited",
+    "name": "Allied Foods (N.Z.) Limited and Dad’s Pies Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "3 November 2021",
@@ -59781,7 +59781,7 @@
     }
   },
   {
-    "name": "Pacific 2021 Bidco NZ Ltd and Pulse Health NZ Ltd",
+    "name": "Pacific 2021 Bidco NZ Ltd ; Pulse Health NZ Ltd",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "17 November 2021",
@@ -60937,7 +60937,7 @@
     }
   },
   {
-    "name": "EBOS Medical Devices Australia Pty Limited and LifeHealthcare",
+    "name": "EBOS Medical Devices Australia Pty Limited; LifeHealthcare",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "30 March 2022",
@@ -63234,7 +63234,7 @@
     }
   },
   {
-    "name": "THL Australia Pty Ltd; Apollo Tourism &amp; Leisure Ltd",
+    "name": "THL (Australia) Pty Ltd and Apollo Tourism &amp; Leisure Ltd",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "23 September 2022",
@@ -63932,7 +63932,7 @@
     }
   },
   {
-    "name": "Central Healthcare Operations Limited and Aorangi Hospital Limited",
+    "name": "Central Healthcare Operations Limited; Aorangi Hospital Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "12 December 2022",
@@ -64327,7 +64327,7 @@
     }
   },
   {
-    "name": "Woolworths Group Limited, PETstock Pty Ltd",
+    "name": "Woolworths Group Limited; PETstock Pty Ltd",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "26 April 2023",
@@ -64494,7 +64494,7 @@
     }
   },
   {
-    "name": "Connexa Limited, Two Degrees Networks Limited and Two Degrees Mobile Limited",
+    "name": "Connexa Limited; Two Degrees Networks Limited; Two Degrees Mobile Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "4 May 2023",
@@ -64805,7 +64805,7 @@
     }
   },
   {
-    "name": "Henkel New Zealand Limited, Earthwise Group Limited",
+    "name": "Henkel New Zealand Limited; Earthwise Group Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "1 June 2023",
@@ -64922,7 +64922,7 @@
     }
   },
   {
-    "name": "Inghams Enterprises (NZ) Pty Limited, Bromley Park Hatcheries Limited",
+    "name": "Inghams Enterprises (NZ) Pty Limited; Bromley Park Hatcheries Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "5 July 2023",
@@ -65156,7 +65156,7 @@
     }
   },
   {
-    "name": "Reward Supply Co Pty Limited, Southern Hospitality Limited",
+    "name": "Reward Supply Co Pty Limited; Southern Hospitality Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "26 July 2023",
@@ -66160,7 +66160,7 @@
     }
   },
   {
-    "name": "Real Journeys Limited and Southern Discoveries Limited",
+    "name": "Real Journeys Limited; Southern Discoveries Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "6 October 2023",
@@ -66547,7 +66547,7 @@
     }
   },
   {
-    "name": "Kingspan Limited and Conqueror New Zealand Limited",
+    "name": "Kingspan Limited; Conqueror New Zealand Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "18 December 2023",
@@ -66664,7 +66664,7 @@
     }
   },
   {
-    "name": "Ngāi Tahu Tourism Limited",
+    "name": "Ngāi Tahu Tourism Limited;  Kawarau Jet Services Holdings Limited; KJet Limited; Time Tripper Limited",
     "status": "Closed",
     "outcome": "Application withdrawn",
     "date": "22 December 2023",
@@ -66933,7 +66933,7 @@
     }
   },
   {
-    "name": "The Priory in New Zealand of the Most Venerable Order of the Hospital of St John of Jerusalem and Electra Services Limited (trading as Securely)",
+    "name": "The Priory in New Zealand of the Most Venerable Order of the Hospital of St John of Jerusalem; Electra Services Limited (trading as Securely)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "29 February 2024",
@@ -67277,7 +67277,7 @@
     }
   },
   {
-    "name": "New Zealand Post Limited, PBT Group Limited",
+    "name": "New Zealand Post Limited; PBT Group Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "30 April 2024",
@@ -67713,7 +67713,7 @@
     }
   },
   {
-    "name": "One New Zealand Limited and Dense Air New Zealand Limited",
+    "name": "One New Zealand Limited; Dense Air New Zealand Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "2 May 2024",
@@ -68074,7 +68074,7 @@
     }
   },
   {
-    "name": "AlphaTheta Corporation, Serato Audio Research Limited",
+    "name": "AlphaTheta Corporation; Serato Audio Research Limited",
     "status": "Closed",
     "outcome": "Merger declined",
     "date": "17 July 2024",
@@ -69038,7 +69038,7 @@
     }
   },
   {
-    "name": "Foodstuffs North Island Limited and Foodstuffs South Island Limited",
+    "name": "Foodstuffs North Island Limited; Foodstuffs South Island Limited",
     "status": "Closed",
     "outcome": "Merger declined",
     "date": "30 September 2024",
@@ -70218,7 +70218,7 @@
     }
   },
   {
-    "name": "Evergreen NZ Holdings and ACM Holdings (NZ) Limited",
+    "name": "Evergreen NZ Holdings; ACM Holdings (NZ) Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "7 October 2024",
@@ -71645,7 +71645,7 @@
     }
   },
   {
-    "name": "Omnicom Group Inc and The Interpublic Group of Companies, Inc",
+    "name": "Omnicom Group Inc; The Interpublic Group of Companies, Inc",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "16 June 2025",
@@ -71813,7 +71813,7 @@
     }
   },
   {
-    "name": "George Weston Foods (NZ) Limited t/a Mauri New Zealand and Farmers Mill Limited",
+    "name": "George Weston Foods (NZ) Limited t/a Mauri New Zealand ; Farmers Mill Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "29 July 2025",
@@ -73525,7 +73525,7 @@
               "SelectedContentType.Name": "Merger documents",
               "SelectedSubContentType.ID": 471,
               "SelectedSubContentType.Name": "Submission",
-              "Sort": 0
+              "Sort": 8
             },
             {
               "File.ID": 29941,
@@ -73543,7 +73543,7 @@
               "SelectedContentType.Name": "Merger documents",
               "SelectedSubContentType.ID": 471,
               "SelectedSubContentType.Name": "Submission",
-              "Sort": 0
+              "Sort": 9
             },
             {
               "File.ID": 30019,
@@ -73561,7 +73561,115 @@
               "SelectedContentType.Name": "Merger documents",
               "SelectedSubContentType.ID": 471,
               "SelectedSubContentType.Name": "Submission",
-              "Sort": 0
+              "Sort": 7
+            },
+            {
+              "File.ID": 30024,
+              "File.Title": "Anonymous H – Cross submission on Statement of Unresolved Issues – Comments on Chapman Tripp on behalf of Godfrey Hirst submission – 27 May 2026",
+              "File.Name": "Anonymous-H-Cross-submission-on-Statement-of-Unresolved-Issues-Comments-on-Chapman-Tripp-on-behalf-of-Godfrey-Hirst-submission-27-May-2026.pdf",
+              "File.URL": "/assets/Documents/timeline/Anonymous-H-Cross-submission-on-Statement-of-Unresolved-Issues-Comments-on-Chapman-Tripp-on-behalf-of-Godfrey-Hirst-submission-27-May-2026.pdf",
+              "File.FileType": "PDF",
+              "File.FileSize": "237 KB",
+              "File.PublishDate": "04 Jun 2026",
+              "SelectedCategory.ID": 493,
+              "SelectedCategory.Name": "Mergers and acquisitions",
+              "SelectedSubCategory.ID": 0,
+              "SelectedSubCategory.Name": null,
+              "SelectedContentType.ID": 468,
+              "SelectedContentType.Name": "Merger documents",
+              "SelectedSubContentType.ID": 471,
+              "SelectedSubContentType.Name": "Submission",
+              "Sort": 1
+            },
+            {
+              "File.ID": 30025,
+              "File.Title": "Anonymous H – Cross submission on Statement of Unresolved Issues – Further rebuttal to Godfrey Hirst’s submissions – 2 June 2026",
+              "File.Name": "Anonymous-H-Cross-submission-on-Statement-of-Unresolved-Issues-Further-rebuttal-to-Godfrey-Hirsts-submissions-2-June-2026.pdf",
+              "File.URL": "/assets/Documents/timeline/Anonymous-H-Cross-submission-on-Statement-of-Unresolved-Issues-Further-rebuttal-to-Godfrey-Hirsts-submissions-2-June-2026.pdf",
+              "File.FileType": "PDF",
+              "File.FileSize": "923 KB",
+              "File.PublishDate": "04 Jun 2026",
+              "SelectedCategory.ID": 493,
+              "SelectedCategory.Name": "Mergers and acquisitions",
+              "SelectedSubCategory.ID": 0,
+              "SelectedSubCategory.Name": null,
+              "SelectedContentType.ID": 468,
+              "SelectedContentType.Name": "Merger documents",
+              "SelectedSubContentType.ID": 471,
+              "SelectedSubContentType.Name": "Submission",
+              "Sort": 2
+            },
+            {
+              "File.ID": 30027,
+              "File.Title": "Anonymous H – Cross submission on Statement of Unresolved Issues – Rebuttal to Bremworth submission to the Commerce Commission – 27 May 2026",
+              "File.Name": "Anonymous-H-Cross-submission-on-Statement-of-Unresolved-Issues-Rebuttal-to-Bremworth-submission-to-the-Commerce-Commission-27-May-2026.pdf",
+              "File.URL": "/assets/Documents/timeline/Anonymous-H-Cross-submission-on-Statement-of-Unresolved-Issues-Rebuttal-to-Bremworth-submission-to-the-Commerce-Commission-27-May-2026.pdf",
+              "File.FileType": "PDF",
+              "File.FileSize": "259 KB",
+              "File.PublishDate": "04 Jun 2026",
+              "SelectedCategory.ID": 493,
+              "SelectedCategory.Name": "Mergers and acquisitions",
+              "SelectedSubCategory.ID": 0,
+              "SelectedSubCategory.Name": null,
+              "SelectedContentType.ID": 468,
+              "SelectedContentType.Name": "Merger documents",
+              "SelectedSubContentType.ID": 471,
+              "SelectedSubContentType.Name": "Submission",
+              "Sort": 3
+            },
+            {
+              "File.ID": 30026,
+              "File.Title": "Anonymous H – Cross submission on Statement of Unresolved Issues – Rebuttal to Every PalmerMellsop opinion – 27 May 2026",
+              "File.Name": "Anonymous-H-Cross-submission-on-Statement-of-Unresolved-Issues-Rebuttal-to-Every-PalmerMellsop-opinion-27-May-2026.pdf",
+              "File.URL": "/assets/Documents/timeline/Anonymous-H-Cross-submission-on-Statement-of-Unresolved-Issues-Rebuttal-to-Every-PalmerMellsop-opinion-27-May-2026.pdf",
+              "File.FileType": "PDF",
+              "File.FileSize": "242 KB",
+              "File.PublishDate": "04 Jun 2026",
+              "SelectedCategory.ID": 493,
+              "SelectedCategory.Name": "Mergers and acquisitions",
+              "SelectedSubCategory.ID": 0,
+              "SelectedSubCategory.Name": null,
+              "SelectedContentType.ID": 468,
+              "SelectedContentType.Name": "Merger documents",
+              "SelectedSubContentType.ID": 471,
+              "SelectedSubContentType.Name": "Submission",
+              "Sort": 4
+            },
+            {
+              "File.ID": 30028,
+              "File.Title": "Anonymous H – Cross submission on Statement of Unresolved Issues – Rebuttal to NERA analysis – 27 May 2026",
+              "File.Name": "Anonymous-H-Cross-submission-on-Statement-of-Unresolved-Issues-Rebuttal-to-NERA-analysis-27-May-2026.pdf",
+              "File.URL": "/assets/Documents/timeline/Anonymous-H-Cross-submission-on-Statement-of-Unresolved-Issues-Rebuttal-to-NERA-analysis-27-May-2026.pdf",
+              "File.FileType": "PDF",
+              "File.FileSize": "125 KB",
+              "File.PublishDate": "04 Jun 2026",
+              "SelectedCategory.ID": 493,
+              "SelectedCategory.Name": "Mergers and acquisitions",
+              "SelectedSubCategory.ID": 0,
+              "SelectedSubCategory.Name": null,
+              "SelectedContentType.ID": 468,
+              "SelectedContentType.Name": "Merger documents",
+              "SelectedSubContentType.ID": 471,
+              "SelectedSubContentType.Name": "Submission",
+              "Sort": 5
+            },
+            {
+              "File.ID": 30029,
+              "File.Title": "Cowes Bay Group – Cross submission on Godfrey Hirst and Bremworth Statement of Unresolved Issues – 26 May 2026",
+              "File.Name": "Cowes-Bay-Group-Cross-submission-on-Godfrey-Hirst-and-Bremworth-Statement-of-Unresolved-Issues-26-May-2026.pdf",
+              "File.URL": "/assets/Documents/timeline/Cowes-Bay-Group-Cross-submission-on-Godfrey-Hirst-and-Bremworth-Statement-of-Unresolved-Issues-26-May-2026.pdf",
+              "File.FileType": "PDF",
+              "File.FileSize": "285 KB",
+              "File.PublishDate": "04 Jun 2026",
+              "SelectedCategory.ID": 493,
+              "SelectedCategory.Name": "Mergers and acquisitions",
+              "SelectedSubCategory.ID": 0,
+              "SelectedSubCategory.Name": null,
+              "SelectedContentType.ID": 468,
+              "SelectedContentType.Name": "Merger documents",
+              "SelectedSubContentType.ID": 471,
+              "SelectedSubContentType.Name": "Submission",
+              "Sort": 6
             }
           ]
         },
