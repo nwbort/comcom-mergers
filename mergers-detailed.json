@@ -897,7 +897,7 @@
     }
   },
   {
-    "name": "Gestetner Holding BV; U-Bix Business Machines Ltd",
+    "name": "Gestetner Holding BV; U-Bix Business Machines Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "25 June 1991",
@@ -905,7 +905,7 @@
     "details": {
       "description": "Shares",
       "case_details": {
-        "parties": "Gestetner Holding BV; U-Bix Business Machines Ltd",
+        "parties": "Gestetner Holding BV; U-Bix Business Machines Limited",
         "category": "Merger application",
         "sub-category": "Clearance",
         "act/section": "Commerce Act 1986 s 66",
@@ -3109,6 +3109,45 @@
   {
     "name": "Foodstuffs (Wellington) Co-Operative Society Ltd; Countdown Foodmarkets Ltd (Magnum Corporation Ltd)",
     "status": "Closed",
+    "outcome": "Merger declined",
+    "date": "15 April 1992",
+    "link": "https://www.comcom.govt.nz/case-register/case-register-entries/foodstuffs-wellington-co-operative-society-ltd/",
+    "details": {
+      "description": "Assets",
+      "case_details": {
+        "parties": "Foodstuffs (Wellington) Co-Operative Society Ltd; Countdown Foodmarkets Ltd (Magnum Corporation Ltd)",
+        "category": "Merger application",
+        "sub-category": "Clearance",
+        "act/section": "Commerce Act 1986 s 66",
+        "industry": "Retail – other",
+        "status": "Closed",
+        "outcome": "Merger declined",
+        "case_number": "",
+        "date_opened": "02 April 1992",
+        "date_closed": "15 April 1992",
+        "contact_person": ""
+      },
+      "updates": [
+        {
+          "date": "1992-04-15",
+          "title": "Date closed",
+          "summary": "",
+          "status": "Open",
+          "documents": []
+        },
+        {
+          "date": "1992-04-02",
+          "title": "Date opened",
+          "summary": "",
+          "status": "Open",
+          "documents": []
+        }
+      ]
+    }
+  },
+  {
+    "name": "Foodstuffs (Wellington) Co-Operative Society Ltd; Countdown Foodmarkets Ltd (Magnum Corporation Ltd)",
+    "status": "Closed",
     "outcome": "Merger cleared",
     "date": "15 April 1992",
     "link": "https://www.comcom.govt.nz/case-register/case-register-entries/foodstuffs-wellington-co-operative-society-ltd3/",
@@ -3151,45 +3190,6 @@
     "outcome": "Merger declined",
     "date": "15 April 1992",
     "link": "https://www.comcom.govt.nz/case-register/case-register-entries/foodstuffs-wellington-co-operative-society-ltd2/",
-    "details": {
-      "description": "Assets",
-      "case_details": {
-        "parties": "Foodstuffs (Wellington) Co-Operative Society Ltd; Countdown Foodmarkets Ltd (Magnum Corporation Ltd)",
-        "category": "Merger application",
-        "sub-category": "Clearance",
-        "act/section": "Commerce Act 1986 s 66",
-        "industry": "Retail – other",
-        "status": "Closed",
-        "outcome": "Merger declined",
-        "case_number": "",
-        "date_opened": "02 April 1992",
-        "date_closed": "15 April 1992",
-        "contact_person": ""
-      },
-      "updates": [
-        {
-          "date": "1992-04-15",
-          "title": "Date closed",
-          "summary": "",
-          "status": "Open",
-          "documents": []
-        },
-        {
-          "date": "1992-04-02",
-          "title": "Date opened",
-          "summary": "",
-          "status": "Open",
-          "documents": []
-        }
-      ]
-    }
-  },
-  {
-    "name": "Foodstuffs (Wellington) Co-Operative Society Ltd; Countdown Foodmarkets Ltd (Magnum Corporation Ltd)",
-    "status": "Closed",
-    "outcome": "Merger declined",
-    "date": "15 April 1992",
-    "link": "https://www.comcom.govt.nz/case-register/case-register-entries/foodstuffs-wellington-co-operative-society-ltd/",
     "details": {
       "description": "Assets",
       "case_details": {
@@ -21220,7 +21220,7 @@
     }
   },
   {
-    "name": "ANZ Banking Group (New Zealand) Ltd; The National Bank of New Zealand Ltd",
+    "name": "ANZ Banking Group (New Zealand) Limited; The National Bank of New Zealand Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "25 September 2003",
@@ -21228,7 +21228,7 @@
     "details": {
       "description": "Shares/Assets",
       "case_details": {
-        "parties": "ANZ Banking Group (New Zealand) Ltd; The National Bank of New Zealand Ltd",
+        "parties": "ANZ Banking Group (New Zealand) Limited; The National Bank of New Zealand Limited",
         "category": "Merger application",
         "sub-category": "Clearance",
         "act/section": "Commerce Act 1986 s 66",
@@ -27764,7 +27764,7 @@
     }
   },
   {
-    "name": "Foodstuffs (Auckland) Ltd, Foodstuffs (Wellington) Co-operative Society Ltd and Foodstuffs (South Island) Ltd; The Warehouse Group Limited",
+    "name": "Foodstuffs (Auckland) Limited, Foodstuffs (Wellington) Co-operative Society Limited and Foodstuffs (South Island) Limited; The Warehouse Group Limited",
     "status": "Closed",
     "outcome": "Merger declined",
     "date": "8 June 2007",
@@ -27772,7 +27772,7 @@
     "details": {
       "description": "Shares",
       "case_details": {
-        "parties": "Foodstuffs (Auckland) Ltd, Foodstuffs (Wellington) Co-operative Society Ltd and Foodstuffs (South Island) Ltd; The Warehouse Group Limited",
+        "parties": "Foodstuffs (Auckland) Limited, Foodstuffs (Wellington) Co-operative Society Limited and Foodstuffs (South Island) Limited; The Warehouse Group Limited",
         "category": "Merger application",
         "sub-category": "Clearance",
         "act/section": "Commerce Act 1986 s 66",
