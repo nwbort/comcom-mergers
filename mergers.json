@@ -555,13 +555,6 @@
   {
     "name": "Foodstuffs (Wellington) Co-Operative Society Ltd; Countdown Foodmarkets Ltd (Magnum Corporation Ltd)",
     "status": "Closed",
-    "outcome": "Merger declined",
-    "date": "15 April 1992",
-    "link": "https://www.comcom.govt.nz/case-register/case-register-entries/foodstuffs-wellington-co-operative-society-ltd/"
-  },
-  {
-    "name": "Foodstuffs (Wellington) Co-Operative Society Ltd; Countdown Foodmarkets Ltd (Magnum Corporation Ltd)",
-    "status": "Closed",
     "outcome": "Merger cleared",
     "date": "15 April 1992",
     "link": "https://www.comcom.govt.nz/case-register/case-register-entries/foodstuffs-wellington-co-operative-society-ltd3/"
@@ -572,6 +565,13 @@
     "outcome": "Merger declined",
     "date": "15 April 1992",
     "link": "https://www.comcom.govt.nz/case-register/case-register-entries/foodstuffs-wellington-co-operative-society-ltd2/"
+  },
+  {
+    "name": "Foodstuffs (Wellington) Co-Operative Society Ltd; Countdown Foodmarkets Ltd (Magnum Corporation Ltd)",
+    "status": "Closed",
+    "outcome": "Merger declined",
+    "date": "15 April 1992",
+    "link": "https://www.comcom.govt.nz/case-register/case-register-entries/foodstuffs-wellington-co-operative-society-ltd/"
   },
   {
     "name": "Sonoco NZ Limited (Sonoco Products Company Limited Of Hartsville USA); Dominion Containers Limited (Roger W Scherer Limited)",
@@ -623,7 +623,7 @@
     "link": "https://www.comcom.govt.nz/case-register/case-register-entries/wilson-and-horton-ltd4/"
   },
   {
-    "name": "Pacific Dunlop Holdings (NZ) Ltd(Pacific Dunlop Ltd); Wattie Foods Ltd(Goodman Fielder Wattie Ltd)",
+    "name": "Pacific Dunlop Holdings (NZ) Limited (Pacific Dunlop Limited); Wattie Foods Limited (Goodman Fielder Wattie Limited)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "2 October 1992",
@@ -637,7 +637,7 @@
     "link": "https://www.comcom.govt.nz/case-register/case-register-entries/turnberry-properties-ltdalliance-group-ltdphoenix-meat-company-ltd/"
   },
   {
-    "name": "Aklaw Number Thirty Nine Ltd (Sydney Futures Exchange Ltd); NZ Futures &amp; Options Exchange",
+    "name": "Aklaw Number Thirty Nine Limited (Sydney Futures Exchange Limited); NZ Futures &amp; Options Exchange",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "22 October 1992",
@@ -700,14 +700,14 @@
     "link": "https://www.comcom.govt.nz/case-register/case-register-entries/kodak-nz-ltdeastman-kodak-company-new-york/"
   },
   {
-    "name": "Huttons Kiwi Ltd (Brierley Investments); AFFCO Meats Ltd (Tenderkist Business)",
+    "name": "Huttons Kiwi Limited (Brierley Investments); AFFCO Meats Limited (Tenderkist Business)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "10 February 1993",
     "link": "https://www.comcom.govt.nz/case-register/case-register-entries/huttons-kiwi-ltd-brierley-investments/"
   },
   {
-    "name": "Quality Bakers NZ Ltd (Goodman Fielder Ltd); Tokoroa Bakery Ltd (Freshbake Wairarapa Ltd)",
+    "name": "Quality Bakers NZ Limited (Goodman Fielder Limited); Tokoroa Bakery Limited (Freshbake Wairarapa Limited)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "11 February 1993",
@@ -721,21 +721,21 @@
     "link": "https://www.comcom.govt.nz/case-register/case-register-entries/wellington-combined-taxis/"
   },
   {
-    "name": "Tasman Milk Products Ltd; Nelson Co-Operative Milk Producers Association Ltd",
+    "name": "Tasman Milk Products Limited; Nelson Co-Operative Milk Producers Association Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "25 March 1993",
     "link": "https://www.comcom.govt.nz/case-register/case-register-entries/tasman-milk-products-ltd/"
   },
   {
-    "name": "Stevens KMS Corporation Ltd; Community Pharmacy Ltd",
+    "name": "Stevens KMS Corporation Limited; Community Pharmacy Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "31 March 1993",
     "link": "https://www.comcom.govt.nz/case-register/case-register-entries/stevens-kms-corporation-ltd/"
   },
   {
-    "name": "Harlow Butler (NZ) Ltd (James Barlow Holding Ltd); Fixed Interest Securities (NZ) Ltd",
+    "name": "Harlow Butler (NZ) Limited (James Barlow Holding Limited); Fixed Interest Securities (NZ) Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "7 April 1993",
@@ -756,63 +756,63 @@
     "link": "https://www.comcom.govt.nz/case-register/case-register-entries/tourism-flightseeingthe-mount-cook-group-ltdfiordland-travel-ltd/"
   },
   {
-    "name": "Freightways Corporation Ltd; NZ Rail",
+    "name": "Freightways Corporation Limited; NZ Rail",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "28 May 1993",
     "link": "https://www.comcom.govt.nz/case-register/case-register-entries/freightways-corporation-ltd/"
   },
   {
-    "name": "TNL Group Ltd; Irvines Freightlines Ltd",
+    "name": "TNL Group Limited; Irvines Freightlines Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "3 June 1993",
     "link": "https://www.comcom.govt.nz/case-register/case-register-entries/tnl-group-ltd/"
   },
   {
-    "name": "Telecom Australia (NZ) Ltd; Tacs B Radio Spectrum",
+    "name": "Telecom Australia (NZ) Limited; Tacs B Radio Spectrum",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "11 June 1993",
     "link": "https://www.comcom.govt.nz/case-register/case-register-entries/telecom-australia-nz-ltd/"
   },
   {
-    "name": "Palmers Garden Centres Ltd; Sunhill Garden Centre (Pakuranga) Ltd",
+    "name": "Palmers Garden Centres Limited; Sunhill Garden Centre (Pakuranga) Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "16 June 1993",
     "link": "https://www.comcom.govt.nz/case-register/case-register-entries/palmers-garden-centres-ltd/"
   },
   {
-    "name": "Fujitsu NZ Ltd; Southmark Computers Ltd",
+    "name": "Fujitsu NZ Limited; Southmark Computers Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "23 June 1993",
     "link": "https://www.comcom.govt.nz/case-register/case-register-entries/fujitsu-nz-ltd/"
   },
   {
-    "name": "Sea Containers Ltd; NZ Rail Ltd(The Crown)",
+    "name": "Sea Containers Limited; NZ Rail Limited(The Crown)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "24 June 1993",
     "link": "https://www.comcom.govt.nz/case-register/case-register-entries/sea-containers-ltd/"
   },
   {
-    "name": "Anschutz Corporation; NZ Rail Ltd (The Crown)",
+    "name": "Anschutz Corporation; NZ Rail Limited (The Crown)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "30 June 1993",
     "link": "https://www.comcom.govt.nz/case-register/case-register-entries/anschutz-corporation/"
   },
   {
-    "name": "Brierley Investments Ltd; NZ Rail Ltd (The Crown)",
+    "name": "Brierley Investments Limited; NZ Rail Limited (The Crown)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "30 June 1993",
     "link": "https://www.comcom.govt.nz/case-register/case-register-entries/brierley-investments-ltd/"
   },
   {
-    "name": "Mainfreight Transport Ltd; NZ Rail Ltd(The Crown)",
+    "name": "Mainfreight Transport Limited; NZ Rail Limited(The Crown)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "30 June 1993",
@@ -826,14 +826,14 @@
     "link": "https://www.comcom.govt.nz/case-register/case-register-entries/port-of-tauranga-and-others2/"
   },
   {
-    "name": "Cryptic Investments Ltd; NZ Rail Ltd (The Crown)",
+    "name": "Cryptic Investments Limited; NZ Rail Limited (The Crown)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "1 July 1993",
     "link": "https://www.comcom.govt.nz/case-register/case-register-entries/cryptic-investments-ltd/"
   },
   {
-    "name": "Fay Richwhite &amp; Co Ltd; NZ Rail Ltd (The Crown)",
+    "name": "Fay Richwhite &amp; Co Limited; NZ Rail Limited (The Crown)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "1 July 1993",
@@ -868,7 +868,7 @@
     "link": "https://www.comcom.govt.nz/case-register/case-register-entries/progressive-enterprises-ltd-foodland-associated-ltd-western-australia/"
   },
   {
-    "name": "The Morgan Stanley Leveraged Equity Fund; NZ Rail Ltd(The Crown)",
+    "name": "The Morgan Stanley Leveraged Equity Fund; NZ Rail Limited(The Crown)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "1 July 1993",
@@ -882,14 +882,14 @@
     "link": "https://www.comcom.govt.nz/case-register/case-register-entries/nz-rural-press-ltdrural-press-ltd/"
   },
   {
-    "name": "CSR; Mackay Co-Op; Ed &amp; F Man Joint Venture; NZ Sugar Company Ltd",
+    "name": "CSR, Mackay Co-Op, Ed &amp; F Man Joint Venture, NZ Sugar Company Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "23 August 1993",
     "link": "https://www.comcom.govt.nz/case-register/case-register-entries/csr-mackay-co-op-ed-and-f-man-joint-venture/"
   },
   {
-    "name": "Southern Cross Medical Care Society; First Medical Corporation Ltd",
+    "name": "Southern Cross Medical Care Society; First Medical Corporation Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "26 August 1993",
@@ -917,7 +917,7 @@
     "link": "https://www.comcom.govt.nz/case-register/case-register-entries/hoyts-nz-cinemas-an-unincorporated-joint-venture-between-a-hoyts-cinemas-nz-ltd-and-b-endeavour-multiplex-ltd-a-fink-family-trust-b-plowman-family-trust/"
   },
   {
-    "name": "Whitcoulls Group Ltd; Croxley Collins Olympic(Spicers Paper (NZ) Ltd)",
+    "name": "Whitcoulls Group Limited; Croxley Collins Olympic(Spicers Paper (NZ) Limited)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "15 October 1993",
@@ -1918,7 +1918,7 @@
     "link": "https://www.comcom.govt.nz/case-register/case-register-entries/sky-city-limited-brierley-investments-limited/"
   },
   {
-    "name": "The Australian Gas Light Company; Contact Energy limited (The Crown)",
+    "name": "The Australian Gas Light Company; Contact Energy Limited (The Crown)",
     "status": "Closed",
     "outcome": "Application withdrawn",
     "date": "11 February 1999",
