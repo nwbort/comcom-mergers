@@ -490,7 +490,7 @@
     "link": "https://www.comcom.govt.nz/case-register/case-register-entries/foodstuffs-wellington-co-operative-society-ltd4/"
   },
   {
-    "name": "Dick Smith Electronics (NZ) Ltd (The Adelaide Steamship Company Ltd); David Reid (NZ) Ltd (D J Reid (NZ) Ltd)",
+    "name": "Dick Smith Electronics (NZ) Limited (The Adelaide Steamship Company Limited); David Reid (NZ) Limited (D J Reid (NZ) Limited)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "26 March 1992",
@@ -555,13 +555,6 @@
   {
     "name": "Foodstuffs (Wellington) Co-Operative Society Ltd; Countdown Foodmarkets Ltd (Magnum Corporation Ltd)",
     "status": "Closed",
-    "outcome": "Merger declined",
-    "date": "15 April 1992",
-    "link": "https://www.comcom.govt.nz/case-register/case-register-entries/foodstuffs-wellington-co-operative-society-ltd/"
-  },
-  {
-    "name": "Foodstuffs (Wellington) Co-Operative Society Ltd; Countdown Foodmarkets Ltd (Magnum Corporation Ltd)",
-    "status": "Closed",
     "outcome": "Merger cleared",
     "date": "15 April 1992",
     "link": "https://www.comcom.govt.nz/case-register/case-register-entries/foodstuffs-wellington-co-operative-society-ltd3/"
@@ -572,6 +565,13 @@
     "outcome": "Merger declined",
     "date": "15 April 1992",
     "link": "https://www.comcom.govt.nz/case-register/case-register-entries/foodstuffs-wellington-co-operative-society-ltd2/"
+  },
+  {
+    "name": "Foodstuffs (Wellington) Co-Operative Society Ltd; Countdown Foodmarkets Ltd (Magnum Corporation Ltd)",
+    "status": "Closed",
+    "outcome": "Merger declined",
+    "date": "15 April 1992",
+    "link": "https://www.comcom.govt.nz/case-register/case-register-entries/foodstuffs-wellington-co-operative-society-ltd/"
   },
   {
     "name": "Sonoco NZ Limited (Sonoco Products Company Limited Of Hartsville USA); Dominion Containers Limited (Roger W Scherer Limited)",
