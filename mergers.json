@@ -497,14 +497,14 @@
     "link": "https://www.comcom.govt.nz/case-register/case-register-entries/dick-smith-electronics-nz-ltd-the-adelaide-steamship-company-ltd/"
   },
   {
-    "name": "Rayonier NZ Ltd(ITT Corporation); NZ Timberlands Ltd(The Crown)",
+    "name": "Rayonier New Zealand Limited (ITT Corporation); New Zealand Timberlands Limited (The Crown)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "27 March 1992",
     "link": "https://www.comcom.govt.nz/case-register/case-register-entries/rayonier-nz-ltditt-corporation/"
   },
   {
-    "name": "Steel &amp; Tube Holdings Ltd; Stewart Steel Ltd",
+    "name": "Steel &amp; Tube Holdings Limited; Stewart Steel Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "27 March 1992",
@@ -555,6 +555,13 @@
   {
     "name": "Foodstuffs (Wellington) Co-Operative Society Ltd; Countdown Foodmarkets Ltd (Magnum Corporation Ltd)",
     "status": "Closed",
+    "outcome": "Merger declined",
+    "date": "15 April 1992",
+    "link": "https://www.comcom.govt.nz/case-register/case-register-entries/foodstuffs-wellington-co-operative-society-ltd/"
+  },
+  {
+    "name": "Foodstuffs (Wellington) Co-Operative Society Ltd; Countdown Foodmarkets Ltd (Magnum Corporation Ltd)",
+    "status": "Closed",
     "outcome": "Merger cleared",
     "date": "15 April 1992",
     "link": "https://www.comcom.govt.nz/case-register/case-register-entries/foodstuffs-wellington-co-operative-society-ltd3/"
@@ -565,13 +572,6 @@
     "outcome": "Merger declined",
     "date": "15 April 1992",
     "link": "https://www.comcom.govt.nz/case-register/case-register-entries/foodstuffs-wellington-co-operative-society-ltd2/"
-  },
-  {
-    "name": "Foodstuffs (Wellington) Co-Operative Society Ltd; Countdown Foodmarkets Ltd (Magnum Corporation Ltd)",
-    "status": "Closed",
-    "outcome": "Merger declined",
-    "date": "15 April 1992",
-    "link": "https://www.comcom.govt.nz/case-register/case-register-entries/foodstuffs-wellington-co-operative-society-ltd/"
   },
   {
     "name": "Sonoco NZ Limited (Sonoco Products Company Limited Of Hartsville USA); Dominion Containers Limited (Roger W Scherer Limited)",
@@ -945,7 +945,7 @@
     "link": "https://www.comcom.govt.nz/case-register/case-register-entries/natural-gas-corporation-of-new-zealand-limited-fletcher-challenge-limited/"
   },
   {
-    "name": "Baycorp Holdings Ltd; Creditcorp Holdings Ltd",
+    "name": "Baycorp Holdings Limited; Creditcorp Holdings Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "2 December 1993",
@@ -959,28 +959,28 @@
     "link": "https://www.comcom.govt.nz/case-register/case-register-entries/enerco-nz-limited2/"
   },
   {
-    "name": "United Electricity Ltd; Alpine Energy Ltd",
+    "name": "United Electricity Limited; Alpine Energy Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "18 January 1994",
     "link": "https://www.comcom.govt.nz/case-register/case-register-entries/united-electricity-ltd/"
   },
   {
-    "name": "United Electricity Ltd; The Power Company Ltd",
+    "name": "United Electricity Limited; The Power Company Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "18 January 1994",
     "link": "https://www.comcom.govt.nz/case-register/case-register-entries/united-electricity-ltd2/"
   },
   {
-    "name": "Mainfreight Transport Ltd; Daily Freightways Ltd ANC Chemcourier Services Ltd",
+    "name": "Mainfreight Transport Limited; Daily Freightways Limited ANC Chemcourier Services Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "3 March 1994",
     "link": "https://www.comcom.govt.nz/case-register/case-register-entries/mainfreight-transport-ltd/"
   },
   {
-    "name": "The Power Company Ltd And Electricity Invercargill Ltd; Powernet Ltd",
+    "name": "The Power Company Limited And Electricity Invercargill Limited; Powernet Limited",
     "status": "Closed",
     "outcome": "Application withdrawn",
     "date": "21 March 1994",
@@ -994,14 +994,14 @@
     "link": "https://www.comcom.govt.nz/case-register/case-register-entries/sepco-holdings-ltd/"
   },
   {
-    "name": "Primary Producers Co-Operative Society Ltd; Fortex Group Ltd",
+    "name": "Primary Producers Co-Operative Society Limited; Fortex Group Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "9 June 1994",
     "link": "https://www.comcom.govt.nz/case-register/case-register-entries/primary-producers-co-operative-society-ltd/"
   },
   {
-    "name": "Alliance Group Ltd; Fortex Group Ltd",
+    "name": "Alliance Group Limited; Fortex Group Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "23 June 1994",
@@ -1015,28 +1015,28 @@
     "link": "https://www.comcom.govt.nz/case-register/case-register-entries/fullers-group-ltd/"
   },
   {
-    "name": "Gardner Smith NZ Ltd (Gardner Smith Pty Ltd; Sydney); NZ Portside Storage Ltd",
+    "name": "Gardner Smith NZ Limited (Gardner Smith Pty Limited; Sydney); NZ Portside Storage Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "28 July 1994",
     "link": "https://www.comcom.govt.nz/case-register/case-register-entries/gardner-smith-nz-ltd-gardner-smith-pty-ltd-sydney/"
   },
   {
-    "name": "Rotorua Electricity Ltd; Bay Of Plenty Electricity Ltd",
+    "name": "Rotorua Electricity Limitedd; Bay Of Plenty Electricity Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "15 August 1994",
     "link": "https://www.comcom.govt.nz/case-register/case-register-entries/rotorua-electricity-ltd/"
   },
   {
-    "name": "Trustpower Ltd(Tauranga Power Trust); Rotorua Electricity Ltd",
+    "name": "Trustpower Limited(Tauranga Power Trust); Rotorua Electricity Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "8 September 1994",
     "link": "https://www.comcom.govt.nz/case-register/case-register-entries/trustpower-ltdtauranga-power-trust/"
   },
   {
-    "name": "EnergyDirect Corporation Ltd; Capital Power Ltd (Capital Holdings Ltd)",
+    "name": "EnergyDirect Corporation Limited; Capital Power Limited (Capital Holdings Limited)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "30 September 1994",
@@ -1057,14 +1057,14 @@
     "link": "https://www.comcom.govt.nz/case-register/case-register-entries/newco-ltd-power-nz-ltdenergydirect-corporation-ltdwel-energy-group-ltd/"
   },
   {
-    "name": "Power NZ Ltd; EnergyDirect Corporation Ltd",
+    "name": "Power NZ Limited; EnergyDirect Corporation Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "25 November 1994",
     "link": "https://www.comcom.govt.nz/case-register/case-register-entries/power-nz-ltd/"
   },
   {
-    "name": "Mercury Energy Ltd; Power NZ Ltd",
+    "name": "Mercury Energy Limited; Power NZ Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "12 December 1994",
@@ -1078,7 +1078,7 @@
     "link": "https://www.comcom.govt.nz/case-register/case-register-entries/f-w-mcdowall/"
   },
   {
-    "name": "Armourguard Security Ltd (Freightways Ltd); Securitas Ltd (Tempo International Ltd)",
+    "name": "Armourguard Security Limited (Freightways Limited); Securitas Limited (Tempo International Limited)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "23 February 1995",
@@ -1099,7 +1099,7 @@
     "link": "https://www.comcom.govt.nz/case-register/case-register-entries/able-cooke-nz-ltd-national-consolidated/"
   },
   {
-    "name": "Television NZ Ltd(The Crown); UHF Licences Ltd(The Crown)",
+    "name": "Television NZ Limited(The Crown); UHF Licences Limited(The Crown)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "22 March 1995",
@@ -1120,7 +1120,7 @@
     "link": "https://www.comcom.govt.nz/case-register/case-register-entries/pilkington-nz-ltdpilkington-plc-u-k/"
   },
   {
-    "name": "CentralPower Ltd; Wairarapa Electricity Ltd",
+    "name": "CentralPower Limited; Wairarapa Electricity Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "26 May 1995",
@@ -1134,7 +1134,7 @@
     "link": "https://www.comcom.govt.nz/case-register/case-register-entries/mergeco-taranaki-energy-ltdpowerco-ltd/"
   },
   {
-    "name": "Wilson and Horton Ltd; Northern Publishing Co Ltd",
+    "name": "Wilson and Horton Limited; Northern Publishing Co Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "26 May 1995",
@@ -1169,7 +1169,7 @@
     "link": "https://www.comcom.govt.nz/case-register/case-register-entries/hawkes-bay-power-ltd-and-hawkes-bay-power-distribution/"
   },
   {
-    "name": "Bay of Plenty Electricity Ltd; Taupo Electricity Ltd and Taupo Generation Ltd (Taupo District Council)",
+    "name": "Bay of Plenty Electricity Limited; Taupo Electricity Limited and Taupo Generation Limited (Taupo District Council)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "18 August 1995",
@@ -1183,7 +1183,7 @@
     "link": "https://www.comcom.govt.nz/case-register/case-register-entries/quantrix-consultants-ltdinvacare-corporation-usa/"
   },
   {
-    "name": "Alcan New Zealand Ltd; Comalco Carter Holt Harvey Aluminium",
+    "name": "Alcan New Zealand Limited; Comalco Carter Holt Harvey Aluminium",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "24 August 1995",
@@ -1197,28 +1197,28 @@
     "link": "https://www.comcom.govt.nz/case-register/case-register-entries/trustpower-ltd2/"
   },
   {
-    "name": "Power New Zealand Ltd; Taupo Electricity Ltd",
+    "name": "Power New Zealand Limited; Taupo Electricity Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "6 September 1995",
     "link": "https://www.comcom.govt.nz/case-register/case-register-entries/power-new-zealand-ltd/"
   },
   {
-    "name": "Treaty of Waitangi Fisheries Commission; Salmond Smith Biolab Ltd",
+    "name": "Treaty of Waitangi Fisheries Commission; Salmond Smith Biolab Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "7 September 1995",
     "link": "https://www.comcom.govt.nz/case-register/case-register-entries/treaty-of-waitangi-fisheries-commission/"
   },
   {
-    "name": "Telecom Corporation of New Zealand Ltd; Sky Network Television Ltd(HKP Partnership of New Zealand)",
+    "name": "Telecom Corporation of New Zealand Limited; Sky Network Television Limited(HKP Partnership of New Zealand)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "26 September 1995",
     "link": "https://www.comcom.govt.nz/case-register/case-register-entries/telecom-corporation-of-new-zealand-ltd/"
   },
   {
-    "name": "Karamea Holdings Ltd (Tiong Group (Malaysia)); Salmond Smith Biolab Ltd",
+    "name": "Karamea Holdings Limited (Tiong Group (Malaysia)); Salmond Smith Biolab Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "10 October 1995",
@@ -1232,14 +1232,14 @@
     "link": "https://www.comcom.govt.nz/case-register/case-register-entries/aspak-foods-ltd/"
   },
   {
-    "name": "United Environment Group Ltd(Nuplex Industries Ltd); Waste Management NZ Ltd",
+    "name": "United Environment Group Limited(Nuplex Industries Limited); Waste Management NZ Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "2 November 1995",
     "link": "https://www.comcom.govt.nz/case-register/case-register-entries/united-environment-group-ltdnuplex-industries-ltd/"
   },
   {
-    "name": "Horizon Pacific Television Ltd(Television NZ Ltd); CTV Holdings Ltd",
+    "name": "Horizon Pacific Television Limited(Television NZ Limited); CTV Holdings Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "9 November 1995",
@@ -1253,14 +1253,14 @@
     "link": "https://www.comcom.govt.nz/case-register/case-register-entries/wormald-nz-ltdtyco-group/"
   },
   {
-    "name": "Port of Wellington Ltd(Wellington Regional Council); Container Terminals Ltd",
+    "name": "Port of Wellington Limited(Wellington Regional Council); Container Terminals Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "4 December 1995",
     "link": "https://www.comcom.govt.nz/case-register/case-register-entries/port-of-wellington-ltdwellington-regional-council/"
   },
   {
-    "name": "Carter Holt Harvey Ltd (International Paper Company); Forestry Corporation of NZ Ltd (The Crown)",
+    "name": "Carter Holt Harvey Limited (International Paper Company); Forestry Corporation of NZ Limited (The Crown)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "12 December 1995",
@@ -1274,7 +1274,7 @@
     "link": "https://www.comcom.govt.nz/case-register/case-register-entries/australian-consolidated-press-nz-ltd-publishing-and-broadcasting-ltd/"
   },
   {
-    "name": "Newco; EnergyDirect Corporation Ltd and Capital Power Ltd or Capital Energy Ltd(Capital Power Ltd - Wellington City Council)",
+    "name": "Newco; EnergyDirect Corporation Limited; Capital Power Limited or Capital Energy Services Limited (Capital Power Limited – Wellington City Council)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "8 February 1996",
@@ -1323,42 +1323,42 @@
     "link": "https://www.comcom.govt.nz/case-register/case-register-entries/air-new-zealand-limited/"
   },
   {
-    "name": "Wrightsons Ltd; Hodder and Tolley Ltd",
+    "name": "Wrightsons Limited; Hodder &amp; Tolley Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "30 April 1996",
     "link": "https://www.comcom.govt.nz/case-register/case-register-entries/wrightsons-ltd/"
   },
   {
-    "name": "Westpac Holdings NZ Ltd(Westpac Banking Corporation); Trust Bank New Zealand Ltd",
+    "name": "Westpac Holdings NZ Limited (Westpac Banking Corporation); Trust Bank New Zealand Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "8 May 1996",
     "link": "https://www.comcom.govt.nz/case-register/case-register-entries/westpac-holdings-nz-ltdwestpac-banking-corporation/"
   },
   {
-    "name": "Queenstown Rafts Ltd; Kawarau Raft Expeditions Ltd; Makin&#39; waves The Rafting Company Ltd; Adventure Discovery Ltd",
+    "name": "Queenstown Rafts Limited, Kawarau Raft Expeditions Limited, Makin&#39; waves The Rafting Company Limited, Adventure Discovery Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "29 May 1996",
     "link": "https://www.comcom.govt.nz/case-register/case-register-entries/queenstown-rafts-ltd/"
   },
   {
-    "name": "Rockgas Ltd(Boral Gas Industries Ltd and Caltex Gas NZ Ltd); BP Oil NZ Ltd(LPG Distribution)",
+    "name": "Rockgas Limited (Boral Gas Industries Limited and Caltex Gas NZ Limited); BP Oil NZ Limited (LPG Distribution)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "29 May 1996",
     "link": "https://www.comcom.govt.nz/case-register/case-register-entries/rockgas-ltdboral-gas-industries-ltd-and-caltex-gas-nz-ltd/"
   },
   {
-    "name": "Air New Zealand Ltd; Ansett Holdings Ltd and Bodas Pty Ltd",
+    "name": "Air New Zealand Limited; Ansett Holdings Limited; Bodas Pty Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "4 June 1996",
     "link": "https://www.comcom.govt.nz/case-register/case-register-entries/air-new-zealand-ltd2/"
   },
   {
-    "name": "The News Corporation Ltd; Ansett New Zealand Ltd(Ansett Holdings Ltd)",
+    "name": "The News Corporation Limited; Ansett New Zealand Limited (Ansett Holdings Limited)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "4 June 1996",
@@ -1379,35 +1379,35 @@
     "link": "https://www.comcom.govt.nz/case-register/case-register-entries/ravensdown-corporation-ltd/"
   },
   {
-    "name": "Frucor Holdings Ltd and Frucor Beverages Ltd (NZ Apple and Pear Marketing Board); Dew Drop Juices Ltd (Berrivale Orchards Ltd (Australia))",
+    "name": "Frucor Holdings Limited and Frucor Beverages Limited (NZ Apple and Pear Marketing Board); Dew Drop Juices Limited (Berrivale Orchards Limited (Australia))",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "26 June 1996",
     "link": "https://www.comcom.govt.nz/case-register/case-register-entries/frucor-holdings-ltd-and-frucor-beverages-ltd-nz-apple-and-pear-marketing-board/"
   },
   {
-    "name": "Tranzrich Travel Ltd (Tranzit Group Ltd (50%) and Ritchies Transport Holdings Ltd (50%); Bayline Group Ltd",
+    "name": "Tranzrich Travel Limited (Tranzit Group Limited (50%) and Ritchies Transport Holdings Limited (50%); Bayline Group Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "26 June 1996",
     "link": "https://www.comcom.govt.nz/case-register/case-register-entries/tranzrich-travel-ltd-tranzit-group-ltd-50-and-ritchies-transport-holdings-ltd-50/"
   },
   {
-    "name": "Rockgas Ltd(Boral Gas Industries Ltd (50%)Caltex Gas Industries Ltd (50%)); Liquigas Ltd",
+    "name": "Rockgas Limited (Boral Gas Industries Limited (50%) Caltex Gas Industries Limited (50%)); Liquigas Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "11 July 1996",
     "link": "https://www.comcom.govt.nz/case-register/case-register-entries/rockgas-ltdboral-gas-industries-ltd-50caltex-gas-industries-ltd-50/"
   },
   {
-    "name": "Gordon and Gotch NZ Ltd; Network Distributors Ltd",
+    "name": "Gordon and Gotch NZ Ltd; Network Distributors Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "2 August 1996",
     "link": "https://www.comcom.govt.nz/case-register/case-register-entries/gordon-and-gotch-nz-ltd/"
   },
   {
-    "name": "Gardner Smith (NZ) Ltd (Gardner Smith Pty Ltd (Australia)); Bulk Storage Terminals Ltd (Burns Philp and Co Ltd)",
+    "name": "Gardner Smith (NZ) Limited (Gardner Smith Pty Limited (Australia)); Bulk Storage Terminals Limited (Burns Philp and Company Limited)",
     "status": "Closed",
     "outcome": "Merger declined",
     "date": "7 August 1996",
@@ -1428,77 +1428,77 @@
     "link": "https://www.comcom.govt.nz/case-register/case-register-entries/bay-of-plenty-fertiliser-co-operative-ltd/"
   },
   {
-    "name": "Powerco Ltd; Egmont Electricity Ltd",
+    "name": "Powerco Limited; Egmont Electricity Limited",
     "status": "Closed",
     "outcome": "Application withdrawn",
     "date": "1 September 1996",
     "link": "https://www.comcom.govt.nz/case-register/case-register-entries/powerco-ltd/"
   },
   {
-    "name": "The New Zealand Co-operative Dairy Company Ltd; East Tamaki Dairy Company Ltd",
+    "name": "The New Zealand Co-operative Dairy Company Limited; East Tamaki Dairy Company Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "3 September 1996",
     "link": "https://www.comcom.govt.nz/case-register/case-register-entries/the-new-zealand-co-operative-dairy-company-ltd2/"
   },
   {
-    "name": "Tip Top Ice Cream Company Ltd (Heinz-Wattie Ltd); New American Ice Cream Ltd (NZ Co-operative Dairy Company Ltd)",
+    "name": "Tip Top Ice Cream Company Limited (Heinz-Wattie Limited); New American Ice Cream Limited (The New Zealand Co-operative Dairy Company Limited)",
     "status": "Closed",
     "outcome": "Merger declined",
     "date": "24 September 1996",
     "link": "https://www.comcom.govt.nz/case-register/case-register-entries/tip-top-ice-cream-company-ltd-heinz-wattie-ltd2/"
   },
   {
-    "name": "The New Zealand Co-operative Dairy Company Ltd; Bay Milk Products Ltd",
+    "name": "The New Zealand Co-operative Dairy Company Limited; Bay Milk Products Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "27 September 1996",
     "link": "https://www.comcom.govt.nz/case-register/case-register-entries/the-new-zealand-co-operative-dairy-company-ltd/"
   },
   {
-    "name": "Gardner Smith (NZ) Ltd (Gardner Smith Pty Ltd (Australia)); Bulk Storage Terminals Ltd (Burns Philp &amp; Co Ltd; Australia)",
+    "name": "Gardner Smith (NZ) Limited (Gardner Smith Pty Limited (Australia)); Bulk Storage Terminals Limited (Burns Philp and Company Limited Australia)",
     "status": "Closed",
     "outcome": "Merger declined",
     "date": "4 October 1996",
     "link": "https://www.comcom.govt.nz/case-register/case-register-entries/gardner-smith-nz-ltd-gardner-smith-pty-ltd-australia/"
   },
   {
-    "name": "The Radio Network of NZ Ltd; Fifeshire FM Broadcasters Ltd",
+    "name": "The Radio Network of NZ Limited; Fifeshire FM Broadcasters Limited",
     "status": "Closed",
     "outcome": "Merger declined",
     "date": "4 October 1996",
     "link": "https://www.comcom.govt.nz/case-register/case-register-entries/the-radio-network-of-nz-ltd3/"
   },
   {
-    "name": "Mainland Products Ltd; Kiwi Co-operative Dairies Ltd",
+    "name": "Mainland Products Limited; Kiwi Co-operative Dairies Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "15 October 1996",
     "link": "https://www.comcom.govt.nz/case-register/case-register-entries/mainland-products-ltd/"
   },
   {
-    "name": "Blue Star Group Ltd (US Office Products); General Packaging Ltd (The Denis Crampsie Family Trust)",
+    "name": "Blue Star Group Limited (US Office Products); General Packaging Limited (The Denis Crampsie Family Trust)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "16 October 1996",
     "link": "https://www.comcom.govt.nz/case-register/case-register-entries/blue-star-group-ltd-us-office-products/"
   },
   {
-    "name": "Bridgestone Corporation (Japan); Bridgestone Tyres (NZ) Ltd",
+    "name": "Bridgestone Corporation (Japan); Bridgestone Tyres (NZ) Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "16 October 1996",
     "link": "https://www.comcom.govt.nz/case-register/case-register-entries/bridgestone-corporation-japan/"
   },
   {
-    "name": "Tip Top Ice Cream Company Ltd (Heinz-Wattie Ltd); New American Ice Cream Ltd (NZ Co-operative Dairy Company Ltd)",
+    "name": "Tip Top Ice Cream Company Limited (Heinz-Wattie Limited); New American Ice Cream Limited (NZ Co-operative Dairy Company Limited)",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "31 October 1996",
     "link": "https://www.comcom.govt.nz/case-register/case-register-entries/tip-top-ice-cream-company-ltd-heinz-wattie-ltd/"
   },
   {
-    "name": "Cheetham Salt Ltd (Ridley Corporation Ltd (Australia)); Dominion Salt LtdDominion Salt (NI) LtdCerebos Skellerup Ltd",
+    "name": "Cheetham Salt Limited (Ridley Corporation Limited (Australia)), Dominion Salt Limited, Dominion Salt (NI) Limited, Cerebos Skellerup Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "9 November 1996",
@@ -1631,7 +1631,7 @@
     "link": "https://www.comcom.govt.nz/case-register/case-register-entries/new-zealand-post-new-zealand-government/"
   },
   {
-    "name": "Goodman Fielder Ltd; Defiance Mills Ltd",
+    "name": "Goodman Fielder Limited; Defiance Mills Limited",
     "status": "Closed",
     "outcome": "Merger cleared",
     "date": "17 June 1997",
