@@ -3109,45 +3109,6 @@
   {
     "name": "Foodstuffs (Wellington) Co-Operative Society Ltd; Countdown Foodmarkets Ltd (Magnum Corporation Ltd)",
     "status": "Closed",
-    "outcome": "Merger declined",
-    "date": "15 April 1992",
-    "link": "https://www.comcom.govt.nz/case-register/case-register-entries/foodstuffs-wellington-co-operative-society-ltd/",
-    "details": {
-      "description": "Assets",
-      "case_details": {
-        "parties": "Foodstuffs (Wellington) Co-Operative Society Ltd; Countdown Foodmarkets Ltd (Magnum Corporation Ltd)",
-        "category": "Merger application",
-        "sub-category": "Clearance",
-        "act/section": "Commerce Act 1986 s 66",
-        "industry": "Retail – other",
-        "status": "Closed",
-        "outcome": "Merger declined",
-        "case_number": "",
-        "date_opened": "02 April 1992",
-        "date_closed": "15 April 1992",
-        "contact_person": ""
-      },
-      "updates": [
-        {
-          "date": "1992-04-15",
-          "title": "Date closed",
-          "summary": "",
-          "status": "Open",
-          "documents": []
-        },
-        {
-          "date": "1992-04-02",
-          "title": "Date opened",
-          "summary": "",
-          "status": "Open",
-          "documents": []
-        }
-      ]
-    }
-  },
-  {
-    "name": "Foodstuffs (Wellington) Co-Operative Society Ltd; Countdown Foodmarkets Ltd (Magnum Corporation Ltd)",
-    "status": "Closed",
     "outcome": "Merger cleared",
     "date": "15 April 1992",
     "link": "https://www.comcom.govt.nz/case-register/case-register-entries/foodstuffs-wellington-co-operative-society-ltd3/",
@@ -3190,6 +3151,45 @@
     "outcome": "Merger declined",
     "date": "15 April 1992",
     "link": "https://www.comcom.govt.nz/case-register/case-register-entries/foodstuffs-wellington-co-operative-society-ltd2/",
+    "details": {
+      "description": "Assets",
+      "case_details": {
+        "parties": "Foodstuffs (Wellington) Co-Operative Society Ltd; Countdown Foodmarkets Ltd (Magnum Corporation Ltd)",
+        "category": "Merger application",
+        "sub-category": "Clearance",
+        "act/section": "Commerce Act 1986 s 66",
+        "industry": "Retail – other",
+        "status": "Closed",
+        "outcome": "Merger declined",
+        "case_number": "",
+        "date_opened": "02 April 1992",
+        "date_closed": "15 April 1992",
+        "contact_person": ""
+      },
+      "updates": [
+        {
+          "date": "1992-04-15",
+          "title": "Date closed",
+          "summary": "",
+          "status": "Open",
+          "documents": []
+        },
+        {
+          "date": "1992-04-02",
+          "title": "Date opened",
+          "summary": "",
+          "status": "Open",
+          "documents": []
+        }
+      ]
+    }
+  },
+  {
+    "name": "Foodstuffs (Wellington) Co-Operative Society Ltd; Countdown Foodmarkets Ltd (Magnum Corporation Ltd)",
+    "status": "Closed",
+    "outcome": "Merger declined",
+    "date": "15 April 1992",
+    "link": "https://www.comcom.govt.nz/case-register/case-register-entries/foodstuffs-wellington-co-operative-society-ltd/",
     "details": {
       "description": "Assets",
       "case_details": {
@@ -37499,9 +37499,88 @@
     "date": "24 May 2013",
     "link": "https://www.comcom.govt.nz/case-register/case-register-entries/perry-metal-protection-limited/",
     "details": {
-      "description": "",
-      "case_details": {},
-      "updates": []
+      "description": "Assets",
+      "case_details": {
+        "parties": "Perry Metal Protection Limited; CSP Coating Systems (a Division of Fletcher Steel Limited)",
+        "category": "Merger application",
+        "sub-category": "Clearance",
+        "act/section": "Commerce Act 1986 s 66",
+        "industry": "Construction",
+        "status": "Closed",
+        "outcome": "Application withdrawn",
+        "case_number": "n/a",
+        "date_opened": "24 December 2012",
+        "date_closed": "24 May 2013",
+        "contact_person": ""
+      },
+      "updates": [
+        {
+          "date": "2013-07-26",
+          "title": "Perry Metal CSP Coating Systems clearance application - 21 December 2012 - Public",
+          "summary": "",
+          "status": "Open",
+          "documents": [
+            {
+              "File.ID": 23887,
+              "File.Title": "Perry-Metal-CSP-Coating-Systems-clearance-application-21-December-2012-Public.pdf",
+              "File.Name": "Perry-Metal-CSP-Coating-Systems-clearance-application-21-December-2012-Public.pdf",
+              "File.URL": "/assets/pdf_file/0027/76257/Perry-Metal-CSP-Coating-Systems-clearance-application-21-December-2012-Public.pdf",
+              "File.FileType": "PDF",
+              "File.FileSize": "818 KB",
+              "File.PublishDate": "26 Jul 2013",
+              "SelectedCategory.ID": 493,
+              "SelectedCategory.Name": "Mergers and acquisitions",
+              "SelectedSubCategory.ID": 0,
+              "SelectedSubCategory.Name": null,
+              "SelectedContentType.ID": 468,
+              "SelectedContentType.Name": "Merger documents",
+              "SelectedSubContentType.ID": 469,
+              "SelectedSubContentType.Name": "Application",
+              "Sort": 0
+            }
+          ]
+        },
+        {
+          "date": "2013-07-26",
+          "title": "Perry Metal Protection and CSP Coating Systems clearance application - Statement of Preliminary Issues 25 January 2013",
+          "summary": "",
+          "status": "Open",
+          "documents": [
+            {
+              "File.ID": 23889,
+              "File.Title": "Perry-Metal-Protection-Ltd-and-CSP-Coating-Systems-Clearance-Statement-of-Preliminary-Issues-25-January-2013.pdf",
+              "File.Name": "Perry-Metal-Protection-Ltd-and-CSP-Coating-Systems-Clearance-Statement-of-Preliminary-Issues-25-January-2013.pdf",
+              "File.URL": "/assets/pdf_file/0029/76259/Perry-Metal-Protection-Ltd-and-CSP-Coating-Systems-Clearance-Statement-of-Preliminary-Issues-25-January-2013.pdf",
+              "File.FileType": "PDF",
+              "File.FileSize": "57 KB",
+              "File.PublishDate": "26 Jul 2013",
+              "SelectedCategory.ID": 493,
+              "SelectedCategory.Name": "Mergers and acquisitions",
+              "SelectedSubCategory.ID": 0,
+              "SelectedSubCategory.Name": null,
+              "SelectedContentType.ID": 468,
+              "SelectedContentType.Name": "Merger documents",
+              "SelectedSubContentType.ID": 472,
+              "SelectedSubContentType.Name": "Statement of preliminary issues",
+              "Sort": 0
+            }
+          ]
+        },
+        {
+          "date": "2012-12-24",
+          "title": "Date opened",
+          "summary": "",
+          "status": "Open",
+          "documents": []
+        },
+        {
+          "date": "1970-01-01",
+          "title": "Date closed",
+          "summary": "",
+          "status": "Open",
+          "documents": []
+        }
+      ]
     }
   },
   {
