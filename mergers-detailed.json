@@ -3109,6 +3109,45 @@
   {
     "name": "Foodstuffs (Wellington) Co-Operative Society Ltd; Countdown Foodmarkets Ltd (Magnum Corporation Ltd)",
     "status": "Closed",
+    "outcome": "Merger declined",
+    "date": "15 April 1992",
+    "link": "https://www.comcom.govt.nz/case-register/case-register-entries/foodstuffs-wellington-co-operative-society-ltd/",
+    "details": {
+      "description": "Assets",
+      "case_details": {
+        "parties": "Foodstuffs (Wellington) Co-Operative Society Ltd; Countdown Foodmarkets Ltd (Magnum Corporation Ltd)",
+        "category": "Merger application",
+        "sub-category": "Clearance",
+        "act/section": "Commerce Act 1986 s 66",
+        "industry": "Retail – other",
+        "status": "Closed",
+        "outcome": "Merger declined",
+        "case_number": "",
+        "date_opened": "02 April 1992",
+        "date_closed": "15 April 1992",
+        "contact_person": ""
+      },
+      "updates": [
+        {
+          "date": "1992-04-15",
+          "title": "Date closed",
+          "summary": "",
+          "status": "Open",
+          "documents": []
+        },
+        {
+          "date": "1992-04-02",
+          "title": "Date opened",
+          "summary": "",
+          "status": "Open",
+          "documents": []
+        }
+      ]
+    }
+  },
+  {
+    "name": "Foodstuffs (Wellington) Co-Operative Society Ltd; Countdown Foodmarkets Ltd (Magnum Corporation Ltd)",
+    "status": "Closed",
     "outcome": "Merger cleared",
     "date": "15 April 1992",
     "link": "https://www.comcom.govt.nz/case-register/case-register-entries/foodstuffs-wellington-co-operative-society-ltd3/",
@@ -3151,45 +3190,6 @@
     "outcome": "Merger declined",
     "date": "15 April 1992",
     "link": "https://www.comcom.govt.nz/case-register/case-register-entries/foodstuffs-wellington-co-operative-society-ltd2/",
-    "details": {
-      "description": "Assets",
-      "case_details": {
-        "parties": "Foodstuffs (Wellington) Co-Operative Society Ltd; Countdown Foodmarkets Ltd (Magnum Corporation Ltd)",
-        "category": "Merger application",
-        "sub-category": "Clearance",
-        "act/section": "Commerce Act 1986 s 66",
-        "industry": "Retail – other",
-        "status": "Closed",
-        "outcome": "Merger declined",
-        "case_number": "",
-        "date_opened": "02 April 1992",
-        "date_closed": "15 April 1992",
-        "contact_person": ""
-      },
-      "updates": [
-        {
-          "date": "1992-04-15",
-          "title": "Date closed",
-          "summary": "",
-          "status": "Open",
-          "documents": []
-        },
-        {
-          "date": "1992-04-02",
-          "title": "Date opened",
-          "summary": "",
-          "status": "Open",
-          "documents": []
-        }
-      ]
-    }
-  },
-  {
-    "name": "Foodstuffs (Wellington) Co-Operative Society Ltd; Countdown Foodmarkets Ltd (Magnum Corporation Ltd)",
-    "status": "Closed",
-    "outcome": "Merger declined",
-    "date": "15 April 1992",
-    "link": "https://www.comcom.govt.nz/case-register/case-register-entries/foodstuffs-wellington-co-operative-society-ltd/",
     "details": {
       "description": "Assets",
       "case_details": {
@@ -73815,9 +73815,9 @@
   },
   {
     "name": "Mohawk Industries, Inc. Godfrey Hirst New Zealand Limited and Bremworth Limited",
-    "status": "Open",
-    "outcome": null,
-    "date": null,
+    "status": "Closed",
+    "outcome": "Merger cleared",
+    "date": "30 June 2026",
     "link": "https://www.comcom.govt.nz/case-register/case-register-entries/mohawk-industries-inc-godfrey-hirst-new-zealand-limited-and-bremworth-limited/",
     "details": {
       "description": "",
@@ -73827,14 +73827,21 @@
         "sub-category": "Clearance",
         "act/section": "Commerce Act 1986 s 66",
         "industry": "Manufacturing",
-        "status": "Open",
-        "outcome": "",
-        "case_number": "PRJ0048670",
+        "status": "Closed",
+        "outcome": "Merger cleared",
+        "case_number": "[2026] NZCC 25",
         "date_opened": "24 October 2025",
-        "date_closed": "",
+        "date_closed": "30 June 2026",
         "contact_person": "Mergers team, registrar@comcom.govt.nz."
       },
       "updates": [
+        {
+          "date": "2026-06-30",
+          "title": "Date closed",
+          "summary": null,
+          "status": "Completed",
+          "documents": []
+        },
         {
           "date": "2026-06-30",
           "title": "Decision date",
