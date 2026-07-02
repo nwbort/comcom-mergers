@@ -90,8 +90,11 @@ FINAL_JSON=$(echo "$INTERMEDIATE_JSON" | jq '
     # Remove intermediate and redundant fields to create the clean object
     del(.tag, .text, .children, .class, .link_relative)
   ) |
-  # Sort: nulls last, then by date (ascending), then by name (ascending)
-  sort_by(.sort_date == null, .sort_date, .name) |
+  # Sort: nulls last, then by date (ascending), then by name (ascending), then by
+  # link (ascending) as a final tiebreaker so entries that are otherwise identical
+  # (e.g. duplicate cards on the source site) always sort into the same order,
+  # regardless of the order the site happens to return them in on a given scrape.
+  sort_by(.sort_date == null, .sort_date, .name, .link) |
   # Remove the temporary sort key from the final output
   map(del(.sort_date))
 ')
