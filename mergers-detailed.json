@@ -27616,62 +27616,9 @@
     "date": "23 December 1999",
     "link": "https://www.comcom.govt.nz/case-register/case-register-entries/unitednetworks-limited-utilicorp-united-inc-usa/",
     "details": {
-      "description": "Assets",
-      "case_details": {
-        "parties": "UnitedNetworks Limited (UtiliCorp United Inc (USA); Orion New Zealand (gas assets) (Christchurch City Council)",
-        "category": "Merger application",
-        "sub-category": "Clearance",
-        "act/section/part": "Commerce Act 1986 s 66",
-        "industry": "Fuel",
-        "status": "Closed",
-        "outcome": "Merger cleared",
-        "case_number": "Cleared: 23/12/1999 Decision No: 380",
-        "date_opened": "13 December 1999",
-        "date_closed": "23 December 1999",
-        "contact_person": ""
-      },
-      "updates": [
-        {
-          "date": "1999-12-23",
-          "title": "Decision 380 - Application for Acquisition Clearance - UnitedNetworks and Orion NZ - 23 December 1999",
-          "summary": null,
-          "status": "Completed",
-          "documents": [
-            {
-              "File.ID": 23003,
-              "File.Title": "380.pdf",
-              "File.Name": "380.pdf",
-              "File.URL": "/assets/pdf_file/0026/72539/380.pdf",
-              "File.FileType": "PDF",
-              "File.FileSize": "68 KB",
-              "File.PublishDate": "26 Jul 2013",
-              "SelectedCategory.ID": 493,
-              "SelectedCategory.Name": "Mergers and acquisitions",
-              "SelectedSubCategory.ID": 0,
-              "SelectedSubCategory.Name": null,
-              "SelectedContentType.ID": 459,
-              "SelectedContentType.Name": "Commission determination",
-              "SelectedSubContentType.ID": 470,
-              "SelectedSubContentType.Name": "Determination",
-              "Sort": 0
-            }
-          ]
-        },
-        {
-          "date": "1999-12-23",
-          "title": "Date closed",
-          "summary": null,
-          "status": "Completed",
-          "documents": []
-        },
-        {
-          "date": "1999-12-13",
-          "title": "Date opened",
-          "summary": null,
-          "status": "Completed",
-          "documents": []
-        }
-      ]
+      "description": "",
+      "case_details": {},
+      "updates": []
     }
   },
   {
