@@ -150546,10 +150546,17 @@
       },
       "updates": [
         {
-          "date": "2026-07-09",
+          "date": "2026-09-15",
           "title": "Decision due",
           "summary": null,
           "status": null,
+          "documents": []
+        },
+        {
+          "date": "2026-07-09",
+          "title": "Decision due (extension to 15 September 2026)",
+          "summary": null,
+          "status": "Completed",
           "documents": []
         },
         {
@@ -150637,10 +150644,17 @@
       },
       "updates": [
         {
-          "date": "2026-07-09",
+          "date": "2026-09-15",
           "title": "Decision due",
           "summary": null,
           "status": null,
+          "documents": []
+        },
+        {
+          "date": "2026-07-09",
+          "title": "Decision due (extension to 15 September 2026)",
+          "summary": null,
+          "status": "Completed",
           "documents": []
         },
         {
