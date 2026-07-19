@@ -28786,9 +28786,62 @@
     "date": "10 May 2000",
     "link": "https://www.comcom.govt.nz/case-register/case-register-entries/commonwealth-bank-of-australia-new-zealand-interests/",
     "details": {
-      "description": "",
-      "case_details": {},
-      "updates": []
+      "description": "Shares (100%)",
+      "case_details": {
+        "parties": "Commonwealth Bank of Australia (New Zealand Interests); Colonial Limited (Australia) (New Zealand Interests)",
+        "category": "Merger application",
+        "sub-category": "Clearance",
+        "act/section/part": "Commerce Act 1986 s 66",
+        "industry": "Financial and insurance services",
+        "status": "Closed",
+        "outcome": "Merger cleared",
+        "case_number": "Decision No. 392",
+        "date_opened": "26 April 2000",
+        "date_closed": "10 May 2000",
+        "contact_person": ""
+      },
+      "updates": [
+        {
+          "date": "2000-05-10",
+          "title": "Decision 392 - Application for Acquisition Clearance - Commonwealth Bank of Australia Group and Colonial - 10 May 2000",
+          "summary": null,
+          "status": "Completed",
+          "documents": [
+            {
+              "File.ID": 23021,
+              "File.Title": "392.pdf",
+              "File.Name": "392.pdf",
+              "File.URL": "/assets/pdf_file/0026/72629/392.pdf",
+              "File.FileType": "PDF",
+              "File.FileSize": "53 KB",
+              "File.PublishDate": "26 Jul 2013",
+              "SelectedCategory.ID": 493,
+              "SelectedCategory.Name": "Mergers and acquisitions",
+              "SelectedSubCategory.ID": 0,
+              "SelectedSubCategory.Name": null,
+              "SelectedContentType.ID": 459,
+              "SelectedContentType.Name": "Commission determination",
+              "SelectedSubContentType.ID": 469,
+              "SelectedSubContentType.Name": "Application",
+              "Sort": 0
+            }
+          ]
+        },
+        {
+          "date": "2000-05-10",
+          "title": "Date closed",
+          "summary": null,
+          "status": "Completed",
+          "documents": []
+        },
+        {
+          "date": "2000-04-26",
+          "title": "Date opened",
+          "summary": null,
+          "status": "Completed",
+          "documents": []
+        }
+      ]
     }
   },
   {
@@ -107168,106 +107221,8 @@
     "link": "https://www.comcom.govt.nz/case-register/case-register-entries/siemens-a-g-alstom-s-a/",
     "details": {
       "description": "The Commerce Commission granted clearance for Siemens AG to combine its rail industry supply business with Alstom S.A. as it relates to New Zealand.",
-      "case_details": {
-        "parties": "Siemens A.G.; Alstom S.A.",
-        "category": "Merger application",
-        "sub-category": "Clearance",
-        "act/section/part": "Commerce Act 1986",
-        "industry": "Transport, postal, and warehousing",
-        "status": "Closed",
-        "outcome": "Merger cleared",
-        "case_number": "[2018] NZCC 22",
-        "date_opened": "25 October 2018",
-        "date_closed": "17 December 2018",
-        "contact_person": ""
-      },
-      "updates": [
-        {
-          "date": "2018-12-17",
-          "title": "Merger cleared",
-          "summary": "",
-          "status": "Open",
-          "documents": [
-            {
-              "File.ID": 25519,
-              "File.Title": "Siemens A.G. and Alstom S.A. – Clearance determination – 17 December 2018",
-              "File.Name": "Siemens-A-G-and-Alstom-S-A-Clearance-determination-17-December-2018.pdf",
-              "File.URL": "/assets/pdf_file/0015/111390/Siemens-A-G-and-Alstom-S-A-Clearance-determination-17-December-2018.pdf",
-              "File.FileType": "PDF",
-              "File.FileSize": "172 KB",
-              "File.PublishDate": "08 Apr 2024",
-              "SelectedCategory.ID": 493,
-              "SelectedCategory.Name": "Mergers and acquisitions",
-              "SelectedSubCategory.ID": 0,
-              "SelectedSubCategory.Name": null,
-              "SelectedContentType.ID": 459,
-              "SelectedContentType.Name": "Commission determination",
-              "SelectedSubContentType.ID": 470,
-              "SelectedSubContentType.Name": "Determination",
-              "Sort": 0
-            }
-          ]
-        },
-        {
-          "date": "2018-11-16",
-          "title": "Submissions on statement of preliminary issues due",
-          "summary": "",
-          "status": "Open",
-          "documents": []
-        },
-        {
-          "date": "2018-11-05",
-          "title": "Statement of Preliminary Issues published",
-          "summary": "",
-          "status": "Open",
-          "documents": [
-            {
-              "File.ID": 25517,
-              "File.Title": "Siemens A.G. and Alstom S.A. – Statement of preliminary issues – 5 November 2018",
-              "File.Name": "Siemens-A-G-and-Alstom-S-A-Statement-of-preliminary-issues-5-November-2018.pdf",
-              "File.URL": "/assets/pdf_file/0023/104648/Siemens-A-G-and-Alstom-S-A-Statement-of-preliminary-issues-5-November-2018.pdf",
-              "File.FileType": "PDF",
-              "File.FileSize": "90 KB",
-              "File.PublishDate": "08 Apr 2024",
-              "SelectedCategory.ID": 493,
-              "SelectedCategory.Name": "Mergers and acquisitions",
-              "SelectedSubCategory.ID": 0,
-              "SelectedSubCategory.Name": null,
-              "SelectedContentType.ID": 468,
-              "SelectedContentType.Name": "Merger documents",
-              "SelectedSubContentType.ID": 472,
-              "SelectedSubContentType.Name": "Statement of preliminary issues",
-              "Sort": 0
-            }
-          ]
-        },
-        {
-          "date": "2018-10-25",
-          "title": "Application received",
-          "summary": "",
-          "status": "Open",
-          "documents": [
-            {
-              "File.ID": 25515,
-              "File.Title": "Siemens A.G. and Alstom S.A. – Clearance application – 24 October 2018",
-              "File.Name": "Siemens-A-G-and-Alstom-S-A-Clearance-application-24-October-2018.PDF",
-              "File.URL": "/assets/pdf_file/0019/103195/Siemens-A-G-and-Alstom-S-A-Clearance-application-24-October-2018.PDF",
-              "File.FileType": "PDF",
-              "File.FileSize": "770 KB",
-              "File.PublishDate": "08 Apr 2024",
-              "SelectedCategory.ID": 493,
-              "SelectedCategory.Name": "Mergers and acquisitions",
-              "SelectedSubCategory.ID": 0,
-              "SelectedSubCategory.Name": null,
-              "SelectedContentType.ID": 468,
-              "SelectedContentType.Name": "Merger documents",
-              "SelectedSubContentType.ID": 469,
-              "SelectedSubContentType.Name": "Application",
-              "Sort": 0
-            }
-          ]
-        }
-      ]
+      "case_details": {},
+      "updates": []
     }
   },
   {
