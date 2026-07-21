@@ -12616,36 +12616,9 @@
     "date": "26 May 1995",
     "link": "https://www.comcom.govt.nz/case-register/case-register-entries/mergeco-taranaki-energy-ltdpowerco-ltd/",
     "details": {
-      "description": "100% Shares",
-      "case_details": {
-        "parties": "Mergeco (Taranaki Energy Limited/Powerco Limited); Taranaki Energy Limited and Powerco Limited (Taranaki Energy Limited/New Plymouth District Council)",
-        "category": "Merger application",
-        "sub-category": "Clearance",
-        "act/section/part": "Commerce Act 1986 s 66",
-        "industry": "Electricity, gas, water, and waste services",
-        "status": "Closed",
-        "outcome": "Merger cleared",
-        "case_number": "",
-        "date_opened": "11 May 1995",
-        "date_closed": "26 May 1995",
-        "contact_person": ""
-      },
-      "updates": [
-        {
-          "date": "1995-05-26",
-          "title": "Date closed",
-          "summary": "",
-          "status": "Open",
-          "documents": []
-        },
-        {
-          "date": "1995-05-11",
-          "title": "Date opened",
-          "summary": "",
-          "status": "Open",
-          "documents": []
-        }
-      ]
+      "description": "",
+      "case_details": {},
+      "updates": []
     }
   },
   {
