@@ -22326,9 +22326,62 @@
     "date": "7 April 1998",
     "link": "https://www.comcom.govt.nz/case-register/case-register-entries/works-civil-construction-limited/",
     "details": {
-      "description": "",
-      "case_details": {},
-      "updates": []
+      "description": "Assets or Shares",
+      "case_details": {
+        "parties": "Works Civil Construction Limited; Bitumix Limited",
+        "category": "Merger application",
+        "sub-category": "Clearance",
+        "act/section/part": "Commerce Act 1986 s 66",
+        "industry": "Construction",
+        "status": "Closed",
+        "outcome": "Merger cleared",
+        "case_number": "Cleared: 07/04/1998 Decision No: 322",
+        "date_opened": "26 March 1998",
+        "date_closed": "07 April 1998",
+        "contact_person": ""
+      },
+      "updates": [
+        {
+          "date": "1998-04-07",
+          "title": "Decision 322 - Application for Acquisition Clearance - Works Civil Construction and Bitumix - 7 April 1998",
+          "summary": null,
+          "status": "Completed",
+          "documents": [
+            {
+              "File.ID": 22933,
+              "File.Title": "322.pdf",
+              "File.Name": "322.pdf",
+              "File.URL": "/assets/pdf_file/0022/71248/322.pdf",
+              "File.FileType": "PDF",
+              "File.FileSize": "48 KB",
+              "File.PublishDate": "26 Jul 2013",
+              "SelectedCategory.ID": 493,
+              "SelectedCategory.Name": "Mergers and acquisitions",
+              "SelectedSubCategory.ID": 0,
+              "SelectedSubCategory.Name": null,
+              "SelectedContentType.ID": 459,
+              "SelectedContentType.Name": "Commission determination",
+              "SelectedSubContentType.ID": 470,
+              "SelectedSubContentType.Name": "Determination",
+              "Sort": 0
+            }
+          ]
+        },
+        {
+          "date": "1998-04-07",
+          "title": "Date closed",
+          "summary": null,
+          "status": "Completed",
+          "documents": []
+        },
+        {
+          "date": "1998-03-26",
+          "title": "Date opened",
+          "summary": null,
+          "status": "Completed",
+          "documents": []
+        }
+      ]
     }
   },
   {
