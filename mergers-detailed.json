@@ -147474,7 +147474,26 @@
           "title": "Date closed",
           "summary": null,
           "status": "Completed",
-          "documents": []
+          "documents": [
+            {
+              "File.ID": 30345,
+              "File.Title": "[2026] NZCC 23 – Rafting JV Co – Clearance determination – 18 June 2026",
+              "File.Name": "2026-NZCC-23-Rafting-JV-Co-Clearance-determination-18-June-2026.pdf",
+              "File.URL": "/assets/Documents/timeline/2026-NZCC-23-Rafting-JV-Co-Clearance-determination-18-June-2026.pdf",
+              "File.FileType": "PDF",
+              "File.FileSize": "496 KB",
+              "File.PublishDate": "03 Aug 2026",
+              "SelectedCategory.ID": 493,
+              "SelectedCategory.Name": "Mergers and acquisitions",
+              "SelectedSubCategory.ID": 0,
+              "SelectedSubCategory.Name": null,
+              "SelectedContentType.ID": 468,
+              "SelectedContentType.Name": "Merger documents",
+              "SelectedSubContentType.ID": 470,
+              "SelectedSubContentType.Name": "Determination",
+              "Sort": 0
+            }
+          ]
         },
         {
           "date": "2026-06-10",
@@ -147820,7 +147839,26 @@
           "title": "Date closed",
           "summary": null,
           "status": "Completed",
-          "documents": []
+          "documents": [
+            {
+              "File.ID": 30345,
+              "File.Title": "[2026] NZCC 23 – Rafting JV Co – Clearance determination – 18 June 2026",
+              "File.Name": "2026-NZCC-23-Rafting-JV-Co-Clearance-determination-18-June-2026.pdf",
+              "File.URL": "/assets/Documents/timeline/2026-NZCC-23-Rafting-JV-Co-Clearance-determination-18-June-2026.pdf",
+              "File.FileType": "PDF",
+              "File.FileSize": "496 KB",
+              "File.PublishDate": "03 Aug 2026",
+              "SelectedCategory.ID": 493,
+              "SelectedCategory.Name": "Mergers and acquisitions",
+              "SelectedSubCategory.ID": 0,
+              "SelectedSubCategory.Name": null,
+              "SelectedContentType.ID": 468,
+              "SelectedContentType.Name": "Merger documents",
+              "SelectedSubContentType.ID": 470,
+              "SelectedSubContentType.Name": "Determination",
+              "Sort": 0
+            }
+          ]
         },
         {
           "date": "2026-06-10",
