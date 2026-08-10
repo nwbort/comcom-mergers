@@ -150192,7 +150192,7 @@
               "SelectedContentType.Name": "Merger documents",
               "SelectedSubContentType.ID": 471,
               "SelectedSubContentType.Name": "Submission",
-              "Sort": 0
+              "Sort": 1
             },
             {
               "File.ID": 30334,
@@ -150210,7 +150210,7 @@
               "SelectedContentType.Name": "Merger documents",
               "SelectedSubContentType.ID": 471,
               "SelectedSubContentType.Name": "Submission",
-              "Sort": 0
+              "Sort": 2
             },
             {
               "File.ID": 30336,
@@ -150228,7 +150228,7 @@
               "SelectedContentType.Name": "Merger documents",
               "SelectedSubContentType.ID": 471,
               "SelectedSubContentType.Name": "Submission",
-              "Sort": 0
+              "Sort": 3
             },
             {
               "File.ID": 30337,
@@ -150246,7 +150246,7 @@
               "SelectedContentType.Name": "Merger documents",
               "SelectedSubContentType.ID": 471,
               "SelectedSubContentType.Name": "Submission",
-              "Sort": 0
+              "Sort": 4
             },
             {
               "File.ID": 30339,
@@ -150264,7 +150264,7 @@
               "SelectedContentType.Name": "Merger documents",
               "SelectedSubContentType.ID": 471,
               "SelectedSubContentType.Name": "Submission",
-              "Sort": 0
+              "Sort": 5
             },
             {
               "File.ID": 30338,
@@ -150282,7 +150282,7 @@
               "SelectedContentType.Name": "Merger documents",
               "SelectedSubContentType.ID": 471,
               "SelectedSubContentType.Name": "Submission",
-              "Sort": 0
+              "Sort": 6
             },
             {
               "File.ID": 30341,
@@ -150300,7 +150300,7 @@
               "SelectedContentType.Name": "Merger documents",
               "SelectedSubContentType.ID": 471,
               "SelectedSubContentType.Name": "Submission",
-              "Sort": 0
+              "Sort": 8
             },
             {
               "File.ID": 30340,
@@ -150318,7 +150318,7 @@
               "SelectedContentType.Name": "Merger documents",
               "SelectedSubContentType.ID": 471,
               "SelectedSubContentType.Name": "Submission",
-              "Sort": 0
+              "Sort": 9
             },
             {
               "File.ID": 30342,
@@ -150336,7 +150336,25 @@
               "SelectedContentType.Name": "Merger documents",
               "SelectedSubContentType.ID": 471,
               "SelectedSubContentType.Name": "Submission",
-              "Sort": 0
+              "Sort": 10
+            },
+            {
+              "File.ID": 30366,
+              "File.Title": "Anonymous G – Submission on Statement of Preliminary Issues – 5 August 2026",
+              "File.Name": "Anonymous-G-Submission-on-Statement-of-Preliminary-Issues-5-August-2026.pdf",
+              "File.URL": "/assets/Documents/timeline/Anonymous-G-Submission-on-Statement-of-Preliminary-Issues-5-August-2026.pdf",
+              "File.FileType": "PDF",
+              "File.FileSize": "570 KB",
+              "File.PublishDate": "10 Aug 2026",
+              "SelectedCategory.ID": 493,
+              "SelectedCategory.Name": "Mergers and acquisitions",
+              "SelectedSubCategory.ID": 0,
+              "SelectedSubCategory.Name": null,
+              "SelectedContentType.ID": 468,
+              "SelectedContentType.Name": "Merger documents",
+              "SelectedSubContentType.ID": 469,
+              "SelectedSubContentType.Name": "Application",
+              "Sort": 7
             }
           ]
         },
@@ -150446,7 +150464,7 @@
               "SelectedContentType.Name": "Merger documents",
               "SelectedSubContentType.ID": 471,
               "SelectedSubContentType.Name": "Submission",
-              "Sort": 0
+              "Sort": 1
             },
             {
               "File.ID": 30334,
@@ -150464,7 +150482,7 @@
               "SelectedContentType.Name": "Merger documents",
               "SelectedSubContentType.ID": 471,
               "SelectedSubContentType.Name": "Submission",
-              "Sort": 0
+              "Sort": 2
             },
             {
               "File.ID": 30336,
@@ -150482,7 +150500,7 @@
               "SelectedContentType.Name": "Merger documents",
               "SelectedSubContentType.ID": 471,
               "SelectedSubContentType.Name": "Submission",
-              "Sort": 0
+              "Sort": 3
             },
             {
               "File.ID": 30337,
@@ -150500,7 +150518,7 @@
               "SelectedContentType.Name": "Merger documents",
               "SelectedSubContentType.ID": 471,
               "SelectedSubContentType.Name": "Submission",
-              "Sort": 0
+              "Sort": 4
             },
             {
               "File.ID": 30339,
@@ -150518,7 +150536,7 @@
               "SelectedContentType.Name": "Merger documents",
               "SelectedSubContentType.ID": 471,
               "SelectedSubContentType.Name": "Submission",
-              "Sort": 0
+              "Sort": 5
             },
             {
               "File.ID": 30338,
@@ -150536,7 +150554,7 @@
               "SelectedContentType.Name": "Merger documents",
               "SelectedSubContentType.ID": 471,
               "SelectedSubContentType.Name": "Submission",
-              "Sort": 0
+              "Sort": 6
             },
             {
               "File.ID": 30341,
@@ -150554,7 +150572,7 @@
               "SelectedContentType.Name": "Merger documents",
               "SelectedSubContentType.ID": 471,
               "SelectedSubContentType.Name": "Submission",
-              "Sort": 0
+              "Sort": 8
             },
             {
               "File.ID": 30340,
@@ -150572,7 +150590,7 @@
               "SelectedContentType.Name": "Merger documents",
               "SelectedSubContentType.ID": 471,
               "SelectedSubContentType.Name": "Submission",
-              "Sort": 0
+              "Sort": 9
             },
             {
               "File.ID": 30342,
@@ -150590,7 +150608,25 @@
               "SelectedContentType.Name": "Merger documents",
               "SelectedSubContentType.ID": 471,
               "SelectedSubContentType.Name": "Submission",
-              "Sort": 0
+              "Sort": 10
+            },
+            {
+              "File.ID": 30366,
+              "File.Title": "Anonymous G – Submission on Statement of Preliminary Issues – 5 August 2026",
+              "File.Name": "Anonymous-G-Submission-on-Statement-of-Preliminary-Issues-5-August-2026.pdf",
+              "File.URL": "/assets/Documents/timeline/Anonymous-G-Submission-on-Statement-of-Preliminary-Issues-5-August-2026.pdf",
+              "File.FileType": "PDF",
+              "File.FileSize": "570 KB",
+              "File.PublishDate": "10 Aug 2026",
+              "SelectedCategory.ID": 493,
+              "SelectedCategory.Name": "Mergers and acquisitions",
+              "SelectedSubCategory.ID": 0,
+              "SelectedSubCategory.Name": null,
+              "SelectedContentType.ID": 468,
+              "SelectedContentType.Name": "Merger documents",
+              "SelectedSubContentType.ID": 469,
+              "SelectedSubContentType.Name": "Application",
+              "Sort": 7
             }
           ]
         },
