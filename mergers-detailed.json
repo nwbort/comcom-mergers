@@ -150963,8 +150963,27 @@
           "date": "2026-08-10",
           "title": "Submissions on Statement of Issues",
           "summary": null,
-          "status": null,
-          "documents": []
+          "status": "Completed",
+          "documents": [
+            {
+              "File.ID": 30398,
+              "File.Title": "GenoMatrix Technology (Shanghai) Co., Ltd – Submission on on Zoetis and Neogen Statement of Issues – 10 August 2026",
+              "File.Name": "GenoMatrix-Technology-Shanghai-Co.-Ltd-Submission-on-on-Zoetis-and-Neogen-Statement-of-Issues-10-August-2026.pdf",
+              "File.URL": "/assets/Documents/timeline/GenoMatrix-Technology-Shanghai-Co.-Ltd-Submission-on-on-Zoetis-and-Neogen-Statement-of-Issues-10-August-2026.pdf",
+              "File.FileType": "PDF",
+              "File.FileSize": "140 KB",
+              "File.PublishDate": "12 Aug 2026",
+              "SelectedCategory.ID": 493,
+              "SelectedCategory.Name": "Mergers and acquisitions",
+              "SelectedSubCategory.ID": 0,
+              "SelectedSubCategory.Name": null,
+              "SelectedContentType.ID": 468,
+              "SelectedContentType.Name": "Merger documents",
+              "SelectedSubContentType.ID": 471,
+              "SelectedSubContentType.Name": "Submission",
+              "Sort": 0
+            }
+          ]
         },
         {
           "date": "2026-07-27",
@@ -151101,8 +151120,27 @@
           "date": "2026-08-10",
           "title": "Submissions on Statement of Issues",
           "summary": null,
-          "status": null,
-          "documents": []
+          "status": "Completed",
+          "documents": [
+            {
+              "File.ID": 30398,
+              "File.Title": "GenoMatrix Technology (Shanghai) Co., Ltd – Submission on on Zoetis and Neogen Statement of Issues – 10 August 2026",
+              "File.Name": "GenoMatrix-Technology-Shanghai-Co.-Ltd-Submission-on-on-Zoetis-and-Neogen-Statement-of-Issues-10-August-2026.pdf",
+              "File.URL": "/assets/Documents/timeline/GenoMatrix-Technology-Shanghai-Co.-Ltd-Submission-on-on-Zoetis-and-Neogen-Statement-of-Issues-10-August-2026.pdf",
+              "File.FileType": "PDF",
+              "File.FileSize": "140 KB",
+              "File.PublishDate": "12 Aug 2026",
+              "SelectedCategory.ID": 493,
+              "SelectedCategory.Name": "Mergers and acquisitions",
+              "SelectedSubCategory.ID": 0,
+              "SelectedSubCategory.Name": null,
+              "SelectedContentType.ID": 468,
+              "SelectedContentType.Name": "Merger documents",
+              "SelectedSubContentType.ID": 471,
+              "SelectedSubContentType.Name": "Submission",
+              "Sort": 0
+            }
+          ]
         },
         {
           "date": "2026-07-27",
