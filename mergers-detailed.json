@@ -149961,9 +149961,9 @@
   },
   {
     "name": "ANZCO Foods Limited and Greenlea Group Limited",
-    "status": "Open",
-    "outcome": null,
-    "date": null,
+    "status": "Closed",
+    "outcome": "Merger cleared",
+    "date": "17 August 2026",
     "link": "https://www.comcom.govt.nz/case-register/case-register-entries/anzco-foods-limited-and-greenlea-group-limited/",
     "details": {
       "description": "",
@@ -149973,17 +149973,24 @@
         "sub-category": "Clearance",
         "act/section/part": "Commerce Act 1986 s 66",
         "industry": "Agriculture, forestry, and fishing",
-        "status": "Open",
-        "outcome": "",
-        "case_number": "PRJ0048999",
+        "status": "Closed",
+        "outcome": "Merger cleared",
+        "case_number": "[2026] NZCC 37",
         "date_opened": "22 June 2026",
-        "date_closed": "",
+        "date_closed": "17 August 2026",
         "contact_person": "Mergers team, registrar@comcom.govt.nz"
       },
       "updates": [
         {
           "date": "2026-08-18",
           "title": "Decision date",
+          "summary": null,
+          "status": null,
+          "documents": []
+        },
+        {
+          "date": "2026-08-17",
+          "title": "Date closed",
           "summary": null,
           "status": null,
           "documents": []
@@ -150052,9 +150059,9 @@
   },
   {
     "name": "ANZCO Foods Limited and Greenlea Group Limited",
-    "status": "Open",
-    "outcome": null,
-    "date": null,
+    "status": "Closed",
+    "outcome": "Merger cleared",
+    "date": "17 August 2026",
     "link": "https://www.comcom.govt.nz/case-register/case-register-entries/anzco-foods-limited-and-greenlea-group-limited/",
     "details": {
       "description": "",
@@ -150064,17 +150071,24 @@
         "sub-category": "Clearance",
         "act/section/part": "Commerce Act 1986 s 66",
         "industry": "Agriculture, forestry, and fishing",
-        "status": "Open",
-        "outcome": "",
-        "case_number": "PRJ0048999",
+        "status": "Closed",
+        "outcome": "Merger cleared",
+        "case_number": "[2026] NZCC 37",
         "date_opened": "22 June 2026",
-        "date_closed": "",
+        "date_closed": "17 August 2026",
         "contact_person": "Mergers team, registrar@comcom.govt.nz"
       },
       "updates": [
         {
           "date": "2026-08-18",
           "title": "Decision date",
+          "summary": null,
+          "status": null,
+          "documents": []
+        },
+        {
+          "date": "2026-08-17",
+          "title": "Date closed",
           "summary": null,
           "status": null,
           "documents": []
