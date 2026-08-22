@@ -10276,9 +10276,36 @@
     "date": "15 October 1993",
     "link": "https://www.comcom.govt.nz/case-register/case-register-entries/whitcoulls-group-ltd/",
     "details": {
-      "description": "",
-      "case_details": {},
-      "updates": []
+      "description": "Shares",
+      "case_details": {
+        "parties": "Whitcoulls Group Limited; Croxley Collins Olympic(Spicers Paper (NZ) Limited)",
+        "category": "Merger application",
+        "sub-category": "Clearance",
+        "act/section/part": "Commerce Act 1986 s 66",
+        "industry": "Manufacturing",
+        "status": "Closed",
+        "outcome": "Merger cleared",
+        "case_number": "",
+        "date_opened": "29 September 1993",
+        "date_closed": "15 October 1993",
+        "contact_person": ""
+      },
+      "updates": [
+        {
+          "date": "1993-10-15",
+          "title": "Date closed",
+          "summary": "",
+          "status": "Open",
+          "documents": []
+        },
+        {
+          "date": "1993-09-29",
+          "title": "Date opened",
+          "summary": "",
+          "status": "Open",
+          "documents": []
+        }
+      ]
     }
   },
   {
