@@ -150430,10 +150430,17 @@
       },
       "updates": [
         {
-          "date": "2026-08-26",
-          "title": "Decision date",
+          "date": "2026-11-05",
+          "title": "Decision due by",
           "summary": null,
           "status": null,
+          "documents": []
+        },
+        {
+          "date": "2026-08-26",
+          "title": "Decision date (extension to 5 November 2026)",
+          "summary": null,
+          "status": "Completed",
           "documents": []
         },
         {
@@ -150702,10 +150709,17 @@
       },
       "updates": [
         {
-          "date": "2026-08-26",
-          "title": "Decision date",
+          "date": "2026-11-05",
+          "title": "Decision due by",
           "summary": null,
           "status": null,
+          "documents": []
+        },
+        {
+          "date": "2026-08-26",
+          "title": "Decision date (extension to 5 November 2026)",
+          "summary": null,
+          "status": "Completed",
           "documents": []
         },
         {
