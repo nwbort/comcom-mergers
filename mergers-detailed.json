@@ -61605,88 +61605,9 @@
     "date": "22 October 2008",
     "link": "https://www.comcom.govt.nz/case-register/case-register-entries/tegel-foods-limited2/",
     "details": {
-      "description": "Assets / Business",
-      "case_details": {
-        "parties": "Tegel Foods Limited ; Brinks Group of companies",
-        "category": "Merger application",
-        "sub-category": "Clearance",
-        "act/section/part": "Commerce Act 1986 s 66",
-        "industry": "Retail – food",
-        "status": "Closed",
-        "outcome": "Merger declined",
-        "case_number": "Declined: 22/10/2008 Decision No: 658",
-        "date_opened": "22 May 2008",
-        "date_closed": "22 October 2008",
-        "contact_person": ""
-      },
-      "updates": [
-        {
-          "date": "2008-10-22",
-          "title": "Decision 658 - Application for Acquisition Clearance - Tegel Foods and Brinks Group of Companies - 22 October 2008",
-          "summary": null,
-          "status": "Completed",
-          "documents": [
-            {
-              "File.ID": 23635,
-              "File.Title": "Tegel---Decision-No.-658.pdf",
-              "File.Name": "Tegel-Decision-No-658.pdf",
-              "File.URL": "/assets/pdf_file/0028/75646/Tegel-Decision-No-658.pdf",
-              "File.FileType": "PDF",
-              "File.FileSize": "535 KB",
-              "File.PublishDate": "26 Jul 2013",
-              "SelectedCategory.ID": 493,
-              "SelectedCategory.Name": "Mergers and acquisitions",
-              "SelectedSubCategory.ID": 0,
-              "SelectedSubCategory.Name": null,
-              "SelectedContentType.ID": 459,
-              "SelectedContentType.Name": "Commission determination",
-              "SelectedSubContentType.ID": 470,
-              "SelectedSubContentType.Name": "Determination",
-              "Sort": 0
-            }
-          ]
-        },
-        {
-          "date": "2008-10-22",
-          "title": "Date closed",
-          "summary": null,
-          "status": "Completed",
-          "documents": []
-        },
-        {
-          "date": "2008-05-22",
-          "title": "Date opened",
-          "summary": null,
-          "status": "Completed",
-          "documents": []
-        },
-        {
-          "date": "2008-05-21",
-          "title": "Tegel Foods and Brinks - Notice Seeking Clearance - 21 May 2008",
-          "summary": null,
-          "status": "Completed",
-          "documents": [
-            {
-              "File.ID": 23633,
-              "File.Title": "704875_1.pdf",
-              "File.Name": "704875_1.pdf",
-              "File.URL": "/assets/pdf_file/0026/75644/704875_1.pdf",
-              "File.FileType": "PDF",
-              "File.FileSize": "487 KB",
-              "File.PublishDate": "26 Jul 2013",
-              "SelectedCategory.ID": 493,
-              "SelectedCategory.Name": "Mergers and acquisitions",
-              "SelectedSubCategory.ID": 0,
-              "SelectedSubCategory.Name": null,
-              "SelectedContentType.ID": 468,
-              "SelectedContentType.Name": "Merger documents",
-              "SelectedSubContentType.ID": 469,
-              "SelectedSubContentType.Name": "Application",
-              "Sort": 0
-            }
-          ]
-        }
-      ]
+      "description": "",
+      "case_details": {},
+      "updates": []
     }
   },
   {
