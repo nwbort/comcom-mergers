@@ -75265,88 +75265,9 @@
     "date": "16 July 2013",
     "link": "https://www.comcom.govt.nz/case-register/case-register-entries/skycity-entertainment-group-limited/",
     "details": {
-      "description": "Shares",
-      "case_details": {
-        "parties": "SKYCITY Entertainment Group Limited; Otago Casinos Limited",
-        "category": "Merger application",
-        "sub-category": "Clearance",
-        "act/section/part": "Commerce Act 1986 s 66",
-        "industry": "Arts and recreation",
-        "status": "Closed",
-        "outcome": "Merger cleared",
-        "case_number": "[2013] NZCC 11",
-        "date_opened": "21 May 2013",
-        "date_closed": "16 July 2013",
-        "contact_person": ""
-      },
-      "updates": [
-        {
-          "date": "2013-07-16",
-          "title": "[2013] NZCC 11 SkyCity Entertainment Group Limited and Otago Casinos Limited clearance decision 16 July 2013 (public version)",
-          "summary": null,
-          "status": "Completed",
-          "documents": [
-            {
-              "File.ID": 23897,
-              "File.Title": "[2013] NZCC 11 SkyCity Entertainment Group Limited and Otago Casinos Limited clearance decision (public version) – 16 July 2013",
-              "File.Name": "2013-NZCC-11-SkyCity-Entertainment-Group-Limited-and-Otago-Casinos-Limited-clearance-decision-16-July-2013-public-version.pdf",
-              "File.URL": "/assets/pdf_file/0026/76283/2013-NZCC-11-SkyCity-Entertainment-Group-Limited-and-Otago-Casinos-Limited-clearance-decision-16-July-2013-public-version.pdf",
-              "File.FileType": "PDF",
-              "File.FileSize": "143 KB",
-              "File.PublishDate": "13 Aug 2013",
-              "SelectedCategory.ID": 493,
-              "SelectedCategory.Name": "Mergers and acquisitions",
-              "SelectedSubCategory.ID": 0,
-              "SelectedSubCategory.Name": null,
-              "SelectedContentType.ID": 459,
-              "SelectedContentType.Name": "Commission determination",
-              "SelectedSubContentType.ID": 470,
-              "SelectedSubContentType.Name": "Determination",
-              "Sort": 0
-            }
-          ]
-        },
-        {
-          "date": "2013-07-16",
-          "title": "Date closed",
-          "summary": null,
-          "status": "Completed",
-          "documents": []
-        },
-        {
-          "date": "2013-05-21",
-          "title": "Date opened",
-          "summary": null,
-          "status": "Completed",
-          "documents": []
-        },
-        {
-          "date": "2013-05-20",
-          "title": "SkyCity Entertainment and Otago Casinos clearance application 20 May 2013 (Public version) ",
-          "summary": null,
-          "status": "Completed",
-          "documents": [
-            {
-              "File.ID": 23895,
-              "File.Title": "1542566-SkyCity-Entertainment-and-Otago-Casinos-clearance-applicationPublic-version-20-May-2013.PDF",
-              "File.Name": "1542566-SkyCity-Entertainment-and-Otago-Casinos-clearance-applicationPublic-version-20-May-2013.PDF",
-              "File.URL": "/assets/pdf_file/0024/76281/1542566-SkyCity-Entertainment-and-Otago-Casinos-clearance-applicationPublic-version-20-May-2013.PDF",
-              "File.FileType": "PDF",
-              "File.FileSize": "6.1 MB",
-              "File.PublishDate": "26 Jul 2013",
-              "SelectedCategory.ID": 493,
-              "SelectedCategory.Name": "Mergers and acquisitions",
-              "SelectedSubCategory.ID": 0,
-              "SelectedSubCategory.Name": null,
-              "SelectedContentType.ID": 468,
-              "SelectedContentType.Name": "Merger documents",
-              "SelectedSubContentType.ID": 469,
-              "SelectedSubContentType.Name": "Application",
-              "Sort": 0
-            }
-          ]
-        }
-      ]
+      "description": "",
+      "case_details": {},
+      "updates": []
     }
   },
   {
