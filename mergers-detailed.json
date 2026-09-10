@@ -150475,6 +150475,46 @@
           "documents": []
         },
         {
+          "date": "2026-10-05",
+          "title": "Cross-submissions on the Statement of Issues due ",
+          "summary": null,
+          "status": null,
+          "documents": []
+        },
+        {
+          "date": "2026-09-23",
+          "title": "Submissions on the Statement of Issues due",
+          "summary": null,
+          "status": null,
+          "documents": []
+        },
+        {
+          "date": "2026-09-10",
+          "title": "Statement of Issues published",
+          "summary": null,
+          "status": null,
+          "documents": [
+            {
+              "File.ID": 30713,
+              "File.Title": "J&P Turner and T&G Fresh Statement of Issues – 10 September 2026",
+              "File.Name": "JP-Turner-and-TG-Fresh-Statement-of-Issues-10-September-2026.pdf",
+              "File.URL": "/assets/Documents/timeline/JP-Turner-and-TG-Fresh-Statement-of-Issues-10-September-2026.pdf",
+              "File.FileType": "PDF",
+              "File.FileSize": "773 KB",
+              "File.PublishDate": "10 Sep 2026",
+              "SelectedCategory.ID": 493,
+              "SelectedCategory.Name": "Mergers and acquisitions",
+              "SelectedSubCategory.ID": 0,
+              "SelectedSubCategory.Name": null,
+              "SelectedContentType.ID": 468,
+              "SelectedContentType.Name": "Merger documents",
+              "SelectedSubContentType.ID": 473,
+              "SelectedSubContentType.Name": "Letter of issues",
+              "Sort": 0
+            }
+          ]
+        },
+        {
           "date": "2026-08-26",
           "title": "Decision date (extension to 5 November 2026)",
           "summary": null,
@@ -150754,6 +150794,46 @@
           "documents": []
         },
         {
+          "date": "2026-10-05",
+          "title": "Cross-submissions on the Statement of Issues due ",
+          "summary": null,
+          "status": null,
+          "documents": []
+        },
+        {
+          "date": "2026-09-23",
+          "title": "Submissions on the Statement of Issues due",
+          "summary": null,
+          "status": null,
+          "documents": []
+        },
+        {
+          "date": "2026-09-10",
+          "title": "Statement of Issues published",
+          "summary": null,
+          "status": null,
+          "documents": [
+            {
+              "File.ID": 30713,
+              "File.Title": "J&P Turner and T&G Fresh Statement of Issues – 10 September 2026",
+              "File.Name": "JP-Turner-and-TG-Fresh-Statement-of-Issues-10-September-2026.pdf",
+              "File.URL": "/assets/Documents/timeline/JP-Turner-and-TG-Fresh-Statement-of-Issues-10-September-2026.pdf",
+              "File.FileType": "PDF",
+              "File.FileSize": "773 KB",
+              "File.PublishDate": "10 Sep 2026",
+              "SelectedCategory.ID": 493,
+              "SelectedCategory.Name": "Mergers and acquisitions",
+              "SelectedSubCategory.ID": 0,
+              "SelectedSubCategory.Name": null,
+              "SelectedContentType.ID": 468,
+              "SelectedContentType.Name": "Merger documents",
+              "SelectedSubContentType.ID": 473,
+              "SelectedSubContentType.Name": "Letter of issues",
+              "Sort": 0
+            }
+          ]
+        },
+        {
           "date": "2026-08-26",
           "title": "Decision date (extension to 5 November 2026)",
           "summary": null,
@@ -151026,8 +151106,15 @@
       },
       "updates": [
         {
-          "date": "2026-09-15",
+          "date": "2026-10-13",
           "title": "Decision due",
+          "summary": null,
+          "status": null,
+          "documents": []
+        },
+        {
+          "date": "2026-09-15",
+          "title": "Decision due (extension to 13 October 2026)",
           "summary": null,
           "status": null,
           "documents": []
@@ -151238,8 +151325,15 @@
       },
       "updates": [
         {
-          "date": "2026-09-15",
+          "date": "2026-10-13",
           "title": "Decision due",
+          "summary": null,
+          "status": null,
+          "documents": []
+        },
+        {
+          "date": "2026-09-15",
+          "title": "Decision due (extension to 13 October 2026)",
           "summary": null,
           "status": null,
           "documents": []
