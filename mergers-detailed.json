@@ -13435,9 +13435,36 @@
     "date": "6 September 1995",
     "link": "https://www.comcom.govt.nz/case-register/case-register-entries/power-new-zealand-ltd/",
     "details": {
-      "description": "",
-      "case_details": {},
-      "updates": []
+      "description": "100% Shares",
+      "case_details": {
+        "parties": "Power New Zealand Limited; Taupo Electricity Limited",
+        "category": "Merger application",
+        "sub-category": "Clearance",
+        "act/section/part": "Commerce Act 1986 s 66",
+        "industry": "Electricity, gas, water, and waste services",
+        "status": "Closed",
+        "outcome": "Merger cleared",
+        "case_number": "Cleared: 06/09/1995",
+        "date_opened": "25 August 1995",
+        "date_closed": "06 September 1995",
+        "contact_person": ""
+      },
+      "updates": [
+        {
+          "date": "1995-09-06",
+          "title": "Date closed",
+          "summary": "",
+          "status": "Open",
+          "documents": []
+        },
+        {
+          "date": "1995-08-25",
+          "title": "Date opened",
+          "summary": "",
+          "status": "Open",
+          "documents": []
+        }
+      ]
     }
   },
   {
@@ -56378,9 +56405,88 @@
     "date": "15 August 2007",
     "link": "https://www.comcom.govt.nz/case-register/case-register-entries/transpacific-technical-services-nz-limited2/",
     "details": {
-      "description": "",
-      "case_details": {},
-      "updates": []
+      "description": "Assets",
+      "case_details": {
+        "parties": "Transpacific Technical Services (NZ) Limited; Medi-Chem Waste Services Limited (chemical smalls business)",
+        "category": "Merger application",
+        "sub-category": "Clearance",
+        "act/section/part": "Commerce Act 1986 s 66",
+        "industry": "Electricity, gas, water, and waste services",
+        "status": "Closed",
+        "outcome": "Merger cleared",
+        "case_number": "Cleared: 15/08/2007 Decision No: 613",
+        "date_opened": "14 August 2007",
+        "date_closed": "15 August 2007",
+        "contact_person": ""
+      },
+      "updates": [
+        {
+          "date": "2007-08-15",
+          "title": "Decision 613 - Application for Acquisition Clearance - Transpacific Technical Services (NZ) and Medi-Chem Waste Services - 15 August 2007",
+          "summary": null,
+          "status": "Completed",
+          "documents": [
+            {
+              "File.ID": 23545,
+              "File.Title": "PUBLIC---Decision-613-Transpacific-Medi-Chem_1.pdf",
+              "File.Name": "PUBLIC-Decision-613-Transpacific-Medi-Chem_1.pdf",
+              "File.URL": "/assets/pdf_file/0029/75386/PUBLIC-Decision-613-Transpacific-Medi-Chem_1.pdf",
+              "File.FileType": "PDF",
+              "File.FileSize": "410 KB",
+              "File.PublishDate": "26 Jul 2013",
+              "SelectedCategory.ID": 493,
+              "SelectedCategory.Name": "Mergers and acquisitions",
+              "SelectedSubCategory.ID": 0,
+              "SelectedSubCategory.Name": null,
+              "SelectedContentType.ID": 459,
+              "SelectedContentType.Name": "Commission determination",
+              "SelectedSubContentType.ID": 470,
+              "SelectedSubContentType.Name": "Determination",
+              "Sort": 0
+            }
+          ]
+        },
+        {
+          "date": "2007-08-15",
+          "title": "Date closed",
+          "summary": null,
+          "status": "Completed",
+          "documents": []
+        },
+        {
+          "date": "2007-08-14",
+          "title": "Date opened",
+          "summary": null,
+          "status": "Completed",
+          "documents": []
+        },
+        {
+          "date": "2007-08-13",
+          "title": "Transpacific Technical Services (NZ) and Medi-Chem Waste Services (Chemical Smalls) - Application for Acquisition Clearance - 13 August 2007 ",
+          "summary": null,
+          "status": "Completed",
+          "documents": [
+            {
+              "File.ID": 23547,
+              "File.Title": "PUBLIC-Transpacific-Medi-Chem-chemical-smalls-Application_1.pdf",
+              "File.Name": "PUBLIC-Transpacific-Medi-Chem-chemical-smalls-Application_1.pdf",
+              "File.URL": "/assets/pdf_file/0031/75388/PUBLIC-Transpacific-Medi-Chem-chemical-smalls-Application_1.pdf",
+              "File.FileType": "PDF",
+              "File.FileSize": "73 KB",
+              "File.PublishDate": "26 Jul 2013",
+              "SelectedCategory.ID": 493,
+              "SelectedCategory.Name": "Mergers and acquisitions",
+              "SelectedSubCategory.ID": 0,
+              "SelectedSubCategory.Name": null,
+              "SelectedContentType.ID": 468,
+              "SelectedContentType.Name": "Merger documents",
+              "SelectedSubContentType.ID": 469,
+              "SelectedSubContentType.Name": "Application",
+              "Sort": 0
+            }
+          ]
+        }
+      ]
     }
   },
   {
