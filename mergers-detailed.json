@@ -26591,8 +26591,61 @@
     "link": "https://www.comcom.govt.nz/case-register/case-register-entries/on-road-new-zealand/",
     "details": {
       "description": "",
-      "case_details": {},
-      "updates": []
+      "case_details": {
+        "parties": "On Road New Zealand; Vehicle Testing New Zealand Limited",
+        "category": "Merger application",
+        "sub-category": "Clearance",
+        "act/section/part": "Commerce Act 1986 s 66",
+        "industry": "Transport, postal, and warehousing",
+        "status": "Closed",
+        "outcome": "Merger cleared",
+        "case_number": "Cleared: 30/08/1999 Decision No: 370",
+        "date_opened": "18 August 1999",
+        "date_closed": "30 August 1999",
+        "contact_person": ""
+      },
+      "updates": [
+        {
+          "date": "1999-08-30",
+          "title": "Decision 370 - Application for Acquistion Clearance - On Road NZ and Vehicle Testing NZ - 30 August 1999",
+          "summary": null,
+          "status": "Completed",
+          "documents": [
+            {
+              "File.ID": 22991,
+              "File.Title": "370.pdf",
+              "File.Name": "370.pdf",
+              "File.URL": "/assets/pdf_file/0021/71553/370.pdf",
+              "File.FileType": "PDF",
+              "File.FileSize": "51 KB",
+              "File.PublishDate": "26 Jul 2013",
+              "SelectedCategory.ID": 493,
+              "SelectedCategory.Name": "Mergers and acquisitions",
+              "SelectedSubCategory.ID": 0,
+              "SelectedSubCategory.Name": null,
+              "SelectedContentType.ID": 459,
+              "SelectedContentType.Name": "Commission determination",
+              "SelectedSubContentType.ID": 470,
+              "SelectedSubContentType.Name": "Determination",
+              "Sort": 0
+            }
+          ]
+        },
+        {
+          "date": "1999-08-30",
+          "title": "Date closed",
+          "summary": null,
+          "status": "Completed",
+          "documents": []
+        },
+        {
+          "date": "1999-08-18",
+          "title": "Date opened",
+          "summary": null,
+          "status": "Completed",
+          "documents": []
+        }
+      ]
     }
   },
   {
