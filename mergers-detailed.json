@@ -31631,7 +31631,64 @@
     "outcome": "Merger cleared",
     "date": "20 December 2000",
     "link": "https://www.comcom.govt.nz/case-register/case-register-entries/paperlinx-limited/",
-    "details": {}
+    "details": {
+      "description": "Shares(58%)",
+      "case_details": {
+        "parties": "Paperlinx Limited; Spicers Paper Limited",
+        "category": "Merger application",
+        "sub-category": "Clearance",
+        "act/section/part": "Commerce Act 1986 s 66",
+        "industry": "Manufacturing",
+        "status": "Closed",
+        "outcome": "Merger cleared",
+        "case_number": "Cleared: 20/12/2000 Decision No: 415",
+        "date_opened": "04 December 2000",
+        "date_closed": "20 December 2000",
+        "contact_person": ""
+      },
+      "updates": [
+        {
+          "date": "2000-12-20",
+          "title": "Decision 415 - Application for Acquisition Clearance - PaperlinX and Spicers Paper - 20 December 2000",
+          "summary": null,
+          "status": "Completed",
+          "documents": [
+            {
+              "File.ID": 23061,
+              "File.Title": "415.pdf",
+              "File.Name": "415.pdf",
+              "File.URL": "/assets/pdf_file/0026/72836/415.pdf",
+              "File.FileType": "PDF",
+              "File.FileSize": "50 KB",
+              "File.PublishDate": "26 Jul 2013",
+              "SelectedCategory.ID": 493,
+              "SelectedCategory.Name": "Mergers and acquisitions",
+              "SelectedSubCategory.ID": 0,
+              "SelectedSubCategory.Name": null,
+              "SelectedContentType.ID": 459,
+              "SelectedContentType.Name": "Commission determination",
+              "SelectedSubContentType.ID": 470,
+              "SelectedSubContentType.Name": "Determination",
+              "Sort": 0
+            }
+          ]
+        },
+        {
+          "date": "2000-12-20",
+          "title": "Date closed",
+          "summary": null,
+          "status": "Completed",
+          "documents": []
+        },
+        {
+          "date": "2000-12-04",
+          "title": "Date opened",
+          "summary": null,
+          "status": "Completed",
+          "documents": []
+        }
+      ]
+    }
   },
   {
     "name": "Paperlinx Limited; Spicers Paper Limited",
