@@ -38210,9 +38210,62 @@
     "date": "14 August 2002",
     "link": "https://www.comcom.govt.nz/case-register/case-register-entries/fletcher-challenge-forests/",
     "details": {
-      "description": "",
-      "case_details": {},
-      "updates": []
+      "description": "Assets",
+      "case_details": {
+        "parties": "Fletcher Challenge Forests; Central North Island Forest Partnership",
+        "category": "Merger application",
+        "sub-category": "Clearance",
+        "act/section/part": "Commerce Act 1986 s 66",
+        "industry": "Agriculture, forestry, and fishing",
+        "status": "Closed",
+        "outcome": "Merger cleared",
+        "case_number": "Decision No. 468",
+        "date_opened": "08 July 2002",
+        "date_closed": "14 August 2002",
+        "contact_person": ""
+      },
+      "updates": [
+        {
+          "date": "2002-08-14",
+          "title": "Decision 468 - Application for Acquisition Clearance - Fletcher Challenge Forests and Central North Island Forest Partnerhsip - 14 August 2002",
+          "summary": null,
+          "status": "Completed",
+          "documents": [
+            {
+              "File.ID": 23145,
+              "File.Title": "Decision-468.pdf",
+              "File.Name": "Decision-468.pdf",
+              "File.URL": "/assets/pdf_file/0020/73271/Decision-468.pdf",
+              "File.FileType": "PDF",
+              "File.FileSize": "408 KB",
+              "File.PublishDate": "26 Jul 2013",
+              "SelectedCategory.ID": 493,
+              "SelectedCategory.Name": "Mergers and acquisitions",
+              "SelectedSubCategory.ID": 0,
+              "SelectedSubCategory.Name": null,
+              "SelectedContentType.ID": 459,
+              "SelectedContentType.Name": "Commission determination",
+              "SelectedSubContentType.ID": 470,
+              "SelectedSubContentType.Name": "Determination",
+              "Sort": 0
+            }
+          ]
+        },
+        {
+          "date": "2002-08-14",
+          "title": "Date closed",
+          "summary": null,
+          "status": "Completed",
+          "documents": []
+        },
+        {
+          "date": "2002-07-08",
+          "title": "Date opened",
+          "summary": null,
+          "status": "Completed",
+          "documents": []
+        }
+      ]
     }
   },
   {
@@ -151449,6 +151502,224 @@
               "File.FileType": "PDF",
               "File.FileSize": "625 KB",
               "File.PublishDate": "01 Jul 2026",
+              "SelectedCategory.ID": 493,
+              "SelectedCategory.Name": "Mergers and acquisitions",
+              "SelectedSubCategory.ID": 0,
+              "SelectedSubCategory.Name": null,
+              "SelectedContentType.ID": 468,
+              "SelectedContentType.Name": "Merger documents",
+              "SelectedSubContentType.ID": 469,
+              "SelectedSubContentType.Name": "Application",
+              "Sort": 0
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "name": "RANCo, Two Degrees Mobile Limited, Two Degrees Networks Limited and One New Zealand Group Limited",
+    "status": "Open",
+    "outcome": null,
+    "date": null,
+    "link": "https://www.comcom.govt.nz/case-register/case-register-entries/ranco-two-degrees-mobile-limited-two-degrees-networks-limited-and-one-new-zealand-group-limited/",
+    "details": {
+      "description": "",
+      "case_details": {
+        "parties": "RANCo, Two Degrees Mobile Limited, Two Degrees Networks Limited and One New Zealand Group Limited",
+        "category": "Merger application",
+        "sub-category": "Clearance",
+        "act/section/part": "Commerce Act 1986 s 66",
+        "industry": "Telecommunications",
+        "status": "Open",
+        "outcome": "",
+        "case_number": "PRJ0049284",
+        "date_opened": "25 September 2026",
+        "date_closed": "",
+        "contact_person": "Mergers team, registrar@comcom.govt.nz"
+      },
+      "updates": [
+        {
+          "date": "2026-11-23",
+          "title": "Decision date",
+          "summary": null,
+          "status": null,
+          "documents": []
+        },
+        {
+          "date": "2026-10-15",
+          "title": "Submissions on Statement of Preliminary Issues",
+          "summary": null,
+          "status": null,
+          "documents": []
+        },
+        {
+          "date": "2026-10-01",
+          "title": "Statement of Preliminary Issues published",
+          "summary": null,
+          "status": null,
+          "documents": [
+            {
+              "File.ID": 30766,
+              "File.Title": "RANCo – 2degreesOne NZ – Statement of Preliminary Issues – 1 October 2026",
+              "File.Name": "RANCo-2degreesOne-NZ-Statement-of-Preliminary-Issues-1-October-2026.pdf",
+              "File.URL": "/assets/Documents/timeline/RANCo-2degreesOne-NZ-Statement-of-Preliminary-Issues-1-October-2026.pdf",
+              "File.FileType": "PDF",
+              "File.FileSize": "384 KB",
+              "File.PublishDate": "01 Oct 2026",
+              "SelectedCategory.ID": 493,
+              "SelectedCategory.Name": "Mergers and acquisitions",
+              "SelectedSubCategory.ID": 0,
+              "SelectedSubCategory.Name": null,
+              "SelectedContentType.ID": 468,
+              "SelectedContentType.Name": "Merger documents",
+              "SelectedSubContentType.ID": 472,
+              "SelectedSubContentType.Name": "Statement of preliminary issues",
+              "Sort": 0
+            }
+          ]
+        },
+        {
+          "date": "2026-09-25",
+          "title": "Date opened",
+          "summary": null,
+          "status": "Completed",
+          "documents": [
+            {
+              "File.ID": 30765,
+              "File.Title": "RANCo JV – Clearance application – 25 September 2026",
+              "File.Name": "RANCo-JV-Clearance-application-25-September-2026.pdf",
+              "File.URL": "/assets/Documents/timeline/RANCo-JV-Clearance-application-25-September-2026.pdf",
+              "File.FileType": "PDF",
+              "File.FileSize": "1.9 MB",
+              "File.PublishDate": "01 Oct 2026",
+              "SelectedCategory.ID": 493,
+              "SelectedCategory.Name": "Mergers and acquisitions",
+              "SelectedSubCategory.ID": 0,
+              "SelectedSubCategory.Name": null,
+              "SelectedContentType.ID": 468,
+              "SelectedContentType.Name": "Merger documents",
+              "SelectedSubContentType.ID": 469,
+              "SelectedSubContentType.Name": "Application",
+              "Sort": 0
+            },
+            {
+              "File.ID": 30764,
+              "File.Title": "RANCo JV – Clearance application (Attachment – NERA report) – 23 September 2026",
+              "File.Name": "RANCo-JV-Clearance-application-Attachment-NERA-report-23-September-2026.pdf",
+              "File.URL": "/assets/Documents/timeline/RANCo-JV-Clearance-application-Attachment-NERA-report-23-September-2026.pdf",
+              "File.FileType": "PDF",
+              "File.FileSize": "162 KB",
+              "File.PublishDate": "01 Oct 2026",
+              "SelectedCategory.ID": 493,
+              "SelectedCategory.Name": "Mergers and acquisitions",
+              "SelectedSubCategory.ID": 0,
+              "SelectedSubCategory.Name": null,
+              "SelectedContentType.ID": 468,
+              "SelectedContentType.Name": "Merger documents",
+              "SelectedSubContentType.ID": 469,
+              "SelectedSubContentType.Name": "Application",
+              "Sort": 0
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "name": "RANCo, Two Degrees Mobile Limited, Two Degrees Networks Limited and One New Zealand Group Limited",
+    "status": "Open",
+    "outcome": null,
+    "date": null,
+    "link": "https://www.comcom.govt.nz/case-register/case-register-entries/ranco-two-degrees-mobile-limited-two-degrees-networks-limited-and-one-new-zealand-group-limited/",
+    "details": {
+      "description": "",
+      "case_details": {
+        "parties": "RANCo, Two Degrees Mobile Limited, Two Degrees Networks Limited and One New Zealand Group Limited",
+        "category": "Merger application",
+        "sub-category": "Clearance",
+        "act/section/part": "Commerce Act 1986 s 66",
+        "industry": "Telecommunications",
+        "status": "Open",
+        "outcome": "",
+        "case_number": "PRJ0049284",
+        "date_opened": "25 September 2026",
+        "date_closed": "",
+        "contact_person": "Mergers team, registrar@comcom.govt.nz"
+      },
+      "updates": [
+        {
+          "date": "2026-11-23",
+          "title": "Decision date",
+          "summary": null,
+          "status": null,
+          "documents": []
+        },
+        {
+          "date": "2026-10-15",
+          "title": "Submissions on Statement of Preliminary Issues",
+          "summary": null,
+          "status": null,
+          "documents": []
+        },
+        {
+          "date": "2026-10-01",
+          "title": "Statement of Preliminary Issues published",
+          "summary": null,
+          "status": null,
+          "documents": [
+            {
+              "File.ID": 30766,
+              "File.Title": "RANCo – 2degreesOne NZ – Statement of Preliminary Issues – 1 October 2026",
+              "File.Name": "RANCo-2degreesOne-NZ-Statement-of-Preliminary-Issues-1-October-2026.pdf",
+              "File.URL": "/assets/Documents/timeline/RANCo-2degreesOne-NZ-Statement-of-Preliminary-Issues-1-October-2026.pdf",
+              "File.FileType": "PDF",
+              "File.FileSize": "384 KB",
+              "File.PublishDate": "01 Oct 2026",
+              "SelectedCategory.ID": 493,
+              "SelectedCategory.Name": "Mergers and acquisitions",
+              "SelectedSubCategory.ID": 0,
+              "SelectedSubCategory.Name": null,
+              "SelectedContentType.ID": 468,
+              "SelectedContentType.Name": "Merger documents",
+              "SelectedSubContentType.ID": 472,
+              "SelectedSubContentType.Name": "Statement of preliminary issues",
+              "Sort": 0
+            }
+          ]
+        },
+        {
+          "date": "2026-09-25",
+          "title": "Date opened",
+          "summary": null,
+          "status": "Completed",
+          "documents": [
+            {
+              "File.ID": 30765,
+              "File.Title": "RANCo JV – Clearance application – 25 September 2026",
+              "File.Name": "RANCo-JV-Clearance-application-25-September-2026.pdf",
+              "File.URL": "/assets/Documents/timeline/RANCo-JV-Clearance-application-25-September-2026.pdf",
+              "File.FileType": "PDF",
+              "File.FileSize": "1.9 MB",
+              "File.PublishDate": "01 Oct 2026",
+              "SelectedCategory.ID": 493,
+              "SelectedCategory.Name": "Mergers and acquisitions",
+              "SelectedSubCategory.ID": 0,
+              "SelectedSubCategory.Name": null,
+              "SelectedContentType.ID": 468,
+              "SelectedContentType.Name": "Merger documents",
+              "SelectedSubContentType.ID": 469,
+              "SelectedSubContentType.Name": "Application",
+              "Sort": 0
+            },
+            {
+              "File.ID": 30764,
+              "File.Title": "RANCo JV – Clearance application (Attachment – NERA report) – 23 September 2026",
+              "File.Name": "RANCo-JV-Clearance-application-Attachment-NERA-report-23-September-2026.pdf",
+              "File.URL": "/assets/Documents/timeline/RANCo-JV-Clearance-application-Attachment-NERA-report-23-September-2026.pdf",
+              "File.FileType": "PDF",
+              "File.FileSize": "162 KB",
+              "File.PublishDate": "01 Oct 2026",
               "SelectedCategory.ID": 493,
               "SelectedCategory.Name": "Mergers and acquisitions",
               "SelectedSubCategory.ID": 0,
