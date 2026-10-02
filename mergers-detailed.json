@@ -103593,19 +103593,7 @@
     "link": "https://www.comcom.govt.nz/case-register/case-register-entries/trade-me-limited/",
     "details": {
       "description": "The Commerce Commission declined to grant clearance to Trade Me to acquire Motorcentral (Limelight Software Limited).",
-      "case_details": {
-        "parties": "Trade Me Limited; Limelight Software Limited",
-        "category": "Merger application",
-        "sub-category": "Clearance",
-        "act/section/part": "Commerce Act 1986 s 66",
-        "industry": "Other",
-        "status": "Closed",
-        "outcome": "Merger declined",
-        "case_number": "[2018] NZCC 1",
-        "date_opened": "11 July 2017",
-        "date_closed": "08 March 2018",
-        "contact_person": ""
-      },
+      "case_details": {},
       "updates": [
         {
           "date": "2018-03-08",
