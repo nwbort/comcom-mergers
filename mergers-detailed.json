@@ -148201,10 +148201,29 @@
       "updates": [
         {
           "date": "2026-06-30",
-          "title": "Date closed",
+          "title": "Date closed – Merger cleared",
           "summary": null,
           "status": "Completed",
-          "documents": []
+          "documents": [
+            {
+              "File.ID": 30787,
+              "File.Title": "[2026] NZCC 25 Godfrey Hirst and Bremworth – Clearance determination – 30 June 2026",
+              "File.Name": "2026-NZCC-25-Godfrey-Hirst-and-Bremworth-Clearance-determination-30-June-2026.pdf",
+              "File.URL": "/assets/Documents/timeline/2026-NZCC-25-Godfrey-Hirst-and-Bremworth-Clearance-determination-30-June-2026.pdf",
+              "File.FileType": "PDF",
+              "File.FileSize": "999 KB",
+              "File.PublishDate": "08 Oct 2026",
+              "SelectedCategory.ID": 493,
+              "SelectedCategory.Name": "Mergers and acquisitions",
+              "SelectedSubCategory.ID": 0,
+              "SelectedSubCategory.Name": null,
+              "SelectedContentType.ID": 468,
+              "SelectedContentType.Name": "Merger documents",
+              "SelectedSubContentType.ID": 470,
+              "SelectedSubContentType.Name": "Determination",
+              "Sort": 0
+            }
+          ]
         },
         {
           "date": "2026-06-30",
@@ -149092,10 +149111,29 @@
       "updates": [
         {
           "date": "2026-06-30",
-          "title": "Date closed",
+          "title": "Date closed – Merger cleared",
           "summary": null,
           "status": "Completed",
-          "documents": []
+          "documents": [
+            {
+              "File.ID": 30787,
+              "File.Title": "[2026] NZCC 25 Godfrey Hirst and Bremworth – Clearance determination – 30 June 2026",
+              "File.Name": "2026-NZCC-25-Godfrey-Hirst-and-Bremworth-Clearance-determination-30-June-2026.pdf",
+              "File.URL": "/assets/Documents/timeline/2026-NZCC-25-Godfrey-Hirst-and-Bremworth-Clearance-determination-30-June-2026.pdf",
+              "File.FileType": "PDF",
+              "File.FileSize": "999 KB",
+              "File.PublishDate": "08 Oct 2026",
+              "SelectedCategory.ID": 493,
+              "SelectedCategory.Name": "Mergers and acquisitions",
+              "SelectedSubCategory.ID": 0,
+              "SelectedSubCategory.Name": null,
+              "SelectedContentType.ID": 468,
+              "SelectedContentType.Name": "Merger documents",
+              "SelectedSubContentType.ID": 470,
+              "SelectedSubContentType.Name": "Determination",
+              "Sort": 0
+            }
+          ]
         },
         {
           "date": "2026-06-30",
