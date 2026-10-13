@@ -85816,9 +85816,114 @@
     "date": "19 October 2016",
     "link": "https://www.comcom.govt.nz/case-register/case-register-entries/wallace-group-limited-partnership/",
     "details": {
-      "description": "",
-      "case_details": {},
-      "updates": []
+      "description": "The Commerce Commission granted clearance to the Wallace Group Limited Partnership to acquire up to 100% of the assets and business of Wallace Corporation Limited, Farm Brands Limited (and related companies) and Keep It Clean Limited.",
+      "case_details": {
+        "parties": "Wallace Group Limited Partnership; Wallace Corporation Limited, Farm Brands Limited and Keep It Clean Limited",
+        "category": "Merger application",
+        "sub-category": "Clearance",
+        "act/section/part": "Commerce Act 1986 s 66",
+        "industry": "Agriculture, forestry, and fishing",
+        "status": "Closed",
+        "outcome": "Merger cleared",
+        "case_number": "[2016] NZCC 21",
+        "date_opened": "26 July 2016",
+        "date_closed": "19 October 2016",
+        "contact_person": ""
+      },
+      "updates": [
+        {
+          "date": "2016-11-03",
+          "title": "[2016] NZCC 21 Wallace Group Ltd Partnership and Wallace Corporation Ltd, Farm Brands Ltd, Keep It Clean Ltd – clearance determination – 19 October 2016",
+          "summary": "",
+          "status": "Open",
+          "documents": [
+            {
+              "File.ID": 24313,
+              "File.Title": "2016-NZCC-21-Wallace-Group-Ltd-Partnership-and-Wallace-Corporation-Ltd-Farm-Brands-Ltd-Keep-It-Clean-Ltd-clearance-determination-19-October-2016.PDF",
+              "File.Name": "2016-NZCC-21-Wallace-Group-Ltd-Partnership-and-Wallace-Corporation-Ltd-Farm-Brands-Ltd-Keep-It-Clean-Ltd-clearance-determination-19-October-2016.PDF",
+              "File.URL": "/assets/pdf_file/0030/76944/2016-NZCC-21-Wallace-Group-Ltd-Partnership-and-Wallace-Corporation-Ltd-Farm-Brands-Ltd-Keep-It-Clean-Ltd-clearance-determination-19-October-2016.PDF",
+              "File.FileType": "PDF",
+              "File.FileSize": "17 MB",
+              "File.PublishDate": "03 Nov 2016",
+              "SelectedCategory.ID": 493,
+              "SelectedCategory.Name": "Mergers and acquisitions",
+              "SelectedSubCategory.ID": 0,
+              "SelectedSubCategory.Name": null,
+              "SelectedContentType.ID": 459,
+              "SelectedContentType.Name": "Commission determination",
+              "SelectedSubContentType.ID": 470,
+              "SelectedSubContentType.Name": "Determination",
+              "Sort": 0
+            }
+          ]
+        },
+        {
+          "date": "2016-10-19",
+          "title": "Date closed",
+          "summary": "",
+          "status": "Open",
+          "documents": []
+        },
+        {
+          "date": "2016-08-09",
+          "title": "Wallace Group Ltd Partnership and Wallace Corporation Ltd, Farm Brands Ltd and Keep It Clean Ltd – Statement of Preliminary Issues – 9 August 2016",
+          "summary": "",
+          "status": "Open",
+          "documents": [
+            {
+              "File.ID": 24311,
+              "File.Title": "Wallace-Group-Ltd-Partnership-and-Wallace-Corporation-Ltd-Farm-Brands-Ltd-and-Keep-It-Clean-Ltd-SOPI-9-August-2016.PDF",
+              "File.Name": "Wallace-Group-Ltd-Partnership-and-Wallace-Corporation-Ltd-Farm-Brands-Ltd-and-Keep-It-Clean-Ltd-SOPI-9-August-2016.PDF",
+              "File.URL": "/assets/pdf_file/0028/76942/Wallace-Group-Ltd-Partnership-and-Wallace-Corporation-Ltd-Farm-Brands-Ltd-and-Keep-It-Clean-Ltd-SOPI-9-August-2016.PDF",
+              "File.FileType": "PDF",
+              "File.FileSize": "128 KB",
+              "File.PublishDate": "09 Aug 2016",
+              "SelectedCategory.ID": 493,
+              "SelectedCategory.Name": "Mergers and acquisitions",
+              "SelectedSubCategory.ID": 0,
+              "SelectedSubCategory.Name": null,
+              "SelectedContentType.ID": 468,
+              "SelectedContentType.Name": "Merger documents",
+              "SelectedSubContentType.ID": 472,
+              "SelectedSubContentType.Name": "Statement of preliminary issues",
+              "Sort": 0
+            }
+          ]
+        },
+        {
+          "date": "2016-07-29",
+          "title": "Wallace Group Limited Partnership and Wallace Corporation Limited, Farm Brands Limited and Keep It Clean Limited – Clearance application – 26 July 2016",
+          "summary": "",
+          "status": "Open",
+          "documents": [
+            {
+              "File.ID": 24309,
+              "File.Title": "Wallace-Group-Limited-Partnership-and-Wallace-Corporation-Limited-Farm-Brands-Limited-and-Keep-It-Clean-Limited-Clearance-application-26-July-2016.pdf",
+              "File.Name": "Wallace-Group-Limited-Partnership-and-Wallace-Corporation-Limited-Farm-Brands-Limited-and-Keep-It-Clean-Limited-Clearance-application-26-July-2016.pdf",
+              "File.URL": "/assets/pdf_file/0026/76940/Wallace-Group-Limited-Partnership-and-Wallace-Corporation-Limited-Farm-Brands-Limited-and-Keep-It-Clean-Limited-Clearance-application-26-July-2016.pdf",
+              "File.FileType": "PDF",
+              "File.FileSize": "5.2 MB",
+              "File.PublishDate": "29 Jul 2016",
+              "SelectedCategory.ID": 493,
+              "SelectedCategory.Name": "Mergers and acquisitions",
+              "SelectedSubCategory.ID": 0,
+              "SelectedSubCategory.Name": null,
+              "SelectedContentType.ID": 468,
+              "SelectedContentType.Name": "Merger documents",
+              "SelectedSubContentType.ID": 469,
+              "SelectedSubContentType.Name": "Application",
+              "Sort": 0
+            }
+          ]
+        },
+        {
+          "date": "2016-07-26",
+          "title": "Date opened",
+          "summary": "",
+          "status": "Open",
+          "documents": []
+        }
+      ]
     }
   },
   {
@@ -150402,7 +150507,7 @@
       "updates": [
         {
           "date": "2026-11-05",
-          "title": "Decision due by",
+          "title": "Decision due",
           "summary": null,
           "status": null,
           "documents": []
@@ -150411,8 +150516,27 @@
           "date": "2026-10-05",
           "title": "Cross-submissions on the Statement of Issues due ",
           "summary": null,
-          "status": null,
-          "documents": []
+          "status": "Completed",
+          "documents": [
+            {
+              "File.ID": 30789,
+              "File.Title": "J&P Turner – Cross submission on Statement of Issues – 5 October 2026",
+              "File.Name": "JP-Turner-Cross-submission-on-Statement-of-Issues-5-October-2026.pdf",
+              "File.URL": "/assets/Documents/timeline/JP-Turner-Cross-submission-on-Statement-of-Issues-5-October-2026.pdf",
+              "File.FileType": "PDF",
+              "File.FileSize": "102 KB",
+              "File.PublishDate": "13 Oct 2026",
+              "SelectedCategory.ID": 493,
+              "SelectedCategory.Name": "Mergers and acquisitions",
+              "SelectedSubCategory.ID": 0,
+              "SelectedSubCategory.Name": null,
+              "SelectedContentType.ID": 468,
+              "SelectedContentType.Name": "Merger documents",
+              "SelectedSubContentType.ID": 471,
+              "SelectedSubContentType.Name": "Submission",
+              "Sort": 0
+            }
+          ]
         },
         {
           "date": "2026-09-23",
@@ -150956,7 +151080,7 @@
       "updates": [
         {
           "date": "2026-11-05",
-          "title": "Decision due by",
+          "title": "Decision due",
           "summary": null,
           "status": null,
           "documents": []
@@ -150965,8 +151089,27 @@
           "date": "2026-10-05",
           "title": "Cross-submissions on the Statement of Issues due ",
           "summary": null,
-          "status": null,
-          "documents": []
+          "status": "Completed",
+          "documents": [
+            {
+              "File.ID": 30789,
+              "File.Title": "J&P Turner – Cross submission on Statement of Issues – 5 October 2026",
+              "File.Name": "JP-Turner-Cross-submission-on-Statement-of-Issues-5-October-2026.pdf",
+              "File.URL": "/assets/Documents/timeline/JP-Turner-Cross-submission-on-Statement-of-Issues-5-October-2026.pdf",
+              "File.FileType": "PDF",
+              "File.FileSize": "102 KB",
+              "File.PublishDate": "13 Oct 2026",
+              "SelectedCategory.ID": 493,
+              "SelectedCategory.Name": "Mergers and acquisitions",
+              "SelectedSubCategory.ID": 0,
+              "SelectedSubCategory.Name": null,
+              "SelectedContentType.ID": 468,
+              "SelectedContentType.Name": "Merger documents",
+              "SelectedSubContentType.ID": 471,
+              "SelectedSubContentType.Name": "Submission",
+              "Sort": 0
+            }
+          ]
         },
         {
           "date": "2026-09-23",
@@ -151727,8 +151870,15 @@
       },
       "updates": [
         {
-          "date": "2026-10-13",
+          "date": "2026-11-03",
           "title": "Decision due",
+          "summary": null,
+          "status": null,
+          "documents": []
+        },
+        {
+          "date": "2026-10-13",
+          "title": "Decision due (extension to 3 November 2026)",
           "summary": null,
           "status": null,
           "documents": []
@@ -151964,8 +152114,15 @@
       },
       "updates": [
         {
-          "date": "2026-10-13",
+          "date": "2026-11-03",
           "title": "Decision due",
+          "summary": null,
+          "status": null,
+          "documents": []
+        },
+        {
+          "date": "2026-10-13",
+          "title": "Decision due (extension to 3 November 2026)",
           "summary": null,
           "status": null,
           "documents": []
