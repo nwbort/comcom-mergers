@@ -152002,7 +152002,7 @@
               "SelectedContentType.Name": "Merger documents",
               "SelectedSubContentType.ID": 471,
               "SelectedSubContentType.Name": "Submission",
-              "Sort": 10
+              "Sort": 11
             },
             {
               "File.ID": 30817,
@@ -152020,7 +152020,7 @@
               "SelectedContentType.Name": "Merger documents",
               "SelectedSubContentType.ID": 471,
               "SelectedSubContentType.Name": "Submission",
-              "Sort": 11
+              "Sort": 12
             },
             {
               "File.ID": 30828,
@@ -152093,6 +152093,24 @@
               "SelectedSubContentType.ID": 471,
               "SelectedSubContentType.Name": "Submission",
               "Sort": 9
+            },
+            {
+              "File.ID": 30853,
+              "File.Title": "Tū Ātea – Submission in response to Statement of Preliminary Issues – 15 October 2026",
+              "File.Name": "Tu-Atea-Submission-in-response-to-Statement-of-Preliminary-Issues-15-October-2026.pdf",
+              "File.URL": "/assets/Documents/timeline/Tu-Atea-Submission-in-response-to-Statement-of-Preliminary-Issues-15-October-2026.pdf",
+              "File.FileType": "PDF",
+              "File.FileSize": "672 KB",
+              "File.PublishDate": "29 Oct 2026",
+              "SelectedCategory.ID": 493,
+              "SelectedCategory.Name": "Mergers and acquisitions",
+              "SelectedSubCategory.ID": 0,
+              "SelectedSubCategory.Name": null,
+              "SelectedContentType.ID": 468,
+              "SelectedContentType.Name": "Merger documents",
+              "SelectedSubContentType.ID": 471,
+              "SelectedSubContentType.Name": "Submission",
+              "Sort": 10
             }
           ]
         },
@@ -152310,7 +152328,7 @@
               "SelectedContentType.Name": "Merger documents",
               "SelectedSubContentType.ID": 471,
               "SelectedSubContentType.Name": "Submission",
-              "Sort": 10
+              "Sort": 11
             },
             {
               "File.ID": 30817,
@@ -152328,7 +152346,7 @@
               "SelectedContentType.Name": "Merger documents",
               "SelectedSubContentType.ID": 471,
               "SelectedSubContentType.Name": "Submission",
-              "Sort": 11
+              "Sort": 12
             },
             {
               "File.ID": 30828,
@@ -152401,6 +152419,24 @@
               "SelectedSubContentType.ID": 471,
               "SelectedSubContentType.Name": "Submission",
               "Sort": 9
+            },
+            {
+              "File.ID": 30853,
+              "File.Title": "Tū Ātea – Submission in response to Statement of Preliminary Issues – 15 October 2026",
+              "File.Name": "Tu-Atea-Submission-in-response-to-Statement-of-Preliminary-Issues-15-October-2026.pdf",
+              "File.URL": "/assets/Documents/timeline/Tu-Atea-Submission-in-response-to-Statement-of-Preliminary-Issues-15-October-2026.pdf",
+              "File.FileType": "PDF",
+              "File.FileSize": "672 KB",
+              "File.PublishDate": "29 Oct 2026",
+              "SelectedCategory.ID": 493,
+              "SelectedCategory.Name": "Mergers and acquisitions",
+              "SelectedSubCategory.ID": 0,
+              "SelectedSubCategory.Name": null,
+              "SelectedContentType.ID": 468,
+              "SelectedContentType.Name": "Merger documents",
+              "SelectedSubContentType.ID": 471,
+              "SelectedSubContentType.Name": "Submission",
+              "Sort": 10
             }
           ]
         },
