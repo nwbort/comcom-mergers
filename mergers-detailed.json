@@ -152536,10 +152536,24 @@
       },
       "updates": [
         {
-          "date": "2026-11-03",
+          "date": "2026-11-27",
           "title": "Decision due",
           "summary": null,
           "status": null,
+          "documents": []
+        },
+        {
+          "date": "2026-11-03",
+          "title": "Decision due (extension to 27 November 2026)",
+          "summary": null,
+          "status": "Completed",
+          "documents": []
+        },
+        {
+          "date": "2026-10-30",
+          "title": "Administrative clock stopped (per Mergers and Acquisitions Guidelines at [6.32]) while the Commission awaits information from the applicant",
+          "summary": null,
+          "status": "Completed",
           "documents": []
         },
         {
@@ -152780,10 +152794,24 @@
       },
       "updates": [
         {
-          "date": "2026-11-03",
+          "date": "2026-11-27",
           "title": "Decision due",
           "summary": null,
           "status": null,
+          "documents": []
+        },
+        {
+          "date": "2026-11-03",
+          "title": "Decision due (extension to 27 November 2026)",
+          "summary": null,
+          "status": "Completed",
+          "documents": []
+        },
+        {
+          "date": "2026-10-30",
+          "title": "Administrative clock stopped (per Mergers and Acquisitions Guidelines at [6.32]) while the Commission awaits information from the applicant",
+          "summary": null,
+          "status": "Completed",
           "documents": []
         },
         {
