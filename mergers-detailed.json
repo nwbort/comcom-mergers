@@ -152224,6 +152224,188 @@
     }
   },
   {
+    "name": "Partners Group Holdings Limited and Fidelity Life Assurance Company Limited",
+    "status": "Open",
+    "outcome": null,
+    "date": null,
+    "link": "https://www.comcom.govt.nz/case-register/case-register-entries/partners-group-holdings-limited-and-fidelity-life-assurance-company-limited/",
+    "details": {
+      "description": "",
+      "case_details": {
+        "parties": "Partners Group Holdings Limited and Fidelity Life Assurance Company Limited",
+        "category": "Merger application",
+        "sub-category": "Clearance",
+        "act/section/part": "Commerce Act 1986 s 66",
+        "industry": "Financial and insurance services",
+        "status": "Open",
+        "outcome": "",
+        "case_number": "PRJ0049375",
+        "date_opened": "24 November 2026",
+        "date_closed": "",
+        "contact_person": "Mergers team, registrar@comcom.govt.nz"
+      },
+      "updates": [
+        {
+          "date": "2027-02-11",
+          "title": "Decision date",
+          "summary": null,
+          "status": null,
+          "documents": []
+        },
+        {
+          "date": "2026-12-09",
+          "title": "Submissions on Statement of Preliminary Issues",
+          "summary": null,
+          "status": null,
+          "documents": []
+        },
+        {
+          "date": "2026-11-25",
+          "title": "Statement of Preliminary Issues published",
+          "summary": null,
+          "status": null,
+          "documents": [
+            {
+              "File.ID": 30956,
+              "File.Title": "Partners Life and Fidelity Life – Statement of Preliminary Issues – 25 November 2026",
+              "File.Name": "Partners-Life-and-Fidelity-Life-Statement-of-Preliminary-Issues-25-November-2026.pdf",
+              "File.URL": "/assets/Documents/timeline/Partners-Life-and-Fidelity-Life-Statement-of-Preliminary-Issues-25-November-2026.pdf",
+              "File.FileType": "PDF",
+              "File.FileSize": "353 KB",
+              "File.PublishDate": "25 Nov 2026",
+              "SelectedCategory.ID": 493,
+              "SelectedCategory.Name": "Mergers and acquisitions",
+              "SelectedSubCategory.ID": 0,
+              "SelectedSubCategory.Name": null,
+              "SelectedContentType.ID": 468,
+              "SelectedContentType.Name": "Merger documents",
+              "SelectedSubContentType.ID": 472,
+              "SelectedSubContentType.Name": "Statement of preliminary issues",
+              "Sort": 0
+            }
+          ]
+        },
+        {
+          "date": "2026-11-24",
+          "title": "Date opened",
+          "summary": null,
+          "status": "Completed",
+          "documents": [
+            {
+              "File.ID": 30957,
+              "File.Title": "Partners Life and Fidelity Life – Clearance application – 24 November 2026",
+              "File.Name": "Partners-Life-and-Fidelity-Life-Clearance-application-24-November-2026.pdf",
+              "File.URL": "/assets/Documents/timeline/Partners-Life-and-Fidelity-Life-Clearance-application-24-November-2026.pdf",
+              "File.FileType": "PDF",
+              "File.FileSize": "1.1 MB",
+              "File.PublishDate": "25 Nov 2026",
+              "SelectedCategory.ID": 493,
+              "SelectedCategory.Name": "Mergers and acquisitions",
+              "SelectedSubCategory.ID": 0,
+              "SelectedSubCategory.Name": null,
+              "SelectedContentType.ID": 468,
+              "SelectedContentType.Name": "Merger documents",
+              "SelectedSubContentType.ID": 469,
+              "SelectedSubContentType.Name": "Application",
+              "Sort": 0
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "name": "Partners Group Holdings Limited and Fidelity Life Assurance Company Limited",
+    "status": "Open",
+    "outcome": null,
+    "date": null,
+    "link": "https://www.comcom.govt.nz/case-register/case-register-entries/partners-group-holdings-limited-and-fidelity-life-assurance-company-limited/",
+    "details": {
+      "description": "",
+      "case_details": {
+        "parties": "Partners Group Holdings Limited and Fidelity Life Assurance Company Limited",
+        "category": "Merger application",
+        "sub-category": "Clearance",
+        "act/section/part": "Commerce Act 1986 s 66",
+        "industry": "Financial and insurance services",
+        "status": "Open",
+        "outcome": "",
+        "case_number": "PRJ0049375",
+        "date_opened": "24 November 2026",
+        "date_closed": "",
+        "contact_person": "Mergers team, registrar@comcom.govt.nz"
+      },
+      "updates": [
+        {
+          "date": "2027-02-11",
+          "title": "Decision date",
+          "summary": null,
+          "status": null,
+          "documents": []
+        },
+        {
+          "date": "2026-12-09",
+          "title": "Submissions on Statement of Preliminary Issues",
+          "summary": null,
+          "status": null,
+          "documents": []
+        },
+        {
+          "date": "2026-11-25",
+          "title": "Statement of Preliminary Issues published",
+          "summary": null,
+          "status": null,
+          "documents": [
+            {
+              "File.ID": 30956,
+              "File.Title": "Partners Life and Fidelity Life – Statement of Preliminary Issues – 25 November 2026",
+              "File.Name": "Partners-Life-and-Fidelity-Life-Statement-of-Preliminary-Issues-25-November-2026.pdf",
+              "File.URL": "/assets/Documents/timeline/Partners-Life-and-Fidelity-Life-Statement-of-Preliminary-Issues-25-November-2026.pdf",
+              "File.FileType": "PDF",
+              "File.FileSize": "353 KB",
+              "File.PublishDate": "25 Nov 2026",
+              "SelectedCategory.ID": 493,
+              "SelectedCategory.Name": "Mergers and acquisitions",
+              "SelectedSubCategory.ID": 0,
+              "SelectedSubCategory.Name": null,
+              "SelectedContentType.ID": 468,
+              "SelectedContentType.Name": "Merger documents",
+              "SelectedSubContentType.ID": 472,
+              "SelectedSubContentType.Name": "Statement of preliminary issues",
+              "Sort": 0
+            }
+          ]
+        },
+        {
+          "date": "2026-11-24",
+          "title": "Date opened",
+          "summary": null,
+          "status": "Completed",
+          "documents": [
+            {
+              "File.ID": 30957,
+              "File.Title": "Partners Life and Fidelity Life – Clearance application – 24 November 2026",
+              "File.Name": "Partners-Life-and-Fidelity-Life-Clearance-application-24-November-2026.pdf",
+              "File.URL": "/assets/Documents/timeline/Partners-Life-and-Fidelity-Life-Clearance-application-24-November-2026.pdf",
+              "File.FileType": "PDF",
+              "File.FileSize": "1.1 MB",
+              "File.PublishDate": "25 Nov 2026",
+              "SelectedCategory.ID": 493,
+              "SelectedCategory.Name": "Mergers and acquisitions",
+              "SelectedSubCategory.ID": 0,
+              "SelectedSubCategory.Name": null,
+              "SelectedContentType.ID": 468,
+              "SelectedContentType.Name": "Merger documents",
+              "SelectedSubContentType.ID": 469,
+              "SelectedSubContentType.Name": "Application",
+              "Sort": 0
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
     "name": "RANCo, Two Degrees Mobile Limited, Two Degrees Networks Limited and One New Zealand Group Limited",
     "status": "Open",
     "outcome": null,
