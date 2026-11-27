@@ -151050,10 +151050,17 @@
       },
       "updates": [
         {
-          "date": "2026-11-26",
+          "date": "2027-03-15",
           "title": "Decision due",
           "summary": null,
           "status": null,
+          "documents": []
+        },
+        {
+          "date": "2026-11-26",
+          "title": "Decision due (extension to 15 March 2027)",
+          "summary": null,
+          "status": "Completed",
           "documents": []
         },
         {
@@ -151346,6 +151353,24 @@
               "SelectedSubContentType.ID": 471,
               "SelectedSubContentType.Name": "Submission",
               "Sort": 5
+            },
+            {
+              "File.ID": 30962,
+              "File.Title": "Dominion Federation of NZ Chinese Commercial Growers – Submission in response to the Statement of Issues – 23 November 2026",
+              "File.Name": "Dominion-Federation-of-NZ-Chinese-Commercial-Growers-Submission-in-response-to-the-Statement-of-Issues-23-November-2026.pdf",
+              "File.URL": "/assets/Documents/timeline/Dominion-Federation-of-NZ-Chinese-Commercial-Growers-Submission-in-response-to-the-Statement-of-Issues-23-November-2026.pdf",
+              "File.FileType": "PDF",
+              "File.FileSize": "295 KB",
+              "File.PublishDate": "26 Nov 2026",
+              "SelectedCategory.ID": 493,
+              "SelectedCategory.Name": "Mergers and acquisitions",
+              "SelectedSubCategory.ID": 0,
+              "SelectedSubCategory.Name": null,
+              "SelectedContentType.ID": 468,
+              "SelectedContentType.Name": "Merger documents",
+              "SelectedSubContentType.ID": 471,
+              "SelectedSubContentType.Name": "Submission",
+              "Sort": 6
             }
           ]
         },
@@ -151648,10 +151673,17 @@
       },
       "updates": [
         {
-          "date": "2026-11-26",
+          "date": "2027-03-15",
           "title": "Decision due",
           "summary": null,
           "status": null,
+          "documents": []
+        },
+        {
+          "date": "2026-11-26",
+          "title": "Decision due (extension to 15 March 2027)",
+          "summary": null,
+          "status": "Completed",
           "documents": []
         },
         {
@@ -151944,6 +151976,24 @@
               "SelectedSubContentType.ID": 471,
               "SelectedSubContentType.Name": "Submission",
               "Sort": 5
+            },
+            {
+              "File.ID": 30962,
+              "File.Title": "Dominion Federation of NZ Chinese Commercial Growers – Submission in response to the Statement of Issues – 23 November 2026",
+              "File.Name": "Dominion-Federation-of-NZ-Chinese-Commercial-Growers-Submission-in-response-to-the-Statement-of-Issues-23-November-2026.pdf",
+              "File.URL": "/assets/Documents/timeline/Dominion-Federation-of-NZ-Chinese-Commercial-Growers-Submission-in-response-to-the-Statement-of-Issues-23-November-2026.pdf",
+              "File.FileType": "PDF",
+              "File.FileSize": "295 KB",
+              "File.PublishDate": "26 Nov 2026",
+              "SelectedCategory.ID": 493,
+              "SelectedCategory.Name": "Mergers and acquisitions",
+              "SelectedSubCategory.ID": 0,
+              "SelectedSubCategory.Name": null,
+              "SelectedContentType.ID": 468,
+              "SelectedContentType.Name": "Merger documents",
+              "SelectedSubContentType.ID": 471,
+              "SelectedSubContentType.Name": "Submission",
+              "Sort": 6
             }
           ]
         },
